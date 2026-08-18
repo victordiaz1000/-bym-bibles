@@ -1,28 +1,23 @@
 # Bibles françaises en JSON
 
-Versions bibliques françaises **libres de droit**, servies en JSON compatible
-avec l'API getbible.net — un fichier par livre, numéroté dans l'**ordre standard**
-(`1.json` = Genèse, `66.json` = Apocalypse).
+Versions bibliques françaises **libres de droit** ou **librement redistribuables**,
+servies en JSON compatible avec l'API getbible.net — un fichier par livre,
+numéroté dans l'**ordre standard** (`1.json` = Genèse, `66.json` = Apocalypse).
 
-## Ostervald (1744)
+| Version | Dossier | Livres | Licence |
+|---|---|---|---|
+| Bible Ostervald (1744) | [`ostervald/`](ostervald/) | 66 | Domaine public |
+| Sainte Bible néo-Crampon Libre | [`neocrampon/`](neocrampon/) | 66 | CC BY-SA 4.0 |
 
-- **Traduction** : Bible d'Ostervald (révision de la Bible de Genève), domaine public.
-- **Source** : [eBible.org](https://ebible.org/) — module `fra_fob`
-  (`https://ebible.org/Scriptures/fra_fob_usfm.zip`).
-- **Contenu** : 66 livres, 1 189 chapitres, 31 107 versets.
-- **Format** : schéma getbible.net (texte nu), un fichier par livre :
-  `https://raw.githubusercontent.com/victordiaz1000/-bym-bibles/main/{n}.json`
+## Format
 
-### Schéma d'un livre
+Chaque fichier `{n}.json` suit le schéma getbible.net :
 
 ```json
 {
-  "translation": "Ostervald",
-  "abbreviation": "OST",
+  "translation": "…",
+  "abbreviation": "…",
   "lang": "fr",
-  "language": "français",
-  "direction": "LTR",
-  "encoding": "UTF-8",
   "nr": 1,
   "name": "Genèse",
   "chapters": [
@@ -37,12 +32,20 @@ avec l'API getbible.net — un fichier par livre, numéroté dans l'**ordre stan
 }
 ```
 
-### Conversion
+Les versions catholiques (néo-Crampon Libre) sont ramenées au canon de 66 livres :
+les livres et ajouts deutérocanoniques (Tobie, Judith, Sagesse, Siracide, Baruch,
+1-2 Maccabées, les suppléments d'Esther et de Daniel) sont retirés, afin que la
+numérotation des chapitres corresponde au canon protestant / hébraïque de l'application.
+
+## Conversion
 
 Le script `appCodebar/ostervald_to_json.py` du dépôt BYM convertit les fichiers
-USFM source (`fra_fob_usfm.zip`) vers ce JSON. Les notes de bas de page, renvois
-et balises Strong USFM sont retirés pour produire du texte nu.
+USFM source (eBible.org) vers ce JSON. Les notes de bas de page, renvois et
+balises Strong USFM sont retirés pour produire du texte nu.
 
 ## Licence
 
-Texte biblique : **domaine public** (Ostervald 1744, révision eBible.org).
+- **Ostervald** : texte biblique dans le **domaine public** (Ostervald 1744, révision eBible.org).
+- **néo-Crampon Libre** : © 2022 Fraternité de Tibériade, sous licence
+  **Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 (CC BY-SA 4.0)**.
+  Voir [`neocrampon/README.md`](neocrampon/README.md) pour l'attribution et la source.
