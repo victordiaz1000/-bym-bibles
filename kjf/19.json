@@ -4333,21 +4333,27 @@
         },
         {
           "verse": "24",
-          "text": "Pourquoi caches-tu ta face et oublies-tu notre affliction et notre oppression?",
+          "text": "Réveille-toi ! Pourquoi dors-tu, Seigneur ? Réveille-toi ! ne nous repousse pas à jamais !",
           "chapter": "44",
           "name": "Psaumes 44:24"
         },
         {
           "verse": "25",
-          "text": "Car notre âme est courbée jusqu’à la poussière; notre ventre est attaché à la terre.",
+          "text": "Pourquoi caches-tu ta face et oublies-tu notre affliction et notre oppression?",
           "chapter": "44",
           "name": "Psaumes 44:25"
         },
         {
           "verse": "26",
-          "text": "Lève-toi, viens à notre secours, et rachète-nous pour l’amour de tes miséricordes.",
+          "text": "Car notre âme est courbée jusqu’à la poussière; notre ventre est attaché à la terre.",
           "chapter": "44",
           "name": "Psaumes 44:26"
+        },
+        {
+          "verse": "27",
+          "text": "Lève-toi, viens à notre secours, et rachète-nous pour l’amour de tes miséricordes.",
+          "chapter": "44",
+          "name": "Psaumes 44:27"
         }
       ],
       "name": "Psaumes 44"
@@ -5869,13 +5875,13 @@
         },
         {
           "verse": "11",
-          "text": "Qui me mènera dans la ville forte? Qui me conduira jusqu’en Edom?",
+          "text": "Qui me mènera dans la ville forte ? Qui me conduira jusqu’en Edom ?",
           "chapter": "60",
           "name": "Psaumes 60:11"
         },
         {
           "verse": "12",
-          "text": "Ne sera-ce pas toi, ô Dieu, qui nous avais rejetés, et toi, ô Dieu, qui ne sortais plus avec nos armées?",
+          "text": "Ne sera-ce pas toi, ô Dieu, qui nous avais rejetés, et toi, ô Dieu, qui ne sortais plus avec nos armées ?",
           "chapter": "60",
           "name": "Psaumes 60:12"
         },
@@ -6757,7 +6763,7 @@
         },
         {
           "verse": "13",
-          "text": "Ceux qui sont assis à la porte parlent de moi; et je sers de chanson aux ivrognes.",
+          "text": "Ceux qui sont assis à la porte parlent de moi ; et je sers de chanson aux ivrognes.",
           "chapter": "69",
           "name": "Psaumes 69:13"
         },
