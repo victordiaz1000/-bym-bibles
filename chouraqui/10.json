@@ -1,0 +1,4326 @@
+{
+  "translation": "Chouraqui",
+  "abbreviation": "CHO",
+  "lang": "fr",
+  "language": "français",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 10,
+  "name": "2 Samuel",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et c’est après la mort de Shaoul, David retourne après avoir frappé l’‘Amaléqi. David habite à Siqlag, deux jours.",
+          "chapter": "1",
+          "name": "2 Samuel 1:1"
+        },
+        {
+          "verse": "2",
+          "text": "Et c’est le troisième jour, voici un homme vient du camp, d’auprès de Shaoul, ses habits déchirés, de la glèbe sur sa tête. Et c’est à sa venue vers David, il tombe à terre et se prosterne.",
+          "chapter": "1",
+          "name": "2 Samuel 1:2"
+        },
+        {
+          "verse": "3",
+          "text": "David lui dit: «D’où viens-tu?» Il lui dit: «Je me suis échappé du camp d’Israël.»",
+          "chapter": "1",
+          "name": "2 Samuel 1:3"
+        },
+        {
+          "verse": "4",
+          "text": "David lui dit: «Quelle est la parole? Rapporte-la-moi donc!» Il lui dit: «Le peuple s’est enfui de la guerre. Et aussi de multiples, parmi le peuple, sont tombés et sont morts. Et aussi Shaoul et Iehonatân, son fils, sont morts.»",
+          "chapter": "1",
+          "name": "2 Samuel 1:4"
+        },
+        {
+          "verse": "5",
+          "text": "David dit à l’adolescent qui le lui rapportait: «Comment sais-tu que Shaoul est mort avec Iehonatân, son fils?»",
+          "chapter": "1",
+          "name": "2 Samuel 1:5"
+        },
+        {
+          "verse": "6",
+          "text": "L’adolescent qui le lui rapporte dit: «J’ai été appelé, appelé du mont Guilboa‘. Et voici, Shaoul était appuyé sur sa lance; et voici, les chars et les maîtres cavaliers se collaient à lui.",
+          "chapter": "1",
+          "name": "2 Samuel 1:6"
+        },
+        {
+          "verse": "7",
+          "text": "Il a virevolté derrière lui; il m’a vu et a crié vers moi. J’ai dit: ‹ Me voici. ›",
+          "chapter": "1",
+          "name": "2 Samuel 1:7"
+        },
+        {
+          "verse": "8",
+          "text": "Il me dit: ‹ Qui es-tu? › Je lui dis: ‹ Moi-même un ‘Amaléqi. ›",
+          "chapter": "1",
+          "name": "2 Samuel 1:8"
+        },
+        {
+          "verse": "9",
+          "text": "Il me dit: ‹ Tiens-toi donc contre moi et mets-moi à mort, oui, un vertige m’a saisi, bien que tout mon être soit encore en moi! ›",
+          "chapter": "1",
+          "name": "2 Samuel 1:9"
+        },
+        {
+          "verse": "10",
+          "text": "Je me tiens contre lui et je le mets à mort, oui, je savais qu’il ne vivrait pas, après sa chute. J’ai pris le diadème qui était sur sa tête, et la gourmette sur son bras. Je les ai fait venir ici à mon Adôn.»",
+          "chapter": "1",
+          "name": "2 Samuel 1:10"
+        },
+        {
+          "verse": "11",
+          "text": "David saisit ses habits et les déchire, comme aussi tous les hommes qui sont avec lui.",
+          "chapter": "1",
+          "name": "2 Samuel 1:11"
+        },
+        {
+          "verse": "12",
+          "text": "Ils se lamentent, pleurent, jeûnent jusqu’au soir pour Shaoul et Iehonatân, son fils, pour le peuple de IHVH-Adonaï et pour la maison d’Israël: oui, ils étaient tombés par l’épée.",
+          "chapter": "1",
+          "name": "2 Samuel 1:12"
+        },
+        {
+          "verse": "13",
+          "text": "David dit à l’adolescent qui le lui avait rapporté: «D’où es-tu?» Il dit: «Le fils d’un métèque d’‘Amaléq, moi-même.»",
+          "chapter": "1",
+          "name": "2 Samuel 1:13"
+        },
+        {
+          "verse": "14",
+          "text": "David lui dit: «Quoi! tu n’as pas frémi d’envoyer ta main pour détruire le messie de IHVH-Adonaï!»",
+          "chapter": "1",
+          "name": "2 Samuel 1:14"
+        },
+        {
+          "verse": "15",
+          "text": "David crie vers un des adolescents et dit: «Avance! Abats-le!» Il le frappe et il meurt.",
+          "chapter": "1",
+          "name": "2 Samuel 1:15"
+        },
+        {
+          "verse": "16",
+          "text": "David lui dit: «Ton sang est sur ta tête. Oui, ta bouche a répondu contre toi pour dire: ‹ Moi-même j’ai mis à mort le messie de IHVH-Adonaï ›.»",
+          "chapter": "1",
+          "name": "2 Samuel 1:16"
+        },
+        {
+          "verse": "17",
+          "text": "David se lamente, en cette élégie, sur Shaoul et sur Iehonatân son fils.",
+          "chapter": "1",
+          "name": "2 Samuel 1:17"
+        },
+        {
+          "verse": "18",
+          "text": "Il le dit pour apprendre l’Arc aux Benéi Iehouda. Voici, c’est écrit sur l’Acte du Droiturier.",
+          "chapter": "1",
+          "name": "2 Samuel 1:18"
+        },
+        {
+          "verse": "19",
+          "text": "«La gazelle, Israël, sur tes tertres est victime. Comment sont-ils tombés, les héros?",
+          "chapter": "1",
+          "name": "2 Samuel 1:19"
+        },
+        {
+          "verse": "20",
+          "text": "Ne le rapportez pas à Gat, ne l’annoncez pas dans les allées d’Ashqelôn, qu’elles ne se réjouissent pas, les filles des Pelishtîm, qu’elles n’exultent pas, les filles des incirconcis!",
+          "chapter": "1",
+          "name": "2 Samuel 1:20"
+        },
+        {
+          "verse": "21",
+          "text": "Monts de Guilboa‘, que nulle rosée, nulle pluie ne soit sur vous, ô champ des prélèvements! Oui, là, il s’est maculé, le bouclier des héros,",
+          "chapter": "1",
+          "name": "2 Samuel 1:21"
+        },
+        {
+          "verse": "22",
+          "text": "le bouclier de Shaoul, non pas messié d’huile mais du sang des victimes, de la graisse des héros! L’arc de Iehonatân jamais ne reculait; l’épée de Shaoul ne retournait pas à vide!",
+          "chapter": "1",
+          "name": "2 Samuel 1:22"
+        },
+        {
+          "verse": "23",
+          "text": "Shaoul et Iehonatân, aimés et exquis en leur vie, ne sont pas séparés en leur mort, plus légers que vautours, plus puissants que lions!",
+          "chapter": "1",
+          "name": "2 Samuel 1:23"
+        },
+        {
+          "verse": "24",
+          "text": "Filles d’Israël, pleurez Shaoul! Il vous revêtait d’écarlate avec raffinements, il rehaussait vos vêtements de parures d’or.",
+          "chapter": "1",
+          "name": "2 Samuel 1:24"
+        },
+        {
+          "verse": "25",
+          "text": "Comment sont-ils tombés les héros, au milieu de la guerre! Victime, Iehonatân, sur tes tertres!",
+          "chapter": "1",
+          "name": "2 Samuel 1:25"
+        },
+        {
+          "verse": "26",
+          "text": "Je suis en détresse pour toi, mon frère Iehonatân, si exquis pour moi! Ton amour m’était merveilleux plus qu’amour de femmes!",
+          "chapter": "1",
+          "name": "2 Samuel 1:26"
+        },
+        {
+          "verse": "27",
+          "text": "Comment sont-ils tombés, les héros, ont-ils péri, les engins de guerre?»",
+          "chapter": "1",
+          "name": "2 Samuel 1:27"
+        }
+      ],
+      "name": "2 Samuel 1"
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et c’est après quoi, David questionne IHVH-Adonaï pour dire: «Monterai-je dans l’une des villes de Iehouda?» IHVH-Adonaï lui dit: «Monte.» David dit: «Où monterai-je?» Il dit: «À Hèbrôn.»",
+          "chapter": "2",
+          "name": "2 Samuel 2:1"
+        },
+        {
+          "verse": "2",
+          "text": "David monte là et ses deux femmes aussi, Ahino‘âm, l’Izre‘élite, et Abigaïl, la femme de Nabal, le Karmeli.",
+          "chapter": "2",
+          "name": "2 Samuel 2:2"
+        },
+        {
+          "verse": "3",
+          "text": "Ses hommes sont avec lui. David les fait monter, chaque homme avec sa maison. Ils habitent les villes de Hèbrôn.",
+          "chapter": "2",
+          "name": "2 Samuel 2:3"
+        },
+        {
+          "verse": "4",
+          "text": "Les hommes de Iehouda viennent. Ils messient David pour roi de la maison de Iehouda. Ils le rapportent à David pour dire: «Les hommes de Iabéish-Guil‘ad ont enseveli Shaoul.»",
+          "chapter": "2",
+          "name": "2 Samuel 2:4"
+        },
+        {
+          "verse": "5",
+          "text": "David envoie des messagers aux hommes de Iabéish-Guil‘ad. Il leur dit: «Vous êtes bénis de IHVH-Adonaï, vous qui avez fait cette faveur à votre Adôn, à Shaoul, et qui l’avez enseveli.",
+          "chapter": "2",
+          "name": "2 Samuel 2:5"
+        },
+        {
+          "verse": "6",
+          "text": "Maintenant, IHVH-Adonaï fera avec vous faveur et vérité. Moi-même aussi je vous ferai ce bien, parce que vous avez fait cette parole.",
+          "chapter": "2",
+          "name": "2 Samuel 2:6"
+        },
+        {
+          "verse": "7",
+          "text": "Maintenant, renforcez vos mains; soyez des fils de valeur, car votre Adôn, Shaoul, est mort, et c’est moi-même que la maison de Iehouda a messié pour roi.»",
+          "chapter": "2",
+          "name": "2 Samuel 2:7"
+        },
+        {
+          "verse": "8",
+          "text": "Abnér bèn Nér, le chef de la milice de Shaoul, avait pris Ish-Boshèt bèn Shaoul et l’avait fait passer à Mahanaîm.",
+          "chapter": "2",
+          "name": "2 Samuel 2:8"
+        },
+        {
+          "verse": "9",
+          "text": "Il le fait régner sur Guil‘ad, sur l’Ashouri, sur Izre‘èl, sur Èphraîm, sur Biniamîn et sur tout Israël.",
+          "chapter": "2",
+          "name": "2 Samuel 2:9"
+        },
+        {
+          "verse": "10",
+          "text": "Ish-Boshèt bèn Shaoul a quarante ans quand il règne sur Israël. Il règne deux ans. Mais la maison de Iehouda est derrière David.",
+          "chapter": "2",
+          "name": "2 Samuel 2:10"
+        },
+        {
+          "verse": "11",
+          "text": "Et c’est le nombre des jours où David est roi à Hèbrôn sur la maison de Iehouda: sept ans et six lunaisons.",
+          "chapter": "2",
+          "name": "2 Samuel 2:11"
+        },
+        {
+          "verse": "12",
+          "text": "Abnér bèn Nér et les serviteurs d’Ish-Boshèt bèn Shaoul sortent de Mahanaîm vers Guib‘ôn.",
+          "chapter": "2",
+          "name": "2 Samuel 2:12"
+        },
+        {
+          "verse": "13",
+          "text": "Ioab bèn Serouah et les serviteurs de David étaient sortis. Et ils se rencontrent à la piscine de Guib‘ôn, unis. Les uns s’assoient d’un côté de la piscine, et les autres, sur la piscine, de l’autre côté.",
+          "chapter": "2",
+          "name": "2 Samuel 2:13"
+        },
+        {
+          "verse": "14",
+          "text": "Abnér dit à Ioab: «Que les adolescents se lèvent donc! Qu’ils joutent en face de nous!» Ioab dit: «Qu’ils se lèvent!»",
+          "chapter": "2",
+          "name": "2 Samuel 2:14"
+        },
+        {
+          "verse": "15",
+          "text": "Ils se lèvent et passent au nombre de douze pour Biniamîn et pour Ish-Boshèt bèn Shaoul, et de douze pour les serviteurs de David.",
+          "chapter": "2",
+          "name": "2 Samuel 2:15"
+        },
+        {
+          "verse": "16",
+          "text": "Chaque homme saisit la tête de son compagnon, avec son épée dans le flanc de son compagnon, et ils tombent ensemble. Il crie ce lieu: «Parcelle des Rocs» qui est à Guib‘ôn.",
+          "chapter": "2",
+          "name": "2 Samuel 2:16"
+        },
+        {
+          "verse": "17",
+          "text": "Et c’est une guerre, très dure, en ce jour. Abnér et les hommes d’Israël sont battus en face des serviteurs de David.",
+          "chapter": "2",
+          "name": "2 Samuel 2:17"
+        },
+        {
+          "verse": "18",
+          "text": "Les trois fils de Serouyah sont là: Ioab, Abishaï et ‘Assaél. ‘Assaél a les pieds légers comme les gazelles des champs.",
+          "chapter": "2",
+          "name": "2 Samuel 2:18"
+        },
+        {
+          "verse": "19",
+          "text": "‘Assaél poursuit Abnér; il ne déviait pas pour aller à droite ou à gauche d’Abnér.",
+          "chapter": "2",
+          "name": "2 Samuel 2:19"
+        },
+        {
+          "verse": "20",
+          "text": "Abnér lui fait face et dit: «Est-ce toi, cet ‘Assaél?» Il dit: «Moi-même!»",
+          "chapter": "2",
+          "name": "2 Samuel 2:20"
+        },
+        {
+          "verse": "21",
+          "text": "Abnér lui dit: «Dévie à ta droite ou à ta gauche! Saisis un des adolescents et prends pour toi ses dépouilles.» ‘Assaél ne consent pas à s’écarter de derrière lui.",
+          "chapter": "2",
+          "name": "2 Samuel 2:21"
+        },
+        {
+          "verse": "22",
+          "text": "Abnér continue encore à dire à ‘Assaél: «Écarte-toi de derrière moi! Pourquoi te frapperais-je à terre? Comment porterais-je mes faces près de Ioab, ton frère?»",
+          "chapter": "2",
+          "name": "2 Samuel 2:22"
+        },
+        {
+          "verse": "23",
+          "text": "Il refuse de s’écarter. Abnér le frappe, du revers de sa lance, à la bedaine. La lance sort derrière lui. Il tombe là et meurt sur place. Et c’est tout venant, au lieu où ‘Assaél est tombé et mort, s’y arrête.",
+          "chapter": "2",
+          "name": "2 Samuel 2:23"
+        },
+        {
+          "verse": "24",
+          "text": "Ioab et Abishaï poursuivent Abnér. Le soleil décline. Ils viennent jusqu’à la colline d’Ama, en face de Guiah, sur la route du désert de Buib‘ôn.",
+          "chapter": "2",
+          "name": "2 Samuel 2:24"
+        },
+        {
+          "verse": "25",
+          "text": "Les Benéi Biniamîn se groupent derrière Abnér. Ils sont un seul faisceau et se tiennent sur la tête d’une même colline.",
+          "chapter": "2",
+          "name": "2 Samuel 2:25"
+        },
+        {
+          "verse": "26",
+          "text": "Abnér interpelle Ioab et dit: «L’épée mangera-t-elle avec persistance? Ne sais-tu pas que ce sera amer après? Jusqu’à quand ne diras-tu pas au peuple de retourner loin derrière leurs frères?»",
+          "chapter": "2",
+          "name": "2 Samuel 2:26"
+        },
+        {
+          "verse": "27",
+          "text": "Ioab dit: «Vive Elohîms! Car, si tu n’avais pas parlé, oui, le peuple serait monté le matin, chaque homme loin de son frère.»",
+          "chapter": "2",
+          "name": "2 Samuel 2:27"
+        },
+        {
+          "verse": "28",
+          "text": "Ioab sonne du shophar. Tout le peuple s’arrête. Ils ne poursuivent plus Israël et ne continuent plus à guerroyer.",
+          "chapter": "2",
+          "name": "2 Samuel 2:28"
+        },
+        {
+          "verse": "29",
+          "text": "Abnér et ses hommes vont dans la steppe toute cette nuit. Ils passent le Iardèn, vont dans tout le vallon et viennent à Mahanaîm.",
+          "chapter": "2",
+          "name": "2 Samuel 2:29"
+        },
+        {
+          "verse": "30",
+          "text": "Ioab retourne loin derrière Abnér et groupe tout le peuple. Il manque, parmi les serviteurs de David, dix-neuf hommes et ‘Assaél.",
+          "chapter": "2",
+          "name": "2 Samuel 2:30"
+        },
+        {
+          "verse": "31",
+          "text": "Les serviteurs de David avaient frappé, parmi les hommes de Biniamîn et d’Abnér, trois cent soixante hommes qui étaient morts.",
+          "chapter": "2",
+          "name": "2 Samuel 2:31"
+        },
+        {
+          "verse": "32",
+          "text": "Ils portent ‘Assaél et l’ensevelissent au sépulcre de son père, à Béit Lèhèm. Ioab et ses hommes vont toute la nuit, et c’est la lumière pour eux à Hèbrôn.",
+          "chapter": "2",
+          "name": "2 Samuel 2:32"
+        }
+      ],
+      "name": "2 Samuel 2"
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et c’est une longue guerre entre la maison de Shaoul et la maison de David. David va et se renforce. La maison de Shaoul va et s’affaiblit.",
+          "chapter": "3",
+          "name": "2 Samuel 3:1"
+        },
+        {
+          "verse": "2",
+          "text": "Des enfants sont enfantés pour David à Hèbrôn. Et c’est son aîné, Amnôn, d’Ahino‘âm, l’Izre‘élite.",
+          "chapter": "3",
+          "name": "2 Samuel 3:2"
+        },
+        {
+          "verse": "3",
+          "text": "Et son second, Khilab, d’Abigaïl, femme de Nabal, le Karmeli. Le troisième, Abshalôm, fils de Ma‘akha, fille de Talmaï, roi de Gueshour;",
+          "chapter": "3",
+          "name": "2 Samuel 3:3"
+        },
+        {
+          "verse": "4",
+          "text": "Le quatrième, Adonyahou, fils de Haguit; le cinquième, Shephatyah, fils d’Abital;",
+          "chapter": "3",
+          "name": "2 Samuel 3:4"
+        },
+        {
+          "verse": "5",
+          "text": "et le sixième, Itre‘âm, d’‘Ègla, la femme de David. Ceux-là furent enfantés pour David à Hèbrôn.",
+          "chapter": "3",
+          "name": "2 Samuel 3:5"
+        },
+        {
+          "verse": "6",
+          "text": "Et c’est quand la guerre est entre la maison de Shaoul et la maison de David, Abnér est à se renforcer dans la maison de Shaoul.",
+          "chapter": "3",
+          "name": "2 Samuel 3:6"
+        },
+        {
+          "verse": "7",
+          "text": "À Shaoul, une concubine. Son nom: Rispa, fille d’Aya. Il dit à Abnér: «Pourquoi es-tu venu vers la concubine de mon père?»",
+          "chapter": "3",
+          "name": "2 Samuel 3:7"
+        },
+        {
+          "verse": "8",
+          "text": "Abnér brûle fort des paroles d’Ish-Boshèt et dit: «Moi-même suis-je une tête de chien pour Iehouda? Ce jour, j’ai fait une faveur à la maison de Shaoul, ton père, à ses frères, à ses compagnons, je ne t’ai pas livré à la maison de David. Et tu sanctionnerais contre moi le tort d’une femme, aujourd’hui?",
+          "chapter": "3",
+          "name": "2 Samuel 3:8"
+        },
+        {
+          "verse": "9",
+          "text": "Elohîms fera ainsi à Abnér et ainsi lui ajoutera-t-il. Oui, comme IHVH-Adonaï l’a juré à David, ainsi lui fera-t-il,",
+          "chapter": "3",
+          "name": "2 Samuel 3:9"
+        },
+        {
+          "verse": "10",
+          "text": "pour faire passer la royauté de la maison de Shaoul et pour élever le trône de David sur Israël et sur Iehouda, de Dân à Beér Shèba‘.»",
+          "chapter": "3",
+          "name": "2 Samuel 3:10"
+        },
+        {
+          "verse": "11",
+          "text": "Il ne peut plus répondre à Abnér une parole, tant il frémit de lui.",
+          "chapter": "3",
+          "name": "2 Samuel 3:11"
+        },
+        {
+          "verse": "12",
+          "text": "Abnér envoie de sa place des messagers à David pour dire: «À qui est la terre?», pour dire: «Tranche ton pacte avec moi. Voici, ma main est avec toi pour tourner vers toi tout Israël.»",
+          "chapter": "3",
+          "name": "2 Samuel 3:12"
+        },
+        {
+          "verse": "13",
+          "text": "Il dit: «Bien, moi, je trancherai avec toi un pacte. Mais une parole seulement, moi-même je la demande de toi pour dire: «Tu ne verras pas mes faces avant d’avoir fait venir Mikhal, la fille de Shaoul, à ta venue pour voir mes faces.»",
+          "chapter": "3",
+          "name": "2 Samuel 3:13"
+        },
+        {
+          "verse": "14",
+          "text": "David envoie des messagers à Ish-Boshèt, le fils de Shaoul, pour dire: «Donne-moi ma femme Mikhal. Je m’étais fiancé à elle contre cent prépuces de Pelishtîm.»",
+          "chapter": "3",
+          "name": "2 Samuel 3:14"
+        },
+        {
+          "verse": "15",
+          "text": "Ish-Boshèt l’envoie prendre de chez l’homme, de chez Paltiél bèn Laïsh.",
+          "chapter": "3",
+          "name": "2 Samuel 3:15"
+        },
+        {
+          "verse": "16",
+          "text": "Son homme va avec elle; il va et pleure derrière elle jusqu’à Bahourîm. Abnér lui dit: «Va. Retourne.» Il s’en retourne.",
+          "chapter": "3",
+          "name": "2 Samuel 3:16"
+        },
+        {
+          "verse": "17",
+          "text": "La parole d’Abnér est avec les anciens d’Israël, pour dire: «Aussi hier et aussi avant-hier vous étiez à demander David pour roi.",
+          "chapter": "3",
+          "name": "2 Samuel 3:17"
+        },
+        {
+          "verse": "18",
+          "text": "Maintenant, agissez! Oui, IHVH-Adonaï a dit à David pour dire: ‹ Par la main de David, mon serviteur, je sauverai mon peuple Israël de la main des Pelishtîm et de la main de tous ses ennemis ›.»",
+          "chapter": "3",
+          "name": "2 Samuel 3:18"
+        },
+        {
+          "verse": "19",
+          "text": "Abnér parle aux oreilles de Biniamîn. Abnér va parler aussi aux oreilles de David à Hèbrôn de tout ce qui était bien aux yeux d’Israël et aux yeux de toute la maison de Biniamîn.",
+          "chapter": "3",
+          "name": "2 Samuel 3:19"
+        },
+        {
+          "verse": "20",
+          "text": "Abnér vient vers David à Hèbrôn et avec lui vingt hommes. David fait un festin pour Abnér et pour les hommes qui étaient avec lui.",
+          "chapter": "3",
+          "name": "2 Samuel 3:20"
+        },
+        {
+          "verse": "21",
+          "text": "Abnér dit à David: «Je me lèverai, j’irai et grouperai pour mon Adôn tout Israël. Ils trancheront avec toi un pacte. Et tu régneras en tout ce que voudra ton être.» David renvoie Abnér. Il va en paix.",
+          "chapter": "3",
+          "name": "2 Samuel 3:21"
+        },
+        {
+          "verse": "22",
+          "text": "Et voici, tous les serviteurs de David, avec Ioab, viennent de la troupe avec un butin multiple. Abnér n’était pas avec David à Hèbrôn: oui, il l’avait renvoyé et il était allé en paix.",
+          "chapter": "3",
+          "name": "2 Samuel 3:22"
+        },
+        {
+          "verse": "23",
+          "text": "Ioab et toute la milice qui était avec lui viennent et rapportent à Ioab pour dire: «Abnér bèn Nér est venu vers le roi. Il l’a renvoyé et il est allé en paix.»",
+          "chapter": "3",
+          "name": "2 Samuel 3:23"
+        },
+        {
+          "verse": "24",
+          "text": "Ioab vient chez le roi et dit: «Qu’as-tu fait? Voici, Abnér est venu vers toi. Pourquoi cela, l’as-tu renvoyé et s’en est-il allé, allé?",
+          "chapter": "3",
+          "name": "2 Samuel 3:24"
+        },
+        {
+          "verse": "25",
+          "text": "Tu connais Abnér bèn Nér, oui, il est venu pour te séduire pour connaître tes sorties et tes venues, pour connaître tout ce que tu as fait!»",
+          "chapter": "3",
+          "name": "2 Samuel 3:25"
+        },
+        {
+          "verse": "26",
+          "text": "Ioab sort de chez David et envoie des messagers derrière Abnér. Ils le font retourner de la Fosse de Sira. David n’en savait rien.",
+          "chapter": "3",
+          "name": "2 Samuel 3:26"
+        },
+        {
+          "verse": "27",
+          "text": "Abnér retourne à Hèbrôn. Ioab le fait dévier à l’intérieur de la porte, pour lui parler avec quiétude; et il le frappe là, à la bedaine. Il meurt pour le sang d’‘Assaél, son frère.",
+          "chapter": "3",
+          "name": "2 Samuel 3:27"
+        },
+        {
+          "verse": "28",
+          "text": "Après quoi, David entend et dit: «Je suis innocent du sang d’Abnér bèn Nér, moi-même, et mon royaume, en face de IHVH-Adonaï.",
+          "chapter": "3",
+          "name": "2 Samuel 3:28"
+        },
+        {
+          "verse": "29",
+          "text": "Qu’il retombe sur la tête de Ioab et sur toute la maison de son père. Le fluent et le galeux ne seront pas tranchés de la maison de Ioab, ni celui qui tient le fuseau, qu’il tombe sous l’épée ou par manque de pain!»",
+          "chapter": "3",
+          "name": "2 Samuel 3:29"
+        },
+        {
+          "verse": "30",
+          "text": "Ioab et Abishaï son frère avaient tué Abnér parce qu’il avait mis à mort ‘Assaél, leur frère, à Guib‘ôn, à la guerre.",
+          "chapter": "3",
+          "name": "2 Samuel 3:30"
+        },
+        {
+          "verse": "31",
+          "text": "David dit à Ioab, et à tout le peuple qui était avec lui: «Déchirez vos habits. Ceignez des sacs. Lamentez-vous en face d’Abnér.» Le roi David va derrière le lit.",
+          "chapter": "3",
+          "name": "2 Samuel 3:31"
+        },
+        {
+          "verse": "32",
+          "text": "Ils ensevelissent Abnér à Hèbrôn. Le roi porte sa voix et pleure sur le sépulcre d’Abnér. Tout le peuple pleure.",
+          "chapter": "3",
+          "name": "2 Samuel 3:32"
+        },
+        {
+          "verse": "33",
+          "text": "Le roi dit une élégie sur Abnér et dit: «De la mort d’un veule est-il mort Abnér?",
+          "chapter": "3",
+          "name": "2 Samuel 3:33"
+        },
+        {
+          "verse": "34",
+          "text": "Ta main n’était pas liée, ni tes pieds avancés dans des chaînes de bronze, mais tu es tombé comme d’une chute en face des fils du forfait.» Tout le peuple continue à le pleurer,",
+          "chapter": "3",
+          "name": "2 Samuel 3:34"
+        },
+        {
+          "verse": "35",
+          "text": "et tout le peuple vient pour ravitailler de pain David en plein jour. David jure pour dire: «Elohîms me fera ainsi, et ainsi ajoutera-t-il, si je goûte le pain ou rien d’autre, avant le déclin du soleil.»",
+          "chapter": "3",
+          "name": "2 Samuel 3:35"
+        },
+        {
+          "verse": "36",
+          "text": "Tout le peuple le reconnaît; et c’est bien à leurs yeux, comme tout ce que fait le roi est bien aux yeux de tout le peuple.",
+          "chapter": "3",
+          "name": "2 Samuel 3:36"
+        },
+        {
+          "verse": "37",
+          "text": "Tout le peuple sait avec tout Israël, en ce jour, que le roi n’était pas pour mettre à mort Abnér bèn Nér.",
+          "chapter": "3",
+          "name": "2 Samuel 3:37"
+        },
+        {
+          "verse": "38",
+          "text": "Le roi dit à ses serviteurs: «Ne savez-vous pas qu’un chef, oui, un grand, est tombé aujourd’hui en Israël?",
+          "chapter": "3",
+          "name": "2 Samuel 3:38"
+        },
+        {
+          "verse": "39",
+          "text": "Moi-même, aujourd’hui, faible, bien que messié roi, ces hommes, les fils de Serouyah, sont plus durs que moi. Mais IHVH-Adonaï paiera le faiseur du mal selon son mal.»",
+          "chapter": "3",
+          "name": "2 Samuel 3:39"
+        }
+      ],
+      "name": "2 Samuel 3"
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Le fils de Shaoul l’entend, oui, Abnér est mort à Hèbrôn. Ses mains se relâchent et tout Israël s’affole.",
+          "chapter": "4",
+          "name": "2 Samuel 4:1"
+        },
+        {
+          "verse": "2",
+          "text": "Le fils de Shaoul a deux hommes, des chefs de troupe. Nom de l’un, Ba‘ana. Nom du deuxième, Rékhab, fils de Rimôn, le Beéroti, des Benéi Biniamîn. Oui, Beérot aussi était compté dans Biniamîn.",
+          "chapter": "4",
+          "name": "2 Samuel 4:2"
+        },
+        {
+          "verse": "3",
+          "text": "Les Beérotîm fuient à Guitaîm et y demeurent jusqu’à ce jour.",
+          "chapter": "4",
+          "name": "2 Samuel 4:3"
+        },
+        {
+          "verse": "4",
+          "text": "Iehonatân bèn Shaoul avait un fils infirme des pieds. Il avait cinq ans à la rumeur venue d’Izre‘èl concernant Shaoul et Iehonatân. La nourrice le porta et s’enfuit. Et c’est dans sa précipitation à fuir, il était tombé et il boitillait. Son nom: Mephiboshèt.",
+          "chapter": "4",
+          "name": "2 Samuel 4:4"
+        },
+        {
+          "verse": "5",
+          "text": "Rékhab et Ba‘ana, les fils de Rimôn, le Beéroti, étaient venus dans la chaleur du jour, à la maison d’Ish-Boshèt. Il était couché pour le coucher de midi.",
+          "chapter": "4",
+          "name": "2 Samuel 4:5"
+        },
+        {
+          "verse": "6",
+          "text": "Ils viennent là, à l’intérieur de la maison, et prennent du blé, et le frappent à la bedaine. Rékhab et Ba‘ana, son frère, se faufilent.",
+          "chapter": "4",
+          "name": "2 Samuel 4:6"
+        },
+        {
+          "verse": "7",
+          "text": "Ils viennent dans la maison. Il était couché sur son lit dans sa chambre à coucher. Ils le frappent, le mettent à mort et lui coupent la tête. Ils prennent sa tête et vont sur la route de la steppe toute la nuit.",
+          "chapter": "4",
+          "name": "2 Samuel 4:7"
+        },
+        {
+          "verse": "8",
+          "text": "Ils font venir la tête d’Ish-Boshèt à David, à Hèbrôn, et disent au roi: «Voici la tête d’Ish-Boshèt bèn Shaoul, ton ennemi, qui cherchait ton être. IHVH-Adonaï donne à mon Adôn, le roi, aujourd’hui, les vengeances contre Shaoul et sa semence.»",
+          "chapter": "4",
+          "name": "2 Samuel 4:8"
+        },
+        {
+          "verse": "9",
+          "text": "David répond à Rékhab et à Ba‘ana, son frère, les fils de Rimôn, le Beéroti, et leur dit: «Vive IHVH-Adonaï qui a racheté mon être à toute détresse!",
+          "chapter": "4",
+          "name": "2 Samuel 4:9"
+        },
+        {
+          "verse": "10",
+          "text": "Oui, celui qui m’avait rapporté pour dire: ‹ Voici, Shaoul est mort! › était à ses yeux porteur d’une annonce. Je l’ai saisi et l’ai tué à Siqlag. C’est ce que je lui ai donné en fait d’annonce.",
+          "chapter": "4",
+          "name": "2 Samuel 4:10"
+        },
+        {
+          "verse": "11",
+          "text": "Et plus, quand des hommes, des criminels, tuent un homme juste dans sa maison, sur sa couche. Et maintenant, ne demanderai-je pas son sang de vos mains? Je vous brûlerai sur terre.»",
+          "chapter": "4",
+          "name": "2 Samuel 4:11"
+        },
+        {
+          "verse": "12",
+          "text": "David l’ordonne aux adolescents: ils les tuent et cisaillent leurs mains et leurs pieds. Ils les pendent à la Piscine à Hèbrôn. Ils prennent la tête d’Ish-Boshèt et l’ensevelissent dans le sépulcre d’Abnér, à Hèbrôn.",
+          "chapter": "4",
+          "name": "2 Samuel 4:12"
+        }
+      ],
+      "name": "2 Samuel 4"
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Tous les rameaux d’Israël viennent vers David, à Hèbrôn. Ils lui disent pour dire: «Nous voici, nous, tes os et ta chair!",
+          "chapter": "5",
+          "name": "2 Samuel 5:1"
+        },
+        {
+          "verse": "2",
+          "text": "Aussi hier et aussi avant-hier, quand Shaoul était notre roi, toi, tu étais le sorteur et l’introducteur d’Israël. IHVH-Adonaï t’a dit: ‹ Tu paîtras mon peuple Israël, tu seras le guide d’Israël ›.»",
+          "chapter": "5",
+          "name": "2 Samuel 5:2"
+        },
+        {
+          "verse": "3",
+          "text": "Tous les anciens d’Israël viennent vers le roi à Hèbrôn. Le roi David tranche pour eux un pacte à Hèbrôn, en face de IHVH-Adonaï. Ils messient David roi d’Israël.",
+          "chapter": "5",
+          "name": "2 Samuel 5:3"
+        },
+        {
+          "verse": "4",
+          "text": "David a trente ans à son avènement, et il règne quarante ans.",
+          "chapter": "5",
+          "name": "2 Samuel 5:4"
+        },
+        {
+          "verse": "5",
+          "text": "À Hèbrôn, il règne sept ans et six lunaisons sur Iehouda; et à Ieroushalaîm, il règne trente-trois ans sur tout Israël et Iehouda.",
+          "chapter": "5",
+          "name": "2 Samuel 5:5"
+        },
+        {
+          "verse": "6",
+          "text": "Le roi va avec ses hommes à Ieroushalaîm, contre le Ieboussi, qui habitait la terre. Celui-ci parle à David et dit: «Tu ne viendras pas là, sinon les aveugles et les boiteux t’écarteraient pour dire: ‹ David ne viendra pas là ›.»",
+          "chapter": "5",
+          "name": "2 Samuel 5:6"
+        },
+        {
+          "verse": "7",
+          "text": "David investit le bastion de Siôn, elle, la ville de David.",
+          "chapter": "5",
+          "name": "2 Samuel 5:7"
+        },
+        {
+          "verse": "8",
+          "text": "David dit ce jour-là: «Tout frappeur du Ieboussi viendra par la tranchée; quant aux boiteux et aux aveugles, ils sont haïs par l’être de David.» Ainsi disent-ils: «Les aveugles et les boiteux ne viennent pas dans la Maison.»",
+          "chapter": "5",
+          "name": "2 Samuel 5:8"
+        },
+        {
+          "verse": "9",
+          "text": "David habite la trappe et la crie: «Ville de David.» David bâtit autour, du Milo à la Maison.",
+          "chapter": "5",
+          "name": "2 Samuel 5:9"
+        },
+        {
+          "verse": "10",
+          "text": "David va, va et grandit; IHVH-Adonaï Elohîms Sebaot est avec lui.",
+          "chapter": "5",
+          "name": "2 Samuel 5:10"
+        },
+        {
+          "verse": "11",
+          "text": "Hirâm, le roi de Sor, envoie des messagers à David, avec du bois de cèdre, des artisans du bois et des artisans de pierre à mur. Ils bâtissent une maison pour David.",
+          "chapter": "5",
+          "name": "2 Samuel 5:11"
+        },
+        {
+          "verse": "12",
+          "text": "David sait que IHVH-Adonaï l’a préparé pour être le roi d’Israël; oui, il porte son royaume pour son peuple Israël.",
+          "chapter": "5",
+          "name": "2 Samuel 5:12"
+        },
+        {
+          "verse": "13",
+          "text": "David prend encore des concubines et des femmes de Ieroushalaîm après sa venue de Hèbrôn. Des fils et des filles sont encore enfantés pour lui.",
+          "chapter": "5",
+          "name": "2 Samuel 5:13"
+        },
+        {
+          "verse": "14",
+          "text": "Voici les noms de ceux qui sont enfantés pour lui à Ieroushalaîm: Shamoua‘ et Shobab, Natân et Shelomo,",
+          "chapter": "5",
+          "name": "2 Samuel 5:14"
+        },
+        {
+          "verse": "15",
+          "text": "Ibhar et Èlishoua‘, Nèphèg et Iaphia‘,",
+          "chapter": "5",
+          "name": "2 Samuel 5:15"
+        },
+        {
+          "verse": "16",
+          "text": "Èlishama‘, Èliada‘ et Èliphalèt.",
+          "chapter": "5",
+          "name": "2 Samuel 5:16"
+        },
+        {
+          "verse": "17",
+          "text": "Les Pelishtîm entendent qu’ils ont messié David pour roi d’Israël. Tous les Pelishtîm montent pour chercher David. David l’entend et descend au bastion.",
+          "chapter": "5",
+          "name": "2 Samuel 5:17"
+        },
+        {
+          "verse": "18",
+          "text": "Les Pelishtîm viennent et se déploient dans la vallée des Rephaîm.",
+          "chapter": "5",
+          "name": "2 Samuel 5:18"
+        },
+        {
+          "verse": "19",
+          "text": "David questionne IHVH-Adonaï pour dire: «Monterai-je contre les Pelishtîm? Les donneras-tu en ma main?» IHVH-Adonaï dit à David: «Monte, oui, je donne, je donne les Pelishtîm en ta main.»",
+          "chapter": "5",
+          "name": "2 Samuel 5:19"
+        },
+        {
+          "verse": "20",
+          "text": "David vient à Ba‘al-Perasîm, David les frappe là et dit: «IHVH-Adonaï a fait brèche en mes ennemis face à moi-même comme une brèche d’eaux.» Sur quoi il crie le nom de ce lieu: «Ba‘al-Perasîm», les Ba‘al des Brèches.",
+          "chapter": "5",
+          "name": "2 Samuel 5:20"
+        },
+        {
+          "verse": "21",
+          "text": "Ils abandonnent là leurs fétiches. David et ses hommes les emportent.",
+          "chapter": "5",
+          "name": "2 Samuel 5:21"
+        },
+        {
+          "verse": "22",
+          "text": "Les Pelishtîm continuent à monter encore. Ils se répandent dans la vallée des Rephaîm.",
+          "chapter": "5",
+          "name": "2 Samuel 5:22"
+        },
+        {
+          "verse": "23",
+          "text": "David questionne IHVH-Adonaï. Il dit: «Tu ne monteras pas. Tourne leurs arrières; viens contre eux devant les micocouliers.",
+          "chapter": "5",
+          "name": "2 Samuel 5:23"
+        },
+        {
+          "verse": "24",
+          "text": "Et c’est quand tu entendras la voix d’un défilé sur les têtes de micocouliers, tu te précipiteras, car alors IHVH-Adonaï sortira en face de toi pour frapper le camp des Pelishtîm.»",
+          "chapter": "5",
+          "name": "2 Samuel 5:24"
+        },
+        {
+          "verse": "25",
+          "text": "David fait ainsi, comme le lui ordonne IHVH-Adonaï. Il frappe les Pelishtîm à Guèba‘ et à l’entrée de Guèzèr.",
+          "chapter": "5",
+          "name": "2 Samuel 5:25"
+        }
+      ],
+      "name": "2 Samuel 5"
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "David rassemble encore tous les braves d’Israël, trente mille.",
+          "chapter": "6",
+          "name": "2 Samuel 6:1"
+        },
+        {
+          "verse": "2",
+          "text": "David se lève et va, avec tout le peuple qui est avec lui, de Ba‘aléi Iehouda, pour faire monter de là le coffre d’Elohîms, où est crié le nom, le nom de IHVH-Adonaï Sebaot, qui siège sur les Keroubîm.",
+          "chapter": "6",
+          "name": "2 Samuel 6:2"
+        },
+        {
+          "verse": "3",
+          "text": "Ils font chevaucher le coffre d’Elohîms sur une charrette neuve, et ils le portent de la maison d’Abinadab qui est à Guib‘a. ‘Ouza et Ahio, les fils d’Abinadab, conduisent la charrette neuve,",
+          "chapter": "6",
+          "name": "2 Samuel 6:3"
+        },
+        {
+          "verse": "4",
+          "text": "Ils le portent de la maison d’Abinadab qui est à Guib‘a, avec le coffre d’Elohîms. Ahio va en face du coffre.",
+          "chapter": "6",
+          "name": "2 Samuel 6:4"
+        },
+        {
+          "verse": "5",
+          "text": "David et toute la maison d’Israël jouent en face de IHVH-Adonaï, de tous les bois de cyprès, lyres, harpes, tambours, crécelles, sistres.",
+          "chapter": "6",
+          "name": "2 Samuel 6:5"
+        },
+        {
+          "verse": "6",
+          "text": "Ils viennent jusqu’à l’aire de Nakhôn. ‘Ouza s’élance vers le coffre d’Elohîms. Il le saisit, car les bovins s’étaient emballés.",
+          "chapter": "6",
+          "name": "2 Samuel 6:6"
+        },
+        {
+          "verse": "7",
+          "text": "La narine de IHVH-Adonaï brûle contre ‘Ouza. Elohîms le frappe là pour l’infraction. Il meurt là, près du coffre d’Elohîms.",
+          "chapter": "6",
+          "name": "2 Samuel 6:7"
+        },
+        {
+          "verse": "8",
+          "text": "David brûle de ce que IHVH-Adonaï a fait brèche en ‘Ouza. Il crie ce lieu «Pèrès ‘Ouza», la Brèche d’‘Ouza, jusqu’à ce jour.",
+          "chapter": "6",
+          "name": "2 Samuel 6:8"
+        },
+        {
+          "verse": "9",
+          "text": "David frémit de IHVH-Adonaï, ce jour-là, et dit: «Quoi, il viendra vers moi, le coffre de IHVH-Adonaï?»",
+          "chapter": "6",
+          "name": "2 Samuel 6:9"
+        },
+        {
+          "verse": "10",
+          "text": "David ne consentait pas à détourner vers lui le coffre de IHVH-Adonaï, dans la ville de David. David le fait dévier vers la maison d’‘Obéd-Èdôm, le Guiti.",
+          "chapter": "6",
+          "name": "2 Samuel 6:10"
+        },
+        {
+          "verse": "11",
+          "text": "Le coffre de IHVH-Adonaï habite dans la maison d’‘Obéd-Èdôm, le Guiti, trois lunaisons. IHVH-Adonaï bénit ‘Obéd-Èdôm et toute sa maison.",
+          "chapter": "6",
+          "name": "2 Samuel 6:11"
+        },
+        {
+          "verse": "12",
+          "text": "Il est rapporté au roi David pour dire: «IHVH-Adonaï a béni la maison d’‘Obéd-Èdôm et tout ce qui est à lui, à cause du coffre d’Elohîms.» David va et fait monter le coffre d’Elohîms de la maison d’‘Obéd-Èdôm à la ville de David, dans la joie.",
+          "chapter": "6",
+          "name": "2 Samuel 6:12"
+        },
+        {
+          "verse": "13",
+          "text": "Et c’est quand les porteurs du coffre de IHVH-Adonaï ont défilé six pas, il sacrifie un bœuf et un buffle.",
+          "chapter": "6",
+          "name": "2 Samuel 6:13"
+        },
+        {
+          "verse": "14",
+          "text": "David pirouette de toute énergie en face de IHVH-Adonaï. David est ceint d’un éphod de lin.",
+          "chapter": "6",
+          "name": "2 Samuel 6:14"
+        },
+        {
+          "verse": "15",
+          "text": "David et toute la maison d’Israël font monter le coffre de IHVH-Adonaï, avec des ovations, à la voix du shophar.",
+          "chapter": "6",
+          "name": "2 Samuel 6:15"
+        },
+        {
+          "verse": "16",
+          "text": "Et c’est quand le coffre de IHVH-Adonaï vient dans la ville de David, Mikhal, la fille de Shaoul, observe par la fenêtre. Elle voit le roi David voltiger et pirouetter en face de IHVH-Adonaï. Elle le méprise en son cœur.",
+          "chapter": "6",
+          "name": "2 Samuel 6:16"
+        },
+        {
+          "verse": "17",
+          "text": "Ils font venir le coffre de IHVH-Adonaï et l’exposent en son lieu, à l’intérieur de la tente que David avait tendue pour lui. David fait monter des montées en face de IHVH-Adonaï, et des pacifications.",
+          "chapter": "6",
+          "name": "2 Samuel 6:17"
+        },
+        {
+          "verse": "18",
+          "text": "David achève de faire monter la montée et les pacifications. Il bénit le peuple au nom de IHVH-Adonaï Sebaot.",
+          "chapter": "6",
+          "name": "2 Samuel 6:18"
+        },
+        {
+          "verse": "19",
+          "text": "Il répartit à tout le peuple et à toute la foule d’Israël, aux hommes et aux femmes, une galette de pain, une portion et des raisins secs par homme. Et tout le peuple s’en va, chaque homme à sa maison.",
+          "chapter": "6",
+          "name": "2 Samuel 6:19"
+        },
+        {
+          "verse": "20",
+          "text": "David retourne pour bénir sa maison. Mikhal, la fille de Shaoul, sort à l’abord de David. Elle dit: «Qu’il est glorieux aujourd’hui, pour le roi d’Israël, de s’être découvert aujourd’hui aux yeux des servantes, de ses serviteurs, comme se découvre, se découvre un de ces vidés!»",
+          "chapter": "6",
+          "name": "2 Samuel 6:20"
+        },
+        {
+          "verse": "21",
+          "text": "David dit à Mikhal: «En face de IHVH-Adonaï qui m’a choisi plutôt que ton père et que toute ta maison, pour m’ordonner guide de tout le peuple de IHVH-Adonaï, d’Israël, j’ai joué en face de IHVH-Adonaï.",
+          "chapter": "6",
+          "name": "2 Samuel 6:21"
+        },
+        {
+          "verse": "22",
+          "text": "Je m’avilirai plus que cela encore, je me rabaisserai à mes yeux; mais avec les servantes que tu dis, avec elles, je serai glorifié.»",
+          "chapter": "6",
+          "name": "2 Samuel 6:22"
+        },
+        {
+          "verse": "23",
+          "text": "Mikhal, la fille de Shaoul, n’eut pas d’enfant jusqu’au jour de sa mort.",
+          "chapter": "6",
+          "name": "2 Samuel 6:23"
+        }
+      ],
+      "name": "2 Samuel 6"
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et c’est quand le roi habite dans sa maison, IHVH-Adonaï le repose, alentour, de tous ses ennemis.",
+          "chapter": "7",
+          "name": "2 Samuel 7:1"
+        },
+        {
+          "verse": "2",
+          "text": "Le roi dit à Natân, l’inspiré: «Vois donc, moi-même j’habite dans une maison de cèdre, mais le coffre d’Elohîms habite à l’intérieur de la tenture!»",
+          "chapter": "7",
+          "name": "2 Samuel 7:2"
+        },
+        {
+          "verse": "3",
+          "text": "Natân dit au roi: «Tout ce qui est en ton cœur, va, fais-le: oui, IHVH-Adonaï est avec toi.»",
+          "chapter": "7",
+          "name": "2 Samuel 7:3"
+        },
+        {
+          "verse": "4",
+          "text": "Et c’est dans cette nuit, et c’est la parole de IHVH-Adonaï à Natân pour dire:",
+          "chapter": "7",
+          "name": "2 Samuel 7:4"
+        },
+        {
+          "verse": "5",
+          "text": "«Va, dis à mon serviteur, à David: Ainsi dit IHVH-Adonaï. Est-ce toi qui me bâtiras une maison pour mon habitation?",
+          "chapter": "7",
+          "name": "2 Samuel 7:5"
+        },
+        {
+          "verse": "6",
+          "text": "Non, je n’ai jamais habité de maison depuis le jour où j’ai fait monter les Benéi Israël de Misraîm jusqu’à ce jour. J’en étais à aller dans une tente pour demeure.",
+          "chapter": "7",
+          "name": "2 Samuel 7:6"
+        },
+        {
+          "verse": "7",
+          "text": "Partout où je suis allé, avec tous les Benéi Israël, ai-je parlé d’une parole à l’un des rameaux d’Israël à qui j’avais ordonné de paître mon peuple Israël pour dire: Pourquoi ne m’avez-vous pas bâti une maison de cèdre?",
+          "chapter": "7",
+          "name": "2 Samuel 7:7"
+        },
+        {
+          "verse": "8",
+          "text": "Maintenant, tu diras ainsi à mon serviteur, à David: Ainsi dit IHVH-Adonaï Sebaot: moi, je t’ai pris de l’oasis, derrière des ovins, pour être le guide de mon peuple, d’Israël.",
+          "chapter": "7",
+          "name": "2 Samuel 7:8"
+        },
+        {
+          "verse": "9",
+          "text": "J’étais avec toi partout où tu allais. J’ai tranché tous tes ennemis en face de toi. Je ferai pour toi un grand nom, comme le nom des grands de la terre.",
+          "chapter": "7",
+          "name": "2 Samuel 7:9"
+        },
+        {
+          "verse": "10",
+          "text": "Je mettrai un lieu pour mon peuple, pour Israël. Je l’ai planté, il demeurera à sa place, il ne s’irritera plus, les fils du forfait ne continueront pas à le violenter comme en premier.",
+          "chapter": "7",
+          "name": "2 Samuel 7:10"
+        },
+        {
+          "verse": "11",
+          "text": "Dès le jour où j’ai ordonné des suffètes à mon peuple Israël, je t’ai reposé de tous tes ennemis. IHVH-Adonaï te le rapporte: oui, IHVH-Adonaï fera une maison.",
+          "chapter": "7",
+          "name": "2 Samuel 7:11"
+        },
+        {
+          "verse": "12",
+          "text": "Oui, tes jours se rempliront, tu te coucheras avec tes pères, et je susciterai ta semence après toi. Celui qui sortira de tes boyaux, je préparerai son royaume.",
+          "chapter": "7",
+          "name": "2 Samuel 7:12"
+        },
+        {
+          "verse": "13",
+          "text": "Lui, il bâtira une maison à mon nom. Je préparerai le trône de son royaume en pérennité.",
+          "chapter": "7",
+          "name": "2 Samuel 7:13"
+        },
+        {
+          "verse": "14",
+          "text": "Moi, je serai pour lui un père; et lui, il sera pour moi un fils. Dans son tort, j’exhorterai contre lui avec une branche d’hommes, les coups des fils de l’humain.",
+          "chapter": "7",
+          "name": "2 Samuel 7:14"
+        },
+        {
+          "verse": "15",
+          "text": "Mais ma faveur ne s’écartera pas de lui comme je l’ai écartée de Shaoul, que j’ai écarté en face de toi.",
+          "chapter": "7",
+          "name": "2 Samuel 7:15"
+        },
+        {
+          "verse": "16",
+          "text": "Ta maison adhérera, et ton royaume en pérennité en face de toi. Ton trône sera stable en pérennité.»",
+          "chapter": "7",
+          "name": "2 Samuel 7:16"
+        },
+        {
+          "verse": "17",
+          "text": "Ainsi Natân parla à David, selon toutes ces paroles et selon toute cette contemplation.",
+          "chapter": "7",
+          "name": "2 Samuel 7:17"
+        },
+        {
+          "verse": "18",
+          "text": "Le roi David vient, siège en face de IHVH-Adonaï et dit: «Moi-même, qui suis-je, Adonaï, et qu’est ma maison pour que tu m’aies fait venir jusqu’ici?",
+          "chapter": "7",
+          "name": "2 Samuel 7:18"
+        },
+        {
+          "verse": "19",
+          "text": "Mais cela est encore trop petit à tes yeux, Adonaï. Tu parles aussi à la maison de ton serviteur pour le lointain. Voilà, telle est la tora de l’humain, Adonaï.",
+          "chapter": "7",
+          "name": "2 Samuel 7:19"
+        },
+        {
+          "verse": "20",
+          "text": "Qu’ajouterait encore David à te parler? Toi, tu as pénétré ton serviteur, Adonaï.",
+          "chapter": "7",
+          "name": "2 Samuel 7:20"
+        },
+        {
+          "verse": "21",
+          "text": "À cause de ta parole et selon ton cœur, tu as fait monter toute cette grandeur, pour la faire pénétrer à ton serviteur;",
+          "chapter": "7",
+          "name": "2 Samuel 7:21"
+        },
+        {
+          "verse": "22",
+          "text": "ainsi tu es magnifié, IHVH-Adonaï Elohîms; non, nul n’est comme toi, pas d’Elohîms sauf toi, dans tout ce que nous avons entendu de nos oreilles.",
+          "chapter": "7",
+          "name": "2 Samuel 7:22"
+        },
+        {
+          "verse": "23",
+          "text": "Et qui est comme ton peuple, comme Israël, une nation une sur la terre, que les Elohîms sont allés acheter à eux pour peuple, pour mettre sur lui un nom, et faire pour vous grandeur et effrois sur ta terre, en face de ton peuple que tu as racheté pour toi de Misraîm, de ses nations et de ses Elohîms?",
+          "chapter": "7",
+          "name": "2 Samuel 7:23"
+        },
+        {
+          "verse": "24",
+          "text": "Tu as préparé pour toi ton peuple Israël, à toi pour peuple en pérennité, et toi, IHVH-Adonaï, tu es pour eux l’Elohîms.",
+          "chapter": "7",
+          "name": "2 Samuel 7:24"
+        },
+        {
+          "verse": "25",
+          "text": "Maintenant, IHVH-Adonaï Elohîms, la parole dont tu as parlé pour ton serviteur et pour sa maison, accomplis-la jusqu’en pérennité. Fais comme tu as parlé.",
+          "chapter": "7",
+          "name": "2 Samuel 7:25"
+        },
+        {
+          "verse": "26",
+          "text": "Ton nom est magnifié jusqu’en pérennité pour dire: ‹ IHVH-Adonaï Sebaot, l’Elohîms d’Israël! › La maison de ton serviteur David est prête en face de toi.",
+          "chapter": "7",
+          "name": "2 Samuel 7:26"
+        },
+        {
+          "verse": "27",
+          "text": "Oui, toi, IHVH-Adonaï Sebaot, l’Elohîms d’Israël, tu as découvert l’oreille de ton serviteur pour dire: ‹ Je te bâtirai une maison. › Sur quoi ton serviteur a trouvé son cœur pour te prier cette prière.",
+          "chapter": "7",
+          "name": "2 Samuel 7:27"
+        },
+        {
+          "verse": "28",
+          "text": "Maintenant, Adonaï, tu es l’Elohîms; tes paroles sont vérité: tu parles à ton serviteur de ce bienfait.",
+          "chapter": "7",
+          "name": "2 Samuel 7:28"
+        },
+        {
+          "verse": "29",
+          "text": "Maintenant tu t’es résolu à bénir la maison de ton serviteur, pour être en pérennité en face de toi. Oui, toi, Adonaï, tu as parlé, et par ta bénédiction la maison de ton serviteur sera bénie en pérennité.»",
+          "chapter": "7",
+          "name": "2 Samuel 7:29"
+        }
+      ],
+      "name": "2 Samuel 7"
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et c’est après quoi, David frappe les Pelishtîm et les mate. David prend Mèteg-ha-Ama de la main des Pelishtîm.",
+          "chapter": "8",
+          "name": "2 Samuel 8:1"
+        },
+        {
+          "verse": "2",
+          "text": "Il frappe Moab. Il les mesure au cordeau et les fait coucher à terre. Il mesure deux cordeaux pour mettre à mort, et un plein cordeau pour laisser vivre. Et Moab est pour David des serviteurs, des porteurs d’offrandes.",
+          "chapter": "8",
+          "name": "2 Samuel 8:2"
+        },
+        {
+          "verse": "3",
+          "text": "David frappe Hadad‘èzèr bèn Rehob, le roi de Soba, quand il allait retourner sa main contre le fleuve de Perat.",
+          "chapter": "8",
+          "name": "2 Samuel 8:3"
+        },
+        {
+          "verse": "4",
+          "text": "David prend chez lui mille sept cents cavaliers et vingt mille hommes, des fantassins. David paralyse toute la charrerie, il n’en laisse que cent chars.",
+          "chapter": "8",
+          "name": "2 Samuel 8:4"
+        },
+        {
+          "verse": "5",
+          "text": "Arâm de Damèssèq vient aider Hadad‘èzèr, roi de Soba. David frappe vingt-deux mille hommes d’Arâm.",
+          "chapter": "8",
+          "name": "2 Samuel 8:5"
+        },
+        {
+          "verse": "6",
+          "text": "David met des intendants à Arâm de Damèssèq. Et Arâm est à David des serviteurs, des porteurs d’offrandes. IHVH-Adonaï sauve David partout où il va.",
+          "chapter": "8",
+          "name": "2 Samuel 8:6"
+        },
+        {
+          "verse": "7",
+          "text": "David reprend les pavois d’or qui étaient aux serviteurs de Hadad‘èzèr. Il les fait venir à Ieroushalaîm.",
+          "chapter": "8",
+          "name": "2 Samuel 8:7"
+        },
+        {
+          "verse": "8",
+          "text": "De Bètah et de Bérotaï, villes de Hadad‘èzèr, le roi David prend du bronze, une multitude, beaucoup.",
+          "chapter": "8",
+          "name": "2 Samuel 8:8"
+        },
+        {
+          "verse": "9",
+          "text": "To‘ou, le roi de Hamat, l’entend: oui, David a frappé toute l’armée de Hadad‘èzèr.",
+          "chapter": "8",
+          "name": "2 Samuel 8:9"
+        },
+        {
+          "verse": "10",
+          "text": "To‘ou envoie Iorâm, son fils, au roi David pour demander sa paix et le bénir pour avoir guerroyé contre Hadad‘èzèr et l’avoir frappé: oui, Hadad‘èzèr était un homme en guerre contre To‘ou, et dans sa main étaient des objets d’argent, des objets d’or, des objets de bronze.",
+          "chapter": "8",
+          "name": "2 Samuel 8:10"
+        },
+        {
+          "verse": "11",
+          "text": "Ceux-là aussi, le roi David les consacre à IHVH-Adonaï, avec l’argent et l’or qu’il consacrait de toutes les nations qu’il avait conquises,",
+          "chapter": "8",
+          "name": "2 Samuel 8:11"
+        },
+        {
+          "verse": "12",
+          "text": "d’Arâm, de Moab, des Benéi ‘Amôn, des Pelishtîm, d’‘Amaléq, et du butin de Hadad‘èzèr bèn Rehob, le roi de Soba.",
+          "chapter": "8",
+          "name": "2 Samuel 8:12"
+        },
+        {
+          "verse": "13",
+          "text": "David se fait un nom en retournant après avoir frappé dix-huit mille hommes d’Arâm, au Val-du-Sel.",
+          "chapter": "8",
+          "name": "2 Samuel 8:13"
+        },
+        {
+          "verse": "14",
+          "text": "Il met des intendants en Edôm. Il avait mis des intendants dans tout Edôm; et c’est tout Edôm, des serviteurs pour David. IHVH-Adonaï sauve David partout où il va.",
+          "chapter": "8",
+          "name": "2 Samuel 8:14"
+        },
+        {
+          "verse": "15",
+          "text": "David règne sur tout Israël. Et c’est David, il fait jugement et justification à tout son peuple.",
+          "chapter": "8",
+          "name": "2 Samuel 8:15"
+        },
+        {
+          "verse": "16",
+          "text": "Ioab bèn Serouyah est sur la milice; Yehoshaphat bèn Ahiloud, secrétaire;",
+          "chapter": "8",
+          "name": "2 Samuel 8:16"
+        },
+        {
+          "verse": "17",
+          "text": "Sadoq bèn Ahitoub et Ahimèlèkh bèn Èbiatar, desservants, Serayah, actuaire.",
+          "chapter": "8",
+          "name": "2 Samuel 8:17"
+        },
+        {
+          "verse": "18",
+          "text": "Benayahou bèn Yehoyada‘ avec le Keréti et le Peléti. Les fils de David étaient des desservants.",
+          "chapter": "8",
+          "name": "2 Samuel 8:18"
+        }
+      ],
+      "name": "2 Samuel 8"
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "David dit: «Eh oui! Existe-t-il encore quelque survivant de la maison de Shaoul? Je lui ferai une faveur à cause de Iehonatân.»",
+          "chapter": "9",
+          "name": "2 Samuel 9:1"
+        },
+        {
+          "verse": "2",
+          "text": "La maison de Shaoul a un serviteur. Son nom Siba?» Ils l’appellent chez David. Le roi lui dit: «Est-ce toi Siba?» Il dit: «Ton serviteur.»",
+          "chapter": "9",
+          "name": "2 Samuel 9:2"
+        },
+        {
+          "verse": "3",
+          "text": "Le roi dit: «Rien encore comme homme de la maison de Shaoul? Je lui ferai une faveur d’Elohîms.» Siba dit au roi: «Il y a encore le fils de Iehonatân, un infirme des pieds.»",
+          "chapter": "9",
+          "name": "2 Samuel 9:3"
+        },
+        {
+          "verse": "4",
+          "text": "Le roi lui dit: «Où est il?» Siba dit au roi: «Voici, il est dans la maison de Makhir bèn ‘Amiél, à Lo Debar.»",
+          "chapter": "9",
+          "name": "2 Samuel 9:4"
+        },
+        {
+          "verse": "5",
+          "text": "Le roi David l’envoie prendre de la maison de Makhir bèn ‘Amiél, de Lo Debar.",
+          "chapter": "9",
+          "name": "2 Samuel 9:5"
+        },
+        {
+          "verse": "6",
+          "text": "Mephiboshèt bèn Iehonatân bèn Shaoul vient vers David, tombe sur ses faces et se prosterne. David dit: «Mephiboshèt?» Il dit: «Voici ton serviteur.»",
+          "chapter": "9",
+          "name": "2 Samuel 9:6"
+        },
+        {
+          "verse": "7",
+          "text": "David lui dit: «Ne frémis pas! Oui, je te ferai, je te ferai une faveur à cause de Iehonatân ton père. Je te retourne tout le champ de Shaoul ton père. Toi, tu mangeras le pain à ma table, en permanence.»",
+          "chapter": "9",
+          "name": "2 Samuel 9:7"
+        },
+        {
+          "verse": "8",
+          "text": "Il se prosterne et dit: «Qu’est ton serviteur? Oui, tu fais face à un chien mort comme moi!»",
+          "chapter": "9",
+          "name": "2 Samuel 9:8"
+        },
+        {
+          "verse": "9",
+          "text": "David crie à Siba, l’adolescent de Shaoul, et lui dit: «Tout ce qui était à Shaoul et à toute sa maison, je le donne au fils de ton Adôn.",
+          "chapter": "9",
+          "name": "2 Samuel 9:9"
+        },
+        {
+          "verse": "10",
+          "text": "Travaille pour lui la glèbe, toi avec tes fils et tes serviteurs. Tu feras venir et ce sera pour le fils de ton Adôn du pain: ils le mangeront. Et Mephiboshèt, le fils de ton Adôn, mangera en permanence le pain de ma table.» À Siba, quinze fils et vingt serviteurs.",
+          "chapter": "9",
+          "name": "2 Samuel 9:10"
+        },
+        {
+          "verse": "11",
+          "text": "Siba dit au roi: «Tout ce que mon Adôn, le roi ordonnera à ton serviteur, ton serviteur le fera. Mephiboshèt mangera à ma table comme l’un des fils du roi.»",
+          "chapter": "9",
+          "name": "2 Samuel 9:11"
+        },
+        {
+          "verse": "12",
+          "text": "À Mephiboshèt un fils, un petit. Son nom, Mikha. Tous ceux de la maison de Siba sont les serviteurs de Mephiboshèt.",
+          "chapter": "9",
+          "name": "2 Samuel 9:12"
+        },
+        {
+          "verse": "13",
+          "text": "Mephiboshèt habite Ieroushalaîm. Oui, il mange à la table du roi, en permanence. Il était boiteux des deux pieds.",
+          "chapter": "9",
+          "name": "2 Samuel 9:13"
+        }
+      ],
+      "name": "2 Samuel 9"
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et c’est après quoi le roi de Benéi ‘Amôn meurt. Hanoun, son fils règne à sa place.",
+          "chapter": "10",
+          "name": "2 Samuel 10:1"
+        },
+        {
+          "verse": "2",
+          "text": "David dit: «Je ferai une faveur à Hanoun bèn Nahash, comme son père m’a fait une faveur.» David envoie le réconforter pour son père par la main de ses serviteurs. Les serviteurs de David viennent en terre des Benéi ‘Amôn.",
+          "chapter": "10",
+          "name": "2 Samuel 10:2"
+        },
+        {
+          "verse": "3",
+          "text": "Les chefs des Benéi ‘Amôn disent à Hanoun, leur Adôn: «À tes yeux, glorifie-t-il ton père, David? Oui, il t’a envoyé des réconforts; mais n’est-ce pas pour explorer la ville, pour l’espionner et pour la renverser, que David t’a envoyé ses serviteurs?»",
+          "chapter": "10",
+          "name": "2 Samuel 10:3"
+        },
+        {
+          "verse": "4",
+          "text": "Hanoun prend les serviteurs de David. Il rase la moitié de leur barbe et tranche leurs uniformes par le milieu jusqu’à leur cul; puis il les renvoie.",
+          "chapter": "10",
+          "name": "2 Samuel 10:4"
+        },
+        {
+          "verse": "5",
+          "text": "Ils le rapportent à David, qui envoie les aborder. Oui, c’étaient des hommes fort accablés d’opprobre. Le roi dit: «Habitez Ieriho jusqu’à ce que votre barbe repousse; puis revenez.»",
+          "chapter": "10",
+          "name": "2 Samuel 10:5"
+        },
+        {
+          "verse": "6",
+          "text": "Les Benéi ‘Amôn voient qu’ils puent pour David. Les Benéi ‘Amôn envoient soudoyer vingt mille fantassins à Arâm Béit-Rehob et Arâm Soba, mille hommes chez le roi de Ma‘akha, et douze mille hommes de chez Tob.",
+          "chapter": "10",
+          "name": "2 Samuel 10:6"
+        },
+        {
+          "verse": "7",
+          "text": "David l’entend. Il envoie Ioab avec toute la milice des héros.",
+          "chapter": "10",
+          "name": "2 Samuel 10:7"
+        },
+        {
+          "verse": "8",
+          "text": "Les Benéi ‘Amôn sortent et se rangent en guerre à l’ouverture de la porte. Arâm Soba et Rehob, les hommes de Tob et de Ma‘akha sont seuls au champ.",
+          "chapter": "10",
+          "name": "2 Samuel 10:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ioab voit que les faces de la guerre sont contre lui, en face et derrière. Il choisit les élites d’Israël parmi eux tous et se range à l’abord d’Arâm.",
+          "chapter": "10",
+          "name": "2 Samuel 10:9"
+        },
+        {
+          "verse": "10",
+          "text": "Il donne le reste du peuple en main d’Abishaï, son frère, et les range à l’abord des Benéi ‘Amôn.",
+          "chapter": "10",
+          "name": "2 Samuel 10:10"
+        },
+        {
+          "verse": "11",
+          "text": "Il dit: «Si Arâm est plus fort que moi, tu seras pour moi un salut; et si les Benéi ‘Amôn sont plus forts que toi, j’irai te sauver.",
+          "chapter": "10",
+          "name": "2 Samuel 10:11"
+        },
+        {
+          "verse": "12",
+          "text": "Sois fort, renforçons-nous pour notre peuple, pour les villes de notre Elohîms; et IHVH-Adonaï fera ce qui est bien à ses yeux.»",
+          "chapter": "10",
+          "name": "2 Samuel 10:12"
+        },
+        {
+          "verse": "13",
+          "text": "Ioab avance, avec le peuple qui est avec lui, pour la guerre contre Arâm. Ils s’enfuient en face de lui.",
+          "chapter": "10",
+          "name": "2 Samuel 10:13"
+        },
+        {
+          "verse": "14",
+          "text": "Les Benéi ‘Amôn voient qu’Arâm s’est enfui. Ils s’enfuient en face d’Abishaï et viennent dans la ville. Ioab retourne de chez les Benéi ‘Amôn et vient à Ieroushalaîm.",
+          "chapter": "10",
+          "name": "2 Samuel 10:14"
+        },
+        {
+          "verse": "15",
+          "text": "Arâm voit qu’il a été battu en face d’Israël; ils se réunissent ensemble.",
+          "chapter": "10",
+          "name": "2 Samuel 10:15"
+        },
+        {
+          "verse": "16",
+          "text": "Hadad‘èzèr envoie et fait sortir Arâm qui est au passage du fleuve. Ils viennent à Héilâm. Shobakh, chef de la milice de Hadad‘èzèr, est en face d’eux.",
+          "chapter": "10",
+          "name": "2 Samuel 10:16"
+        },
+        {
+          "verse": "17",
+          "text": "Cela est rapporté à David. Il réunit tout Israël, passe le Iardèn et vient à Héilâm. Arâm se range à l’abord de David. Ils guerroient contre lui.",
+          "chapter": "10",
+          "name": "2 Samuel 10:17"
+        },
+        {
+          "verse": "18",
+          "text": "Arâm s’enfuit en face d’Israël. David tue sept cents chars et quarante mille cavaliers d’Arâm. Il frappe Shobakh, le chef de la milice, qui meurt là.",
+          "chapter": "10",
+          "name": "2 Samuel 10:18"
+        },
+        {
+          "verse": "19",
+          "text": "Tous les rois, les serviteurs de Hadad‘èzèr, le voient: oui, ils sont battus en face d’Israël. Ils font la paix avec Israël et le servent. Arâm frémit de sauver encore les Benéi ‘Amôn.",
+          "chapter": "10",
+          "name": "2 Samuel 10:19"
+        }
+      ],
+      "name": "2 Samuel 10"
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et c’est au retour de l’année, au temps où les rois sortent, David envoie Ioab et ses serviteurs avec lui, et tout Israël. Ils détruisent les Benéi ‘Amôn et assiègent Raba. David habite Ieroushalaîm.",
+          "chapter": "11",
+          "name": "2 Samuel 11:1"
+        },
+        {
+          "verse": "2",
+          "text": "Et c’est au temps du soir, David se lève de sa couche. Il va sur le toit de la maison du roi. Il voit, du toit, une femme qui se baigne. La femme est bien à voir, très.",
+          "chapter": "11",
+          "name": "2 Samuel 11:2"
+        },
+        {
+          "verse": "3",
+          "text": "David envoie s’informer sur la femme. Il dit: «N’est-ce pas Bat-Shèba‘, la fille d’Eli‘âm, la femme d’Ouryah, le Hiti?»",
+          "chapter": "11",
+          "name": "2 Samuel 11:3"
+        },
+        {
+          "verse": "4",
+          "text": "David envoie des messagers et la prend. Elle vient à lui. Il couche avec elle. Elle s’était consacrée après sa contamination. Elle retourne à sa maison.",
+          "chapter": "11",
+          "name": "2 Samuel 11:4"
+        },
+        {
+          "verse": "5",
+          "text": "La femme est enceinte. Elle envoie le rapporter à David. Elle dit: «Je suis enceinte.»",
+          "chapter": "11",
+          "name": "2 Samuel 11:5"
+        },
+        {
+          "verse": "6",
+          "text": "David envoie Ioab: «Envoie-moi Ouryah le Hiti.»",
+          "chapter": "11",
+          "name": "2 Samuel 11:6"
+        },
+        {
+          "verse": "7",
+          "text": "Ouryah vient à lui. David s’enquiert de la paix de Ioab, de la paix du peuple, de la paix de la guerre.",
+          "chapter": "11",
+          "name": "2 Samuel 11:7"
+        },
+        {
+          "verse": "8",
+          "text": "David dit à Ouryah: «Descends dans ta maison et baigne tes pieds.» Ouryah sort de la maison du roi; et sort après lui un envoi du roi.",
+          "chapter": "11",
+          "name": "2 Samuel 11:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ouryah se couche à l’ouverture de la maison du roi, avec tous les serviteurs de son Adôn. Il ne descend pas dans sa maison.",
+          "chapter": "11",
+          "name": "2 Samuel 11:9"
+        },
+        {
+          "verse": "10",
+          "text": "Ils le rapportent à David pour dire: «Ouryah n’est pas descendu dans sa maison.» David dit à Ouryah: «Ne viens-tu pas de la route, toi? Pourquoi ne descends-tu pas dans ta maison?»",
+          "chapter": "11",
+          "name": "2 Samuel 11:10"
+        },
+        {
+          "verse": "11",
+          "text": "Ouryah dit à David: «Le coffre, Israël et Iehouda habitent des cabanes. Mon Adôn, Ioab, et les serviteurs de mon Adôn campent sur les faces du champ. Et moi, je viendrais dans ma maison, pour boire, pour manger et pour coucher avec ma femme? Par ta vie, par la vie de ton être, je ne ferai pas un tel propos.»",
+          "chapter": "11",
+          "name": "2 Samuel 11:11"
+        },
+        {
+          "verse": "12",
+          "text": "David dit à Ouryah: «Habite ici encore aujourd’hui. Demain je te renverrai.» Ouryah habite à Ieroushalaîm ce jour-là et le lendemain.",
+          "chapter": "11",
+          "name": "2 Samuel 11:12"
+        },
+        {
+          "verse": "13",
+          "text": "David l’invite et il mange en face de lui et boit. Il l’enivre. Il sort le soir pour coucher sur sa couche avec les serviteurs de son Adôn. Mais il ne descend pas dans sa maison.",
+          "chapter": "11",
+          "name": "2 Samuel 11:13"
+        },
+        {
+          "verse": "14",
+          "text": "Et c’est au matin. David écrit un acte pour Ioab. Il l’envoie par la main d’Ouryah.",
+          "chapter": "11",
+          "name": "2 Samuel 11:14"
+        },
+        {
+          "verse": "15",
+          "text": "Il écrit dans l’acte pour dire: «Assignez Ouryah face au plus fort de la guerre; puis retournez, derrière lui. Frappé, qu’il meure.»",
+          "chapter": "11",
+          "name": "2 Samuel 11:15"
+        },
+        {
+          "verse": "16",
+          "text": "Et c’est quand Ioab garde la ville, il donne Ouryah au lieu, là où il savait qu’étaient des hommes de valeur.",
+          "chapter": "11",
+          "name": "2 Samuel 11:16"
+        },
+        {
+          "verse": "17",
+          "text": "Les hommes de la ville sortent et guerroient contre Ioab. Dans le peuple, des serviteurs de David tombent. Ouryah le Hiti meurt aussi.",
+          "chapter": "11",
+          "name": "2 Samuel 11:17"
+        },
+        {
+          "verse": "18",
+          "text": "Ioab envoie et rapporte à David toutes les paroles de la guerre.",
+          "chapter": "11",
+          "name": "2 Samuel 11:18"
+        },
+        {
+          "verse": "19",
+          "text": "Il ordonne au messager de dire: «Quand tu achèveras de parler avec le roi de toutes les paroles de la guerre,",
+          "chapter": "11",
+          "name": "2 Samuel 11:19"
+        },
+        {
+          "verse": "20",
+          "text": "alors, si la fièvre du roi monte et qu’il te dise: ‹ Pourquoi vous êtes-vous avancés contre la ville pour guerroyer? Ne saviez-vous pas qu’ils tireraient du haut du rempart?",
+          "chapter": "11",
+          "name": "2 Samuel 11:20"
+        },
+        {
+          "verse": "21",
+          "text": "Qui a frappé Abimèlèkh bèn Ieroubèshèt? N’est-ce pas une femme qui a jeté sur lui une meule courante du haut du rempart? Il est mort, à Tébés! Pourquoi vous êtes-vous avancés contre le rempart? › Tu lui diras: ‹ Ton serviteur Ouryah, le Hiti, est mort, lui aussi ›!»",
+          "chapter": "11",
+          "name": "2 Samuel 11:21"
+        },
+        {
+          "verse": "22",
+          "text": "Le messager va. Il vient et rapporte à David tout ce pourquoi Ioab l’avait envoyé.",
+          "chapter": "11",
+          "name": "2 Samuel 11:22"
+        },
+        {
+          "verse": "23",
+          "text": "Le messager dit à David: «Oui, les hommes nous ont dominés. Ils sont sortis contre nous dans le champ. Nous étions contre eux jusqu’à l’ouverture de la porte.",
+          "chapter": "11",
+          "name": "2 Samuel 11:23"
+        },
+        {
+          "verse": "24",
+          "text": "Les tireurs tiraient sur tes serviteurs du haut du rempart. Des serviteurs du roi sont morts. Ton serviteur Ouryah, le Hiti, est mort, lui aussi.»",
+          "chapter": "11",
+          "name": "2 Samuel 11:24"
+        },
+        {
+          "verse": "25",
+          "text": "David dit au messager: «Tu diras ainsi à Ioab: ‹ Que cette parole ne fasse pas de mal à tes yeux: oui, comme ceci et comme cela, elle mange, l’épée! Renforce ta guerre contre la ville. Casse-la. Renforce-la ›.»",
+          "chapter": "11",
+          "name": "2 Samuel 11:25"
+        },
+        {
+          "verse": "26",
+          "text": "La femme d’Ouryah l’entend: oui, Ouryah, son homme, est mort. Elle se lamente sur son mari.",
+          "chapter": "11",
+          "name": "2 Samuel 11:26"
+        },
+        {
+          "verse": "27",
+          "text": "Le deuil passe. David envoie et l’ajoute à sa maison. Elle est à lui pour femme; elle lui enfante un fils. La parole que David avait faite méfait aux yeux de IHVH-Adonaï.",
+          "chapter": "11",
+          "name": "2 Samuel 11:27"
+        }
+      ],
+      "name": "2 Samuel 11"
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "IHVH-Adonaï envoie Natân à David. Il vient à lui et lui dit: «Deux hommes étaient dans une ville, un riche et un indigent.",
+          "chapter": "12",
+          "name": "2 Samuel 12:1"
+        },
+        {
+          "verse": "2",
+          "text": "Au riche étaient des ovins et des bovins, très nombreux.",
+          "chapter": "12",
+          "name": "2 Samuel 12:2"
+        },
+        {
+          "verse": "3",
+          "text": "À l’indigent rien du tout; oui, rien qu’une petite brebis qu’il avait achetée. Il la fait vivre, elle grandit avec lui et avec ses fils, unis. Elle mange de sa miche, boit dans sa coupe, et couche sur son sein. Elle est pour lui comme une fille.",
+          "chapter": "12",
+          "name": "2 Samuel 12:3"
+        },
+        {
+          "verse": "4",
+          "text": "Vient celui qui va chez l’homme riche. Il déplore de prendre de ses ovins et de ses bovins, pour les faire à l’hôte qui était venu à lui, mais il prend la brebis de l’homme indigent et la fait venir à l’homme venu à lui.»",
+          "chapter": "12",
+          "name": "2 Samuel 12:4"
+        },
+        {
+          "verse": "5",
+          "text": "La narine de David brûle fort contre l’homme. Il dit à Natân: «Vive IHVH-Adonaï! Oui, l’homme qui fait cela est un fils de la mort.",
+          "chapter": "12",
+          "name": "2 Samuel 12:5"
+        },
+        {
+          "verse": "6",
+          "text": "La brebis, il la paiera au quadruple pour avoir fait cette parole et pour ne l’avoir pas déplorée.»",
+          "chapter": "12",
+          "name": "2 Samuel 12:6"
+        },
+        {
+          "verse": "7",
+          "text": "Natân dit à David: «L’homme, c’est toi! Ainsi dit IHVH-Adonaï, l’Elohîms d’Israël: ‹ Moi-même je t’ai messié pour roi d’Israël; moi-même je t’ai secouru de la main de Shaoul,",
+          "chapter": "12",
+          "name": "2 Samuel 12:7"
+        },
+        {
+          "verse": "8",
+          "text": "Je t’ai donné la maison de ton Adôn, les femmes de ton Adôn sur ton sein. Je t’ai donné la maison d’Israël et de Iehouda; et si c’était peu, je t’en ai ajouté, ça et là.",
+          "chapter": "12",
+          "name": "2 Samuel 12:8"
+        },
+        {
+          "verse": "9",
+          "text": "Pourquoi as-tu méprisé la parole de IHVH-Adonaï pour faire le mal à mes yeux? Ouryah, le Hiti, tu l’as frappé par l’épée. Sa femme, tu l’as prise à toi pour femme. Et lui, tu l’as tué par l’épée des Benéi ‘Amôn!",
+          "chapter": "12",
+          "name": "2 Samuel 12:9"
+        },
+        {
+          "verse": "10",
+          "text": "Maintenant l’épée ne s’écartera pas de ta maison en pérennité. Oui, tu m’as méprisé: tu as pris la femme d’Ouryah le Hiti, pour qu’elle soit à toi pour femme. ›",
+          "chapter": "12",
+          "name": "2 Samuel 12:10"
+        },
+        {
+          "verse": "11",
+          "text": "Ainsi dit IHVH-Adonaï: ‹ Me voici, je lève contre toi le malheur de ta maison. Je prendrai tes femmes sous tes yeux, je les donnerai à ton compagnon, et il couchera avec tes femmes sous les yeux de ce soleil.",
+          "chapter": "12",
+          "name": "2 Samuel 12:11"
+        },
+        {
+          "verse": "12",
+          "text": "Oui, toi tu as agi en secret; mais, moi, je ferai cette parole devant tout Israël et devant le soleil ›.»",
+          "chapter": "12",
+          "name": "2 Samuel 12:12"
+        },
+        {
+          "verse": "13",
+          "text": "David dit à Natân: «J’ai fauté contre IHVH-Adonaï.» Natân dit à David: «IHVH-Adonaï aussi a dépassé ta faute. Tu ne mourras pas.",
+          "chapter": "12",
+          "name": "2 Samuel 12:13"
+        },
+        {
+          "verse": "14",
+          "text": "Rien! Oui, tu as été répugnant, répugnant, devant les ennemis de IHVH-Adonaï avec cette parole. Aussi, le fils qui sera enfanté pour toi mourra, il mourra.»",
+          "chapter": "12",
+          "name": "2 Samuel 12:14"
+        },
+        {
+          "verse": "15",
+          "text": "Natân va dans sa maison. IHVH-Adonaï frappe l’enfant que la femme d’Ouryah avait enfanté pour David, et il dépérit.",
+          "chapter": "12",
+          "name": "2 Samuel 12:15"
+        },
+        {
+          "verse": "16",
+          "text": "David implore Elohîms pour le garçon. David jeûne, il jeûne, vient, nuite et se couche à terre.",
+          "chapter": "12",
+          "name": "2 Samuel 12:16"
+        },
+        {
+          "verse": "17",
+          "text": "Les anciens de sa maison se lèvent contre lui pour le relever de terre. Il n’y consent pas. Il ne se restaure pas de pain avec eux.",
+          "chapter": "12",
+          "name": "2 Samuel 12:17"
+        },
+        {
+          "verse": "18",
+          "text": "Et c’est le septième jour: l’enfant meurt. Les serviteurs de David frémissent de lui rapporter que l’enfant était mort. Oui, ils disaient: «Voici, l’enfant étant vivant, nous lui parlions et il n’entendait pas notre voix. Comment lui dirions-nous: ‹ L’enfant est mort ›? Il fera un malheur.»",
+          "chapter": "12",
+          "name": "2 Samuel 12:18"
+        },
+        {
+          "verse": "19",
+          "text": "David voit que ses serviteurs chuchotent. David discerne que l’enfant est mort. David dit à ses serviteurs: «Mort, l’enfant?» Ils disent: «Mort.»",
+          "chapter": "12",
+          "name": "2 Samuel 12:19"
+        },
+        {
+          "verse": "20",
+          "text": "David se lève de terre. Il se baigne, se frictionne et change de tuniques. Il vient à la maison de IHVH-Adonaï et se prosterne. Puis il vient dans sa maison. Il demande, et ils lui servent le pain. Il mange.",
+          "chapter": "12",
+          "name": "2 Samuel 12:20"
+        },
+        {
+          "verse": "21",
+          "text": "Ses serviteurs lui disent: «Quelle est cette parole que tu as faite? Pour l’enfant vivant, tu jeûnais et pleurais. Et quand l’enfant est mort, tu t’es levé et tu as mangé le pain!»",
+          "chapter": "12",
+          "name": "2 Samuel 12:21"
+        },
+        {
+          "verse": "22",
+          "text": "Il dit: «L’enfant encore vivant, je jeûnais et pleurais, car je disais: ‹ Qui sait? IHVH-Adonaï me graciera et l’enfant vivra. ›",
+          "chapter": "12",
+          "name": "2 Samuel 12:22"
+        },
+        {
+          "verse": "23",
+          "text": "Maintenant, il est mort. Pourquoi jeûnerais-je? Pourrais-je le faire retourner encore? Moi, j’irai vers lui. Lui, il ne retournera pas à moi.»",
+          "chapter": "12",
+          "name": "2 Samuel 12:23"
+        },
+        {
+          "verse": "24",
+          "text": "David réconforte Bat-Shèba‘, sa femme. Il vient à elle et il couche avec elle. Elle enfante un fils. Elle crie son nom, Shelomo. IHVH-Adonaï l’aime.",
+          "chapter": "12",
+          "name": "2 Samuel 12:24"
+        },
+        {
+          "verse": "25",
+          "text": "Il envoie par le main de Natân, l’inspiré, et il crie son nom: ‘Iedidyah», à cause de IHVH-Adonaï.",
+          "chapter": "12",
+          "name": "2 Samuel 12:25"
+        },
+        {
+          "verse": "26",
+          "text": "Ioab guerroie contre Raba des Benéi ‘Amôn. Il investit la ville royale.",
+          "chapter": "12",
+          "name": "2 Samuel 12:26"
+        },
+        {
+          "verse": "27",
+          "text": "Ioab envoie des messagers à David et dit: «J’ai guerroyé contre Raba. J’ai même investi la ville des eaux.",
+          "chapter": "12",
+          "name": "2 Samuel 12:27"
+        },
+        {
+          "verse": "28",
+          "text": "Maintenant, réunis le reste du peuple, campe contre la ville, investis-la, de peur que, moi, je n’investisse la ville et que mon nom soit crié sur elle.»",
+          "chapter": "12",
+          "name": "2 Samuel 12:28"
+        },
+        {
+          "verse": "29",
+          "text": "David réunit tout le peuple, va vers Raba, guerroie contre elle et l’investit.",
+          "chapter": "12",
+          "name": "2 Samuel 12:29"
+        },
+        {
+          "verse": "30",
+          "text": "Il prend la couronne de leur roi sur sa tête. Son poids: un talent d’or, avec une pierre précieuse. Elle est sur la tête de David. Il fait sortir le butin de la ville, en grande multitude, beaucoup.",
+          "chapter": "12",
+          "name": "2 Samuel 12:30"
+        },
+        {
+          "verse": "31",
+          "text": "Il avait fait sortir le peuple qui s’y trouvait et les avait mis à la scie, aux ciseaux de fer, aux haches de fer. Il les avait fait passer à la briqueterie. Il fait ainsi à toutes les villes des Benéi ‘Amôn. Puis David retourne avec tout le peuple à Ieroushalaîm.",
+          "chapter": "12",
+          "name": "2 Samuel 12:31"
+        }
+      ],
+      "name": "2 Samuel 12"
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et c’est après quoi, Abshalôm, le fils de David, a une sœur. Elle est belle. Son nom: Tamar. Amnôn, le fils de David, l’aime.",
+          "chapter": "13",
+          "name": "2 Samuel 13:1"
+        },
+        {
+          "verse": "2",
+          "text": "Amnôn est en détresse, à se rendre malade, à cause de Tamar, sa sœur. Oui, elle était vierge, et il semblait singulier aux yeux d’Amnôn de lui faire quoi que ce soit.",
+          "chapter": "13",
+          "name": "2 Samuel 13:2"
+        },
+        {
+          "verse": "3",
+          "text": "Amnôn avait un compagnon. Son nom: Yehonadab bèn Shim‘a, frère de David. Yehonadab était un homme très sage.",
+          "chapter": "13",
+          "name": "2 Samuel 13:3"
+        },
+        {
+          "verse": "4",
+          "text": "Il lui dit: «Pourquoi es-tu ainsi chétif, fils de roi, de matin en matin? Me le rapporteras-tu?» Amnôn lui dit: «J’aime Tamar, la sœur d’Abshalôm, mon frère.»",
+          "chapter": "13",
+          "name": "2 Samuel 13:4"
+        },
+        {
+          "verse": "5",
+          "text": "Yehonadab lui dit: «Couche-toi dans ton lit et fais le malade. Ton père viendra te voir. Dis-lui: ‹ Que Tamar, ma sœur, vienne donc et qu’elle me ravitaille de pain. Qu’elle fasse sous mes yeux un mets, afin que je voie et mange de sa main ›.»",
+          "chapter": "13",
+          "name": "2 Samuel 13:5"
+        },
+        {
+          "verse": "6",
+          "text": "Amnôn se couche. Il fait le malade. Le roi vient le voir. Amnôn dit au roi: «Que Tamar, ma sœur, vienne donc, qu’elle pétrisse sous mes yeux deux cœurs. Je me restaurerai de sa main.»",
+          "chapter": "13",
+          "name": "2 Samuel 13:6"
+        },
+        {
+          "verse": "7",
+          "text": "David envoie dire à Tamar, dans la maison: «Va donc dans la maison d’Amnôn, ton frère. Fais-lui un mets.»",
+          "chapter": "13",
+          "name": "2 Samuel 13:7"
+        },
+        {
+          "verse": "8",
+          "text": "Tamar va dans la maison d’Amnôn, son frère, il était couché. Elle prend la pâte, la pétrit, fait sous ses yeux et cuit les cœurs.",
+          "chapter": "13",
+          "name": "2 Samuel 13:8"
+        },
+        {
+          "verse": "9",
+          "text": "Elle prend l’écumoire et les coule en face de lui; mais il refuse de manger. Amnôn dit: «Faites sortir tout homme loin de moi!» Ils font sortir tout homme loin de lui.",
+          "chapter": "13",
+          "name": "2 Samuel 13:9"
+        },
+        {
+          "verse": "10",
+          "text": "Amnôn dit à Tamar: «Apporte-moi le mets dans la chambre. Je me restaurerai de ta main.» Tamar prend les cœurs qu’elle avait faits. Elle les fait venir à Amnôn, son frère, dans la chambre.",
+          "chapter": "13",
+          "name": "2 Samuel 13:10"
+        },
+        {
+          "verse": "11",
+          "text": "Elle les lui avance pour manger. Il l’étreint et lui dit: «Viens! Couche avec moi, ma sœur.»",
+          "chapter": "13",
+          "name": "2 Samuel 13:11"
+        },
+        {
+          "verse": "12",
+          "text": "Elle lui dit: «Non, mon frère, ne me violente pas! Cela ne se fait pas ainsi en Israël! Ne fais pas cette charogne!",
+          "chapter": "13",
+          "name": "2 Samuel 13:12"
+        },
+        {
+          "verse": "13",
+          "text": "Moi, où irai-je porter mon insulte? Et toi, tu seras comme l’une des charognes d’Israël. Maintenant, parle donc au roi; non, il ne m’interdira pas à toi.»",
+          "chapter": "13",
+          "name": "2 Samuel 13:13"
+        },
+        {
+          "verse": "14",
+          "text": "Mais il ne consent pas à entendre sa voix. Il l’étreint, la violente et couche avec elle.",
+          "chapter": "13",
+          "name": "2 Samuel 13:14"
+        },
+        {
+          "verse": "15",
+          "text": "Amnôn la hait, d’une très grande haine. Oui, la haine dont il la hait est plus grande que l’amour dont il l’aimait. Amnôn lui dit: «Lève-toi! Va-t’en!»",
+          "chapter": "13",
+          "name": "2 Samuel 13:15"
+        },
+        {
+          "verse": "16",
+          "text": "Elle lui dit: «Non, pas ce malheur plus grand que ce que tu m’as fait d’autre. Me renvoyer!» Mais il ne consent pas à l’entendre.",
+          "chapter": "13",
+          "name": "2 Samuel 13:16"
+        },
+        {
+          "verse": "17",
+          "text": "Il crie à son adolescent, son officier, et dit: «Renvoie donc celle-la loin de moi, dehors! Et verrouille la porte derrière elle!»",
+          "chapter": "13",
+          "name": "2 Samuel 13:17"
+        },
+        {
+          "verse": "18",
+          "text": "Oui, elle avait sur elle une aube à rayures: les filles du roi, les vierges revêtent de tels manteaux. Son officier la fait sortir dehors et verrouille la porte derrière elle.",
+          "chapter": "13",
+          "name": "2 Samuel 13:18"
+        },
+        {
+          "verse": "19",
+          "text": "Tamar répand de la cendre sur sa tête. Elle déchire l’aube à rayures qu’elle portait. Elle met sa main sur sa tête, et va, va, et crie.",
+          "chapter": "13",
+          "name": "2 Samuel 13:19"
+        },
+        {
+          "verse": "20",
+          "text": "Abshalôm, son frère, lui dit: «Amnôn, ton frère, était-il avec toi? Maintenant, ma sœur, c’est ton frère, tais-toi. Ne place pas ton cœur en cette parole.» Et Tamar habite, désolée, dans la maison d’Abshalôm son frère.",
+          "chapter": "13",
+          "name": "2 Samuel 13:20"
+        },
+        {
+          "verse": "21",
+          "text": "Le roi David entend toutes ces paroles. Cela le brûle fort.",
+          "chapter": "13",
+          "name": "2 Samuel 13:21"
+        },
+        {
+          "verse": "22",
+          "text": "Abshalôm ne parle pas avec Amnôn, en mal ni en bien, oui, Abshalôm haïssait Amnôn pour le propos, il avait violenté Tamar, sa sœur!",
+          "chapter": "13",
+          "name": "2 Samuel 13:22"
+        },
+        {
+          "verse": "23",
+          "text": "Et c’est des jours, deux ans après. Les tondeurs étaient chez Abshalôm, à Ba‘al Hasor, près d’Èphraîm. Abshalôm invite tous les fils du roi.",
+          "chapter": "13",
+          "name": "2 Samuel 13:23"
+        },
+        {
+          "verse": "24",
+          "text": "Abshalôm vient vers le roi et dit: «Voici donc, les tondeurs sont chez ton serviteur. Que le roi aille donc avec ses serviteurs chez ton serviteur.»",
+          "chapter": "13",
+          "name": "2 Samuel 13:24"
+        },
+        {
+          "verse": "25",
+          "text": "Le roi dit à Abshalôm: «Non, mon fils! Non, nous n’irons donc pas tous, nous ne pèserons pas sur toi.» Il le presse, mais il ne consent pas à aller et le bénit.",
+          "chapter": "13",
+          "name": "2 Samuel 13:25"
+        },
+        {
+          "verse": "26",
+          "text": "Abshalôm dit: «Sinon, qu’Amnôn, mon frère, vienne donc avec nous.» Le roi lui dit: «Pourquoi irait-il avec toi?»",
+          "chapter": "13",
+          "name": "2 Samuel 13:26"
+        },
+        {
+          "verse": "27",
+          "text": "Abshalôm le presse. Il lui envoie Amnôn et tous les fils du roi.",
+          "chapter": "13",
+          "name": "2 Samuel 13:27"
+        },
+        {
+          "verse": "28",
+          "text": "Abshalôm ordonne et dit à ses adolescents: «Voyez donc, quand Amnôn aura le cœur bien dans le vin je vous dirai: ‹ Frappez Amnôn! › et vous le mettrez à mort. Ne frémissez pas, n’est-ce pas moi-même qui vous l’ordonne? Soyez forts, soyez des fils de valeur!»",
+          "chapter": "13",
+          "name": "2 Samuel 13:28"
+        },
+        {
+          "verse": "29",
+          "text": "Les adolescents d’Abshalôm font à Amnôn comme Abshalôm l’avait ordonné. Tous les fils du roi se lèvent et chevauchent chaque homme son mulet et s’enfuient.",
+          "chapter": "13",
+          "name": "2 Samuel 13:29"
+        },
+        {
+          "verse": "30",
+          "text": "Et c’est tandis qu’ils sont en route, la rumeur parvient à David pour dire: «Abshalôm a frappé tous les fils du roi; il n’en reste pas un.»",
+          "chapter": "13",
+          "name": "2 Samuel 13:30"
+        },
+        {
+          "verse": "31",
+          "text": "Le roi se lève, déchire ses habits et se couche à terre. Tous ses serviteurs se postent, les habits déchirés.",
+          "chapter": "13",
+          "name": "2 Samuel 13:31"
+        },
+        {
+          "verse": "32",
+          "text": "Yehonadab bèn Shim‘a, le frère de David, répond et dit: «Que mon Adôn ne dise pas: ‹ Ils ont mit à mort tous les adolescents, les fils du roi! › Oui, seul Amnôn est mort. Oui, c’était dans la bouche d’Abshalôm, du jour où il avait violenté Tamar, sa sœur.",
+          "chapter": "13",
+          "name": "2 Samuel 13:32"
+        },
+        {
+          "verse": "33",
+          "text": "Maintenant, mon Adôn le roi ne mettra pas la parole dans son cœur pour dire: ‹ Tous les fils du roi sont morts ›; oui, Amnôn seul est mort.»",
+          "chapter": "13",
+          "name": "2 Samuel 13:33"
+        },
+        {
+          "verse": "34",
+          "text": "Abshalôm fuit. Un adolescent, le guetteur, porte ses yeux, voit. Et voici un peuple nombreux. Ils vont hors de la route, derrière lui, du côté de la montagne.",
+          "chapter": "13",
+          "name": "2 Samuel 13:34"
+        },
+        {
+          "verse": "35",
+          "text": "Yehonadab dit au roi: «Voici, les fils du roi viennent. C’est selon la parole de ton serviteur.»",
+          "chapter": "13",
+          "name": "2 Samuel 13:35"
+        },
+        {
+          "verse": "36",
+          "text": "Et c’est quand il achève de parler, voici, les fils du roi viennent. Ils portent leurs voix et pleurent. Le roi aussi et tous ses serviteurs pleurent, un très grand pleur.",
+          "chapter": "13",
+          "name": "2 Samuel 13:36"
+        },
+        {
+          "verse": "37",
+          "text": "Abshalôm fuit. Il va vers Talmaï bèn ‘Amioud, roi de Gueshour. Il s’endeuille sur son fils tous les jours.",
+          "chapter": "13",
+          "name": "2 Samuel 13:37"
+        },
+        {
+          "verse": "38",
+          "text": "Abshalôm fuit. Il va à Gueshour. Il est là trois ans.",
+          "chapter": "13",
+          "name": "2 Samuel 13:38"
+        },
+        {
+          "verse": "39",
+          "text": "Le roi David se consume pour sortir vers Abshalôm. Oui, il était réconforté d’Amnôn, car il était mort!",
+          "chapter": "13",
+          "name": "2 Samuel 13:39"
+        }
+      ],
+      "name": "2 Samuel 13"
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ioab bèn Serouyah le sait, oui, le cœur de roi était pour Abshalôm.",
+          "chapter": "14",
+          "name": "2 Samuel 14:1"
+        },
+        {
+          "verse": "2",
+          "text": "Ioab envoie prendre de Teqoa‘ une femme sage et lui dit: «Endeuille-toi donc, revêts donc les habits de deuil. Ne te frictionne pas d’huile, mais sois comme une femme qui, des jours multiples, s’endeuille sur un mort.",
+          "chapter": "14",
+          "name": "2 Samuel 14:2"
+        },
+        {
+          "verse": "3",
+          "text": "Viens vers le roi et parle-lui selon cette parole.» Et Ioab met les paroles dans sa bouche.",
+          "chapter": "14",
+          "name": "2 Samuel 14:3"
+        },
+        {
+          "verse": "4",
+          "text": "La femme de Teqoa‘ parle au roi; elle tombe sur ses narines, à terre, se prosterne et dit: «Sauve-moi, roi!»",
+          "chapter": "14",
+          "name": "2 Samuel 14:4"
+        },
+        {
+          "verse": "5",
+          "text": "Le roi lui dit: «Qu’as-tu?» Elle dit: «Mais je suis une femme, une veuve, et mon homme est mort.",
+          "chapter": "14",
+          "name": "2 Samuel 14:5"
+        },
+        {
+          "verse": "6",
+          "text": "Ta domestique a deux fils. Ils se sont querellés, les deux, dans les champs, et pas de sauveteur entre eux. L’un a frappé l’autre et l’a mis à mort.",
+          "chapter": "14",
+          "name": "2 Samuel 14:6"
+        },
+        {
+          "verse": "7",
+          "text": "Et voici, tout le clan s’est levé contre ta domestique. Ils disent: ‹ Donne le frappeur de son frère. Mettons-le à mort pour l’être de son frère, qu’il a tué. Exterminons aussi l’héritier! › Ils éteindraient ce qui reste de ma braise, à ne mettre à mon homme ni nom ni reste sur les faces de la glèbe!»",
+          "chapter": "14",
+          "name": "2 Samuel 14:7"
+        },
+        {
+          "verse": "8",
+          "text": "Le roi dit à la femme: «Va dans ta maison. Je donnerai des ordres pour toi.»",
+          "chapter": "14",
+          "name": "2 Samuel 14:8"
+        },
+        {
+          "verse": "9",
+          "text": "La femme de Teqoa‘ dit au roi: «Que le tort, mon Adôn le roi, soit sur moi et sur la maison de mon père! Le roi et son trône en seront innocents!»",
+          "chapter": "14",
+          "name": "2 Samuel 14:9"
+        },
+        {
+          "verse": "10",
+          "text": "Le roi dit: «Ton interlocuteur, fais-le venir vers moi. Il ne continuera plus à te toucher.»",
+          "chapter": "14",
+          "name": "2 Samuel 14:10"
+        },
+        {
+          "verse": "11",
+          "text": "Elle dit: «Le roi se souviendra donc, avec IHVH-Adonaï ton Elohîms, de ne pas multiplier ce que veut détruire le racheteur du sang: qu’ils n’exterminent pas mon fils!» Il dit: «Vive IHVH-Adonaï! Il ne tombera pas un des cheveux de ton fils à terre.»",
+          "chapter": "14",
+          "name": "2 Samuel 14:11"
+        },
+        {
+          "verse": "12",
+          "text": "La femme dit: «Ta domestique parlera donc à mon Adôn le roi une parole!» Il dit: «Parle»!",
+          "chapter": "14",
+          "name": "2 Samuel 14:12"
+        },
+        {
+          "verse": "13",
+          "text": "La femme dit: «Pourquoi as-tu pensé ainsi contre le peuple d’Elohîms? Le roi, en parlant de ce propos, le roi est coupable de ne pas faire retourner son banni.",
+          "chapter": "14",
+          "name": "2 Samuel 14:13"
+        },
+        {
+          "verse": "14",
+          "text": "Oui, nous mourrons, nous mourrons; mais, comme l’eau qui gicle à terre ne peut être recueillie, qu’Elohîms ne porte pas l’être! Pense à ces pensées afin de ne pas bannir loin de lui le banni.",
+          "chapter": "14",
+          "name": "2 Samuel 14:14"
+        },
+        {
+          "verse": "15",
+          "text": "Maintenant, je suis venue parler au roi mon Adôn cette parole, parce que le peuple me fait frémir. Mais ta domestique a dit: ‹ Je parlerai donc au roi. Peut-être le roi fera-t-il la parole de sa servante. ›",
+          "chapter": "14",
+          "name": "2 Samuel 14:15"
+        },
+        {
+          "verse": "16",
+          "text": "Oui, le roi entendra secourir sa servante de la paume de l’homme qui veut m’exterminer avec mon fils, ensemble, de la possession d’Elohîms.",
+          "chapter": "14",
+          "name": "2 Samuel 14:16"
+        },
+        {
+          "verse": "17",
+          "text": "Ta domestique dit: La parole de mon Adôn le roi sera donc pour le repos. Oui, mon Adôn le roi est comme un messager d’Elohîms, pour entendre le bien et le mal. IHVH-Adonaï, ton Elohîms, sera avec toi!»",
+          "chapter": "14",
+          "name": "2 Samuel 14:17"
+        },
+        {
+          "verse": "18",
+          "text": "Le roi répond et dit à la femme: «Ne me masque donc pas une parole de ce que je te demanderai moi-même.» La femme dit: «Que mon Adôn le roi parle donc!»",
+          "chapter": "14",
+          "name": "2 Samuel 14:18"
+        },
+        {
+          "verse": "19",
+          "text": "Le roi dit: «La main de Ioab est-elle avec toi dans tout cela?» La femme répond et dit: «Vive ton être, mon Adôn le roi! Il ne faut aller ni à droite ni à gauche en tout ce que parle mon Adôn le roi! Oui, ton serviteur Ioab me l’a ordonné, lui. C’est lui qui a mis dans la bouche de ta domestique toutes ces paroles.",
+          "chapter": "14",
+          "name": "2 Samuel 14:19"
+        },
+        {
+          "verse": "20",
+          "text": "Pour détourner les faces de la parole, ton serviteur Ioab a fait cette parole. Mais mon Adôn est sage de la sagesse d’Elohîms, pour savoir tout ce qui est sur la terre!»",
+          "chapter": "14",
+          "name": "2 Samuel 14:20"
+        },
+        {
+          "verse": "21",
+          "text": "Le roi dit à Ioab: «Voici donc, je fais cette parole: Va, fais retourner l’adolescent, Abshalôm!»",
+          "chapter": "14",
+          "name": "2 Samuel 14:21"
+        },
+        {
+          "verse": "22",
+          "text": "Ioab tombe sur ses faces à terre; il se prosterne, et bénit le roi. Ioab dit: «Aujourd’hui, ton serviteur le sait, oui j’ai trouvé grâce à tes yeux, mon Adôn le roi, puisque le roi fait la parole de ton serviteur.»",
+          "chapter": "14",
+          "name": "2 Samuel 14:22"
+        },
+        {
+          "verse": "23",
+          "text": "Ioab se lève et va à Gueshour et fait venir Abshalôm à Ieroushalaîm.",
+          "chapter": "14",
+          "name": "2 Samuel 14:23"
+        },
+        {
+          "verse": "24",
+          "text": "Le roi dit: «Il retournera dans sa maison, mais il ne verra pas mes faces!» Abshalôm s’installe dans sa maison; mais il ne voyait pas les faces du roi.",
+          "chapter": "14",
+          "name": "2 Samuel 14:24"
+        },
+        {
+          "verse": "25",
+          "text": "Comme Abshalôm, il n’était pas de plus bel homme en tout Israël à être fort louangé de la plante de son pied jusqu’à son occiput, il n’était en lui aucune tare.",
+          "chapter": "14",
+          "name": "2 Samuel 14:25"
+        },
+        {
+          "verse": "26",
+          "text": "Quand il se rasait la tête, c’était au bout de jours et de jours qu’il se rasait. Oui, cela lui pesait et il se rasait. Le poil de sa tête pesait deux cents sicles à la pierre du roi.",
+          "chapter": "14",
+          "name": "2 Samuel 14:26"
+        },
+        {
+          "verse": "27",
+          "text": "Il naquit à Abshalôm trois fils et une fille. Son nom, Tamar. Elle était une femme belle à voir.",
+          "chapter": "14",
+          "name": "2 Samuel 14:27"
+        },
+        {
+          "verse": "28",
+          "text": "Abshalôm habite à Ieroushalaîm deux années de jours sans voir les faces du roi.",
+          "chapter": "14",
+          "name": "2 Samuel 14:28"
+        },
+        {
+          "verse": "29",
+          "text": "Abshalôm envoie quérir Ioab pour l’envoyer au roi, mais il ne consent pas à venir à lui. Il l’envoie quérir une deuxième fois encore, mais il ne consent pas à venir.",
+          "chapter": "14",
+          "name": "2 Samuel 14:29"
+        },
+        {
+          "verse": "30",
+          "text": "Il dit à ses serviteurs: «Voyez la parcelle de Ioab sous ma main. Il y a là de l’orge. Incendiez-la par le feu. Les serviteurs d’Abshalôm incendient la parcelle.",
+          "chapter": "14",
+          "name": "2 Samuel 14:30"
+        },
+        {
+          "verse": "31",
+          "text": "Ioab se lève et vient vers Abshalôm, dans sa maison. Il lui dit: «Pourquoi tes serviteurs ont-ils incendié au feu la parcelle qui est à moi?»",
+          "chapter": "14",
+          "name": "2 Samuel 14:31"
+        },
+        {
+          "verse": "32",
+          "text": "Abshalôm dit à Ioab: «Voici, je t’avais envoyé pour dire: ‹ Viens ici. › Je t’envoie dire au roi: ‹ Pourquoi suis-je venu de Gueshour? C’était bien pour moi tant que j’étais là. Maintenant, je verrai les faces du roi. S’il existe en moi un tort, qu’il me mette à mort ›.»",
+          "chapter": "14",
+          "name": "2 Samuel 14:32"
+        },
+        {
+          "verse": "33",
+          "text": "Ioab vient le rapporter au roi, qui invite Abshalôm. Celui-ci vient vers le roi et se prosterne, narines à terre, en face du roi. Le roi embrasse Abshalôm.",
+          "chapter": "14",
+          "name": "2 Samuel 14:33"
+        }
+      ],
+      "name": "2 Samuel 14"
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et c’est après cela, Abshalôm se fait un chariot et des chevaux. Cinquante hommes courent en face de lui.",
+          "chapter": "15",
+          "name": "2 Samuel 15:1"
+        },
+        {
+          "verse": "2",
+          "text": "Abshalôm se lève tôt et se tient sur la main de la route de la porte. Et c’est à tout homme qui avait un litige et venait vers le roi pour un jugement, Abshalôm lui criait et disait: «De quelle ville es-tu?» Il disait: «Ton serviteur est de tel rameau d’Israël.»",
+          "chapter": "15",
+          "name": "2 Samuel 15:2"
+        },
+        {
+          "verse": "3",
+          "text": "Abshalôm lui disait: «Vois, tes paroles sont bonnes et réelles; mais nul ne t’entendra du côté du roi!»",
+          "chapter": "15",
+          "name": "2 Samuel 15:3"
+        },
+        {
+          "verse": "4",
+          "text": "Abshalôm disait: «Qui me mettra en juge de la terre, pour que tout homme qui sera en litige et en jugement vienne vers moi et que je lui rende justice?»",
+          "chapter": "15",
+          "name": "2 Samuel 15:4"
+        },
+        {
+          "verse": "5",
+          "text": "Et c’est quand un homme se présentait pour se prosterner devant lui, il lui tendait la main, le saisissait et l’embrassait.",
+          "chapter": "15",
+          "name": "2 Samuel 15:5"
+        },
+        {
+          "verse": "6",
+          "text": "Abshalôm faisait selon ce propos à tout Israël, à ceux qui venaient en jugement chez le roi. Abshalôm volait le cœur des hommes d’Israël.",
+          "chapter": "15",
+          "name": "2 Samuel 15:6"
+        },
+        {
+          "verse": "7",
+          "text": "Et c’est au bout de quarante ans, Abshalôm dit au roi: «J’irai donc, je paierai mon vœu, ce que j’ai voué à IHVH-Adonaï, à Hèbrôn.",
+          "chapter": "15",
+          "name": "2 Samuel 15:7"
+        },
+        {
+          "verse": "8",
+          "text": "Oui, ton serviteur a voué un vœu quand j’habitais à Gueshour, en Arâm, pour dire: Si IHVH-Adonaï me fait retourner, retourner à Ieroushalaîm, je servirai IHVH-Adonaï.»",
+          "chapter": "15",
+          "name": "2 Samuel 15:8"
+        },
+        {
+          "verse": "9",
+          "text": "Le roi lui dit: «Va en paix!» Il se lève et va à Hèbrôn.",
+          "chapter": "15",
+          "name": "2 Samuel 15:9"
+        },
+        {
+          "verse": "10",
+          "text": "Abshalôm envoie des espions dans tous les rameaux d’Israël pour dire: «Quand vous entendrez la voix du shophar, dites: ‹ Abshalôm règne à Hèbrôn ›.»",
+          "chapter": "15",
+          "name": "2 Samuel 15:10"
+        },
+        {
+          "verse": "11",
+          "text": "Deux cents hommes vont avec Abshalôm de Ieroushalaîm. Invités, ils vont en leur intégrité mais ne connaissent pas tout le propos.",
+          "chapter": "15",
+          "name": "2 Samuel 15:11"
+        },
+        {
+          "verse": "12",
+          "text": "Abshalôm envoie quérir Ahitophèl, le Guiloni, le conseiller de David, de sa ville, de Guilo, tandis qu’il sacrifiait des sacrifices. Et c’est le complot; il s’affermit; et le peuple va en se multipliant avec Abshalôm.",
+          "chapter": "15",
+          "name": "2 Samuel 15:12"
+        },
+        {
+          "verse": "13",
+          "text": "Le rapporteur vient vers David, pour dire: «Le cœur de l’homme d’Israël est derrière Abshalôm.»",
+          "chapter": "15",
+          "name": "2 Samuel 15:13"
+        },
+        {
+          "verse": "14",
+          "text": "David dit à tous ses serviteurs avec lui à Ieroushalaîm: «Levez-vous! Fuyons! Oui, il ne sera pas pour nous d’évasion en face d’Abshalôm. Hâtez-vous d’aller, qu’il ne se hâte, ne nous atteigne, ne fasse tomber sur nous le malheur, et ne frappe la ville à bouche d’épée.»",
+          "chapter": "15",
+          "name": "2 Samuel 15:14"
+        },
+        {
+          "verse": "15",
+          "text": "Les serviteurs du roi disent au roi: «En tout ce que choisira mon Adôn le roi, voici tes serviteurs.»",
+          "chapter": "15",
+          "name": "2 Samuel 15:15"
+        },
+        {
+          "verse": "16",
+          "text": "Le roi sort à pied avec toute sa maison. Le roi abandonne les dix femmes, les concubines, pour garder la maison.",
+          "chapter": "15",
+          "name": "2 Samuel 15:16"
+        },
+        {
+          "verse": "17",
+          "text": "Le roi sort à pied avec tout le peuple. Ils s’arrêtent dans une maison distante.",
+          "chapter": "15",
+          "name": "2 Samuel 15:17"
+        },
+        {
+          "verse": "18",
+          "text": "Tous ses serviteurs passent sous sa main, tous les Keréti, tous les Peléti, tous les Guitîm: six cents hommes qui étaient venus à pied de Gat. Ils passent en face du roi.",
+          "chapter": "15",
+          "name": "2 Samuel 15:18"
+        },
+        {
+          "verse": "19",
+          "text": "Le roi dit à Itaï le Guiti: «Pourquoi vas-tu, toi aussi, avec nous? Retourne et habite avec le roi. Oui, tu es un étranger et même un exilé de ton lieu.",
+          "chapter": "15",
+          "name": "2 Samuel 15:19"
+        },
+        {
+          "verse": "20",
+          "text": "D’hier, ta venue et d’aujourd’hui, je te déplacerais pour aller avec nous? Moi j’irai où j’irai. Retourne et fais retourner tes frères avec toi en faveur et vérité.»",
+          "chapter": "15",
+          "name": "2 Samuel 15:20"
+        },
+        {
+          "verse": "21",
+          "text": "Itaï répond au roi et dit: «Vive IHVH-Adonaï! Vive mon Adôn le roi! Seulement au lieu où mon Adôn le roi sera, oui, ton serviteur sera là, à la vie, à la mort!»",
+          "chapter": "15",
+          "name": "2 Samuel 15:21"
+        },
+        {
+          "verse": "22",
+          "text": "Le roi dit à Itaï: «Va. Passe!» Itaï le Guiti passe avec tous ses hommes et toute la marmaille qui est avec lui.",
+          "chapter": "15",
+          "name": "2 Samuel 15:22"
+        },
+        {
+          "verse": "23",
+          "text": "Toute la terre pleure à grande voix et tout le peuple passe. Le roi passe au torrent de Qidrôn. Et tout le peuple passe sur les faces de la route, au désert.",
+          "chapter": "15",
+          "name": "2 Samuel 15:23"
+        },
+        {
+          "verse": "24",
+          "text": "Et voici, Sadoq aussi et tous les Lévi portent avec lui le coffre du pacte d’Elohîms. Ils installent le coffre d’Elohîms tandis qu’Èbiatar monte, jusqu’à ce que le peuple achève de passer hors de la ville.",
+          "chapter": "15",
+          "name": "2 Samuel 15:24"
+        },
+        {
+          "verse": "25",
+          "text": "Le roi dit à Sadoq: «Fais retourner en ville le coffre d’Elohîms. Si je trouve grâce aux yeux de IHVH-Adonaï, il me fera retourner, il me fera le revoir, lui et son logis.",
+          "chapter": "15",
+          "name": "2 Samuel 15:25"
+        },
+        {
+          "verse": "26",
+          "text": "Et s’il dit ainsi: ‹ Je ne te désire pas ›, me voici. Il me fera comme bon à ses yeux.»",
+          "chapter": "15",
+          "name": "2 Samuel 15:26"
+        },
+        {
+          "verse": "27",
+          "text": "Le roi dit à Sadoq le desservant: «Vois, retourne en paix dans la ville, et Ahima‘as ton fils et Iehonatân le fils d’Èbiatar, vos deux fils avec vous.",
+          "chapter": "15",
+          "name": "2 Samuel 15:27"
+        },
+        {
+          "verse": "28",
+          "text": "Voyez, moi-même, je m’attarderai dans les steppes du désert, jusqu’à la venue d’une parole de vous pour me la rapporter.»",
+          "chapter": "15",
+          "name": "2 Samuel 15:28"
+        },
+        {
+          "verse": "29",
+          "text": "Sadoq et Èbiatar font retourner le coffre d’Elohîms à Ieroushalaîm et habitent là.",
+          "chapter": "15",
+          "name": "2 Samuel 15:29"
+        },
+        {
+          "verse": "30",
+          "text": "David monte la Montée des Oliviers; il monte et pleure, la tête recouverte. Il va lui-même nu-pieds. Tout le peuple qui est avec lui se recouvre la tête. Ils montent, montent et pleurent.",
+          "chapter": "15",
+          "name": "2 Samuel 15:30"
+        },
+        {
+          "verse": "31",
+          "text": "Il est rapporté à David pour dire: «Ahitophèl est parmi les comploteurs, avec Abshalôm.» David dit: «Rends donc aberrant le conseil d’Ahitophèl, IHVH-Adonaï!»",
+          "chapter": "15",
+          "name": "2 Samuel 15:31"
+        },
+        {
+          "verse": "32",
+          "text": "Et c’est David, venu jusqu’en tête, là où il se prosterne devant Elohîms. Et voici à son abord Houshaï, l’Arki, son aube déchirée, de la glèbe sur la tête.",
+          "chapter": "15",
+          "name": "2 Samuel 15:32"
+        },
+        {
+          "verse": "33",
+          "text": "David lui dit: «Si tu passes avec moi, tu seras pour moi en charge.",
+          "chapter": "15",
+          "name": "2 Samuel 15:33"
+        },
+        {
+          "verse": "34",
+          "text": "Si tu retournes en ville, dis à Abshalôm: ‹ Roi, moi je serai ton serviteur! J’étais le serviteur de ton père depuis toujours; mais, maintenant, je serai ton serviteur. › Tu annuleras pour moi le conseil d’Ahitophèl.",
+          "chapter": "15",
+          "name": "2 Samuel 15:34"
+        },
+        {
+          "verse": "35",
+          "text": "Sadoq et Èbiatar, les desservants, ne sont-ils pas là avec toi? Et c’est toute la parole que tu entendras de la maison du roi, tu la rapporteras à Sadoq et Èbiatar, les desservants.",
+          "chapter": "15",
+          "name": "2 Samuel 15:35"
+        },
+        {
+          "verse": "36",
+          "text": "Et voici, leurs deux fils sont avec eux, Ahima‘as de Sadoq, et Iehonatân d’Èbiatar; envoie-moi de leurs mains toute parole que vous entendrez.»",
+          "chapter": "15",
+          "name": "2 Samuel 15:36"
+        },
+        {
+          "verse": "37",
+          "text": "Houshaï, le compagnon de David, vient en ville, et Abshalôm vient à Ieroushalaîm.",
+          "chapter": "15",
+          "name": "2 Samuel 15:37"
+        }
+      ],
+      "name": "2 Samuel 15"
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "David avait passé de peu la tête, et voici Siba, l’adolescent de Mephiboshèt, à son abord, avec un couple d’ânes bridés avec, sur eux, deux cents pains, un cent de raisins secs, un cent de fruits d’été, et une outre de vin.",
+          "chapter": "16",
+          "name": "2 Samuel 16:1"
+        },
+        {
+          "verse": "2",
+          "text": "Le roi dit à Siba: «Que sont pour toi ceux-là?» Siba dit: «Des ânes pour la maison du roi, pour chevaucher; du pain et des fruits d’été pour nourrir les adolescents; et du vin pour faire boire les fatigués au désert.»",
+          "chapter": "16",
+          "name": "2 Samuel 16:2"
+        },
+        {
+          "verse": "3",
+          "text": "Le roi dit: «Où est le fils de ton Adôn?» Siba dit au roi: «Voici, il habite à Ieroushalaîm. Oui, il dit: Aujourd’hui la maison d’Israël me retournera la royauté de mon père.»",
+          "chapter": "16",
+          "name": "2 Samuel 16:3"
+        },
+        {
+          "verse": "4",
+          "text": "Le roi dit à Siba: «Voici: tout ce qui était à Mephiboshèt est à toi.» Siba dit: «Je me prosterne! J’ai trouvé grâce à tes yeux, mon Adôn le roi!»",
+          "chapter": "16",
+          "name": "2 Samuel 16:4"
+        },
+        {
+          "verse": "5",
+          "text": "Le roi David vient jusqu’à Bahourîm. Voici, un homme sort de là, du clan de la maison de Shaoul. Son nom: Shim‘i bèn Guéra. Il sort, sort et maudit.",
+          "chapter": "16",
+          "name": "2 Samuel 16:5"
+        },
+        {
+          "verse": "6",
+          "text": "Il lapide, avec des pierres, David et tous les serviteurs du roi. David, tout le peuple et tous les héros étaient à sa droite et à sa gauche.",
+          "chapter": "16",
+          "name": "2 Samuel 16:6"
+        },
+        {
+          "verse": "7",
+          "text": "Shim‘i disait ainsi en maudissant: «Sors, sors, homme de sang, homme de Belia‘al!",
+          "chapter": "16",
+          "name": "2 Samuel 16:7"
+        },
+        {
+          "verse": "8",
+          "text": "IHVH-Adonaï retourne contre toi tout le sang de la maison de Shaoul, toi qui as régné à sa place! IHVH-Adonaï donne la royauté en main d’Abshalôm, ton fils. Et te voilà dans ton malheur, oui, toi, homme de sang.»",
+          "chapter": "16",
+          "name": "2 Samuel 16:8"
+        },
+        {
+          "verse": "9",
+          "text": "Abishaï bèn Serouyah dit au roi: «Pourquoi ce chien crevé maudira-t-il mon Adôn le roi? Je passerai donc et je lui couperai la tête!»",
+          "chapter": "16",
+          "name": "2 Samuel 16:9"
+        },
+        {
+          "verse": "10",
+          "text": "Le roi dit: «Fils de Serouyah, qu’y a-t-il entre moi et vous? Oui, il maudit ainsi parce que IHVH-Adonaï lui a dit: ‹ Maudis David. › Mais qui dira: Pourquoi agis-tu ainsi?»",
+          "chapter": "16",
+          "name": "2 Samuel 16:10"
+        },
+        {
+          "verse": "11",
+          "text": "David dit à Abishaï et à tous ses serviteurs: «Voici, mon fils, sorti de mes boyaux, en voulait à mon être! Maintenant même, c’est un Bèn Iemini! Laissez-le! Qu’il maudisse! Oui, IHVH-Adonaï le lui a dit.",
+          "chapter": "16",
+          "name": "2 Samuel 16:11"
+        },
+        {
+          "verse": "12",
+          "text": "Peut-être IHVH-Adonaï verra-t-il mon humiliation et me retournera-t-il un bien contre sa malédiction, aujourd’hui.»",
+          "chapter": "16",
+          "name": "2 Samuel 16:12"
+        },
+        {
+          "verse": "13",
+          "text": "David va avec ses hommes sur la route. Shim‘i va sur le côté de la montagne, à son opposé. Il va, maudit, lapide de pierres à son opposé et empoussière de poussière.",
+          "chapter": "16",
+          "name": "2 Samuel 16:13"
+        },
+        {
+          "verse": "14",
+          "text": "Le roi vient avec tout le peuple; ils étaient fatigués; mais là, il respire.",
+          "chapter": "16",
+          "name": "2 Samuel 16:14"
+        },
+        {
+          "verse": "15",
+          "text": "Abshalôm et tout le peuple des hommes d’Israël viennent à Ieroushalaîm; Ahitophèl avec lui.",
+          "chapter": "16",
+          "name": "2 Samuel 16:15"
+        },
+        {
+          "verse": "16",
+          "text": "Et c’est quand Houshaï, l’Arki, le compagnon de David, vient vers Abshalôm, Houshaï dit à Abshalôm: «Vive le roi! Vive le roi!»",
+          "chapter": "16",
+          "name": "2 Samuel 16:16"
+        },
+        {
+          "verse": "17",
+          "text": "Abshalôm dit à Houshaï: «Est-ce là ta faveur pour ton compagnon! Pourquoi n’es-tu pas allé avec ton compagnon?»",
+          "chapter": "16",
+          "name": "2 Samuel 16:17"
+        },
+        {
+          "verse": "18",
+          "text": "Houshaï dit à Abshalôm: «Non, car celui que IHVH-Adonaï, ce peuple et tout homme d’Israël ont choisi, à lui je serai et avec lui je resterai!",
+          "chapter": "16",
+          "name": "2 Samuel 16:18"
+        },
+        {
+          "verse": "19",
+          "text": "Deuxièmement: qui servirai-je, moi? N’est-ce pas en face de son fils? Comme j’ai servi en face de son père, ainsi serai-je en face de toi.»",
+          "chapter": "16",
+          "name": "2 Samuel 16:19"
+        },
+        {
+          "verse": "20",
+          "text": "Abshalôm dit à Ahitophèl: «Tenez conseil. Que ferons-nous?»",
+          "chapter": "16",
+          "name": "2 Samuel 16:20"
+        },
+        {
+          "verse": "21",
+          "text": "Ahitophèl dit à Abshalôm: «Viens vers les concubines de ton père, qu’il a laissées pour garder la maison. Tout Israël entendra que tu pues pour ton père. Les mains de tous ceux qui sont avec toi se renforceront.»",
+          "chapter": "16",
+          "name": "2 Samuel 16:21"
+        },
+        {
+          "verse": "22",
+          "text": "Ils tendent pour Abshalôm une tente sur le toit. Abshalôm vient vers les concubines de son père, aux yeux de tout Israël.",
+          "chapter": "16",
+          "name": "2 Samuel 16:22"
+        },
+        {
+          "verse": "23",
+          "text": "Le conseil d’Ahitophèl, ce qu’il conseillait en ces jours-là, quand un homme le questionnait sur la parole d’Elohîms, tout conseil d’Ahitophèl était respecté par David autant que par Abshalôm.",
+          "chapter": "16",
+          "name": "2 Samuel 16:23"
+        }
+      ],
+      "name": "2 Samuel 16"
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ahitophèl dit à Abshalôm: «Je choisirai douze mille hommes; je me lèverai et je poursuivrai David, cette nuit.",
+          "chapter": "17",
+          "name": "2 Samuel 17:1"
+        },
+        {
+          "verse": "2",
+          "text": "Je viendrai contre lui. Il est las, les mains lâches. Je le ferai trembler; et tout le peuple qui est avec lui s’enfuira. Alors je frapperai le roi seul.",
+          "chapter": "17",
+          "name": "2 Samuel 17:2"
+        },
+        {
+          "verse": "3",
+          "text": "Je ferai retourner vers toi tout le peuple. Comme au retour de tout, ainsi de l’homme que tu cherches, et tout le peuple sera en paix.»",
+          "chapter": "17",
+          "name": "2 Samuel 17:3"
+        },
+        {
+          "verse": "4",
+          "text": "La parole est droite aux yeux d’Abshalôm et aux yeux de tous les anciens d’Israël.",
+          "chapter": "17",
+          "name": "2 Samuel 17:4"
+        },
+        {
+          "verse": "5",
+          "text": "Abshalôm dit: «Crie donc aussi Houshaï, l’Arki. Entendons de lui aussi ce qui est en sa bouche.»",
+          "chapter": "17",
+          "name": "2 Samuel 17:5"
+        },
+        {
+          "verse": "6",
+          "text": "Houshaï vient vers Abshalôm. Abshalôm lui dit pour dire: «Ahitophèl a parlé cette parole. Ferons-nous sa parole ou non? Toi, parle!»",
+          "chapter": "17",
+          "name": "2 Samuel 17:6"
+        },
+        {
+          "verse": "7",
+          "text": "Houshaï dit à Abshalôm: «Le conseil qu’Ahitophèl a conseillé n’est pas bien, cette fois.»",
+          "chapter": "17",
+          "name": "2 Samuel 17:7"
+        },
+        {
+          "verse": "8",
+          "text": "Houshaï dit: «Tu connais, toi, ton père et ses hommes: oui, ce sont des héros, eux, amers d’être, eux, comme un ours désenfanté dans un champ. Ton père est un homme de guerre. Il ne nuitera pas avec le peuple!",
+          "chapter": "17",
+          "name": "2 Samuel 17:8"
+        },
+        {
+          "verse": "9",
+          "text": "Voici, il est maintenant dissimulé dans une excavation, ou dans quelque lieu. Et c’est, quand l’un d’entre eux tombera au commencement, un entendeur entendra et dira: ‹ Le peuple qui est derrière Abshalôm est battu! ›",
+          "chapter": "17",
+          "name": "2 Samuel 17:9"
+        },
+        {
+          "verse": "10",
+          "text": "Lui aussi est un fils de valeur, dont le cœur est comme un cœur de lion. Fondrait-il, fondrait-il? Oui, tout Israël sait que ton père est un héros, et des fils de valeur sont avec lui.",
+          "chapter": "17",
+          "name": "2 Samuel 17:10"
+        },
+        {
+          "verse": "11",
+          "text": "Oui, je le conseille: tout Israël se ralliera, se ralliera à toi, de Dân à Beér Shèba‘, comme le sable sur la mer, en multitude. Alors tes faces iront à la bataille.",
+          "chapter": "17",
+          "name": "2 Samuel 17:11"
+        },
+        {
+          "verse": "12",
+          "text": "Nous irons vers lui dans un des lieux où il se trouvera. Nous nous poserons sur lui comme la rosée tombe sur la glèbe. Il ne restera de lui, et des hommes qui sont avec lui, pas même un seul.",
+          "chapter": "17",
+          "name": "2 Samuel 17:12"
+        },
+        {
+          "verse": "13",
+          "text": "S’il se retire dans une ville, tout Israël portera cette ville avec des cordes, et nous la traînerons jusqu’au torrent, jusqu’à ce que ne s’en trouve pas même un caillou.»",
+          "chapter": "17",
+          "name": "2 Samuel 17:13"
+        },
+        {
+          "verse": "14",
+          "text": "Abshalôm dit avec tout homme d’Israël: «Le conseil de Houshaï, l’Arki, est meilleur que le conseil d’Ahitophèl.» Ainsi IHVH-Adonaï ordonnait d’annuler le bon conseil d’Ahitophèl, pour que IHVH-Adonaï fasse venir le malheur sur Abshalôm.",
+          "chapter": "17",
+          "name": "2 Samuel 17:14"
+        },
+        {
+          "verse": "15",
+          "text": "Houshaï dit à Sadoq et à Èbiatar, les desservants: «Ahitophèl a conseillé ceci et cela à Abshalôm et aux anciens d’Israël. Et moi je leur ai conseillé ceci et cela.",
+          "chapter": "17",
+          "name": "2 Samuel 17:15"
+        },
+        {
+          "verse": "16",
+          "text": "Maintenant, envoyez vite le rapporter à David pour dire: Ne nuite pas, cette nuit, dans les steppes du désert. Passe, passe aussi de peur que le roi et tout le peuple avec lui ne soient engloutis.»",
+          "chapter": "17",
+          "name": "2 Samuel 17:16"
+        },
+        {
+          "verse": "17",
+          "text": "Iehonatân et Ahima‘as se tiennent à ‘Éïn-Roguél. La domestique va, et le leur rapporte. Eux, ils iront le rapporter au roi David, car ils ne pouvaient pas se faire voir à l’entrée de la ville.",
+          "chapter": "17",
+          "name": "2 Samuel 17:17"
+        },
+        {
+          "verse": "18",
+          "text": "Un adolescent les voit et le rapporte à Abshalôm. Les deux s’en vont vite. Ils viennent dans la maison d’un homme à Bahourîm. Il a un puits dans sa cour. Ils y descendent.",
+          "chapter": "17",
+          "name": "2 Samuel 17:18"
+        },
+        {
+          "verse": "19",
+          "text": "La femme prend l’écran et le déplie sur les faces du puits. Elle y étale des gruaux et le propos n’est pas connu.",
+          "chapter": "17",
+          "name": "2 Samuel 17:19"
+        },
+        {
+          "verse": "20",
+          "text": "Les serviteurs d’Abshalôm viennent chez la femme, dans la maison. Ils disent: «Où sont Ahima‘as et Iehonatân?» La femme leur dit: «Ils ont passé le caniveau d’eau.» Ils les cherchent, ne les trouvent pas et retournent à Ieroushalaîm.",
+          "chapter": "17",
+          "name": "2 Samuel 17:20"
+        },
+        {
+          "verse": "21",
+          "text": "Et c’est après leur départ, ils remontent du puits et vont le rapporter au roi David. Ils disent à David: «Levez-vous, passez vite l’eau: oui, Ahitophèl a conseillé ceci contre vous.»",
+          "chapter": "17",
+          "name": "2 Samuel 17:21"
+        },
+        {
+          "verse": "22",
+          "text": "David se lève et tout le peuple avec lui; ils passent le Iardèn avant la lumière du matin, jusqu’à ce que personne ne soit absent qui n’eût passé le Iardèn.",
+          "chapter": "17",
+          "name": "2 Samuel 17:22"
+        },
+        {
+          "verse": "23",
+          "text": "Ahitophèl avait vu que son conseil n’était pas exécuté. Il selle l’âne, se lève et va dans sa maison, dans sa ville. Il teste pour sa maison, s’étrangle et meurt. Il est enseveli dans le sépulcre de son père.",
+          "chapter": "17",
+          "name": "2 Samuel 17:23"
+        },
+        {
+          "verse": "24",
+          "text": "David vient à Mahanaîm. Abshalôm passe le Iardèn, lui et tous les hommes d’Israël avec lui.",
+          "chapter": "17",
+          "name": "2 Samuel 17:24"
+        },
+        {
+          "verse": "25",
+          "text": "Abshalôm avait mis ‘Amassa à la place de Ioab sur la milice. ‘Amassa est le fils d’un homme du nom d’Itra, l’Izre‘éli qui était venu vers Abigaïl, la fille de Nahash, la sœur de Serouyah, la mère de Ioab.",
+          "chapter": "17",
+          "name": "2 Samuel 17:25"
+        },
+        {
+          "verse": "26",
+          "text": "Israël et Abshalôm campent en terre de Guil‘ad.",
+          "chapter": "17",
+          "name": "2 Samuel 17:26"
+        },
+        {
+          "verse": "27",
+          "text": "Et c’est à la venue de David à Mahanaîm, Shobi bèn Nahash, de Raba des Benéi ‘Amôn, Makhir bèn ‘Amiél, de Lo Debar, et Barzilaï, le Guil‘adi, de Roguelîm,",
+          "chapter": "17",
+          "name": "2 Samuel 17:27"
+        },
+        {
+          "verse": "28",
+          "text": "avancent pour David et pour le peuple avec lui, des couches, des coupelles, des objets de potier, des blés, des orges, de la mouture, du grain torréfié, des fèves, des lentilles, du torréfié,",
+          "chapter": "17",
+          "name": "2 Samuel 17:28"
+        },
+        {
+          "verse": "29",
+          "text": "du miel, du babeurre, des ovins et des jonchées de vaches pour manger. Oui, ils disaient: «Le peuple est affamé, fatigué, assoiffé au désert.»",
+          "chapter": "17",
+          "name": "2 Samuel 17:29"
+        }
+      ],
+      "name": "2 Samuel 17"
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "David recense le peuple qui est avec lui. Il met sur eux des chefs de mille et des chefs de cent.",
+          "chapter": "18",
+          "name": "2 Samuel 18:1"
+        },
+        {
+          "verse": "2",
+          "text": "David envoie le peuple, un tiers en main de Ioab, un tiers en main d’Abishaï bèn Serouyah, le frère de Ioab, et un tiers en main d’Itaï, le Guiti. Le roi dit au peuple: «Je sortirai, je sortirai, moi aussi, avec vous.»",
+          "chapter": "18",
+          "name": "2 Samuel 18:2"
+        },
+        {
+          "verse": "3",
+          "text": "Le peuple dit: «Ne sors pas. Oui, si nous nous enfuyions, si nous nous enfuyions, ils ne mettraient pas leur cœur sur nous; et si la moitié d’entre nous mourait, ils ne mettraient pas leur cœur sur nous. Oui, tu es comme dix mille d’entre nous. Maintenant, il vaut mieux que tu nous sois en aide depuis la ville.»",
+          "chapter": "18",
+          "name": "2 Samuel 18:3"
+        },
+        {
+          "verse": "4",
+          "text": "Le roi leur dit: «Je ferai ce qui est bien à vos yeux.» Le roi se tient sur la main de la porte, et tout le peuple sort par centaines et milliers.",
+          "chapter": "18",
+          "name": "2 Samuel 18:4"
+        },
+        {
+          "verse": "5",
+          "text": "Le roi ordonne à Ioab, Abishaï et Itaï pour dire: «Doucement avec l’adolescent, avec Abshalôm!» Tout le peuple entend le roi quand il donne des ordres aux chefs à propos d’Abshalôm.",
+          "chapter": "18",
+          "name": "2 Samuel 18:5"
+        },
+        {
+          "verse": "6",
+          "text": "Le peuple sort aux champs à l’abord d’Israël. Et c’est la guerre dans la forêt d’Èphraîm.",
+          "chapter": "18",
+          "name": "2 Samuel 18:6"
+        },
+        {
+          "verse": "7",
+          "text": "Le peuple d’Israël est battu là en face des serviteurs de David. Et c’est la grande défaite, ce jour-là: vingt mille.",
+          "chapter": "18",
+          "name": "2 Samuel 18:7"
+        },
+        {
+          "verse": "8",
+          "text": "Et c’est la guerre, dispersée sur les faces de toute la terre. La forêt combat et mange plus de peuple que l’épée n’en mangeait ce jour-là.",
+          "chapter": "18",
+          "name": "2 Samuel 18:8"
+        },
+        {
+          "verse": "9",
+          "text": "Abshalôm survient en face des serviteurs de David. Abshalôm chevauche un mulet. Le mulet vient sous le branchage du grand pistachier; et sa tête s’accroche au pistachier. Donné entre ciels et terre, le mulet passe sous lui.",
+          "chapter": "18",
+          "name": "2 Samuel 18:9"
+        },
+        {
+          "verse": "10",
+          "text": "Un homme voit, le rapporte à Ioab et dit: «Voici, j’ai vu Abshalôm suspendu au pistachier.»",
+          "chapter": "18",
+          "name": "2 Samuel 18:10"
+        },
+        {
+          "verse": "11",
+          "text": "Ioab dit à l’homme qui le lui rapporte: «Voici, tu l’as vu. Mais pourquoi ne l’as-tu pas frappé là, à terre? Devrai-je te donner dix sicles d’argent et une ceinture?»",
+          "chapter": "18",
+          "name": "2 Samuel 18:11"
+        },
+        {
+          "verse": "12",
+          "text": "L’homme dit à Ioab: «Quand bien même je pèserais moi-même sur mes paumes mille sicles d’argent, je ne lancerai pas ma main contre le fils du roi, oui, le roi a ordonné et dit à nos oreilles à toi, à Abishaï et à Itaï: ‹ Veillez tous sur l’adolescent, sur Abshalôm! ›",
+          "chapter": "18",
+          "name": "2 Samuel 18:12"
+        },
+        {
+          "verse": "13",
+          "text": "Ou bien mentirai-je contre mon être? Mais nulle parole n’est masquée au roi; et toi tu te posterais à l’écart!»",
+          "chapter": "18",
+          "name": "2 Samuel 18:13"
+        },
+        {
+          "verse": "14",
+          "text": "Ioab dit: «Non, je ne languirai pas en face de toi!» Il prend trois sarisses dans sa paume et les plante dans le cœur d’Abshalôm, encore vivant au cœur du pistachier.",
+          "chapter": "18",
+          "name": "2 Samuel 18:14"
+        },
+        {
+          "verse": "15",
+          "text": "Dix adolescents, les porteurs des engins de Ioab, l’entourent. Ils frappent Abshalôm et le mettent à mort.",
+          "chapter": "18",
+          "name": "2 Samuel 18:15"
+        },
+        {
+          "verse": "16",
+          "text": "Ioab sonne du shophar et le peuple s’en retourne de poursuivre Israël; oui, Ioab épargne le peuple.",
+          "chapter": "18",
+          "name": "2 Samuel 18:16"
+        },
+        {
+          "verse": "17",
+          "text": "Ils prennent Abshalôm et le jettent dans la forêt, dans la grande excavation. Ils portent sur lui un galgal de pierres, très grand. Et tout Israël s’enfuit, chaque homme dans sa tente.",
+          "chapter": "18",
+          "name": "2 Samuel 18:17"
+        },
+        {
+          "verse": "18",
+          "text": "Abshalôm avait entrepris d’ériger pour lui, de son vivant, la stèle qui est dans la vallée du roi. Oui, il disait: «Je n’ai pas de fils pour commémorer mon nom.» Il crie la stèle de son nom, et elle est criée: «La main d’Abshalôm», jusqu’à ce jour.",
+          "chapter": "18",
+          "name": "2 Samuel 18:18"
+        },
+        {
+          "verse": "19",
+          "text": "Ahima‘as bèn Sadoq dit: «Je courrai donc l’annoncer au roi: oui, IHVH-Adonaï lui a rendu justice par la main de ses ennemis.»",
+          "chapter": "18",
+          "name": "2 Samuel 18:19"
+        },
+        {
+          "verse": "20",
+          "text": "Ioab lui dit: «Tu ne seras pas l’homme de l’annonce aujourd’hui. Tu annonceras un autre jour. Aujourd’hui, tu n’annonceras rien. Oui, c’est ainsi: le fils du roi est mort.»",
+          "chapter": "18",
+          "name": "2 Samuel 18:20"
+        },
+        {
+          "verse": "21",
+          "text": "Ioab dit à un Koushi: «Va. Rapporte au roi ce que tu as vu.» Le Koushi se prosterne devant Ioab et court.",
+          "chapter": "18",
+          "name": "2 Samuel 18:21"
+        },
+        {
+          "verse": "22",
+          "text": "Ahima‘as bèn Sadoq continue encore et dit à Ioab: «Quoi qu’il en soit, je courrai donc, moi aussi, derrière le Koushi.» Ioab dit: «Pourquoi cela, courir toi aussi, mon fils? Pour toi il ne se trouve pas d’annonce!»",
+          "chapter": "18",
+          "name": "2 Samuel 18:22"
+        },
+        {
+          "verse": "23",
+          "text": "«Quoi qu’il en soit je courrai!» Il lui dit: «Cours!» Ahima‘as court sur la route du Cirque et dépasse le Koushi.",
+          "chapter": "18",
+          "name": "2 Samuel 18:23"
+        },
+        {
+          "verse": "24",
+          "text": "David est assis entre les deux portes. Le guetteur va sur le toit de la porte du rempart. Il porte ses yeux, voit et voici, un homme court seul.",
+          "chapter": "18",
+          "name": "2 Samuel 18:24"
+        },
+        {
+          "verse": "25",
+          "text": "Le guetteur crie et le rapporte au roi. Le roi dit: «S’il est seul, il a en sa bouche une annonce.» Il va, va et s’approche.",
+          "chapter": "18",
+          "name": "2 Samuel 18:25"
+        },
+        {
+          "verse": "26",
+          "text": "Le guetteur crie au portier et dit: «Voici, un homme court seul!» Le roi dit: «Celui-là est un annonciateur.»",
+          "chapter": "18",
+          "name": "2 Samuel 18:26"
+        },
+        {
+          "verse": "27",
+          "text": "Le guetteur dit: «Je vois la course du premier, elle est comme la course d’Ahima‘as bèn Sadoq.» Le roi dit: «C’est un homme bien; il vient pour une bonne annonce.»",
+          "chapter": "18",
+          "name": "2 Samuel 18:27"
+        },
+        {
+          "verse": "28",
+          "text": "Ahima‘as crie et dit au roi: «Paix!» Il se prosterne devant le roi sur ses narines, à terre, et dit: «IHVH-Adonaï, ton Elohîms est béni: il a enfermé les hommes qui portaient leur main contre mon Adôn le roi.»",
+          "chapter": "18",
+          "name": "2 Samuel 18:28"
+        },
+        {
+          "verse": "29",
+          "text": "Le roi dit: «Paix à l’adolescent, à Abshalôm?» Ahima‘as dit: «J’ai vu une grande foule, quand le serviteur du roi, Ioab, envoyait ton serviteur; mais je ne sais pas ce qu’il en est.»",
+          "chapter": "18",
+          "name": "2 Samuel 18:29"
+        },
+        {
+          "verse": "30",
+          "text": "Le roi dit: «Tourne, poste-toi ici.» Il se tourne et s’arrête.",
+          "chapter": "18",
+          "name": "2 Samuel 18:30"
+        },
+        {
+          "verse": "31",
+          "text": "Et voici, le Koushi vient. Le Koushi dit: «Que mon Adôn le roi en ait l’annonce: oui, IHVH-Adonaï t’a rendu justice contre la main de tous ceux qui s’étaient élevés contre toi.»",
+          "chapter": "18",
+          "name": "2 Samuel 18:31"
+        },
+        {
+          "verse": "32",
+          "text": "Le roi dit au Koushi: «Paix à l’adolescent, à Abshalôm?» Le Koushi dit: «Qu’ils soient comme l’adolescent, les ennemis de mon Adôn le roi, et tous ceux qui se sont levés contre toi pour le malheur!»",
+          "chapter": "18",
+          "name": "2 Samuel 18:32"
+        }
+      ],
+      "name": "2 Samuel 18"
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Le roi s’irrite, monte à l’étage de la porte et pleure. Il disait ainsi en s’en allant: «Mon fils, Abshalôm, mon fils; mon fils, Abshalôm! Qui me donnerait de mourir à ta place! Abshalôm, mon fils, mon fils!»",
+          "chapter": "19",
+          "name": "2 Samuel 19:1"
+        },
+        {
+          "verse": "2",
+          "text": "Cela est rapporté à Ioab: «Voici, le roi pleure et s’endeuille pour Abshalôm.»",
+          "chapter": "19",
+          "name": "2 Samuel 19:2"
+        },
+        {
+          "verse": "3",
+          "text": "Le salut, ce jour-là, est un deuil pour tout le peuple. Oui, le peuple entendait, ce jour-là: «Le roi est peiné à cause de son fils.»",
+          "chapter": "19",
+          "name": "2 Samuel 19:3"
+        },
+        {
+          "verse": "4",
+          "text": "Le peuple se dérobe, ce jour-là, à l’entrée de la ville, comme se dérobe un peuple dans l’opprobre après s’être enfui de la guerre.",
+          "chapter": "19",
+          "name": "2 Samuel 19:4"
+        },
+        {
+          "verse": "5",
+          "text": "Le roi s’emmitoufle les faces, et le roi clame à grande voix: «Mon fils, Abshalôm! Abshalôm, mon fils, mon fils!»",
+          "chapter": "19",
+          "name": "2 Samuel 19:5"
+        },
+        {
+          "verse": "6",
+          "text": "Ioab vient vers le roi, à la maison et dit: «Tu outrages aujourd’hui les faces de tous tes serviteurs qui ont fait échapper aujourd’hui ton être, avec l’être de tes fils, de tes filles, l’être de tes femmes et l’être de tes concubines,",
+          "chapter": "19",
+          "name": "2 Samuel 19:6"
+        },
+        {
+          "verse": "7",
+          "text": "à aimer tes haineux et à haïr tes amants, car tu nous as rapporté aujourd’hui, oui, qu’il n’est pour toi ni chefs, ni serviteurs. Oui, si Abshalôm était vivant, et nous tous morts, aujourd’hui, oui, ce serait alors droit à tes yeux!",
+          "chapter": "19",
+          "name": "2 Samuel 19:7"
+        },
+        {
+          "verse": "8",
+          "text": "Maintenant, lève-toi! Sors et parle au cœur de tes serviteurs. Oui, je te jure par IHVH-Adonaï que si tu ne sors pas pas un seul homme ne nuitera avec toi, cette nuit, et ce malheur serait pire que tous les malheurs survenus contre toi, depuis ta jeunesse jusqu’à maintenant.»",
+          "chapter": "19",
+          "name": "2 Samuel 19:8"
+        },
+        {
+          "verse": "9",
+          "text": "Le roi se lève et siège à la porte. À tout le peuple, ils l’avaient rapporté pour dire: «Voici, le roi siège à la porte.» Et tout le peuple vient en face du roi. Israël s’était enfui, chaque homme dans sa tente.",
+          "chapter": "19",
+          "name": "2 Samuel 19:9"
+        },
+        {
+          "verse": "10",
+          "text": "Et c’est tout le peuple qui en débat dans tous les rameaux d’Israël pour dire: «Le roi nous a secourus de la paume de nos ennemis. Il nous a fait échapper à la paume des Pelishtîm. Maintenant, il a dû fuir de la terre, loin d’Abshalôm.",
+          "chapter": "19",
+          "name": "2 Samuel 19:10"
+        },
+        {
+          "verse": "11",
+          "text": "Mais Abshalôm, que nous avions messié sur nous, est mort à la guerre. Maintenant, pourquoi vous taisez-vous au lieu de faire retourner le roi?»",
+          "chapter": "19",
+          "name": "2 Samuel 19:11"
+        },
+        {
+          "verse": "12",
+          "text": "Le roi David envoie dire à Sadoq et Èbiatar, les desservants: «Parlez aux anciens de Iehouda pour dire: ‹ Pourquoi seriez-vous les derniers à faire retourner le roi dans sa maison? La parole de tout Israël vient au roi, dans sa maison.",
+          "chapter": "19",
+          "name": "2 Samuel 19:12"
+        },
+        {
+          "verse": "13",
+          "text": "Vous, mes frères, vous, mon os, ma chair, vous-mêmes! Pourquoi seriez-vous les derniers à faire retourner le roi? ›",
+          "chapter": "19",
+          "name": "2 Samuel 19:13"
+        },
+        {
+          "verse": "14",
+          "text": "Vous diriez à ‘Amassa: ‹ N’es-tu pas mon os, ma chair, toi? Elohîms fera ainsi envers moi et ainsi il ajoutera, si tu n’es pas en face de moi tous les jours chef de la milice, à la place de Ioab ›.»",
+          "chapter": "19",
+          "name": "2 Samuel 19:14"
+        },
+        {
+          "verse": "15",
+          "text": "Il incline le cœur de tout homme de Iehouda comme celui d’un seul homme. Ils envoient au roi: «Retourne, toi, avec tous tes serviteurs.»",
+          "chapter": "19",
+          "name": "2 Samuel 19:15"
+        },
+        {
+          "verse": "16",
+          "text": "Le roi retourne et vient jusqu’au Iardèn. Iehouda vient à Guilgal, pour aller à l’abord du roi et faire passer le Iardèn au roi.",
+          "chapter": "19",
+          "name": "2 Samuel 19:16"
+        },
+        {
+          "verse": "17",
+          "text": "Shim‘i bèn Guéra, de Biniamîn en Bahourîm, se hâte. Il descend avec les hommes de Iehouda à l’abord du roi David.",
+          "chapter": "19",
+          "name": "2 Samuel 19:17"
+        },
+        {
+          "verse": "18",
+          "text": "Mille hommes de Biniamîn sont avec lui. Siba, l’adolescent de la maison de Shaoul, ses quinze fils, ses vingt serviteurs sont avec lui. Ils franchissent le Iardèn en face du roi.",
+          "chapter": "19",
+          "name": "2 Samuel 19:18"
+        },
+        {
+          "verse": "19",
+          "text": "Le bac passe pour faire passer le roi et bien faire à ses yeux. Shim‘i bèn Guéra tombe en face du roi, à son passage du Iardèn.",
+          "chapter": "19",
+          "name": "2 Samuel 19:19"
+        },
+        {
+          "verse": "20",
+          "text": "Il dit au roi: «Que mon Adôn ne m’impute pas le tort! Tu ne te souviendras pas de ce que ton serviteur a été retors, le jour où mon Adôn le roi est sorti de Ieroushalaîm. Que le roi ne le mette pas sur son cœur!",
+          "chapter": "19",
+          "name": "2 Samuel 19:20"
+        },
+        {
+          "verse": "21",
+          "text": "Oui, ton serviteur le sait, oui, moi, j’ai fauté. Mais voici, je viens aujourd’hui, premier de toute la maison de Iosseph, pour descendre à l’abord de mon Adôn le roi.»",
+          "chapter": "19",
+          "name": "2 Samuel 19:21"
+        },
+        {
+          "verse": "22",
+          "text": "Abishaï bèn Serouyah répond et dit: «Pour cela Shim‘i ne sera-t-il pas mis à mort, lui qui a maudit le messie de IHVH-Adonaï?»",
+          "chapter": "19",
+          "name": "2 Samuel 19:22"
+        },
+        {
+          "verse": "23",
+          "text": "David dit: «Fils de Serouyah, qu’y a-t-il entre moi et vous? Oui, seriez-vous avec moi aujourd’hui en Satân? Aujourd’hui un homme en Israël serait-il mis à mort? Car est-ce que je ne le sais pas? Oui, aujourd’hui, le roi d’Israël, c’est moi.»",
+          "chapter": "19",
+          "name": "2 Samuel 19:23"
+        },
+        {
+          "verse": "24",
+          "text": "Le roi dit à Shim‘i: «Tu ne mourras pas.» Et le roi le lui jure.",
+          "chapter": "19",
+          "name": "2 Samuel 19:24"
+        },
+        {
+          "verse": "25",
+          "text": "Mephiboshèt, le fils de Shaoul, descend à l’abord du roi. Il ne s’était pas fait les pieds, il ne s’était pas fait la moustache, et n’avait pas lavé ses habits depuis le jour du départ du roi jusqu’au jour de sa venue en paix.",
+          "chapter": "19",
+          "name": "2 Samuel 19:25"
+        },
+        {
+          "verse": "26",
+          "text": "Et c’est quand il vient à Ieroushalaîm à l’abord du roi, le roi lui dit: «Pourquoi n’es-tu pas allé avec moi, Mephiboshèt?»",
+          "chapter": "19",
+          "name": "2 Samuel 19:26"
+        },
+        {
+          "verse": "27",
+          "text": "Il dit: «Mon Adôn le roi! Mon serviteur m’a dupé, car ton serviteur lui avait dit: ‹ Selle-moi un âne; je le chevaucherai et m’en irai avec le roi ›; car ton serviteur est boiteux.",
+          "chapter": "19",
+          "name": "2 Samuel 19:27"
+        },
+        {
+          "verse": "28",
+          "text": "Et il a calomnié ton serviteur auprès de mon Adôn le roi. Mais mon Adôn le roi est comme un messager d’Elohîms. Fais ce qui est bien à tes yeux.",
+          "chapter": "19",
+          "name": "2 Samuel 19:28"
+        },
+        {
+          "verse": "29",
+          "text": "Oui, toute la maison de mon père n’a rien été d’autre que des hommes de mort pour mon Adôn le roi. Et tu as placé ton serviteur parmi ceux qui mangent à ta table. Existe-t-il encore pour moi une justification, sinon d’implorer encore le roi?»",
+          "chapter": "19",
+          "name": "2 Samuel 19:29"
+        },
+        {
+          "verse": "30",
+          "text": "Le roi lui dit: «Pourquoi parler encore de tes paroles? Je te l’ai dit, toi et Siba vous vous partagerez le champ.»",
+          "chapter": "19",
+          "name": "2 Samuel 19:30"
+        },
+        {
+          "verse": "31",
+          "text": "Mephiboshèt dit au roi: «Le tout aussi, qu’il le prenne, maintenant que mon Adôn le roi est venu en paix dans sa maison.»",
+          "chapter": "19",
+          "name": "2 Samuel 19:31"
+        },
+        {
+          "verse": "32",
+          "text": "Barzilaï le Guil‘adi était descendu de Roguelîm. Il passe avec le roi le Iardèn, pour l’accompagner sur le Iardèn.",
+          "chapter": "19",
+          "name": "2 Samuel 19:32"
+        },
+        {
+          "verse": "33",
+          "text": "Barzilaï, très vieux, âgé de quatre-vingts ans, avait lui-même entretenu le roi pendant son séjour à Mahanaîm; oui, c’est un très grand homme.",
+          "chapter": "19",
+          "name": "2 Samuel 19:33"
+        },
+        {
+          "verse": "34",
+          "text": "Le roi dit à Barzilaï: «Passe, toi, avec moi. Je t’entretiendrai auprès de moi à Ieroushalaîm.»",
+          "chapter": "19",
+          "name": "2 Samuel 19:34"
+        },
+        {
+          "verse": "35",
+          "text": "Barzilaï dit au roi: «Combien de jours aux ans de ma vie, pour que je monte avec le roi à Ieroushalaîm?",
+          "chapter": "19",
+          "name": "2 Samuel 19:35"
+        },
+        {
+          "verse": "36",
+          "text": "J’ai moi-même, aujourd’hui, quatre-vingts ans. Que sais-je du bien et du mal? Est-ce que ton serviteur goûte ce que je mange ou ce que je bois? Est-ce que j’entends encore la voix des chanteurs et des chanteuses? Pourquoi ton serviteur serait-il encore à charge à mon Adôn le roi?",
+          "chapter": "19",
+          "name": "2 Samuel 19:36"
+        },
+        {
+          "verse": "37",
+          "text": "Ton serviteur passerait avec peine le Iardèn avec le roi! Mais pourquoi le roi me rétribuerait-il de cette rétribution?",
+          "chapter": "19",
+          "name": "2 Samuel 19:37"
+        },
+        {
+          "verse": "38",
+          "text": "Ton serviteur retournera donc. Je mourrai dans ma ville, auprès du sépulcre de mon père et de ma mère. Mais voici, ton serviteur Khimhâm passera avec mon Adôn le roi. Fais-lui ce qui est bien à tes yeux.»",
+          "chapter": "19",
+          "name": "2 Samuel 19:38"
+        },
+        {
+          "verse": "39",
+          "text": "Le roi dit: «Khimhâm passera avec moi. Et je lui ferai, moi, ce qui est bien à tes yeux. Tout ce que tu choisiras, je le ferai pour toi.»",
+          "chapter": "19",
+          "name": "2 Samuel 19:39"
+        },
+        {
+          "verse": "40",
+          "text": "Tout le peuple passe le Iardèn. Le roi passe. Le roi embrasse Barzilaï, le bénit et retourne à son lieu.",
+          "chapter": "19",
+          "name": "2 Samuel 19:40"
+        },
+        {
+          "verse": "41",
+          "text": "Le roi passe à Guilgal. Khimhâm passe avec lui, avec tout le peuple de Iehouda. Ils font passer le roi, avec, aussi, la moitié du peuple d’Israël.",
+          "chapter": "19",
+          "name": "2 Samuel 19:41"
+        },
+        {
+          "verse": "42",
+          "text": "Et voici, tous les hommes d’Israël viennent vers le roi. Ils disent au roi: «Pourquoi nos frères, les hommes de Iehouda, t’ont-ils volé et font-ils passer le Iardèn au roi et à sa maison, avec tous les hommes de David?»",
+          "chapter": "19",
+          "name": "2 Samuel 19:42"
+        },
+        {
+          "verse": "43",
+          "text": "Tout homme de Iehouda répond à l’homme d’Israël: «Oui, le roi est proche de moi. Pourquoi te brûle-t-elle ainsi, cette parole? Avons-nous mangé, mangé de ce qui est au roi? Ou bien nous a-t-il apporté une part?»",
+          "chapter": "19",
+          "name": "2 Samuel 19:43"
+        },
+        {
+          "verse": "44",
+          "text": "L’homme d’Israël répond et dit à l’homme de Iehouda: «J’ai dix mains sur le roi et sur David aussi, moi, plus que toi! Pourquoi m’as-tu maudit? Ma parole n’a-t-elle pas été la première, pour faire retourner mon roi?» Mais la parole de l’homme de Iehouda est plus dure que la parole de l’homme d’Israël.",
+          "chapter": "19",
+          "name": "2 Samuel 19:44"
+        }
+      ],
+      "name": "2 Samuel 19"
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et là survient un homme de Belia‘al. Son nom, Shèba‘ bèn Bikhri, homme de Biniamîn. Il sonne du shophar et dit: «Pas de part pour nous avec David! Pas de possession pour nous avec le fils d’Ishaï! Chaque homme à ses tentes, Israël!»",
+          "chapter": "20",
+          "name": "2 Samuel 20:1"
+        },
+        {
+          "verse": "2",
+          "text": "Tout homme d’Israël monte loin de David derrière Shèba‘ bèn Bikhri. Les hommes de Iehouda collent à leur roi du Iardèn jusqu’à Ieroushalaîm.",
+          "chapter": "20",
+          "name": "2 Samuel 20:2"
+        },
+        {
+          "verse": "3",
+          "text": "David vient dans sa maison, à Ieroushalaîm. Le roi prend les dix femmes, les concubines, qu’il avait laissées pour garder la maison. Il leur donne une maison de garde et les entretient, mais il ne vient plus vers elles. Elles sont séquestrées jusqu’au jour de leur mort, veuves d’un vivant!",
+          "chapter": "20",
+          "name": "2 Samuel 20:3"
+        },
+        {
+          "verse": "4",
+          "text": "Le roi dit à ‘Amassa: «Alerte pour moi l’homme de Iehouda, dans les trois jours, et toi, tiens-toi là!»",
+          "chapter": "20",
+          "name": "2 Samuel 20:4"
+        },
+        {
+          "verse": "5",
+          "text": "‘Amassa va alerter Iehouda. Il tarde au rendez-vous qu’il avait fixé.",
+          "chapter": "20",
+          "name": "2 Samuel 20:5"
+        },
+        {
+          "verse": "6",
+          "text": "David dit à Abishaï «Maintenant Shèba‘ bèn Bikhri nous fera plus de mal qu’Abshalôm! Toi, prends les serviteurs de ton Adôn et poursuis-le, de peur qu’il ne se trouve des villes fortifiées et n’y trouve secours sous nos yeux.»",
+          "chapter": "20",
+          "name": "2 Samuel 20:6"
+        },
+        {
+          "verse": "7",
+          "text": "Les hommes de Ioab sortent derrière lui, avec les Keréti, les Peléti et tous les héros. Ils sortent de Ieroushalaîm pour poursuivre Shèba‘ bèn Bikhri.",
+          "chapter": "20",
+          "name": "2 Samuel 20:7"
+        },
+        {
+          "verse": "8",
+          "text": "Ils sont à la Grande Pierre, en Guib‘ôn. ‘Amassa vient en face d’eux. Ioab était ceint de son uniforme et de son vêtement; sur lui était ceinte l’épée couplée à ses hanches, dans son fourreau. Il sort et elle tombe.",
+          "chapter": "20",
+          "name": "2 Samuel 20:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ioab dit à ‘Amassa: «La paix, toi, mon frère?» La main droite de Ioab saisit la barbe d’‘Amassa pour l’embrasser.",
+          "chapter": "20",
+          "name": "2 Samuel 20:9"
+        },
+        {
+          "verse": "10",
+          "text": "‘Amassa ne prend pas garde à l’épée qui était en main de Ioab. Il l’en frappe à la bedaine et répand ses boyaux à terre. Et sans qu’il redouble, l’autre meurt. Ioab et Abishaï son frère poursuivent Shèba‘ bèn Bikhri.",
+          "chapter": "20",
+          "name": "2 Samuel 20:10"
+        },
+        {
+          "verse": "11",
+          "text": "Un homme, l’un des adolescents de Ioab, se tient près de lui. Il dit: «Qui désire Ioab et qui désire David, derrière Ioab!»",
+          "chapter": "20",
+          "name": "2 Samuel 20:11"
+        },
+        {
+          "verse": "12",
+          "text": "‘Amassa se roule dans le sang au milieu du sentier. L’homme le voit, oui, tout le peuple s’était arrêté. Il détourne ‘Amassa du sentier vers les champs. Il jette sur lui un habit, quand il voit s’arrêter auprès de lui tout venant.",
+          "chapter": "20",
+          "name": "2 Samuel 20:12"
+        },
+        {
+          "verse": "13",
+          "text": "Quand il est ôté du sentier, tout homme passe derrière Ioab pour poursuivre Shèba‘ bèn Bikhri.",
+          "chapter": "20",
+          "name": "2 Samuel 20:13"
+        },
+        {
+          "verse": "14",
+          "text": "Celui-ci passe dans tous les rameaux d’Israël, à Abél-Béit-Ma‘akha, et tous les Bérîm. Ils se rassemblent et viennent derrière lui.",
+          "chapter": "20",
+          "name": "2 Samuel 20:14"
+        },
+        {
+          "verse": "15",
+          "text": "Ils viennent et mettent le siège contre lui à Abél-Béit-Ma‘akha. Ils déversent un remblai contre la ville et il s’arrête contre l’avant-mur. Tout le peuple qui est avec Ioab sape le rempart pour l’abattre.",
+          "chapter": "20",
+          "name": "2 Samuel 20:15"
+        },
+        {
+          "verse": "16",
+          "text": "Une femme sage de la ville crie: «Entendez! Entendez! Dites donc à Ioab: Approche jusqu’ici, je te parlerai.»",
+          "chapter": "20",
+          "name": "2 Samuel 20:16"
+        },
+        {
+          "verse": "17",
+          "text": "Il s’approche d’elle. La femme dit: «C’est toi, Ioab?» Il dit: «Moi.» Elle lui dit: «Entends les paroles de ta servante.» Il dit: «Moi-même, j’entends.»",
+          "chapter": "20",
+          "name": "2 Samuel 20:17"
+        },
+        {
+          "verse": "18",
+          "text": "Elle dit pour dire: «Ils parlaient, ils parlaient jadis pour dire: ‹ Questionnez, questionnez Abél et terminez ainsi! ›",
+          "chapter": "20",
+          "name": "2 Samuel 20:18"
+        },
+        {
+          "verse": "19",
+          "text": "Moi-même, parmi les parfaits adhérents d’Israël, toi, tu demandes à faire mourir une ville et une mère en Israël! Pourquoi engloutirais-tu une possession de IHVH-Adonaï?»",
+          "chapter": "20",
+          "name": "2 Samuel 20:19"
+        },
+        {
+          "verse": "20",
+          "text": "Ioab répond et dit: «Profanation! Profanation! Moi, engloutir ou détruire!",
+          "chapter": "20",
+          "name": "2 Samuel 20:20"
+        },
+        {
+          "verse": "21",
+          "text": "La parole n’est pas telle! Oui, un homme du mont Èphraîm, Shèba‘ bèn Bikhri de son nom, a porté la main contre le roi David. Donnez-le, lui seul, et je m’en irai loin de la ville.» La femme dit à Ioab: «Voici, sa tête te sera jetée par-dessus le rempart!»",
+          "chapter": "20",
+          "name": "2 Samuel 20:21"
+        },
+        {
+          "verse": "22",
+          "text": "La femme vient vers tout le peuple, avec sa sagesse. Ils tranchent la tête de Shèba‘ bèn Bikhri et la jettent à Ioab. Ils sonnent du shophar et se dispersent, loin de la ville, chaque homme vers ses tentes. Ioab retourne à Ieroushalaîm vers le roi.",
+          "chapter": "20",
+          "name": "2 Samuel 20:22"
+        },
+        {
+          "verse": "23",
+          "text": "Ioab est préposé sur toute la milice d’Israël. Benayah bèn Yehoyada‘ est sur les Keréti et sur les Peléti;",
+          "chapter": "20",
+          "name": "2 Samuel 20:23"
+        },
+        {
+          "verse": "24",
+          "text": "Adorâm, sur la corvée; Yehoshaphat bèn Ahiloud, secrétaire;",
+          "chapter": "20",
+          "name": "2 Samuel 20:24"
+        },
+        {
+          "verse": "25",
+          "text": "Sheva, actuaire; Sadoq et Èbiatar, desservants;",
+          "chapter": "20",
+          "name": "2 Samuel 20:25"
+        },
+        {
+          "verse": "26",
+          "text": "‘Ira le Iaïri était aussi un desservant de David.",
+          "chapter": "20",
+          "name": "2 Samuel 20:26"
+        }
+      ],
+      "name": "2 Samuel 20"
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et c’est une famine, aux jours de David, pendant trois ans, année par année. David consulte les faces de IHVH-Adonaï. IHVH-Adonaï lui dit: «Sur Shaoul et sur sa maison il est des sangs, pour avoir mis à mort les Guib‘onîm.»",
+          "chapter": "21",
+          "name": "2 Samuel 21:1"
+        },
+        {
+          "verse": "2",
+          "text": "Le roi crie vers les Guib‘onîm pour leur parler. Les Guib‘onîm n’étaient pas des Benéi Israël, mais du reste des Emori; et les Benéi Israël leur avaient prêté serment. Shaoul avait cherché à les frapper, dans son ardeur pour les Benéi Israël et pour Iehouda.",
+          "chapter": "21",
+          "name": "2 Samuel 21:2"
+        },
+        {
+          "verse": "3",
+          "text": "David dit aux Guib‘onîm: «Que ferai-je pour vous? Comment serai-je absous pour que vous bénissiez la possession de IHVH-Adonaï?»",
+          "chapter": "21",
+          "name": "2 Samuel 21:3"
+        },
+        {
+          "verse": "4",
+          "text": "Les Guib‘onîm lui disent: «Il ne sera pas pour nous d’argent ni d’or avec Shaoul et avec sa maison, et il ne sera pas pour nous d’homme à mettre à mort en Israël.» Il dit: «Ce que vous direz, je le ferai pour vous.»",
+          "chapter": "21",
+          "name": "2 Samuel 21:4"
+        },
+        {
+          "verse": "5",
+          "text": "Ils disent au roi: «L’homme qui nous a achevés et qui projetait de nous exterminer en nous portant hors de toutes les frontières d’Israël,",
+          "chapter": "21",
+          "name": "2 Samuel 21:5"
+        },
+        {
+          "verse": "6",
+          "text": "que sept hommes de ses fils nous soient donnés. Nous les empalerons pour IHVH-Adonaï à Guib‘a de Shaoul, l’élu de IHVH-Adonaï!» Le roi dit: «Moi, je les donne!»",
+          "chapter": "21",
+          "name": "2 Samuel 21:6"
+        },
+        {
+          "verse": "7",
+          "text": "Le roi compatit à Mephiboshèt bèn Iehonatân bèn Shaoul, pour le serment de IHVH-Adonaï qui était entre eux, entre David et Iehonatân, le fils de Shaoul.",
+          "chapter": "21",
+          "name": "2 Samuel 21:7"
+        },
+        {
+          "verse": "8",
+          "text": "Le roi prend les deux fils de Rispa, fille d’Aya, qu’elle avait enfantés à Shaoul, Armoni et Mephiboshèt, et les cinq fils de Mikhal, la fille de Shaoul, qu’elle avait enfantés à ‘Adriél bèn Barzilaï de Mehola.",
+          "chapter": "21",
+          "name": "2 Samuel 21:8"
+        },
+        {
+          "verse": "9",
+          "text": "Il les donne en main des Guib‘onîm. Ils les empalent sur la montagne, en face de IHVH-Adonaï. Les sept tombent ensemble. Ils sont mis à mort aux premiers jours de la moisson, au début de la moisson des orges.",
+          "chapter": "21",
+          "name": "2 Samuel 21:9"
+        },
+        {
+          "verse": "10",
+          "text": "Rispa, la fille d’Aya, prend un sac. Elle l’étend pour elle sur le roc, du début de la moisson jusqu’à l’afflux des eaux des ciels sur eux. Elle ne donnait pas au volatile des ciels de se poser sur eux, de jour, ni à l’animal des champs, la nuit.",
+          "chapter": "21",
+          "name": "2 Samuel 21:10"
+        },
+        {
+          "verse": "11",
+          "text": "Ce que fait Rispa, fille d’Aya, la concubine de Shaoul, est rapporté à David.",
+          "chapter": "21",
+          "name": "2 Samuel 21:11"
+        },
+        {
+          "verse": "12",
+          "text": "David va, il prend les ossements de Shaoul et les ossements de Iehonatân, son fils, des maîtres de Iabéish en Guil‘ad, qu’ils avaient volés à Rehob Béit-Sheân, où les Pelishtîm les avaient pendus, le jour où les Pelishtîm avaient frappé Shaoul à Guilboa‘.",
+          "chapter": "21",
+          "name": "2 Samuel 21:12"
+        },
+        {
+          "verse": "13",
+          "text": "Il monte de là les ossements de Shaoul et les ossements de Iehonatân, son fils. Ils ajoutent les ossements des empalés.",
+          "chapter": "21",
+          "name": "2 Samuel 21:13"
+        },
+        {
+          "verse": "14",
+          "text": "Ils ensevelissent les ossements de Shaoul et de Iehonatân, son fils, en terre de Biniamîn, à Sèla‘, dans le sépulcre de Qish, son père. Ils font tout ce que le roi avait ordonné. Après quoi, Elohîms intercède pour la terre.",
+          "chapter": "21",
+          "name": "2 Samuel 21:14"
+        },
+        {
+          "verse": "15",
+          "text": "Et c’est encore la guerre entre les Pelishtîm et Israël. David descend avec ses serviteurs; ils guerroient contre les Pelishtîm. David est fatigué.",
+          "chapter": "21",
+          "name": "2 Samuel 21:15"
+        },
+        {
+          "verse": "16",
+          "text": "Ishbi de Nob, l’un des enfants de Rapha, a une haste qui pèse trois cents sicles au poids du bronze. Il est ceint de neuf et dit de frapper David.",
+          "chapter": "21",
+          "name": "2 Samuel 21:16"
+        },
+        {
+          "verse": "17",
+          "text": "Abishaï bèn Serouyah l’aide. Il frappe le Pelishti et le met à mort. Alors les hommes de David lui jurent pour dire: «Tu ne sortiras plus avec nous à la guerre. Tu n’éteindras pas la lampe d’Israël.»",
+          "chapter": "21",
+          "name": "2 Samuel 21:17"
+        },
+        {
+          "verse": "18",
+          "text": "Et c’est après quoi, c’est encore la guerre à Gob, contre les Pelishtîm. Alors Sibekhaï, le Houshati, frappe Saph, l’un des enfants de Rapha.",
+          "chapter": "21",
+          "name": "2 Samuel 21:18"
+        },
+        {
+          "verse": "19",
+          "text": "Et c’est encore la guerre, à Gob, contre les Pelishtîm. Èlhanân bèn Ia‘réi-Orguîm, de Béit Lèhèm, frappe Goliat, de Gat. Le bois de sa lance était comme une ensouple de tisserand.",
+          "chapter": "21",
+          "name": "2 Samuel 21:19"
+        },
+        {
+          "verse": "20",
+          "text": "C’est encore la guerre à Gat, et c’est un homme, un provocateur. Les doigts de sa main et les doigts de ses pieds, six par six, sont au nombre de vingt-quatre. Lui aussi avait été enfanté par Rapha.",
+          "chapter": "21",
+          "name": "2 Samuel 21:20"
+        },
+        {
+          "verse": "21",
+          "text": "Il insulte Israël. Iehonatân bèn Shim‘a, le frère de David, le frappe.",
+          "chapter": "21",
+          "name": "2 Samuel 21:21"
+        },
+        {
+          "verse": "22",
+          "text": "Ces quatre-là naquirent de Rapha, à Gat. Ils tombent par la main de David et par la main des serviteurs.",
+          "chapter": "21",
+          "name": "2 Samuel 21:22"
+        }
+      ],
+      "name": "2 Samuel 21"
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "David parle à IHVH-Adonaï les paroles de ce poème, le jour où IHVH-Adonaï le secourt de la paume de tous ses ennemis et de la paume de Shaoul.",
+          "chapter": "22",
+          "name": "2 Samuel 22:1"
+        },
+        {
+          "verse": "2",
+          "text": "Il dit: «IHVH-Adonaï mon rocher, mon bastion, mon évasion,",
+          "chapter": "22",
+          "name": "2 Samuel 22:2"
+        },
+        {
+          "verse": "3",
+          "text": "Elohîms de mon roc, je m’abrite en lui. Mon bouclier, la corne de mon salut, ma culmination, ma fuite, mon sauveur, tu me sauves de la violence.",
+          "chapter": "22",
+          "name": "2 Samuel 22:3"
+        },
+        {
+          "verse": "4",
+          "text": "Je crie: ‹ Louangé, IHVH-Adonaï ›, de mes ennemis, je suis sauvé.",
+          "chapter": "22",
+          "name": "2 Samuel 22:4"
+        },
+        {
+          "verse": "5",
+          "text": "Oui, les brisants de la mort me cernaient; les torrents de Belia‘al me terrifiaient;",
+          "chapter": "22",
+          "name": "2 Samuel 22:5"
+        },
+        {
+          "verse": "6",
+          "text": "les attaches du Shéol m’entouraient; les pièges de la mort me recevaient.",
+          "chapter": "22",
+          "name": "2 Samuel 22:6"
+        },
+        {
+          "verse": "7",
+          "text": "Dans ma détresse, j’appelle IHVH-Adonaï, j’appelle mon Elohîms, je crie. Il entend ma voix de son palais, mon appel de ses oreilles.",
+          "chapter": "22",
+          "name": "2 Samuel 22:7"
+        },
+        {
+          "verse": "8",
+          "text": "La terre oscille, trépide; les fondements des ciels se plissent, oscillent, oui, il brûle.",
+          "chapter": "22",
+          "name": "2 Samuel 22:8"
+        },
+        {
+          "verse": "9",
+          "text": "Une fumée monte de sa narine, un feu de sa bouche dévore, des braises brûlent en lui.",
+          "chapter": "22",
+          "name": "2 Samuel 22:9"
+        },
+        {
+          "verse": "10",
+          "text": "Il incline les ciels et descend, la brume sous ses pieds.",
+          "chapter": "22",
+          "name": "2 Samuel 22:10"
+        },
+        {
+          "verse": "11",
+          "text": "Il chevauche un keroub et vole, se fait voir sur les ailes du souffle,",
+          "chapter": "22",
+          "name": "2 Samuel 22:11"
+        },
+        {
+          "verse": "12",
+          "text": "place la ténèbre autour de lui en cabanes, liage des eaux, nébulosités des éthers.",
+          "chapter": "22",
+          "name": "2 Samuel 22:12"
+        },
+        {
+          "verse": "13",
+          "text": "D’une fulguration contre lui, les braises du feu brûlent.",
+          "chapter": "22",
+          "name": "2 Samuel 22:13"
+        },
+        {
+          "verse": "14",
+          "text": "IHVH-Adonaï tonne des ciels; suprême, il donne de la voix,",
+          "chapter": "22",
+          "name": "2 Samuel 22:14"
+        },
+        {
+          "verse": "15",
+          "text": "envoie des flèches et les disperse; un éclair, et les épouvante.",
+          "chapter": "22",
+          "name": "2 Samuel 22:15"
+        },
+        {
+          "verse": "16",
+          "text": "Se voient les ruisseaux de la mer; se découvrent les fondements du monde, à la menace de IHVH-Adonaï, par l’haleine du souffle de sa narine.",
+          "chapter": "22",
+          "name": "2 Samuel 22:16"
+        },
+        {
+          "verse": "17",
+          "text": "De l’altitude, il m’envoie prendre; il me retire des eaux multiples.",
+          "chapter": "22",
+          "name": "2 Samuel 22:17"
+        },
+        {
+          "verse": "18",
+          "text": "Il me secourt de mon ennemi rude, de mes haineux, oui, plus hardis que moi.",
+          "chapter": "22",
+          "name": "2 Samuel 22:18"
+        },
+        {
+          "verse": "19",
+          "text": "Le jour de ma calamité, ils me devançaient. Et c’est IHVH-Adonaï, un appui pour moi.",
+          "chapter": "22",
+          "name": "2 Samuel 22:19"
+        },
+        {
+          "verse": "20",
+          "text": "Il me sort au large, il me renfloue; oui, il me désire.",
+          "chapter": "22",
+          "name": "2 Samuel 22:20"
+        },
+        {
+          "verse": "21",
+          "text": "IHVH-Adonaï me rétribue selon ma justification; selon la transparence de mes mains il me répond.",
+          "chapter": "22",
+          "name": "2 Samuel 22:21"
+        },
+        {
+          "verse": "22",
+          "text": "Oui, je garde les routes de IHVH-Adonaï, je ne suis pas incriminé par mon Elohîms.",
+          "chapter": "22",
+          "name": "2 Samuel 22:22"
+        },
+        {
+          "verse": "23",
+          "text": "Oui, tous ses jugements sont contre moi; je ne m’écarte pas de ses règles.",
+          "chapter": "22",
+          "name": "2 Samuel 22:23"
+        },
+        {
+          "verse": "24",
+          "text": "Je suis avec lui intègre et me garde de mon tort.",
+          "chapter": "22",
+          "name": "2 Samuel 22:24"
+        },
+        {
+          "verse": "25",
+          "text": "IHVH-Adonaï me répond selon ma justification, selon ma transparence, tout contre ses yeux.",
+          "chapter": "22",
+          "name": "2 Samuel 22:25"
+        },
+        {
+          "verse": "26",
+          "text": "Avec le chérisseur, tu chéris; avec le héros intègre, tu es intègre.",
+          "chapter": "22",
+          "name": "2 Samuel 22:26"
+        },
+        {
+          "verse": "27",
+          "text": "Avec le transparent, tu es transparent; avec l’obstiné, tu es sinueux.",
+          "chapter": "22",
+          "name": "2 Samuel 22:27"
+        },
+        {
+          "verse": "28",
+          "text": "Le peuple humilié, tu le sauves; tes yeux sur les hautains, tu les rabaisses.",
+          "chapter": "22",
+          "name": "2 Samuel 22:28"
+        },
+        {
+          "verse": "29",
+          "text": "Oui, toi, ma lampe, IHVH-Adonaï! IHVH-Adonaï rend fulgurante ma ténèbre!",
+          "chapter": "22",
+          "name": "2 Samuel 22:29"
+        },
+        {
+          "verse": "30",
+          "text": "En toi je cours vers la troupe; en mon Elohîms, je saute le muret.",
+          "chapter": "22",
+          "name": "2 Samuel 22:30"
+        },
+        {
+          "verse": "31",
+          "text": "Él! Intègre est sa route! Le dit de IHVH-Adonaï est affiné, lui, le bouclier de tous ceux qui s’abritent en lui.",
+          "chapter": "22",
+          "name": "2 Samuel 22:31"
+        },
+        {
+          "verse": "32",
+          "text": "Oui, qui est Él, sinon IHVH-Adonaï? Et qui est roc, sinon notre Elohîms?",
+          "chapter": "22",
+          "name": "2 Samuel 22:32"
+        },
+        {
+          "verse": "33",
+          "text": "Él! Mon retranchement, ô vaillance! Il délie ma route d’intégrité!",
+          "chapter": "22",
+          "name": "2 Samuel 22:33"
+        },
+        {
+          "verse": "34",
+          "text": "Il égale mes pieds à ceux des cerfs et me fait tenir sur mes tertres.",
+          "chapter": "22",
+          "name": "2 Samuel 22:34"
+        },
+        {
+          "verse": "35",
+          "text": "Tu apprends la guerre à mes mains, tu poses l’arc de bronze sur mes bras",
+          "chapter": "22",
+          "name": "2 Samuel 22:35"
+        },
+        {
+          "verse": "36",
+          "text": "et me donnes le bouclier de ton salut. Ton humilité me multiplie.",
+          "chapter": "22",
+          "name": "2 Samuel 22:36"
+        },
+        {
+          "verse": "37",
+          "text": "Tu élargis mon pas sous moi; mes chevilles ne bronchent pas.",
+          "chapter": "22",
+          "name": "2 Samuel 22:37"
+        },
+        {
+          "verse": "38",
+          "text": "Je poursuis mes ennemis et les extermine; je ne retourne pas avant de les avoir achevés.",
+          "chapter": "22",
+          "name": "2 Samuel 22:38"
+        },
+        {
+          "verse": "39",
+          "text": "Je les achève, je les pulvérise, ils ne se lèveront pas; ils tombent à mes pieds.",
+          "chapter": "22",
+          "name": "2 Samuel 22:39"
+        },
+        {
+          "verse": "40",
+          "text": "Tu me ceins de vaillance pour la guerre, et plies sous moi mes agresseurs.",
+          "chapter": "22",
+          "name": "2 Samuel 22:40"
+        },
+        {
+          "verse": "41",
+          "text": "Tu me donnes la nuque de mes ennemis; j’annihile mes haineux.",
+          "chapter": "22",
+          "name": "2 Samuel 22:41"
+        },
+        {
+          "verse": "42",
+          "text": "Ils appellent: pas de sauveur; vers IHVH-Adonaï: il ne leur répond pas.",
+          "chapter": "22",
+          "name": "2 Samuel 22:42"
+        },
+        {
+          "verse": "43",
+          "text": "Je les pulvérise comme la poussière de la terre; comme le limon des allées, je les triture, je les lamine.",
+          "chapter": "22",
+          "name": "2 Samuel 22:43"
+        },
+        {
+          "verse": "44",
+          "text": "Tu me fais évader des querelles de mon peuple. Tu me gardes en tête des nations. Un peuple que je ne connaissais pas, ils me servent.",
+          "chapter": "22",
+          "name": "2 Samuel 22:44"
+        },
+        {
+          "verse": "45",
+          "text": "Les fils d’étrangers me flagornent; à ouïe d’oreille, ils m’entendent.",
+          "chapter": "22",
+          "name": "2 Samuel 22:45"
+        },
+        {
+          "verse": "46",
+          "text": "Les fils d’étrangers se fanent; ils tremblent dans leurs enfermements.",
+          "chapter": "22",
+          "name": "2 Samuel 22:46"
+        },
+        {
+          "verse": "47",
+          "text": "Vive Elohîms, mon roc béni! Qu’il soit exalté, Elohîms, le roc de mon salut!",
+          "chapter": "22",
+          "name": "2 Samuel 22:47"
+        },
+        {
+          "verse": "48",
+          "text": "L’Él, le donneur de mes vengeances, fait descendre des peuples sous moi.",
+          "chapter": "22",
+          "name": "2 Samuel 22:48"
+        },
+        {
+          "verse": "49",
+          "text": "Il me fait sortir de chez mes ennemis. Tu m’exaltes sur mes assaillants et tu me secours contre l’homme de violences.",
+          "chapter": "22",
+          "name": "2 Samuel 22:49"
+        },
+        {
+          "verse": "50",
+          "text": "Sur quoi, je te célèbre, IHVH-Adonaï, parmi les nations, et je chante ton nom.",
+          "chapter": "22",
+          "name": "2 Samuel 22:50"
+        },
+        {
+          "verse": "51",
+          "text": "Tour des salvations de son roi, faiseur de chérissement pour son messie, pour David et pour sa semence, en pérennité.»",
+          "chapter": "22",
+          "name": "2 Samuel 22:51"
+        }
+      ],
+      "name": "2 Samuel 22"
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Voici les paroles de David, les dernières: «Harangue de David bèn Ishaï. Harangue du héros haut levé, le messie de l’Elohîms de Ia‘acob, qui a rendu suaves les chants d’Israël!",
+          "chapter": "23",
+          "name": "2 Samuel 23:1"
+        },
+        {
+          "verse": "2",
+          "text": "Le souffle de IHVH-Adonaï parle en moi, son mot sur ma langue.",
+          "chapter": "23",
+          "name": "2 Samuel 23:2"
+        },
+        {
+          "verse": "3",
+          "text": "L’Elohîms d’Israël dit et me parle, le roc d’Israël. Le gouverneur de l’humain, le juste, gouverne au frémissement d’Elohîms.",
+          "chapter": "23",
+          "name": "2 Samuel 23:3"
+        },
+        {
+          "verse": "4",
+          "text": "Comme la lumière du matin, le soleil qui brille au matin sans nébulosités, l’éclat de la pluie, gazon de la terre.",
+          "chapter": "23",
+          "name": "2 Samuel 23:4"
+        },
+        {
+          "verse": "5",
+          "text": "Oui, n’est-elle pas ainsi, ma maison avec Él? Oui, il m’a remis le pacte de pérennité, rangé en tout et gardé. Oui, tout mon salut, tout désir, ne les a-t-il pas fait germer?",
+          "chapter": "23",
+          "name": "2 Samuel 23:5"
+        },
+        {
+          "verse": "6",
+          "text": "Ô, Belia‘al, tous comme épines errantes, qui ne sont pas prises dans les mains.",
+          "chapter": "23",
+          "name": "2 Samuel 23:6"
+        },
+        {
+          "verse": "7",
+          "text": "L’homme qui les touche s’armera de fer, de bois de lances, et au feu, il les brûlera, il les brûlera en repos.»",
+          "chapter": "23",
+          "name": "2 Samuel 23:7"
+        },
+        {
+          "verse": "8",
+          "text": "Voici les noms des héros de David: Ish-Ba‘al au reposoir de Tahkemoni; en tête du trio, c’est ‘Adino l’‘Èsni, vainqueur de huit cents victimes d’un coup.",
+          "chapter": "23",
+          "name": "2 Samuel 23:8"
+        },
+        {
+          "verse": "9",
+          "text": "Après lui, Èl‘azar bèn Dodo bèn Ahohi, l’un des trois héros de David, quand ils avaient outragé les Pelishtîm, réunis là pour la guerre. Les hommes d’Israël montent.",
+          "chapter": "23",
+          "name": "2 Samuel 23:9"
+        },
+        {
+          "verse": "10",
+          "text": "Lui-même se lève et frappe les Pelishtîm jusqu’à ce que sa main se lasse, que sa main se colle à l’épée! IHVH-Adonaï fait ce jour-là un grand salut. Le peuple retourne derrière lui seulement pour dépouiller.",
+          "chapter": "23",
+          "name": "2 Samuel 23:10"
+        },
+        {
+          "verse": "11",
+          "text": "Après lui, Shama bèn Agué, le Harari. Les Pelishtîm se réunissent à Haya. C’est là une parcelle de champ pleine de lentilles, le peuple s’enfuit en face des Pelishtîm.",
+          "chapter": "23",
+          "name": "2 Samuel 23:11"
+        },
+        {
+          "verse": "12",
+          "text": "Il se poste au milieu de la parcelle, la secourt et frappe les Pelishtîm. IHVH-Adonaï fait une grande salvation.",
+          "chapter": "23",
+          "name": "2 Samuel 23:12"
+        },
+        {
+          "verse": "13",
+          "text": "Trois d’entre les trente chefs descendent et viennent vers la moisson, vers David dans la grotte d’‘Adoulâm. Une section des Pelishtîm campe dans la vallée des Rephaîm.",
+          "chapter": "23",
+          "name": "2 Samuel 23:13"
+        },
+        {
+          "verse": "14",
+          "text": "David était alors dans le bastion, et le poste des Pelishtîm était alors à Béit Lèhèm.",
+          "chapter": "23",
+          "name": "2 Samuel 23:14"
+        },
+        {
+          "verse": "15",
+          "text": "David désire et dit: «Qui m’abreuvera de l’eau du puits de Béit Lèhèm, près de la porte?»",
+          "chapter": "23",
+          "name": "2 Samuel 23:15"
+        },
+        {
+          "verse": "16",
+          "text": "Trois héros fendent le camp des Pelishtîm et puisent l’eau du puits de Béit Lèhèm, près de la porte. Ils la portent et la font venir à David; mais il ne consent pas à en boire. Il en fait une libation pour IHVH-Adonaï.",
+          "chapter": "23",
+          "name": "2 Samuel 23:16"
+        },
+        {
+          "verse": "17",
+          "text": "Il dit: «Profanation, IHVH-Adonaï, que je fasse cela! N’est-ce pas là le sang des hommes qui sont allés au péril de leur être?» Et il ne consent pas à la boire. Voilà ce que firent les trois héros.",
+          "chapter": "23",
+          "name": "2 Samuel 23:17"
+        },
+        {
+          "verse": "18",
+          "text": "Abishaï, le frère de Ioab bèn Serouyah, est la tête des Trois. Lui, il a réveillé sa lance sur trois cents victimes. Il avait un nom parmi les Trois;",
+          "chapter": "23",
+          "name": "2 Samuel 23:18"
+        },
+        {
+          "verse": "19",
+          "text": "des Trois, il était le plus glorieux. Il était pour eux le chef; mais jusqu’aux Trois il n’est pas parvenu.",
+          "chapter": "23",
+          "name": "2 Samuel 23:19"
+        },
+        {
+          "verse": "20",
+          "text": "Benayahou bèn Iehoyada‘, le fils d’un homme de valeur aux multiples exploits, de Qabseél; il avait frappé, lui, les deux fils d’Ariél de Moab; il était descendu, lui, et avait frappé le lion, au milieu de la fosse, un jour de neige.",
+          "chapter": "23",
+          "name": "2 Samuel 23:20"
+        },
+        {
+          "verse": "21",
+          "text": "Il avait frappé, lui, un homme, un Misri, un homme remarquable. Le Misri avait une lance en main. Il descend contre lui avec un bâton, arrache la lance de la main du Misri, et le tue avec sa propre lance!",
+          "chapter": "23",
+          "name": "2 Samuel 23:21"
+        },
+        {
+          "verse": "22",
+          "text": "Voilà ce que fit Benayahou bèn Iehoyada‘. Il avait un nom parmi les trois héros.",
+          "chapter": "23",
+          "name": "2 Samuel 23:22"
+        },
+        {
+          "verse": "23",
+          "text": "Il est plus glorieux que les Trente; mais aux Trois il n’est pas parvenu. David l’avait placé dans sa garde.",
+          "chapter": "23",
+          "name": "2 Samuel 23:23"
+        },
+        {
+          "verse": "24",
+          "text": "‘Assaél, le frère de Ioab, était dans les Trente, avec Èlhanân bèn Dodo, de Béit Lèhèm;",
+          "chapter": "23",
+          "name": "2 Samuel 23:24"
+        },
+        {
+          "verse": "25",
+          "text": "Shama, de Harod, Eliqa, de Harod;",
+          "chapter": "23",
+          "name": "2 Samuel 23:25"
+        },
+        {
+          "verse": "26",
+          "text": "Hèlès de Pèlèt, ‘Ira bèn ‘Iqésh, de Teqoa‘;",
+          "chapter": "23",
+          "name": "2 Samuel 23:26"
+        },
+        {
+          "verse": "27",
+          "text": "Abi‘èzèr, d’‘Anatot, Mebounaï, de Housha;",
+          "chapter": "23",
+          "name": "2 Samuel 23:27"
+        },
+        {
+          "verse": "28",
+          "text": "Salmôn, d’Ahoah, Maheraï, de Netopha;",
+          "chapter": "23",
+          "name": "2 Samuel 23:28"
+        },
+        {
+          "verse": "29",
+          "text": "Hélèb bèn Ba‘ana, de Netopha; Itaï bèn Ribaï, de Guib‘a, des Benéi Biniamîn;",
+          "chapter": "23",
+          "name": "2 Samuel 23:29"
+        },
+        {
+          "verse": "30",
+          "text": "Benayahou, de Pir‘atôn, Hidaï, de Nahaléi-Ga‘ash;",
+          "chapter": "23",
+          "name": "2 Samuel 23:30"
+        },
+        {
+          "verse": "31",
+          "text": "Abi-‘Alebôn, d’‘Arba, ‘Azmavèt, de Barhoum;",
+          "chapter": "23",
+          "name": "2 Samuel 23:31"
+        },
+        {
+          "verse": "32",
+          "text": "Èliahba, de Sha‘alebôn; fils de Iashén: Iehonatân,",
+          "chapter": "23",
+          "name": "2 Samuel 23:32"
+        },
+        {
+          "verse": "33",
+          "text": "Shama, de Harar, Ahiâm bèn Sharar, de Harar;",
+          "chapter": "23",
+          "name": "2 Samuel 23:33"
+        },
+        {
+          "verse": "34",
+          "text": "Eliphèlèt bèn Ahasbaï bèn Ha-Ma‘akhati, Eli‘âm bèn Ahitophèl, de Guilôn;",
+          "chapter": "23",
+          "name": "2 Samuel 23:34"
+        },
+        {
+          "verse": "35",
+          "text": "Hèsraï, de Karmèl, Pa‘araï, d’Arab;",
+          "chapter": "23",
+          "name": "2 Samuel 23:35"
+        },
+        {
+          "verse": "36",
+          "text": "Igal bèn Natân, de Soba, Bani, de Gad;",
+          "chapter": "23",
+          "name": "2 Samuel 23:36"
+        },
+        {
+          "verse": "37",
+          "text": "Sèlèq, d’‘Amôn, Nahraï de Beérot, le porteur des engins de Ioab bèn Serouyah.",
+          "chapter": "23",
+          "name": "2 Samuel 23:37"
+        },
+        {
+          "verse": "38",
+          "text": "‘Ira, de Iatir, Garéb, de Iatir;",
+          "chapter": "23",
+          "name": "2 Samuel 23:38"
+        },
+        {
+          "verse": "39",
+          "text": "Ouryah, le Hiti. Tous, trente-sept.",
+          "chapter": "23",
+          "name": "2 Samuel 23:39"
+        }
+      ],
+      "name": "2 Samuel 23"
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "La narine de IHVH-Adonaï continue de brûler contre Israël. Il incite David contre eux et dit: «Va, dénombre Israël et Iehouda.»",
+          "chapter": "24",
+          "name": "2 Samuel 24:1"
+        },
+        {
+          "verse": "2",
+          "text": "Le roi dit à Ioab, le chef de l’armée, qui est avec lui: «Parcours donc tous les rameaux d’Israël, de Dân à Beér Shèba‘. Recensez le peuple. Je connaîtrai le nombre du peuple.»",
+          "chapter": "24",
+          "name": "2 Samuel 24:2"
+        },
+        {
+          "verse": "3",
+          "text": "Ioab dit au roi: «IHVH-Adonaï, ton Elohîms, ajoutera au peuple, comme eux et comme eux, cent fois. Mais les yeux de mon Adôn le roi voient. Pourquoi mon Adôn le roi désire-t-il cette parole?»",
+          "chapter": "24",
+          "name": "2 Samuel 24:3"
+        },
+        {
+          "verse": "4",
+          "text": "La parole du roi est confirmée à Ioab et aux chefs de l’armée. Ioab sort en face du roi avec les chefs de l’armée, pour recenser le peuple, Israël.",
+          "chapter": "24",
+          "name": "2 Samuel 24:4"
+        },
+        {
+          "verse": "5",
+          "text": "Ils passent le Iardèn et campent à ‘Aro‘ér à droite de la ville, qui est au milieu du torrent, à Gat et à Ia‘zér.",
+          "chapter": "24",
+          "name": "2 Samuel 24:5"
+        },
+        {
+          "verse": "6",
+          "text": "Ils viennent en Guil‘ad, en terre de Tahtîm-Hodshi. Ils viennent à Dân-Ia‘ân et autour de Sidôn.",
+          "chapter": "24",
+          "name": "2 Samuel 24:6"
+        },
+        {
+          "verse": "7",
+          "text": "Ils viennent à la forteresse de Sor, dans toutes les villes du Hivi et du Kena‘ani. Ils sortent au Nèguèb de Iehouda, à Beér Shèba‘.",
+          "chapter": "24",
+          "name": "2 Samuel 24:7"
+        },
+        {
+          "verse": "8",
+          "text": "Ils parcourent toute la terre et viennent au bout de neuf lunaisons et vingt jours à Ieroushalaîm.",
+          "chapter": "24",
+          "name": "2 Samuel 24:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ioab donne le nombre du recensement du peuple au roi. Et c’est à Israël huit cent mille hommes d’armée dégaineurs d’épée, et l’homme de Iehouda, cinq cent mille hommes.",
+          "chapter": "24",
+          "name": "2 Samuel 24:9"
+        },
+        {
+          "verse": "10",
+          "text": "Le cœur de David le frappe, après qu’il eut compté le peuple. David dit à IHVH-Adonaï: «J’ai fort fauté en ce que j’ai fait. Maintenant, IHVH-Adonaï, fais donc passer le tort de ton serviteur. Oui, j’ai été fort insensé.»",
+          "chapter": "24",
+          "name": "2 Samuel 24:10"
+        },
+        {
+          "verse": "11",
+          "text": "David se lève au matin. La parole de IHVH-Adonaï est à Gad, l’inspiré, le contemplatif de David, pour dire:",
+          "chapter": "24",
+          "name": "2 Samuel 24:11"
+        },
+        {
+          "verse": "12",
+          "text": "«Va. Parle à David: ‹ Ainsi dit IHVH-Adonaï: Trois, moi-même, je les soulève contre toi. Choisis pour toi l’une d’entre elles et je la ferai pour toi ›.»",
+          "chapter": "24",
+          "name": "2 Samuel 24:12"
+        },
+        {
+          "verse": "13",
+          "text": "Gad vient vers David. Il le lui rapporte et dit: «Cela surviendra pour toi: sept ans de famine sur ta terre; ou trois lunaisons de fuite en face de tes oppresseurs, eux te poursuivant; ou trois jours de peste sur ta terre. Maintenant, pénètre et vois ce que je répondrai à l’envoyeur de ma parole.»",
+          "chapter": "24",
+          "name": "2 Samuel 24:13"
+        },
+        {
+          "verse": "14",
+          "text": "David dit à Gad: «Je suis dans la détresse, fort. Tombons donc dans la main de IHVH-Adonaï, oui, ses matrices sont multiples, plutôt que je ne tombe dans la main de l’humain.»",
+          "chapter": "24",
+          "name": "2 Samuel 24:14"
+        },
+        {
+          "verse": "15",
+          "text": "IHVH-Adonaï donne la peste en Israël, dès le matin et jusqu’au temps du rendez-vous. Il meurt parmi le peuple, de Dân à Beér Shèba‘, soixante-dix mille hommes.",
+          "chapter": "24",
+          "name": "2 Samuel 24:15"
+        },
+        {
+          "verse": "16",
+          "text": "Le messager lance sa main contre Ieroushalaîm pour la détruire. IHVH-Adonaï réconforte dans le malheur. Il dit au messager, destructeur du peuple: «Assez! Maintenant, relâche ta main.» Le messager de IHVH-Adonaï était près de l’aire d’Aravna, le Ieboussi.",
+          "chapter": "24",
+          "name": "2 Samuel 24:16"
+        },
+        {
+          "verse": "17",
+          "text": "David dit à IHVH-Adonaï, quand il voit le messager frapper le peuple, il dit: «Voici, moi-même, j’ai fauté et moi-même j’ai été retors. Ceux-là, les ovins, qu’ont-ils fait? Que ta main soit donc contre moi et contre la maison de mon père.»",
+          "chapter": "24",
+          "name": "2 Samuel 24:17"
+        },
+        {
+          "verse": "18",
+          "text": "Gad vient vers David ce jour-là et lui dit: «Monte. Élève pour IHVH-Adonaï un autel dans l’aire d’Aravna, le Ieboussi!»",
+          "chapter": "24",
+          "name": "2 Samuel 24:18"
+        },
+        {
+          "verse": "19",
+          "text": "David monte, selon la parole de Gad, comme IHVH-Adonaï l’avait ordonné.",
+          "chapter": "24",
+          "name": "2 Samuel 24:19"
+        },
+        {
+          "verse": "20",
+          "text": "Aravna observe le roi et ses serviteurs passer vers lui. Aravna sort et se prosterne devant le roi, ses narines à terre.",
+          "chapter": "24",
+          "name": "2 Samuel 24:20"
+        },
+        {
+          "verse": "21",
+          "text": "Aravna dit: «Pourquoi mon Adôn le roi vient-il vers son serviteur?» David dit: «Pour t’acheter l’aire et bâtir un autel pour IHVH-Adonaï. La calamité sera refrénée sur le peuple.»",
+          "chapter": "24",
+          "name": "2 Samuel 24:21"
+        },
+        {
+          "verse": "22",
+          "text": "Aravna dit à David: «Que mon Adôn le roi prenne et fasse monter le bien à ses yeux! Vois, les bovins pour la montée, les battes et l’attirail des bovins pour les bois.»",
+          "chapter": "24",
+          "name": "2 Samuel 24:22"
+        },
+        {
+          "verse": "23",
+          "text": "Aravna donne tout au roi. Aravna dit au roi: «Que IHVH-Adonaï, ton Elohîms, t’agrée!»",
+          "chapter": "24",
+          "name": "2 Samuel 24:23"
+        },
+        {
+          "verse": "24",
+          "text": "Le roi dit à Aravna: «Non! Car je te l’achèterai, je te l’achèterai au prix; et je ne ferai pas monter pour IHVH-Adonaï, mon Elohîms, des montées gratuites.» David achète l’aire et les bovins contre argent, pour cinquante sicles.",
+          "chapter": "24",
+          "name": "2 Samuel 24:24"
+        },
+        {
+          "verse": "25",
+          "text": "David bâtit là un autel pour IHVH-Adonaï. Il fait monter des montées et des pacifications. IHVH-Adonaï intercède pour la terre, et la calamité se refrène loin d’Israël.",
+          "chapter": "24",
+          "name": "2 Samuel 24:25"
+        }
+      ],
+      "name": "2 Samuel 24"
+    }
+  ]
+}

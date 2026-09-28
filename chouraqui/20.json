@@ -1,0 +1,5688 @@
+{
+  "translation": "Chouraqui",
+  "abbreviation": "CHO",
+  "lang": "fr",
+  "language": "français",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 20,
+  "name": "Proverbes",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Exemples de Shelomo bèn David, roi d’Israël,",
+          "chapter": "1",
+          "name": "Proverbes 1:1"
+        },
+        {
+          "verse": "2",
+          "text": "pour pénétrer la sagesse, la discipline, pour discerner les dires du discernement,",
+          "chapter": "1",
+          "name": "Proverbes 1:2"
+        },
+        {
+          "verse": "3",
+          "text": "pour prendre discipline, perspicacité, justice, jugement, rectitudes,",
+          "chapter": "1",
+          "name": "Proverbes 1:3"
+        },
+        {
+          "verse": "4",
+          "text": "pour donner aux niais la ruse, à l’adolescent la pénétration, la préméditation.",
+          "chapter": "1",
+          "name": "Proverbes 1:4"
+        },
+        {
+          "verse": "5",
+          "text": "Le sage entend, il ajoute prise, le discernant acquiert des stratagèmes,",
+          "chapter": "1",
+          "name": "Proverbes 1:5"
+        },
+        {
+          "verse": "6",
+          "text": "pour discerner l’exemple et l’éloquence, les paroles des sages, leurs énigmes.",
+          "chapter": "1",
+          "name": "Proverbes 1:6"
+        },
+        {
+          "verse": "7",
+          "text": "En-tête de la pénétration, le frémissement de IHVH-Adonaï. Les déments méprisent la sagesse, la discipline.",
+          "chapter": "1",
+          "name": "Proverbes 1:7"
+        },
+        {
+          "verse": "8",
+          "text": "Entends, mon fils, la discipline de ton père, ne lâche pas la tora de ta mère:",
+          "chapter": "1",
+          "name": "Proverbes 1:8"
+        },
+        {
+          "verse": "9",
+          "text": "oui, elles sont escorte de grâce pour ta tête, sautoirs sur tes cols.",
+          "chapter": "1",
+          "name": "Proverbes 1:9"
+        },
+        {
+          "verse": "10",
+          "text": "Mon fils, si les fauteurs te séduisent, n’y consens pas.",
+          "chapter": "1",
+          "name": "Proverbes 1:10"
+        },
+        {
+          "verse": "11",
+          "text": "S’ils disent: «Va avec nous, nous traquerons le sang, nous séquestrerons l’innocent, gratuitement.",
+          "chapter": "1",
+          "name": "Proverbes 1:11"
+        },
+        {
+          "verse": "12",
+          "text": "Nous les engloutirons comme le Shéol, et les intègres comme les gisants de la fosse.",
+          "chapter": "1",
+          "name": "Proverbes 1:12"
+        },
+        {
+          "verse": "13",
+          "text": "Nous trouverons toute aisance précieuse, nous remplirons nos maisons de butin.",
+          "chapter": "1",
+          "name": "Proverbes 1:13"
+        },
+        {
+          "verse": "14",
+          "text": "Fais tomber ton sort au milieu de nous; une seule bourse sera pour nous tous!»",
+          "chapter": "1",
+          "name": "Proverbes 1:14"
+        },
+        {
+          "verse": "15",
+          "text": "Mon fils, ne va pas en route avec eux, interdis leur chemin à ton pied.",
+          "chapter": "1",
+          "name": "Proverbes 1:15"
+        },
+        {
+          "verse": "16",
+          "text": "Oui, leurs pieds courent au mal; ils se hâtent pour répandre le sang.",
+          "chapter": "1",
+          "name": "Proverbes 1:16"
+        },
+        {
+          "verse": "17",
+          "text": "Oui, gratuitement, le filet s’efface aux yeux de tout maître d’aile!",
+          "chapter": "1",
+          "name": "Proverbes 1:17"
+        },
+        {
+          "verse": "18",
+          "text": "Eux, ils traquent leur sang, ils capturent leurs êtres.",
+          "chapter": "1",
+          "name": "Proverbes 1:18"
+        },
+        {
+          "verse": "19",
+          "text": "Telles sont les voies de tout profiteur de profit, il saisit l’être de ses maîtres.",
+          "chapter": "1",
+          "name": "Proverbes 1:19"
+        },
+        {
+          "verse": "20",
+          "text": "La sagesse jubile dehors, elle donne de sa voix sur les places.",
+          "chapter": "1",
+          "name": "Proverbes 1:20"
+        },
+        {
+          "verse": "21",
+          "text": "En tête des lieux tumultueux elle crie; à l’ouverture des portes, dans la ville, elle dit ses dires:",
+          "chapter": "1",
+          "name": "Proverbes 1:21"
+        },
+        {
+          "verse": "22",
+          "text": "Jusqu’à quand, niais, aimerez-vous la niaiserie? Les railleurs convoiteront-ils la raillerie, les fous haïront-ils la pénétration?",
+          "chapter": "1",
+          "name": "Proverbes 1:22"
+        },
+        {
+          "verse": "23",
+          "text": "Retournez à mon exhortation. Voici, j’exprime pour vous mon souffle, je vous fais pénétrer mes paroles.",
+          "chapter": "1",
+          "name": "Proverbes 1:23"
+        },
+        {
+          "verse": "24",
+          "text": "Oui, je crie et vous refusez; je tends la main, personne n’est attentif!",
+          "chapter": "1",
+          "name": "Proverbes 1:24"
+        },
+        {
+          "verse": "25",
+          "text": "Vous esquivez tout mon conseil, vous ne consentez pas à mon exhortation.",
+          "chapter": "1",
+          "name": "Proverbes 1:25"
+        },
+        {
+          "verse": "26",
+          "text": "Moi aussi, je rirai de votre calamité, je ricanerai à la venue de votre peur:",
+          "chapter": "1",
+          "name": "Proverbes 1:26"
+        },
+        {
+          "verse": "27",
+          "text": "à la venue de votre peur comme une tourmente votre calamité surviendra comme un ouragan, à la venue contre vous de la détresse, du harcèlement.",
+          "chapter": "1",
+          "name": "Proverbes 1:27"
+        },
+        {
+          "verse": "28",
+          "text": "Alors, ils crieront vers moi, je ne répondrai pas. Ils seront en quête de moi, ils ne me trouveront pas.",
+          "chapter": "1",
+          "name": "Proverbes 1:28"
+        },
+        {
+          "verse": "29",
+          "text": "Parce qu’ils ont haï la pénétration, ils n’ont pas choisi le frémissement de IHVH-Adonaï,",
+          "chapter": "1",
+          "name": "Proverbes 1:29"
+        },
+        {
+          "verse": "30",
+          "text": "Ils n’ont pas consenti à mon conseil, ils ont répugné à toute mon exhortation.",
+          "chapter": "1",
+          "name": "Proverbes 1:30"
+        },
+        {
+          "verse": "31",
+          "text": "Ils mangeront le fruit de leur route; de leurs conseils ils se rassasieront.",
+          "chapter": "1",
+          "name": "Proverbes 1:31"
+        },
+        {
+          "verse": "32",
+          "text": "Oui, le reniement des niais les tue, l’apaisement des fous les perd.",
+          "chapter": "1",
+          "name": "Proverbes 1:32"
+        },
+        {
+          "verse": "33",
+          "text": "Qui m’entend résidera en sécurité, serein, sans peur du malheur.",
+          "chapter": "1",
+          "name": "Proverbes 1:33"
+        }
+      ],
+      "name": "Proverbes 1"
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Mon fils, si tu prends mes dires, si tu recèles mes ordres avec toi,",
+          "chapter": "2",
+          "name": "Proverbes 2:1"
+        },
+        {
+          "verse": "2",
+          "text": "pour rendre ton oreille attentive à la sagesse et tendre ton cœur au discernement,",
+          "chapter": "2",
+          "name": "Proverbes 2:2"
+        },
+        {
+          "verse": "3",
+          "text": "oui, si tu cries pour discerner, et donner ta voix au discernement;",
+          "chapter": "2",
+          "name": "Proverbes 2:3"
+        },
+        {
+          "verse": "4",
+          "text": "si tu la demandes comme de l’argent et la recherches comme des magots,",
+          "chapter": "2",
+          "name": "Proverbes 2:4"
+        },
+        {
+          "verse": "5",
+          "text": "alors tu discerneras le frémissement de IHVH-Adonaï, tu trouveras la pénétration d’Elohîms.",
+          "chapter": "2",
+          "name": "Proverbes 2:5"
+        },
+        {
+          "verse": "6",
+          "text": "Oui, IHVH-Adonaï donne la sagesse; de sa bouche la pénétration, le discernement.",
+          "chapter": "2",
+          "name": "Proverbes 2:6"
+        },
+        {
+          "verse": "7",
+          "text": "Il recèle pour les équitables l’efficacité, bouclier des marcheurs d’intégrité;",
+          "chapter": "2",
+          "name": "Proverbes 2:7"
+        },
+        {
+          "verse": "8",
+          "text": "pour protéger les voies du jugement, il garde la route de ses adorateurs.",
+          "chapter": "2",
+          "name": "Proverbes 2:8"
+        },
+        {
+          "verse": "9",
+          "text": "Alors tu discerneras la justice, le jugement, la rectitude, tout le cercle du bien.",
+          "chapter": "2",
+          "name": "Proverbes 2:9"
+        },
+        {
+          "verse": "10",
+          "text": "Oui, la sagesse viendra en ton cœur, la pénétration délectera ton être.",
+          "chapter": "2",
+          "name": "Proverbes 2:10"
+        },
+        {
+          "verse": "11",
+          "text": "La préméditation te gardera, le discernement te protégera,",
+          "chapter": "2",
+          "name": "Proverbes 2:11"
+        },
+        {
+          "verse": "12",
+          "text": "pour te secourir sur la route du mal, de l’homme qui parle de subversions,",
+          "chapter": "2",
+          "name": "Proverbes 2:12"
+        },
+        {
+          "verse": "13",
+          "text": "de ceux qui abandonnent les voies de droiture, pour aller sur les routes de ténèbre.",
+          "chapter": "2",
+          "name": "Proverbes 2:13"
+        },
+        {
+          "verse": "14",
+          "text": "Joyeux de mal faire, ils s’égayent aux subversions du mal,",
+          "chapter": "2",
+          "name": "Proverbes 2:14"
+        },
+        {
+          "verse": "15",
+          "text": "ceux dont les voies sont tortueuses, dévoyées dans leurs cercles.",
+          "chapter": "2",
+          "name": "Proverbes 2:15"
+        },
+        {
+          "verse": "16",
+          "text": "Pour te secourir de la femme étrangère, de l’exotique qui fait glisser ses dires,",
+          "chapter": "2",
+          "name": "Proverbes 2:16"
+        },
+        {
+          "verse": "17",
+          "text": "celle qui abandonne le meneur de son adolescence et oublie le pacte de son Elohîms.",
+          "chapter": "2",
+          "name": "Proverbes 2:17"
+        },
+        {
+          "verse": "18",
+          "text": "Oui, sa maison incline vers la mort, ses cercles vers les fantômes.",
+          "chapter": "2",
+          "name": "Proverbes 2:18"
+        },
+        {
+          "verse": "19",
+          "text": "Tous ses visiteurs n’en retournent pas, ils n’atteignent pas les voies de la vie.",
+          "chapter": "2",
+          "name": "Proverbes 2:19"
+        },
+        {
+          "verse": "20",
+          "text": "Pour que tu ailles sur la route des bons, que tu gardes les voies des justes.",
+          "chapter": "2",
+          "name": "Proverbes 2:20"
+        },
+        {
+          "verse": "21",
+          "text": "Oui, les équitables demeurent sur terre; les intègres subsistent.",
+          "chapter": "2",
+          "name": "Proverbes 2:21"
+        },
+        {
+          "verse": "22",
+          "text": "Les criminels seront tranchés de terre. Les traîtres seront boutés loin d’elle.",
+          "chapter": "2",
+          "name": "Proverbes 2:22"
+        }
+      ],
+      "name": "Proverbes 2"
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Mon fils, n’oublie pas ma tora, mes ordres; ton cœur les protégera.",
+          "chapter": "3",
+          "name": "Proverbes 3:1"
+        },
+        {
+          "verse": "2",
+          "text": "Oui, longueur des jours, années de vie, paix, te seront ajoutées.",
+          "chapter": "3",
+          "name": "Proverbes 3:2"
+        },
+        {
+          "verse": "3",
+          "text": "Le chérissement, la vérité ne t’abandonneront pas. Attache-les sur ta gorge, écris-les sur la tablette de ton cœur.",
+          "chapter": "3",
+          "name": "Proverbes 3:3"
+        },
+        {
+          "verse": "4",
+          "text": "Tu trouveras grâce, perspicacité du bien aux yeux d’Elohîms et de l’humain.",
+          "chapter": "3",
+          "name": "Proverbes 3:4"
+        },
+        {
+          "verse": "5",
+          "text": "Assure-toi en IHVH-Adonaï de tout ton cœur; ne t’appuie pas sur ton discernement.",
+          "chapter": "3",
+          "name": "Proverbes 3:5"
+        },
+        {
+          "verse": "6",
+          "text": "Pénètre-le dans toutes tes routes; et lui, il redressera tes voies.",
+          "chapter": "3",
+          "name": "Proverbes 3:6"
+        },
+        {
+          "verse": "7",
+          "text": "Ne sois pas sage à tes yeux, frémis d’Elohîms, écarte-toi du mal.",
+          "chapter": "3",
+          "name": "Proverbes 3:7"
+        },
+        {
+          "verse": "8",
+          "text": "Ce sera remède pour ton ombilic, philtre pour tes os.",
+          "chapter": "3",
+          "name": "Proverbes 3:8"
+        },
+        {
+          "verse": "9",
+          "text": "Glorifie IHVH-Adonaï par ton aisance, par l’en-tête de toute ta récolte.",
+          "chapter": "3",
+          "name": "Proverbes 3:9"
+        },
+        {
+          "verse": "10",
+          "text": "Tes granges se rempliront à satiété, le moût débordera de tes pressoirs.",
+          "chapter": "3",
+          "name": "Proverbes 3:10"
+        },
+        {
+          "verse": "11",
+          "text": "La discipline de IHVH-Adonaï, mon fils, ne la repousse pas; ne dédaigne pas son exhortation.",
+          "chapter": "3",
+          "name": "Proverbes 3:11"
+        },
+        {
+          "verse": "12",
+          "text": "Oui, IHVH-Adonaï exhorte celui qu’il aime, comme un père le fils qu’il agrée.",
+          "chapter": "3",
+          "name": "Proverbes 3:12"
+        },
+        {
+          "verse": "13",
+          "text": "En marche, l’humain qui trouve la sagesse, l’humain qui diffuse le discernement.",
+          "chapter": "3",
+          "name": "Proverbes 3:13"
+        },
+        {
+          "verse": "14",
+          "text": "Oui, sa valeur est meilleure que valeur d’argent, que l’or fin, sa récolte.",
+          "chapter": "3",
+          "name": "Proverbes 3:14"
+        },
+        {
+          "verse": "15",
+          "text": "Elle est plus chère que les perles; tous tes désirs ne la valent pas.",
+          "chapter": "3",
+          "name": "Proverbes 3:15"
+        },
+        {
+          "verse": "16",
+          "text": "À sa droite, la longueur des jours; à sa gauche, richesse et gloire.",
+          "chapter": "3",
+          "name": "Proverbes 3:16"
+        },
+        {
+          "verse": "17",
+          "text": "Ses routes sont routes de délices; tous ses chemins, paix.",
+          "chapter": "3",
+          "name": "Proverbes 3:17"
+        },
+        {
+          "verse": "18",
+          "text": "Elle est un arbre de vie pour ceux qui l’étreignent; ceux qui s’y appuient sont en marche.",
+          "chapter": "3",
+          "name": "Proverbes 3:18"
+        },
+        {
+          "verse": "19",
+          "text": "IHVH-Adonaï fonde la terre sur la sagesse; il affermit les ciels sur le discernement.",
+          "chapter": "3",
+          "name": "Proverbes 3:19"
+        },
+        {
+          "verse": "20",
+          "text": "Par sa pénétration, les abîmes se fendent; l’éther distille la rosée.",
+          "chapter": "3",
+          "name": "Proverbes 3:20"
+        },
+        {
+          "verse": "21",
+          "text": "Mon fils, qu’elles ne dévient pas de tes yeux! Protège l’efficacité, la préméditation.",
+          "chapter": "3",
+          "name": "Proverbes 3:21"
+        },
+        {
+          "verse": "22",
+          "text": "Qu’elles soient vie pour ton être, grâce pour ta gorge!",
+          "chapter": "3",
+          "name": "Proverbes 3:22"
+        },
+        {
+          "verse": "23",
+          "text": "Alors, tu iras ta route en sécurité, ton pied ne heurtera rien.",
+          "chapter": "3",
+          "name": "Proverbes 3:23"
+        },
+        {
+          "verse": "24",
+          "text": "Si tu te couches, tu n’es pas apeuré; tu te couches: ton sommeil est délectable.",
+          "chapter": "3",
+          "name": "Proverbes 3:24"
+        },
+        {
+          "verse": "25",
+          "text": "Ne frémis pas d’une peur soudaine, de la tourmente des criminels, quand elle vient.",
+          "chapter": "3",
+          "name": "Proverbes 3:25"
+        },
+        {
+          "verse": "26",
+          "text": "Oui, IHVH-Adonaï est ton expectative, il garde ton pied de l’embûche.",
+          "chapter": "3",
+          "name": "Proverbes 3:26"
+        },
+        {
+          "verse": "27",
+          "text": "N’interdis pas le bien à ses maîtres, quand il est au pouvoir de ta main de le faire.",
+          "chapter": "3",
+          "name": "Proverbes 3:27"
+        },
+        {
+          "verse": "28",
+          "text": "Ne dis pas à ton compagnon: «Va, retourne, demain je donnerai!» alors qu’il en est avec toi.",
+          "chapter": "3",
+          "name": "Proverbes 3:28"
+        },
+        {
+          "verse": "29",
+          "text": "N’ourdis pas le malheur contre ton compagnon alors qu’il siège en sécurité avec toi.",
+          "chapter": "3",
+          "name": "Proverbes 3:29"
+        },
+        {
+          "verse": "30",
+          "text": "Ne lutte pas contre un humain gratuitement s’il ne t’a pas rétribué de mal.",
+          "chapter": "3",
+          "name": "Proverbes 3:30"
+        },
+        {
+          "verse": "31",
+          "text": "Ne jalouse pas l’homme de violence, ne choisis pas toutes ses routes.",
+          "chapter": "3",
+          "name": "Proverbes 3:31"
+        },
+        {
+          "verse": "32",
+          "text": "Oui, le dévoyé est l’abomination de IHVH-Adonaï; les équitables de son intimité.",
+          "chapter": "3",
+          "name": "Proverbes 3:32"
+        },
+        {
+          "verse": "33",
+          "text": "Le honnissement de IHVH-Adonaï est dans la maison du criminel; il bénit l’oasis des justes.",
+          "chapter": "3",
+          "name": "Proverbes 3:33"
+        },
+        {
+          "verse": "34",
+          "text": "S’il est des railleurs, il les raille, et donne grâce aux humbles.",
+          "chapter": "3",
+          "name": "Proverbes 3:34"
+        },
+        {
+          "verse": "35",
+          "text": "Les sages possèdent la gloire. Les fous exaltent la turpitude.",
+          "chapter": "3",
+          "name": "Proverbes 3:35"
+        }
+      ],
+      "name": "Proverbes 3"
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Entendez, fils, la discipline du père; soyez attentifs à pénétrer le discernement.",
+          "chapter": "4",
+          "name": "Proverbes 4:1"
+        },
+        {
+          "verse": "2",
+          "text": "Oui, je vous ai donné la bonne prise; n’abandonnez pas ma tora!",
+          "chapter": "4",
+          "name": "Proverbes 4:2"
+        },
+        {
+          "verse": "3",
+          "text": "Oui, je suis le fils de mon père, tendre, unique, en face de ma mère.",
+          "chapter": "4",
+          "name": "Proverbes 4:3"
+        },
+        {
+          "verse": "4",
+          "text": "Il m’enseigne et me dit: Que ton cœur étaye mes paroles; garde mes ordres et vis!",
+          "chapter": "4",
+          "name": "Proverbes 4:4"
+        },
+        {
+          "verse": "5",
+          "text": "Acquiers la sagesse, acquiers le discernement; n’oublie pas, ne te détourne pas des dires de ma bouche.",
+          "chapter": "4",
+          "name": "Proverbes 4:5"
+        },
+        {
+          "verse": "6",
+          "text": "Ne l’abandonne pas, elle te gardera. Aime-la, elle te protégera.",
+          "chapter": "4",
+          "name": "Proverbes 4:6"
+        },
+        {
+          "verse": "7",
+          "text": "En-tête de sagesse, acquiers la sagesse. Avec tout ton acquis, acquiers le discernement.",
+          "chapter": "4",
+          "name": "Proverbes 4:7"
+        },
+        {
+          "verse": "8",
+          "text": "Juche-la, elle t’élèvera. Elle te glorifiera, si tu l’étreins.",
+          "chapter": "4",
+          "name": "Proverbes 4:8"
+        },
+        {
+          "verse": "9",
+          "text": "Elle donnera à ta tête une escorte de grâce; d’un diadème de splendeur, elle te protégera.",
+          "chapter": "4",
+          "name": "Proverbes 4:9"
+        },
+        {
+          "verse": "10",
+          "text": "Entends, mon fils, et prends mes dires: les années de vie se multiplieront pour toi.",
+          "chapter": "4",
+          "name": "Proverbes 4:10"
+        },
+        {
+          "verse": "11",
+          "text": "Je t’enseigne sur la route de sagesse; je te guide dans les cercles de droiture.",
+          "chapter": "4",
+          "name": "Proverbes 4:11"
+        },
+        {
+          "verse": "12",
+          "text": "À ton aller, ne raccourcis pas ton pas; et si tu cours, ne trébuche pas.",
+          "chapter": "4",
+          "name": "Proverbes 4:12"
+        },
+        {
+          "verse": "13",
+          "text": "Affermis la discipline, ne te relâche pas. Protège-la, oui, elle, ta vie.",
+          "chapter": "4",
+          "name": "Proverbes 4:13"
+        },
+        {
+          "verse": "14",
+          "text": "Ne viens pas sur la voie des criminels; ne sois pas en marche sur la route des malfaiteurs.",
+          "chapter": "4",
+          "name": "Proverbes 4:14"
+        },
+        {
+          "verse": "15",
+          "text": "Esquive-la, n’y passe pas, détourne-toi d’elle et passe.",
+          "chapter": "4",
+          "name": "Proverbes 4:15"
+        },
+        {
+          "verse": "16",
+          "text": "Non, ils ne sommeilleront pas, sans avoir méfait; leur sommeil est volé, s’ils ne font pas trébucher.",
+          "chapter": "4",
+          "name": "Proverbes 4:16"
+        },
+        {
+          "verse": "17",
+          "text": "Oui, ils panifient le pain du crime et boivent le vin des violences.",
+          "chapter": "4",
+          "name": "Proverbes 4:17"
+        },
+        {
+          "verse": "18",
+          "text": "La voie des justes est comme une lumière jaillissante; elle va dans la lumière, jusqu’au cœur parfait.",
+          "chapter": "4",
+          "name": "Proverbes 4:18"
+        },
+        {
+          "verse": "19",
+          "text": "La route des criminels est comme l’obscurité; ils ne savent pas sur quoi ils trébuchent.",
+          "chapter": "4",
+          "name": "Proverbes 4:19"
+        },
+        {
+          "verse": "20",
+          "text": "Mon fils, à mes paroles sois attentif; tends ton oreille à mes dires.",
+          "chapter": "4",
+          "name": "Proverbes 4:20"
+        },
+        {
+          "verse": "21",
+          "text": "Qu’ils ne dévient pas de tes yeux, garde-les au sein de ton cœur.",
+          "chapter": "4",
+          "name": "Proverbes 4:21"
+        },
+        {
+          "verse": "22",
+          "text": "Oui, ils sont vie pour qui les trouve; pour toute sa chair, guérison.",
+          "chapter": "4",
+          "name": "Proverbes 4:22"
+        },
+        {
+          "verse": "23",
+          "text": "Plus que toute garde, protège ton cœur; oui, à lui les issues de la vie.",
+          "chapter": "4",
+          "name": "Proverbes 4:23"
+        },
+        {
+          "verse": "24",
+          "text": "Écarte de toi les obstinations de la bouche, éloigne de toi la déviation des lèvres.",
+          "chapter": "4",
+          "name": "Proverbes 4:24"
+        },
+        {
+          "verse": "25",
+          "text": "Que tes yeux regardent en face: tes paupières se redresseront devant toi.",
+          "chapter": "4",
+          "name": "Proverbes 4:25"
+        },
+        {
+          "verse": "26",
+          "text": "Aplanis le cercle de ton pied: toutes tes routes seront fermes.",
+          "chapter": "4",
+          "name": "Proverbes 4:26"
+        },
+        {
+          "verse": "27",
+          "text": "Ne te détourne pas à droite ni à gauche; écarte ton pied du mal.",
+          "chapter": "4",
+          "name": "Proverbes 4:27"
+        }
+      ],
+      "name": "Proverbes 4"
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Mon fils, sois attentif à ma sagesse, tends ton oreille à mon discernement",
+          "chapter": "5",
+          "name": "Proverbes 5:1"
+        },
+        {
+          "verse": "2",
+          "text": "pour garder les préméditations; tes lèvres protégeront la pénétration.",
+          "chapter": "5",
+          "name": "Proverbes 5:2"
+        },
+        {
+          "verse": "3",
+          "text": "Oui, les lèvres de l’étrangère distillent la miellée; son palais est plus glissant que l’huile.",
+          "chapter": "5",
+          "name": "Proverbes 5:3"
+        },
+        {
+          "verse": "4",
+          "text": "Mais son avenir est amer comme l’absinthe; elle est tranchante comme une épée à deux bouches.",
+          "chapter": "5",
+          "name": "Proverbes 5:4"
+        },
+        {
+          "verse": "5",
+          "text": "Ses pieds descendent vers la mort; ses pas étayent le Shéol.",
+          "chapter": "5",
+          "name": "Proverbes 5:5"
+        },
+        {
+          "verse": "6",
+          "text": "Elle n’aplanit pas la voie de la vie; ses cercles se meuvent sans que tu le saches.",
+          "chapter": "5",
+          "name": "Proverbes 5:6"
+        },
+        {
+          "verse": "7",
+          "text": "Maintenant, fils, entendez-moi; ne vous écartez pas des dires de ma bouche:",
+          "chapter": "5",
+          "name": "Proverbes 5:7"
+        },
+        {
+          "verse": "8",
+          "text": "Éloigne d’elle ta route; ne t’approche pas de l’ouverture de sa maison,",
+          "chapter": "5",
+          "name": "Proverbes 5:8"
+        },
+        {
+          "verse": "9",
+          "text": "que tu ne donnes pas à d’autres ta magnificence, tes années au cruel.",
+          "chapter": "5",
+          "name": "Proverbes 5:9"
+        },
+        {
+          "verse": "10",
+          "text": "Que des étrangers ne se rassasient pas de ta force, de tes peines dans la maison de l’exotique.",
+          "chapter": "5",
+          "name": "Proverbes 5:10"
+        },
+        {
+          "verse": "11",
+          "text": "Tu gronderas dans ton avenir, à l’épuisement de ta chair, de ta viande;",
+          "chapter": "5",
+          "name": "Proverbes 5:11"
+        },
+        {
+          "verse": "12",
+          "text": "et tu diras: «Comment ai-je haï la discipline, et mon cœur a-t-il répugné à l’exhortation?",
+          "chapter": "5",
+          "name": "Proverbes 5:12"
+        },
+        {
+          "verse": "13",
+          "text": "Je n’ai pas entendu la voix de mes enseignants, je n’ai pas tendu mon oreille à mes appreneurs.",
+          "chapter": "5",
+          "name": "Proverbes 5:13"
+        },
+        {
+          "verse": "14",
+          "text": "J’étais presque à tout mal, au milieu du rassemblement de la communauté.»",
+          "chapter": "5",
+          "name": "Proverbes 5:14"
+        },
+        {
+          "verse": "15",
+          "text": "Bois les eaux de ta fosse, les liquides du milieu de ton puits.",
+          "chapter": "5",
+          "name": "Proverbes 5:15"
+        },
+        {
+          "verse": "16",
+          "text": "Tes sources se disperseront dehors; et dans les places, des canaux d’eaux.",
+          "chapter": "5",
+          "name": "Proverbes 5:16"
+        },
+        {
+          "verse": "17",
+          "text": "Ils seront pour toi seul, non pas à des étrangers avec toi;",
+          "chapter": "5",
+          "name": "Proverbes 5:17"
+        },
+        {
+          "verse": "18",
+          "text": "ta nappe sera bénie. Réjouis-toi de la femme de ta jeunesse,",
+          "chapter": "5",
+          "name": "Proverbes 5:18"
+        },
+        {
+          "verse": "19",
+          "text": "biche d’amour, bouquetin de grâce, ses seins te raviront en tout temps; de son amour, sois toujours épris.",
+          "chapter": "5",
+          "name": "Proverbes 5:19"
+        },
+        {
+          "verse": "20",
+          "text": "Pourquoi serais-tu épris, mon fils, d’une étrangère, étreindrais-tu le ventre de l’exotique?",
+          "chapter": "5",
+          "name": "Proverbes 5:20"
+        },
+        {
+          "verse": "21",
+          "text": "Oui, les routes de l’homme sont devant les yeux de IHVH-Adonaï; il aplanit tous ses cercles.",
+          "chapter": "5",
+          "name": "Proverbes 5:21"
+        },
+        {
+          "verse": "22",
+          "text": "Ses torts prennent le criminel, il y est suspendu aux ordres de sa faute.",
+          "chapter": "5",
+          "name": "Proverbes 5:22"
+        },
+        {
+          "verse": "23",
+          "text": "Il mourra sans discipline; il s’égarera en sa démence multiple.",
+          "chapter": "5",
+          "name": "Proverbes 5:23"
+        }
+      ],
+      "name": "Proverbes 5"
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Mon fils, si tu garantis ton compagnon, si tu topes de ta paume pour l’étranger,",
+          "chapter": "6",
+          "name": "Proverbes 6:1"
+        },
+        {
+          "verse": "2",
+          "text": "tu te pièges aux dires de ta bouche, tu es pris par les dires de ta bouche.",
+          "chapter": "6",
+          "name": "Proverbes 6:2"
+        },
+        {
+          "verse": "3",
+          "text": "Fais cependant cela, mon fils, et sois secouru, si tu es venu dans la paume de ton compagnon: va, aplatis-toi, presse tes compagnons.",
+          "chapter": "6",
+          "name": "Proverbes 6:3"
+        },
+        {
+          "verse": "4",
+          "text": "Ne donne pas de sommeil à tes yeux, de somnolence à tes paupières;",
+          "chapter": "6",
+          "name": "Proverbes 6:4"
+        },
+        {
+          "verse": "5",
+          "text": "et sois secouru, de la main, comme une gazelle, comme un oiseau, de la main du piégeur.",
+          "chapter": "6",
+          "name": "Proverbes 6:5"
+        },
+        {
+          "verse": "6",
+          "text": "Va vers la fourmi, paresseux; vois ses routes, et sois sage.",
+          "chapter": "6",
+          "name": "Proverbes 6:6"
+        },
+        {
+          "verse": "7",
+          "text": "Elle qui n’a pas d’alcade, de garde ni de gouverneur,",
+          "chapter": "6",
+          "name": "Proverbes 6:7"
+        },
+        {
+          "verse": "8",
+          "text": "elle prépare en été son pain, elle encave, à la moisson, sa nourriture.",
+          "chapter": "6",
+          "name": "Proverbes 6:8"
+        },
+        {
+          "verse": "9",
+          "text": "Jusqu’à quand, paresseux, te coucheras-tu? Quand te lèveras-tu de ton sommeil?",
+          "chapter": "6",
+          "name": "Proverbes 6:9"
+        },
+        {
+          "verse": "10",
+          "text": "Un peu de somme, un peu de somnolence, un peu croiser les mains pour se coucher;",
+          "chapter": "6",
+          "name": "Proverbes 6:10"
+        },
+        {
+          "verse": "11",
+          "text": "et elle vient comme un rôdeur, ton indigence, ta pénurie comme l’homme au bouclier.",
+          "chapter": "6",
+          "name": "Proverbes 6:11"
+        },
+        {
+          "verse": "12",
+          "text": "Humain de Belia‘al, homme de fraude, il va à contorsion de bouche.",
+          "chapter": "6",
+          "name": "Proverbes 6:12"
+        },
+        {
+          "verse": "13",
+          "text": "Il cligne de ses yeux, fourche de ses pieds, désigne de ses doigts.",
+          "chapter": "6",
+          "name": "Proverbes 6:13"
+        },
+        {
+          "verse": "14",
+          "text": "Les subversions dans son cœur, il est un artisan du mal en tout temps; il envoie les litiges.",
+          "chapter": "6",
+          "name": "Proverbes 6:14"
+        },
+        {
+          "verse": "15",
+          "text": "Sur quoi, soudain, sa calamité surgit; subitement, il est brisé, sans guérison.",
+          "chapter": "6",
+          "name": "Proverbes 6:15"
+        },
+        {
+          "verse": "16",
+          "text": "Six, il les hait, IHVH-Adonaï, et sept sont les abominations de son être:",
+          "chapter": "6",
+          "name": "Proverbes 6:16"
+        },
+        {
+          "verse": "17",
+          "text": "des yeux hautains, une langue de mensonge, des mains qui répandent le sang innocent,",
+          "chapter": "6",
+          "name": "Proverbes 6:17"
+        },
+        {
+          "verse": "18",
+          "text": "un cœur artisan de pensées de fraude, des pieds qui se hâtent de courir au malheur,",
+          "chapter": "6",
+          "name": "Proverbes 6:18"
+        },
+        {
+          "verse": "19",
+          "text": "un témoin de mensonge qui exhale les tromperies, et celui qui envoie des litiges entre frères.",
+          "chapter": "6",
+          "name": "Proverbes 6:19"
+        },
+        {
+          "verse": "20",
+          "text": "Protège, mon fils, l’ordre de ton père, ne lâche pas la tora de ta mère.",
+          "chapter": "6",
+          "name": "Proverbes 6:20"
+        },
+        {
+          "verse": "21",
+          "text": "Attache-les sur ton cœur en permanence, noue-les sur ta gorge.",
+          "chapter": "6",
+          "name": "Proverbes 6:21"
+        },
+        {
+          "verse": "22",
+          "text": "En ton cheminement, elle te mènera; à ton coucher, elle te gardera. Ranime-toi, elle s’épanchera en toi.",
+          "chapter": "6",
+          "name": "Proverbes 6:22"
+        },
+        {
+          "verse": "23",
+          "text": "Oui, l’ordre est une lampe, la tora une lumière; une route de vie, les exhortations de la discipline.",
+          "chapter": "6",
+          "name": "Proverbes 6:23"
+        },
+        {
+          "verse": "24",
+          "text": "Pour te garder de la femme du mal, du glissement de la langue exotique,",
+          "chapter": "6",
+          "name": "Proverbes 6:24"
+        },
+        {
+          "verse": "25",
+          "text": "ne convoite pas sa beauté en ton cœur, qu’elle ne te prenne pas de ses paupières.",
+          "chapter": "6",
+          "name": "Proverbes 6:25"
+        },
+        {
+          "verse": "26",
+          "text": "Oui, pour une femme, une putain, même plus une miche de pain! La femme mariée chasse un être cher.",
+          "chapter": "6",
+          "name": "Proverbes 6:26"
+        },
+        {
+          "verse": "27",
+          "text": "Un homme attrape-t-il du feu sur son sein sans que ses habits brûlent?",
+          "chapter": "6",
+          "name": "Proverbes 6:27"
+        },
+        {
+          "verse": "28",
+          "text": "Si un homme va sur des braises, ses pieds ne se calcinent-ils pas?",
+          "chapter": "6",
+          "name": "Proverbes 6:28"
+        },
+        {
+          "verse": "29",
+          "text": "Ainsi celui qui vient vers la femme de son compagnon: qui la touche n’est pas innocenté.",
+          "chapter": "6",
+          "name": "Proverbes 6:29"
+        },
+        {
+          "verse": "30",
+          "text": "Ils ne méprisent pas le voleur qui vole pour remplir son être affamé.",
+          "chapter": "6",
+          "name": "Proverbes 6:30"
+        },
+        {
+          "verse": "31",
+          "text": "Mais, trouvé, il paie au septuple, il donne toute l’aisance de sa maison.",
+          "chapter": "6",
+          "name": "Proverbes 6:31"
+        },
+        {
+          "verse": "32",
+          "text": "Qui adultère avec une femme manque de cœur. Qui le fait détruit son être.",
+          "chapter": "6",
+          "name": "Proverbes 6:32"
+        },
+        {
+          "verse": "33",
+          "text": "Il trouve le fléau et la turpitude: sa flétrissure ne sera pas effacée.",
+          "chapter": "6",
+          "name": "Proverbes 6:33"
+        },
+        {
+          "verse": "34",
+          "text": "Oui, la jalousie est la fièvre du brave; il ne compatit pas, au jour de la vengeance.",
+          "chapter": "6",
+          "name": "Proverbes 6:34"
+        },
+        {
+          "verse": "35",
+          "text": "Il ne porte pas les faces de toute rançon, il ne consent pas à ce que tu multiplies le pot-de-vin.",
+          "chapter": "6",
+          "name": "Proverbes 6:35"
+        }
+      ],
+      "name": "Proverbes 6"
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Mon fils, garde mes dires, recèle mes ordres avec toi.",
+          "chapter": "7",
+          "name": "Proverbes 7:1"
+        },
+        {
+          "verse": "2",
+          "text": "Garde mes ordres et vis, ma tora comme la pupille de tes yeux.",
+          "chapter": "7",
+          "name": "Proverbes 7:2"
+        },
+        {
+          "verse": "3",
+          "text": "Attache-les sur tes doigts, écris-les sur la tablette de ton cœur.",
+          "chapter": "7",
+          "name": "Proverbes 7:3"
+        },
+        {
+          "verse": "4",
+          "text": "Dis à la sagesse: «Toi, ma sœur!» au discernement, crie: «Pénétration»,",
+          "chapter": "7",
+          "name": "Proverbes 7:4"
+        },
+        {
+          "verse": "5",
+          "text": "pour te garder de la femme étrangère, de l’exotique: elle fait glisser ses dires.",
+          "chapter": "7",
+          "name": "Proverbes 7:5"
+        },
+        {
+          "verse": "6",
+          "text": "Oui, à la fenêtre de ma maison, par ma lucarne, j’observe.",
+          "chapter": "7",
+          "name": "Proverbes 7:6"
+        },
+        {
+          "verse": "7",
+          "text": "Je vois des niais, je discerne parmi les fils: un adolescent manque de cœur!",
+          "chapter": "7",
+          "name": "Proverbes 7:7"
+        },
+        {
+          "verse": "8",
+          "text": "Il passe sur le marché, près de son angle. En route vers sa maison, il défile,",
+          "chapter": "7",
+          "name": "Proverbes 7:8"
+        },
+        {
+          "verse": "9",
+          "text": "au crépuscule, au soir du jour, dans la pupille de la nuit et l’obscurité.",
+          "chapter": "7",
+          "name": "Proverbes 7:9"
+        },
+        {
+          "verse": "10",
+          "text": "Et voici, une femme à son abord, accoutrée en putain, le cœur bardé,",
+          "chapter": "7",
+          "name": "Proverbes 7:10"
+        },
+        {
+          "verse": "11",
+          "text": "bouleversante, déchaînée; ses pieds ne demeureront pas dans sa maison.",
+          "chapter": "7",
+          "name": "Proverbes 7:11"
+        },
+        {
+          "verse": "12",
+          "text": "Une fois dehors, une fois dans les places, près de chaque coin, elle traque.",
+          "chapter": "7",
+          "name": "Proverbes 7:12"
+        },
+        {
+          "verse": "13",
+          "text": "Elle le saisit, elle le baise et, les faces rudes, lui dit:",
+          "chapter": "7",
+          "name": "Proverbes 7:13"
+        },
+        {
+          "verse": "14",
+          "text": "«J’avais sur moi des sacrifices d’apaisement; aujourd’hui, j’ai payé mes vœux.",
+          "chapter": "7",
+          "name": "Proverbes 7:14"
+        },
+        {
+          "verse": "15",
+          "text": "Sur quoi je suis sortie à ton abord, en quête de tes faces, et je te trouve!",
+          "chapter": "7",
+          "name": "Proverbes 7:15"
+        },
+        {
+          "verse": "16",
+          "text": "J’ai tapissé mon lit de tapisserie, de coussins en baptiste de Misraîm.",
+          "chapter": "7",
+          "name": "Proverbes 7:16"
+        },
+        {
+          "verse": "17",
+          "text": "J’ai vaporisé ma couche de myrrhe, d’aloès, de cinnamome,",
+          "chapter": "7",
+          "name": "Proverbes 7:17"
+        },
+        {
+          "verse": "18",
+          "text": "va, nous nous abreuverons d’étreintes; jusqu’au matin nous exulterons d’amours.",
+          "chapter": "7",
+          "name": "Proverbes 7:18"
+        },
+        {
+          "verse": "19",
+          "text": "Non, l’homme n’est pas dans sa maison. Il est allé sur la route, au loin.",
+          "chapter": "7",
+          "name": "Proverbes 7:19"
+        },
+        {
+          "verse": "20",
+          "text": "Il a pris la bourse d’argent; au jour de la néoménie, il reviendra dans sa maison.»",
+          "chapter": "7",
+          "name": "Proverbes 7:20"
+        },
+        {
+          "verse": "21",
+          "text": "Elle le détourne par sa prise multiple; elle le bannit au glissement de ses lèvres.",
+          "chapter": "7",
+          "name": "Proverbes 7:21"
+        },
+        {
+          "verse": "22",
+          "text": "Il va derrière elle, soudain, comme un bœuf à l’abattoir; il vient comme un dément chevillé pour la discipline,",
+          "chapter": "7",
+          "name": "Proverbes 7:22"
+        },
+        {
+          "verse": "23",
+          "text": "jusqu’à ce que la flèche fende son foie, comme l’oiseau se hâte vers le traquet, sans savoir qu’il y va de son être même.",
+          "chapter": "7",
+          "name": "Proverbes 7:23"
+        },
+        {
+          "verse": "24",
+          "text": "Maintenant, fils, entendez-moi; soyez attentifs aux dires de ma bouche.",
+          "chapter": "7",
+          "name": "Proverbes 7:24"
+        },
+        {
+          "verse": "25",
+          "text": "Que ton cœur ne dévie pas dans ses routes; n’erre pas dans ses chemins.",
+          "chapter": "7",
+          "name": "Proverbes 7:25"
+        },
+        {
+          "verse": "26",
+          "text": "Oui, elle a fait tomber de nombreuses victimes; les plus vigoureux sont tous parmi ses tués.",
+          "chapter": "7",
+          "name": "Proverbes 7:26"
+        },
+        {
+          "verse": "27",
+          "text": "Sa maison est sur les routes du Shéol; elles descendent aux chambres de la mort.",
+          "chapter": "7",
+          "name": "Proverbes 7:27"
+        }
+      ],
+      "name": "Proverbes 7"
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "N’est-ce pas, la sagesse crie, le discernement donne de sa voix?",
+          "chapter": "8",
+          "name": "Proverbes 8:1"
+        },
+        {
+          "verse": "2",
+          "text": "En-tête des altitudes, sur le chemin, aux maisons des carrefours postée;",
+          "chapter": "8",
+          "name": "Proverbes 8:2"
+        },
+        {
+          "verse": "3",
+          "text": "à la main des portes, à la bouche de la cité, elle jubile à l’entrée des ouvertures.",
+          "chapter": "8",
+          "name": "Proverbes 8:3"
+        },
+        {
+          "verse": "4",
+          "text": "«Vers nous, hommes, je crie, ma voix aux fils de l’humain!",
+          "chapter": "8",
+          "name": "Proverbes 8:4"
+        },
+        {
+          "verse": "5",
+          "text": "Discernez la ruse, niais, fous, discernez le cœur.",
+          "chapter": "8",
+          "name": "Proverbes 8:5"
+        },
+        {
+          "verse": "6",
+          "text": "Entendez, oui, je parle d’importance; la clé de mes lèvres est rectitudes.",
+          "chapter": "8",
+          "name": "Proverbes 8:6"
+        },
+        {
+          "verse": "7",
+          "text": "Oui, mon palais murmure la vérité; le crime est l’abomination de mes lèvres.",
+          "chapter": "8",
+          "name": "Proverbes 8:7"
+        },
+        {
+          "verse": "8",
+          "text": "Avec justice, tous les dires de ma bouche; en eux, rien de sinueux, d’entortillé.",
+          "chapter": "8",
+          "name": "Proverbes 8:8"
+        },
+        {
+          "verse": "9",
+          "text": "Tous sont présents pour qui discerne, droits aux trouveurs de pénétration.",
+          "chapter": "8",
+          "name": "Proverbes 8:9"
+        },
+        {
+          "verse": "10",
+          "text": "Prenez ma discipline, non l’argent; la pénétration, mieux que l’or fin choisi.",
+          "chapter": "8",
+          "name": "Proverbes 8:10"
+        },
+        {
+          "verse": "11",
+          "text": "Oui, la sagesse est meilleure que les perles; tous les désirs ne la valent pas.",
+          "chapter": "8",
+          "name": "Proverbes 8:11"
+        },
+        {
+          "verse": "12",
+          "text": "Moi, la sagesse, je demeure dans la ruse, et je trouve la pénétration, les préméditations.",
+          "chapter": "8",
+          "name": "Proverbes 8:12"
+        },
+        {
+          "verse": "13",
+          "text": "Frémissement de IHVH-Adonaï, haïr le mal. Orgueil, génie, route du mal, bouche des subversions, je les hais.",
+          "chapter": "8",
+          "name": "Proverbes 8:13"
+        },
+        {
+          "verse": "14",
+          "text": "À moi le conseil, l’efficacité, moi le discernement, à moi l’héroïsme!",
+          "chapter": "8",
+          "name": "Proverbes 8:14"
+        },
+        {
+          "verse": "15",
+          "text": "Avec moi, les rois règnent, les potentats légifèrent avec justice.",
+          "chapter": "8",
+          "name": "Proverbes 8:15"
+        },
+        {
+          "verse": "16",
+          "text": "Avec moi, les chefs administrent, les grands, tous les juges de la terre.",
+          "chapter": "8",
+          "name": "Proverbes 8:16"
+        },
+        {
+          "verse": "17",
+          "text": "Moi, j’aime mes amants, mes quêteurs me trouvent.",
+          "chapter": "8",
+          "name": "Proverbes 8:17"
+        },
+        {
+          "verse": "18",
+          "text": "La richesse, la gloire sont avec moi, l’aisance antique, la justification.",
+          "chapter": "8",
+          "name": "Proverbes 8:18"
+        },
+        {
+          "verse": "19",
+          "text": "Mon fruit est meilleur que l’or fin, que l’or pur; ma récolte, que l’argent choisi.",
+          "chapter": "8",
+          "name": "Proverbes 8:19"
+        },
+        {
+          "verse": "20",
+          "text": "Sur la voie de justification je vais au milieu des chemins du jugement.",
+          "chapter": "8",
+          "name": "Proverbes 8:20"
+        },
+        {
+          "verse": "21",
+          "text": "J’ai de quoi faire posséder mes amants; je remplis leurs trésors.",
+          "chapter": "8",
+          "name": "Proverbes 8:21"
+        },
+        {
+          "verse": "22",
+          "text": "IHVH-Adonaï m’a acquise en tête de sa route, avant ses œuvres, dès lors.",
+          "chapter": "8",
+          "name": "Proverbes 8:22"
+        },
+        {
+          "verse": "23",
+          "text": "En pérennité, j’ai été ointe, en tête, aux antériorités de la terre.",
+          "chapter": "8",
+          "name": "Proverbes 8:23"
+        },
+        {
+          "verse": "24",
+          "text": "Au rien des abîmes, j’ai été conçue, au rien des sources glorieuses d’eaux.",
+          "chapter": "8",
+          "name": "Proverbes 8:24"
+        },
+        {
+          "verse": "25",
+          "text": "Avant que les montagnes ne chavirent, avant les collines, j’ai été conçue;",
+          "chapter": "8",
+          "name": "Proverbes 8:25"
+        },
+        {
+          "verse": "26",
+          "text": "alors qu’il n’avait pas fait la terre, les allées, la tête des poussières du monde.",
+          "chapter": "8",
+          "name": "Proverbes 8:26"
+        },
+        {
+          "verse": "27",
+          "text": "Quand il a affermi les ciels, moi, j’étais là, quand il a gravé l’orbe sur les faces de l’abîme,",
+          "chapter": "8",
+          "name": "Proverbes 8:27"
+        },
+        {
+          "verse": "28",
+          "text": "quand il a consolidé l’éther en haut, quand il a conforté les yeux de l’abîme,",
+          "chapter": "8",
+          "name": "Proverbes 8:28"
+        },
+        {
+          "verse": "29",
+          "text": "quand il a mis à la mer sa loi et les eaux ne transgressent pas sa bouche ­ quand il a gravé les fondements de la terre.",
+          "chapter": "8",
+          "name": "Proverbes 8:29"
+        },
+        {
+          "verse": "30",
+          "text": "Je suis près de lui l’infante, je suis la délectation, de jour en jour, jouant en face de lui en tout temps,",
+          "chapter": "8",
+          "name": "Proverbes 8:30"
+        },
+        {
+          "verse": "31",
+          "text": "jouant au monde de sa terre; mes délectations avec les fils de l’humain.",
+          "chapter": "8",
+          "name": "Proverbes 8:31"
+        },
+        {
+          "verse": "32",
+          "text": "Maintenant, fils, entendez-moi: en marche sur mes routes, ils les gardent.",
+          "chapter": "8",
+          "name": "Proverbes 8:32"
+        },
+        {
+          "verse": "33",
+          "text": "Entendez la discipline, assagissez-vous, ne vous hérissez pas.",
+          "chapter": "8",
+          "name": "Proverbes 8:33"
+        },
+        {
+          "verse": "34",
+          "text": "En marche, l’humain qui m’entend, pour être vigilant à mes portails, de jour en jour, pour garder les montants de mes ouvertures.",
+          "chapter": "8",
+          "name": "Proverbes 8:34"
+        },
+        {
+          "verse": "35",
+          "text": "Qui me trouve trouve la vie et diffuse le vouloir de IHVH-Adonaï.",
+          "chapter": "8",
+          "name": "Proverbes 8:35"
+        },
+        {
+          "verse": "36",
+          "text": "Qui faute contre moi violente son être; tous mes haineux aiment la mort.»",
+          "chapter": "8",
+          "name": "Proverbes 8:36"
+        }
+      ],
+      "name": "Proverbes 8"
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "La sagesse bâtit sa maison. Elle taille ses colonnes, sept.",
+          "chapter": "9",
+          "name": "Proverbes 9:1"
+        },
+        {
+          "verse": "2",
+          "text": "Elle immole son immolation, elle fait libation de son vin et dresse sa table aussi.",
+          "chapter": "9",
+          "name": "Proverbes 9:2"
+        },
+        {
+          "verse": "3",
+          "text": "Elle envoie ses adolescentes crier au sommet des hauteurs de la cité:",
+          "chapter": "9",
+          "name": "Proverbes 9:3"
+        },
+        {
+          "verse": "4",
+          "text": "«Qui est niais s’écarte de là! Sans cœur, lui dit-elle.",
+          "chapter": "9",
+          "name": "Proverbes 9:4"
+        },
+        {
+          "verse": "5",
+          "text": "Allez, dégustez mon pain, buvez le vin dont je fais libation.",
+          "chapter": "9",
+          "name": "Proverbes 9:5"
+        },
+        {
+          "verse": "6",
+          "text": "Abandonnez la niaiserie, vivez, et marchez sur la route du discernement!»",
+          "chapter": "9",
+          "name": "Proverbes 9:6"
+        },
+        {
+          "verse": "7",
+          "text": "Qui discipline le railleur prend sur lui la turpitude; et qui exhorte le criminel, sa tare.",
+          "chapter": "9",
+          "name": "Proverbes 9:7"
+        },
+        {
+          "verse": "8",
+          "text": "N’exhorte pas le railleur, qu’il ne te haïsse! Admoneste le sage, il t’aimera!",
+          "chapter": "9",
+          "name": "Proverbes 9:8"
+        },
+        {
+          "verse": "9",
+          "text": "Donne au sage, il s’assagit encore. Fais pénétrer au juste, il ajoutera prise.",
+          "chapter": "9",
+          "name": "Proverbes 9:9"
+        },
+        {
+          "verse": "10",
+          "text": "Commencement de sagesse, frémissement de IHVH-Adonaï. Pénétration des consacrés, discernement.",
+          "chapter": "9",
+          "name": "Proverbes 9:10"
+        },
+        {
+          "verse": "11",
+          "text": "Oui, en moi tes jours se multiplieront et t’ajouteront des années de vie.",
+          "chapter": "9",
+          "name": "Proverbes 9:11"
+        },
+        {
+          "verse": "12",
+          "text": "Si tu es sage, tu es sage pour toi. Si tu railles, tu porteras seul.",
+          "chapter": "9",
+          "name": "Proverbes 9:12"
+        },
+        {
+          "verse": "13",
+          "text": "Dame folie est bruyante; séductrice, elle n’a jamais su quoi.",
+          "chapter": "9",
+          "name": "Proverbes 9:13"
+        },
+        {
+          "verse": "14",
+          "text": "Elle est assise à l’ouverture de sa maison, sur le trône des hauteurs de la cité,",
+          "chapter": "9",
+          "name": "Proverbes 9:14"
+        },
+        {
+          "verse": "15",
+          "text": "pour crier aux passants de la route, qui redressent leurs voies:",
+          "chapter": "9",
+          "name": "Proverbes 9:15"
+        },
+        {
+          "verse": "16",
+          "text": "«Qui est niais s’écarte de là!» Au sans-cœur, elle dit:",
+          "chapter": "9",
+          "name": "Proverbes 9:16"
+        },
+        {
+          "verse": "17",
+          "text": "«Les eaux volées sont douces; le pain, en secret, attendrit.»",
+          "chapter": "9",
+          "name": "Proverbes 9:17"
+        },
+        {
+          "verse": "18",
+          "text": "Mais il ne sait pas que les sceptres sont là, ses invités, aux profondeurs du Shéol.",
+          "chapter": "9",
+          "name": "Proverbes 9:18"
+        }
+      ],
+      "name": "Proverbes 9"
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Exemples de Shelomo. Fils sage réjouit le père. Fils fou, chagrin de sa mère.",
+          "chapter": "10",
+          "name": "Proverbes 10:1"
+        },
+        {
+          "verse": "2",
+          "text": "Les trésors du criminel ne sont pas utiles; la justification sauve de la mort.",
+          "chapter": "10",
+          "name": "Proverbes 10:2"
+        },
+        {
+          "verse": "3",
+          "text": "IHVH-Adonaï n’affame pas l’être du juste; le dam des criminels les éjecte.",
+          "chapter": "10",
+          "name": "Proverbes 10:3"
+        },
+        {
+          "verse": "4",
+          "text": "Paume de duperie fait dénuement; main zélée enrichit.",
+          "chapter": "10",
+          "name": "Proverbes 10:4"
+        },
+        {
+          "verse": "5",
+          "text": "Le fils perspicace encave en été; le fils infamant s’endort à la moisson.",
+          "chapter": "10",
+          "name": "Proverbes 10:5"
+        },
+        {
+          "verse": "6",
+          "text": "Les bénédictions sont sur la tête du juste; la bouche des criminels couvre la violence.",
+          "chapter": "10",
+          "name": "Proverbes 10:6"
+        },
+        {
+          "verse": "7",
+          "text": "Le souvenir du juste est en bénédiction; le nom des criminel pourrit.",
+          "chapter": "10",
+          "name": "Proverbes 10:7"
+        },
+        {
+          "verse": "8",
+          "text": "Cœur sage prend les ordres; le dément bafouille des lèvres.",
+          "chapter": "10",
+          "name": "Proverbes 10:8"
+        },
+        {
+          "verse": "9",
+          "text": "Marcheur intègre va en sécurité; qui entortille ses routes sera débusqué.",
+          "chapter": "10",
+          "name": "Proverbes 10:9"
+        },
+        {
+          "verse": "10",
+          "text": "Cligneur d’œil donne peine; le dément bafouille des lèvres.",
+          "chapter": "10",
+          "name": "Proverbes 10:10"
+        },
+        {
+          "verse": "11",
+          "text": "Bouche du juste, nappe de vie; bouche des criminels couvre la violence.",
+          "chapter": "10",
+          "name": "Proverbes 10:11"
+        },
+        {
+          "verse": "12",
+          "text": "La haine éveille les litiges, l’amour couvre les carences.",
+          "chapter": "10",
+          "name": "Proverbes 10:12"
+        },
+        {
+          "verse": "13",
+          "text": "La sagesse se trouve sur les lèvres du discernant. Bâton au dos, sans cœur.",
+          "chapter": "10",
+          "name": "Proverbes 10:13"
+        },
+        {
+          "verse": "14",
+          "text": "Les sages recèlent la pénétration; bouche du dément, effarement prochain.",
+          "chapter": "10",
+          "name": "Proverbes 10:14"
+        },
+        {
+          "verse": "15",
+          "text": "Aisance du riche, cité de son énergie; effarement des chétifs, leur indigence.",
+          "chapter": "10",
+          "name": "Proverbes 10:15"
+        },
+        {
+          "verse": "16",
+          "text": "L’œuvre du juste est pour la vie; la récolte du criminel pour la faute.",
+          "chapter": "10",
+          "name": "Proverbes 10:16"
+        },
+        {
+          "verse": "17",
+          "text": "Voie de vie, être gardien de discipline; qui abandonne la discipline fait vaguer.",
+          "chapter": "10",
+          "name": "Proverbes 10:17"
+        },
+        {
+          "verse": "18",
+          "text": "Les lèvres du mensonge couvrent la haine; qui exprime la calomnie est fou.",
+          "chapter": "10",
+          "name": "Proverbes 10:18"
+        },
+        {
+          "verse": "19",
+          "text": "La carence ne cesse pas avec la multiplicité des paroles; qui épargne ses lèvres est perspicace.",
+          "chapter": "10",
+          "name": "Proverbes 10:19"
+        },
+        {
+          "verse": "20",
+          "text": "La langue du juste est argent de choix; le cœur des criminels comme une scorie.",
+          "chapter": "10",
+          "name": "Proverbes 10:20"
+        },
+        {
+          "verse": "21",
+          "text": "Les lèvres du juste pâtureront des multitudes; les déments meurent par manque de cœur.",
+          "chapter": "10",
+          "name": "Proverbes 10:21"
+        },
+        {
+          "verse": "22",
+          "text": "La bénédiction de IHVH-Adonaï enrichit; la peine ne s’y ajoute pas.",
+          "chapter": "10",
+          "name": "Proverbes 10:22"
+        },
+        {
+          "verse": "23",
+          "text": "Commettre une perversion est, pour le fou, comme un rire, et la sagesse pour l’homme de discernement.",
+          "chapter": "10",
+          "name": "Proverbes 10:23"
+        },
+        {
+          "verse": "24",
+          "text": "L’épouvante du criminel survient contre lui; l’appétit des justes donne.",
+          "chapter": "10",
+          "name": "Proverbes 10:24"
+        },
+        {
+          "verse": "25",
+          "text": "Quand l’ouragan passe, plus de criminel. Le juste est le fondement du monde.",
+          "chapter": "10",
+          "name": "Proverbes 10:25"
+        },
+        {
+          "verse": "26",
+          "text": "Comme vinaigre aux dents, comme fumée aux yeux, tel est le paresseux pour ses mandataires.",
+          "chapter": "10",
+          "name": "Proverbes 10:26"
+        },
+        {
+          "verse": "27",
+          "text": "Le frémissement de IHVH-Adonaï ajoute aux jours; les années des criminels écourtent.",
+          "chapter": "10",
+          "name": "Proverbes 10:27"
+        },
+        {
+          "verse": "28",
+          "text": "Souhait des justes, joie; l’espoir des criminels perd.",
+          "chapter": "10",
+          "name": "Proverbes 10:28"
+        },
+        {
+          "verse": "29",
+          "text": "La route de IHVH-Adonaï est le retranchement de l’intègre; l’effarement, pour les ouvriers de fraude.",
+          "chapter": "10",
+          "name": "Proverbes 10:29"
+        },
+        {
+          "verse": "30",
+          "text": "Le juste ne chancelle jamais, en pérennité. Les criminels ne demeureront pas sur terre.",
+          "chapter": "10",
+          "name": "Proverbes 10:30"
+        },
+        {
+          "verse": "31",
+          "text": "La bouche du juste fruite de sagesse; la langue des subversions est tranchée.",
+          "chapter": "10",
+          "name": "Proverbes 10:31"
+        },
+        {
+          "verse": "32",
+          "text": "Les lèvres du juste connaissent le vouloir; bouche des criminels, subversions.",
+          "chapter": "10",
+          "name": "Proverbes 10:32"
+        }
+      ],
+      "name": "Proverbes 10"
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Balances de duperie, abomination de IHVH-Adonaï; pierre intacte, son vouloir.",
+          "chapter": "11",
+          "name": "Proverbes 11:1"
+        },
+        {
+          "verse": "2",
+          "text": "L’arrogance venue, vient la turpitude; aux humbles, la sagesse.",
+          "chapter": "11",
+          "name": "Proverbes 11:2"
+        },
+        {
+          "verse": "3",
+          "text": "L’intégrité des équitables les mène; la perversion des traîtres les razzie.",
+          "chapter": "11",
+          "name": "Proverbes 11:3"
+        },
+        {
+          "verse": "4",
+          "text": "L’aisance n’est pas utile au jour de l’emportement; la justification secourt de la mort.",
+          "chapter": "11",
+          "name": "Proverbes 11:4"
+        },
+        {
+          "verse": "5",
+          "text": "La justice de l’intègre redresse sa route; le criminel tombe dans son crime.",
+          "chapter": "11",
+          "name": "Proverbes 11:5"
+        },
+        {
+          "verse": "6",
+          "text": "La justice des équitables les secourt; par le dam, les traîtres sont pris.",
+          "chapter": "11",
+          "name": "Proverbes 11:6"
+        },
+        {
+          "verse": "7",
+          "text": "À la mort de l’humain, l’espoir du criminel est perdu; le souhait des fraudeurs perd.",
+          "chapter": "11",
+          "name": "Proverbes 11:7"
+        },
+        {
+          "verse": "8",
+          "text": "Le juste est renfloué de la détresse; le criminel vient à sa place.",
+          "chapter": "11",
+          "name": "Proverbes 11:8"
+        },
+        {
+          "verse": "9",
+          "text": "Par la bouche, le flatteur détruit son compagnon; les justes sont renfloués par la pénétration.",
+          "chapter": "11",
+          "name": "Proverbes 11:9"
+        },
+        {
+          "verse": "10",
+          "text": "Au bien des justes la cité exulte, à la perdition des criminels, jubilation.",
+          "chapter": "11",
+          "name": "Proverbes 11:10"
+        },
+        {
+          "verse": "11",
+          "text": "À la bénédiction des justes la cité s’exalte; elle est cassée par la bouche des criminels.",
+          "chapter": "11",
+          "name": "Proverbes 11:11"
+        },
+        {
+          "verse": "12",
+          "text": "Le sans-cœur méprise son compagnon; l’homme de discernement se tait.",
+          "chapter": "11",
+          "name": "Proverbes 11:12"
+        },
+        {
+          "verse": "13",
+          "text": "Le calomniateur va et découvre l’intimité; le souffle qui adhère couvre la parole.",
+          "chapter": "11",
+          "name": "Proverbes 11:13"
+        },
+        {
+          "verse": "14",
+          "text": "Sans stratégies, un peuple tombe; le salut est dans la multitude des conseillers.",
+          "chapter": "11",
+          "name": "Proverbes 11:14"
+        },
+        {
+          "verse": "15",
+          "text": "Il méfait, il méfait quand il cautionne un étranger; qui hait les topes se sécurise.",
+          "chapter": "11",
+          "name": "Proverbes 11:15"
+        },
+        {
+          "verse": "16",
+          "text": "Femme de grâce étaye gloire; violents étayent richesse.",
+          "chapter": "11",
+          "name": "Proverbes 11:16"
+        },
+        {
+          "verse": "17",
+          "text": "Homme de chérissement rétribue son être; le cruel trouble sa viande.",
+          "chapter": "11",
+          "name": "Proverbes 11:17"
+        },
+        {
+          "verse": "18",
+          "text": "Le criminel fait œuvre de mensonge; à semeur de justification, salaire de vérité.",
+          "chapter": "11",
+          "name": "Proverbes 11:18"
+        },
+        {
+          "verse": "19",
+          "text": "Certitude de justification, la vie; à poursuite du mal, sa mort.",
+          "chapter": "11",
+          "name": "Proverbes 11:19"
+        },
+        {
+          "verse": "20",
+          "text": "À cœurs entortillés, abomination de IHVH-Adonaï; son vouloir aux intègres de la route.",
+          "chapter": "11",
+          "name": "Proverbes 11:20"
+        },
+        {
+          "verse": "21",
+          "text": "De la main à la main, le mal n’est pas innocenté; la semence des justes s’échappe.",
+          "chapter": "11",
+          "name": "Proverbes 11:21"
+        },
+        {
+          "verse": "22",
+          "text": "Narinière d’or sur narine de porc, une belle femme sans goût.",
+          "chapter": "11",
+          "name": "Proverbes 11:22"
+        },
+        {
+          "verse": "23",
+          "text": "Appétit des justes, le bien seul! Espoir des criminels, l’emportement!",
+          "chapter": "11",
+          "name": "Proverbes 11:23"
+        },
+        {
+          "verse": "24",
+          "text": "Tel prodigue ajoute encore. Ils épargnent sans droiture, mais pour la pénurie.",
+          "chapter": "11",
+          "name": "Proverbes 11:24"
+        },
+        {
+          "verse": "25",
+          "text": "L’être de bénédiction engraisse; qui abreuve s’abreuve aussi.",
+          "chapter": "11",
+          "name": "Proverbes 11:25"
+        },
+        {
+          "verse": "26",
+          "text": "Qui prohibe le froment est exécré de la patrie: la bénédiction est sur la tête du ravitailleur.",
+          "chapter": "11",
+          "name": "Proverbes 11:26"
+        },
+        {
+          "verse": "27",
+          "text": "Quêteur du bien cherche le vouloir; chercheur du malheur le fait venir.",
+          "chapter": "11",
+          "name": "Proverbes 11:27"
+        },
+        {
+          "verse": "28",
+          "text": "Qui se sécurise en sa richesse tombe; les justes fleurissent comme le feuillage.",
+          "chapter": "11",
+          "name": "Proverbes 11:28"
+        },
+        {
+          "verse": "29",
+          "text": "Le perturbateur de sa maison possédera du vent; à cœur sage, esclave dément.",
+          "chapter": "11",
+          "name": "Proverbes 11:29"
+        },
+        {
+          "verse": "30",
+          "text": "Fruit du juste, arbre de vie; le sage prend les êtres.",
+          "chapter": "11",
+          "name": "Proverbes 11:30"
+        },
+        {
+          "verse": "31",
+          "text": "Certes, le juste est payé sur terre, et davantage, oui, le criminel, le fauteur.",
+          "chapter": "11",
+          "name": "Proverbes 11:31"
+        }
+      ],
+      "name": "Proverbes 11"
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Amant de la discipline, amant de la pénétration; haineux de l’exhortation, stupide.",
+          "chapter": "12",
+          "name": "Proverbes 12:1"
+        },
+        {
+          "verse": "2",
+          "text": "L’homme de bien diffuse le vouloir de IHVH-Adonaï; l’homme de perversions accuse.",
+          "chapter": "12",
+          "name": "Proverbes 12:2"
+        },
+        {
+          "verse": "3",
+          "text": "L’humain ne s’affermit pas dans le crime; la racine des justes ne chancelle jamais.",
+          "chapter": "12",
+          "name": "Proverbes 12:3"
+        },
+        {
+          "verse": "4",
+          "text": "La femme de valeur est un nimbe pour son époux; l’infamante, comme une carie en ses os.",
+          "chapter": "12",
+          "name": "Proverbes 12:4"
+        },
+        {
+          "verse": "5",
+          "text": "Pensées de justes, le jugement; stratagèmes des criminels, la duperie.",
+          "chapter": "12",
+          "name": "Proverbes 12:5"
+        },
+        {
+          "verse": "6",
+          "text": "Paroles de criminels, embuscade de sang; la bouche des équitables les secourt.",
+          "chapter": "12",
+          "name": "Proverbes 12:6"
+        },
+        {
+          "verse": "7",
+          "text": "Renverser les criminels, ils ne sont plus; la maison des justes se dresse.",
+          "chapter": "12",
+          "name": "Proverbes 12:7"
+        },
+        {
+          "verse": "8",
+          "text": "Selon sa perspicacité, l’homme est loué; cœur tordu est méprisé.",
+          "chapter": "12",
+          "name": "Proverbes 12:8"
+        },
+        {
+          "verse": "9",
+          "text": "Mieux vaut être sous-estimé et avoir un serviteur, que glorifié et manquer de pain.",
+          "chapter": "12",
+          "name": "Proverbes 12:9"
+        },
+        {
+          "verse": "10",
+          "text": "Le juste connaît l’être de sa bête; les matrices des criminels sont cruelles.",
+          "chapter": "12",
+          "name": "Proverbes 12:10"
+        },
+        {
+          "verse": "11",
+          "text": "Qui travaille sa glèbe se rassasie de pain; qui poursuit des vanités manque de cœur.",
+          "chapter": "12",
+          "name": "Proverbes 12:11"
+        },
+        {
+          "verse": "12",
+          "text": "Convoitise de criminel, trappe de malfaiteurs; racine de justes donne.",
+          "chapter": "12",
+          "name": "Proverbes 12:12"
+        },
+        {
+          "verse": "13",
+          "text": "À carence des lèvres, piège de malheur; le juste sort de la détresse.",
+          "chapter": "12",
+          "name": "Proverbes 12:13"
+        },
+        {
+          "verse": "14",
+          "text": "Le bien se rassasie du fruit de la bouche de l’homme; la rétribution de la main de l’humain retourne à lui.",
+          "chapter": "12",
+          "name": "Proverbes 12:14"
+        },
+        {
+          "verse": "15",
+          "text": "La route du dément est droite à ses yeux; l’entendeur de conseil est sage.",
+          "chapter": "12",
+          "name": "Proverbes 12:15"
+        },
+        {
+          "verse": "16",
+          "text": "Le dément fait un jour connaître son irritation; le rusé couvre la turpitude.",
+          "chapter": "12",
+          "name": "Proverbes 12:16"
+        },
+        {
+          "verse": "17",
+          "text": "Qui exhale l’adhérence rapporte la justice; à témoin de mensonge, duperie.",
+          "chapter": "12",
+          "name": "Proverbes 12:17"
+        },
+        {
+          "verse": "18",
+          "text": "Le jaseur existe comme dards d’épée; la langue des sages guérit.",
+          "chapter": "12",
+          "name": "Proverbes 12:18"
+        },
+        {
+          "verse": "19",
+          "text": "La lèvre de vérité s’affermit à jamais; jamais ne dure la langue de mensonge.",
+          "chapter": "12",
+          "name": "Proverbes 12:19"
+        },
+        {
+          "verse": "20",
+          "text": "À cœur d’artisans du mal, duperie, à conseillers de paix, joie.",
+          "chapter": "12",
+          "name": "Proverbes 12:20"
+        },
+        {
+          "verse": "21",
+          "text": "Nulle fraude n’advient par le juste; les criminels sont remplis de mal.",
+          "chapter": "12",
+          "name": "Proverbes 12:21"
+        },
+        {
+          "verse": "22",
+          "text": "Lèvres du mensonge, abomination de IHVH-Adonaï; faiseur d’adhérence, son vouloir.",
+          "chapter": "12",
+          "name": "Proverbes 12:22"
+        },
+        {
+          "verse": "23",
+          "text": "L’humain rusé couvre la pénétration; le cœur des fous crie de démence;",
+          "chapter": "12",
+          "name": "Proverbes 12:23"
+        },
+        {
+          "verse": "24",
+          "text": "La main des zélés gouverne; La duperie est corvéable.",
+          "chapter": "12",
+          "name": "Proverbes 12:24"
+        },
+        {
+          "verse": "25",
+          "text": "Le tracas du cœur de l’homme le consterne; une parole de bien le réjouit.",
+          "chapter": "12",
+          "name": "Proverbes 12:25"
+        },
+        {
+          "verse": "26",
+          "text": "Le juste prospère davantage que son compagnon; la route des criminels les fait vaguer.",
+          "chapter": "12",
+          "name": "Proverbes 12:26"
+        },
+        {
+          "verse": "27",
+          "text": "La duperie ne rôtit pas son gibier; le zèle est pour l’humain aisance précieuse.",
+          "chapter": "12",
+          "name": "Proverbes 12:27"
+        },
+        {
+          "verse": "28",
+          "text": "À voie de justification, vie; son chemin, route de non-mort.",
+          "chapter": "12",
+          "name": "Proverbes 12:28"
+        }
+      ],
+      "name": "Proverbes 12"
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "À fils sage, discipline du père; mais le railleur n’entend pas le blâme.",
+          "chapter": "13",
+          "name": "Proverbes 13:1"
+        },
+        {
+          "verse": "2",
+          "text": "Le bien se mange, fruit de la bouche de l’homme; l’être des traîtres est violence.",
+          "chapter": "13",
+          "name": "Proverbes 13:2"
+        },
+        {
+          "verse": "3",
+          "text": "Qui protège sa bouche garde son être; qui écarquille ses lèvres a pour lui l’effarement.",
+          "chapter": "13",
+          "name": "Proverbes 13:3"
+        },
+        {
+          "verse": "4",
+          "text": "Il désire et rien de plus, l’être du paresseux; l’être des zélés engraisse.",
+          "chapter": "13",
+          "name": "Proverbes 13:4"
+        },
+        {
+          "verse": "5",
+          "text": "Le juste hait la parole du mensonge; le criminel pue et atterre.",
+          "chapter": "13",
+          "name": "Proverbes 13:5"
+        },
+        {
+          "verse": "6",
+          "text": "La justification protège l’intégrité de la route; le crime falsifie la faute.",
+          "chapter": "13",
+          "name": "Proverbes 13:6"
+        },
+        {
+          "verse": "7",
+          "text": "Tel fait le riche, mais sans rien; tel fait l’indigent, mais avec une grande aisance.",
+          "chapter": "13",
+          "name": "Proverbes 13:7"
+        },
+        {
+          "verse": "8",
+          "text": "L’être de l’homme a pour rançon sa richesse; l’indigent n’entend pas de blâme.",
+          "chapter": "13",
+          "name": "Proverbes 13:8"
+        },
+        {
+          "verse": "9",
+          "text": "La lumière des justes réjouit; la lampe des criminels vacille.",
+          "chapter": "13",
+          "name": "Proverbes 13:9"
+        },
+        {
+          "verse": "10",
+          "text": "L’arrogance donne seulement la querelle; aux avisés, la sagesse.",
+          "chapter": "13",
+          "name": "Proverbes 13:10"
+        },
+        {
+          "verse": "11",
+          "text": "Aisance issue de fumée diminue; qui amasse de sa main abonde.",
+          "chapter": "13",
+          "name": "Proverbes 13:11"
+        },
+        {
+          "verse": "12",
+          "text": "Souhait différé, maladie du cœur; arbre de vie, appétit satisfait.",
+          "chapter": "13",
+          "name": "Proverbes 13:12"
+        },
+        {
+          "verse": "13",
+          "text": "Qui méprise la parole s’hypothèque; qui frémit pour l’ordre est rétribué.",
+          "chapter": "13",
+          "name": "Proverbes 13:13"
+        },
+        {
+          "verse": "14",
+          "text": "La tora du sage est nappe de vie, pour s’écarter des pièges de mort.",
+          "chapter": "13",
+          "name": "Proverbes 13:14"
+        },
+        {
+          "verse": "15",
+          "text": "Perspicacité du bien donne grâce. La route des traîtres est fougueuse.",
+          "chapter": "13",
+          "name": "Proverbes 13:15"
+        },
+        {
+          "verse": "16",
+          "text": "Tout rusé agit avec pénétration; le fou déploie la démence.",
+          "chapter": "13",
+          "name": "Proverbes 13:16"
+        },
+        {
+          "verse": "17",
+          "text": "Le messager du criminel tombe dans le mal; délégué d’adhérence guérit.",
+          "chapter": "13",
+          "name": "Proverbes 13:17"
+        },
+        {
+          "verse": "18",
+          "text": "Indigence et turpitude à qui rejette la discipline; le gardien de l’exhortation est glorifié.",
+          "chapter": "13",
+          "name": "Proverbes 13:18"
+        },
+        {
+          "verse": "19",
+          "text": "L’appétit assouvi délecte l’être; s’écarter du mal est l’abomination des fous.",
+          "chapter": "13",
+          "name": "Proverbes 13:19"
+        },
+        {
+          "verse": "20",
+          "text": "Qui va avec les sages s’assagit; pâtre de fous méfait.",
+          "chapter": "13",
+          "name": "Proverbes 13:20"
+        },
+        {
+          "verse": "21",
+          "text": "Le mal poursuit les fauteurs; le bien paye les justes.",
+          "chapter": "13",
+          "name": "Proverbes 13:21"
+        },
+        {
+          "verse": "22",
+          "text": "Le bien donne possession aux fils des fils; la fortune du fauteur est recélée pour le juste.",
+          "chapter": "13",
+          "name": "Proverbes 13:22"
+        },
+        {
+          "verse": "23",
+          "text": "Le rayon des indigents abonde de manger; sans jugement, un tel chavire.",
+          "chapter": "13",
+          "name": "Proverbes 13:23"
+        },
+        {
+          "verse": "24",
+          "text": "Qui épargne son bâton hait son fils; qui l’aime quête pour lui la discipline.",
+          "chapter": "13",
+          "name": "Proverbes 13:24"
+        },
+        {
+          "verse": "25",
+          "text": "Le juste mange à satiété de son être; le ventre des criminels manque.",
+          "chapter": "13",
+          "name": "Proverbes 13:25"
+        }
+      ],
+      "name": "Proverbes 13"
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "La sagesse des femmes bâtit la maison; la démence la démolit de ses mains.",
+          "chapter": "14",
+          "name": "Proverbes 14:1"
+        },
+        {
+          "verse": "2",
+          "text": "Qui va dans sa droiture frémit de IHVH-Adonaï. Le dévoyé en ses routes le méprise.",
+          "chapter": "14",
+          "name": "Proverbes 14:2"
+        },
+        {
+          "verse": "3",
+          "text": "À bouche du dément, verge d’orgueil; les lèvres des sages les gardent.",
+          "chapter": "14",
+          "name": "Proverbes 14:3"
+        },
+        {
+          "verse": "4",
+          "text": "Sans aurochs, la mangeoire est vide; les récoltes abondent par la force du bœuf.",
+          "chapter": "14",
+          "name": "Proverbes 14:4"
+        },
+        {
+          "verse": "5",
+          "text": "Témoin d’adhérence ne trompe; témoin de mensonge exhale les tromperies.",
+          "chapter": "14",
+          "name": "Proverbes 14:5"
+        },
+        {
+          "verse": "6",
+          "text": "Le railleur cherche la sagesse... et rien; la pénétration, pour qui discerne, est facile.",
+          "chapter": "14",
+          "name": "Proverbes 14:6"
+        },
+        {
+          "verse": "7",
+          "text": "Va à l’encontre de l’homme fou: tu ne connaîtras jamais les lèvres de la connaissance.",
+          "chapter": "14",
+          "name": "Proverbes 14:7"
+        },
+        {
+          "verse": "8",
+          "text": "Sagesse du rusé, discerner sa route; démence des fous, duperie.",
+          "chapter": "14",
+          "name": "Proverbes 14:8"
+        },
+        {
+          "verse": "9",
+          "text": "Les déments se raillent de l’accusation; parmi les équitables, le vouloir.",
+          "chapter": "14",
+          "name": "Proverbes 14:9"
+        },
+        {
+          "verse": "10",
+          "text": "Le cœur pénètre l’amertume de son être; à sa joie, l’étranger n’est pas mêlé.",
+          "chapter": "14",
+          "name": "Proverbes 14:10"
+        },
+        {
+          "verse": "11",
+          "text": "La maison des criminels sera démolie; la tente des équitables fleurit.",
+          "chapter": "14",
+          "name": "Proverbes 14:11"
+        },
+        {
+          "verse": "12",
+          "text": "Une tour droite existe en face de l’homme; mais ensuite, des routes de mort.",
+          "chapter": "14",
+          "name": "Proverbes 14:12"
+        },
+        {
+          "verse": "13",
+          "text": "Même sous le rire, le cœur est endolori; après la joie, l’affliction.",
+          "chapter": "14",
+          "name": "Proverbes 14:13"
+        },
+        {
+          "verse": "14",
+          "text": "Le cœur qui recule se rassasie de ses routes, et l’homme de bien de ses agissements.",
+          "chapter": "14",
+          "name": "Proverbes 14:14"
+        },
+        {
+          "verse": "15",
+          "text": "Le niais adhère à toute parole; le rusé discerne sa marche.",
+          "chapter": "14",
+          "name": "Proverbes 14:15"
+        },
+        {
+          "verse": "16",
+          "text": "Le sage frémit et s’écarte du mal; le fou s’emporte, sûr de lui.",
+          "chapter": "14",
+          "name": "Proverbes 14:16"
+        },
+        {
+          "verse": "17",
+          "text": "Court de narines fait démence; l’homme de perversions est haï.",
+          "chapter": "14",
+          "name": "Proverbes 14:17"
+        },
+        {
+          "verse": "18",
+          "text": "Les niais possèdent la démence; les rusés couronnent la pénétration.",
+          "chapter": "14",
+          "name": "Proverbes 14:18"
+        },
+        {
+          "verse": "19",
+          "text": "Les mauvais se prosterneront en face des bons; les criminels, aux portes du juste.",
+          "chapter": "14",
+          "name": "Proverbes 14:19"
+        },
+        {
+          "verse": "20",
+          "text": "L’indigent est haï, même par son compagnon; les amoureux du riche sont nombreux.",
+          "chapter": "14",
+          "name": "Proverbes 14:20"
+        },
+        {
+          "verse": "21",
+          "text": "Le fauteur méprise son compagnon; en marche, qui gracie les humbles!",
+          "chapter": "14",
+          "name": "Proverbes 14:21"
+        },
+        {
+          "verse": "22",
+          "text": "Ne vagueront-ils pas, les artisans du mal? Chérissement, vérité, sont les artisans du bien.",
+          "chapter": "14",
+          "name": "Proverbes 14:22"
+        },
+        {
+          "verse": "23",
+          "text": "À toute peine, il est un avantage; les paroles de lèvres sont pour la seule pénurie.",
+          "chapter": "14",
+          "name": "Proverbes 14:23"
+        },
+        {
+          "verse": "24",
+          "text": "Nimbe des sages, leur richesse; démence de fou, démence.",
+          "chapter": "14",
+          "name": "Proverbes 14:24"
+        },
+        {
+          "verse": "25",
+          "text": "Sauveteur d’êtres, témoin de vérité; la duperie exhale des tromperies.",
+          "chapter": "14",
+          "name": "Proverbes 14:25"
+        },
+        {
+          "verse": "26",
+          "text": "Au frémissement de IHVH-Adonaï, assurance d’énergie; pour ses fils, il est un abri.",
+          "chapter": "14",
+          "name": "Proverbes 14:26"
+        },
+        {
+          "verse": "27",
+          "text": "Frémissement de IHVH-Adonaï, nappe de vie, pour s’écarter des pièges de mort.",
+          "chapter": "14",
+          "name": "Proverbes 14:27"
+        },
+        {
+          "verse": "28",
+          "text": "À peuple multiple, splendeur du roi; à patrie décadente, effarement du potentat.",
+          "chapter": "14",
+          "name": "Proverbes 14:28"
+        },
+        {
+          "verse": "29",
+          "text": "Longueur de narines, discernement multiple; souffle court exalte la démence.",
+          "chapter": "14",
+          "name": "Proverbes 14:29"
+        },
+        {
+          "verse": "30",
+          "text": "Vie charnelle, cœur serein; carie d’os, ardeur.",
+          "chapter": "14",
+          "name": "Proverbes 14:30"
+        },
+        {
+          "verse": "31",
+          "text": "Exploiteur du chétif, atterrement de son auteur; qui gracie le pauvre le glorifie.",
+          "chapter": "14",
+          "name": "Proverbes 14:31"
+        },
+        {
+          "verse": "32",
+          "text": "En son malheur, le criminel est banni; le juste est abrité en sa mort.",
+          "chapter": "14",
+          "name": "Proverbes 14:32"
+        },
+        {
+          "verse": "33",
+          "text": "Au cœur qui discerne repose la sagesse; ce qui est dans l’entraille des fous est connu.",
+          "chapter": "14",
+          "name": "Proverbes 14:33"
+        },
+        {
+          "verse": "34",
+          "text": "La justification exalte une nation; l’inceste est la faute des patries.",
+          "chapter": "14",
+          "name": "Proverbes 14:34"
+        },
+        {
+          "verse": "35",
+          "text": "À serviteur perspicace, agrément du roi, son emportement à qui fait blêmir.",
+          "chapter": "14",
+          "name": "Proverbes 14:35"
+        }
+      ],
+      "name": "Proverbes 14"
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Réponse tendre détourne la fièvre; parole qui peine fait monter la narine.",
+          "chapter": "15",
+          "name": "Proverbes 15:1"
+        },
+        {
+          "verse": "2",
+          "text": "La langue des sages améliore la pénétration; la bouche des fous exprime la démence.",
+          "chapter": "15",
+          "name": "Proverbes 15:2"
+        },
+        {
+          "verse": "3",
+          "text": "En tout lieu, les yeux de IHVH-Adonaï guettent les mauvais et les bons.",
+          "chapter": "15",
+          "name": "Proverbes 15:3"
+        },
+        {
+          "verse": "4",
+          "text": "Langue guérisseuse, arbre de vie; la perversion en elle est brisure du souffle.",
+          "chapter": "15",
+          "name": "Proverbes 15:4"
+        },
+        {
+          "verse": "5",
+          "text": "Le dément répugne à la discipline de son père; le gardien de l’exhortation ruse.",
+          "chapter": "15",
+          "name": "Proverbes 15:5"
+        },
+        {
+          "verse": "6",
+          "text": "Maison du juste, grande pléthore; la récolte du criminel perturbe.",
+          "chapter": "15",
+          "name": "Proverbes 15:6"
+        },
+        {
+          "verse": "7",
+          "text": "Les lèvres des sages diffusent la pénétration; le cœur des fous n’est pas sincère.",
+          "chapter": "15",
+          "name": "Proverbes 15:7"
+        },
+        {
+          "verse": "8",
+          "text": "Le sacrifice des criminels est l’abomination de IHVH-Adonaï; la prière des équitables, son vouloir.",
+          "chapter": "15",
+          "name": "Proverbes 15:8"
+        },
+        {
+          "verse": "9",
+          "text": "La route du criminel est l’abomination de IHVH-Adonaï; il aime qui poursuit la justification.",
+          "chapter": "15",
+          "name": "Proverbes 15:9"
+        },
+        {
+          "verse": "10",
+          "text": "À qui abandonne la voie, discipline maligne; haineux de l’exhortation meurt.",
+          "chapter": "15",
+          "name": "Proverbes 15:10"
+        },
+        {
+          "verse": "11",
+          "text": "Shéol et perdition sont devant IHVH-Adonaï; et davantage, le cœur des fils de l’humain.",
+          "chapter": "15",
+          "name": "Proverbes 15:11"
+        },
+        {
+          "verse": "12",
+          "text": "Le railleur n’aime pas celui qui exhorte; il ne va pas vers les sages.",
+          "chapter": "15",
+          "name": "Proverbes 15:12"
+        },
+        {
+          "verse": "13",
+          "text": "Cœur joyeux embellit les faces; à peine de cœur, souffle consterné.",
+          "chapter": "15",
+          "name": "Proverbes 15:13"
+        },
+        {
+          "verse": "14",
+          "text": "Cœur discernant cherche la pénétration; bouche de fous pâture la démence.",
+          "chapter": "15",
+          "name": "Proverbes 15:14"
+        },
+        {
+          "verse": "15",
+          "text": "Tous les jours de l’humilié sont mauvais; à bon cœur, festin permanent.",
+          "chapter": "15",
+          "name": "Proverbes 15:15"
+        },
+        {
+          "verse": "16",
+          "text": "Mieux vaut peu dans le frémissement de IHVH-Adonaï qu’un grand trésor avec en lui de l’agitation.",
+          "chapter": "15",
+          "name": "Proverbes 15:16"
+        },
+        {
+          "verse": "17",
+          "text": "Mieux vaut un repas de légumes avec amour, ici, qu’un bœuf gras avec haine.",
+          "chapter": "15",
+          "name": "Proverbes 15:17"
+        },
+        {
+          "verse": "18",
+          "text": "L’homme fiévreux provoque le litige; longueur de narine calme la dispute.",
+          "chapter": "15",
+          "name": "Proverbes 15:18"
+        },
+        {
+          "verse": "19",
+          "text": "La route du paresseux est comme un hallier de morelles; la voie des équitables est plane.",
+          "chapter": "15",
+          "name": "Proverbes 15:19"
+        },
+        {
+          "verse": "20",
+          "text": "Fils sage réjouit le père; fol humain méprise sa mère.",
+          "chapter": "15",
+          "name": "Proverbes 15:20"
+        },
+        {
+          "verse": "21",
+          "text": "Démence est joie du sans-cœur; l’homme de discernement rectifie la marche.",
+          "chapter": "15",
+          "name": "Proverbes 15:21"
+        },
+        {
+          "verse": "22",
+          "text": "Sans intimité, les pensées s’annulent; par la multitude des conseillers, elles se réalisent.",
+          "chapter": "15",
+          "name": "Proverbes 15:22"
+        },
+        {
+          "verse": "23",
+          "text": "La joie de l’homme est dans la réponse de sa bouche: une parole à temps, quel bien!",
+          "chapter": "15",
+          "name": "Proverbes 15:23"
+        },
+        {
+          "verse": "24",
+          "text": "La voie de la vie est en haut pour le perspicace, afin de s’écarter du Shéol, en bas.",
+          "chapter": "15",
+          "name": "Proverbes 15:24"
+        },
+        {
+          "verse": "25",
+          "text": "IHVH-Adonaï boute la maison des orgueilleux; il fixe la frontière de la veuve.",
+          "chapter": "15",
+          "name": "Proverbes 15:25"
+        },
+        {
+          "verse": "26",
+          "text": "Pensées de mal, abomination de IHVH-Adonaï; les dires délectables sont purs.",
+          "chapter": "15",
+          "name": "Proverbes 15:26"
+        },
+        {
+          "verse": "27",
+          "text": "Le profiteur de profit perturbe sa maison; haineux des dons vivra.",
+          "chapter": "15",
+          "name": "Proverbes 15:27"
+        },
+        {
+          "verse": "28",
+          "text": "Cœur juste murmure pour répondre; bouche de criminels exprime les malheurs.",
+          "chapter": "15",
+          "name": "Proverbes 15:28"
+        },
+        {
+          "verse": "29",
+          "text": "IHVH-Adonaï est loin des criminels; il entend la prière des justes.",
+          "chapter": "15",
+          "name": "Proverbes 15:29"
+        },
+        {
+          "verse": "30",
+          "text": "La lumière des yeux réjouit le cœur; bonne nouvelle engraisse l’os.",
+          "chapter": "15",
+          "name": "Proverbes 15:30"
+        },
+        {
+          "verse": "31",
+          "text": "Oreille qui entend, exhortation de vie; elle nuite à l’entraille des sages.",
+          "chapter": "15",
+          "name": "Proverbes 15:31"
+        },
+        {
+          "verse": "32",
+          "text": "Qui se soustrait à la discipline rejette son être; qui entend l’exhortation acquiert le cœur.",
+          "chapter": "15",
+          "name": "Proverbes 15:32"
+        },
+        {
+          "verse": "33",
+          "text": "Frémissement de IHVH-Adonaï, discipline de sagesse; face à la gloire, l’humilité.",
+          "chapter": "15",
+          "name": "Proverbes 15:33"
+        }
+      ],
+      "name": "Proverbes 15"
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "À l’humain, les manœuvres du cœur; de IHVH-Adonaï, la réplique de la langue.",
+          "chapter": "16",
+          "name": "Proverbes 16:1"
+        },
+        {
+          "verse": "2",
+          "text": "Toutes les routes de l’homme sont limpides à ses yeux, mais IHVH-Adonaï soupèse les souffles.",
+          "chapter": "16",
+          "name": "Proverbes 16:2"
+        },
+        {
+          "verse": "3",
+          "text": "Roule vers IHVH-Adonaï tes actes, et tes pensées s’affermiront.",
+          "chapter": "16",
+          "name": "Proverbes 16:3"
+        },
+        {
+          "verse": "4",
+          "text": "IHVH-Adonaï a tout œuvré pour sa réponse, même le criminel, pour le jour du malheur.",
+          "chapter": "16",
+          "name": "Proverbes 16:4"
+        },
+        {
+          "verse": "5",
+          "text": "Tout cœur hautain est en abomination pour IHVH-Adonaï: de la main à la main, il ne sera pas innocenté.",
+          "chapter": "16",
+          "name": "Proverbes 16:5"
+        },
+        {
+          "verse": "6",
+          "text": "Le tort s’absout par chérissement et vérité; au frémissement de IHVH-Adonaï, le mal s’écarte.",
+          "chapter": "16",
+          "name": "Proverbes 16:6"
+        },
+        {
+          "verse": "7",
+          "text": "Quand IHVH-Adonaï agrée les routes de l’homme, il pacifie même ses ennemis.",
+          "chapter": "16",
+          "name": "Proverbes 16:7"
+        },
+        {
+          "verse": "8",
+          "text": "Mieux vaut un peu avec justification que multiples récoltes sans droit.",
+          "chapter": "16",
+          "name": "Proverbes 16:8"
+        },
+        {
+          "verse": "9",
+          "text": "Le cœur de l’homme pense sa route, mais IHVH-Adonaï dirige ses pas.",
+          "chapter": "16",
+          "name": "Proverbes 16:9"
+        },
+        {
+          "verse": "10",
+          "text": "Un charme est sur les lèvres du roi: qu’au jugement sa bouche ne triche pas!",
+          "chapter": "16",
+          "name": "Proverbes 16:10"
+        },
+        {
+          "verse": "11",
+          "text": "Le trébuchet, les balances du jugement sont à IHVH-Adonaï; et son ouvrage, toutes les pierres de la bourse.",
+          "chapter": "16",
+          "name": "Proverbes 16:11"
+        },
+        {
+          "verse": "12",
+          "text": "Abomination des rois, commettre le crime; oui, le trône s’affermit avec la justification.",
+          "chapter": "16",
+          "name": "Proverbes 16:12"
+        },
+        {
+          "verse": "13",
+          "text": "Vouloir des rois, lèvres de justice. Il aime parler avec équité;",
+          "chapter": "16",
+          "name": "Proverbes 16:13"
+        },
+        {
+          "verse": "14",
+          "text": "Fièvre de roi, messagère de mort; l’homme sage l’efface;",
+          "chapter": "16",
+          "name": "Proverbes 16:14"
+        },
+        {
+          "verse": "15",
+          "text": "À la lumière des faces du roi, la vie; son gré est comme l’ondée d’une nébulosité.",
+          "chapter": "16",
+          "name": "Proverbes 16:15"
+        },
+        {
+          "verse": "16",
+          "text": "Acquérir la sagesse, mieux que l’or fin; acquérir le discernement est préférable à l’argent.",
+          "chapter": "16",
+          "name": "Proverbes 16:16"
+        },
+        {
+          "verse": "17",
+          "text": "Le sentier de rectitude, s’écarter du mal; le gardien de son être protège sa route.",
+          "chapter": "16",
+          "name": "Proverbes 16:17"
+        },
+        {
+          "verse": "18",
+          "text": "Avant le bris, l’orgueil; avant l’échec, le souffle hautain.",
+          "chapter": "16",
+          "name": "Proverbes 16:18"
+        },
+        {
+          "verse": "19",
+          "text": "Mieux vaut le souffle bas avec des humbles que partager un butin avec des orgueilleux.",
+          "chapter": "16",
+          "name": "Proverbes 16:19"
+        },
+        {
+          "verse": "20",
+          "text": "L’homme perspicace en parole trouve le bien; qui se sécurise en IHVH-Adonaï est en ses marches.",
+          "chapter": "16",
+          "name": "Proverbes 16:20"
+        },
+        {
+          "verse": "21",
+          "text": "Cœur sage est proclamé discernant; douceur des lèvres ajoute prise.",
+          "chapter": "16",
+          "name": "Proverbes 16:21"
+        },
+        {
+          "verse": "22",
+          "text": "La perspicacité de son maître, nappe de vie. La démence est la discipline des déments.",
+          "chapter": "16",
+          "name": "Proverbes 16:22"
+        },
+        {
+          "verse": "23",
+          "text": "Le cœur sage rend la bouche perspicace: sur ses lèvres il ajoute une prise.",
+          "chapter": "16",
+          "name": "Proverbes 16:23"
+        },
+        {
+          "verse": "24",
+          "text": "Dires suaves sont rayon de miel, doux à l’être, guérison pour l’os.",
+          "chapter": "16",
+          "name": "Proverbes 16:24"
+        },
+        {
+          "verse": "25",
+          "text": "Une route droite existe devant l’homme; mais derrière elle, ce sont les routes de la mort.",
+          "chapter": "16",
+          "name": "Proverbes 16:25"
+        },
+        {
+          "verse": "26",
+          "text": "L’être du laborieux, c’est son labeur, quand sa bouche le sollicite.",
+          "chapter": "16",
+          "name": "Proverbes 16:26"
+        },
+        {
+          "verse": "27",
+          "text": "L’homme de Belia‘al fore le malheur; sur ses lèvres, comme un feu brûlant.",
+          "chapter": "16",
+          "name": "Proverbes 16:27"
+        },
+        {
+          "verse": "28",
+          "text": "L’homme de subversions suscite le litige; qui maugrée sépare les amis.",
+          "chapter": "16",
+          "name": "Proverbes 16:28"
+        },
+        {
+          "verse": "29",
+          "text": "L’homme violent séduit son compagnon; il le fait aller sur la route du non-bien.",
+          "chapter": "16",
+          "name": "Proverbes 16:29"
+        },
+        {
+          "verse": "30",
+          "text": "Il cligne de ses yeux à penser aux subversions; il grimace de ses lèvres, il consomme le malheur.",
+          "chapter": "16",
+          "name": "Proverbes 16:30"
+        },
+        {
+          "verse": "31",
+          "text": "Sénescence, nimbe de splendeur, se trouve sur la route de justification.",
+          "chapter": "16",
+          "name": "Proverbes 16:31"
+        },
+        {
+          "verse": "32",
+          "text": "Longueur de narines vaut mieux qu’héroïsme, et gouverner son souffle que conquérir une ville.",
+          "chapter": "16",
+          "name": "Proverbes 16:32"
+        },
+        {
+          "verse": "33",
+          "text": "Le sort se tire de la poche; mais de IHVH-Adonaï tout son jugement.",
+          "chapter": "16",
+          "name": "Proverbes 16:33"
+        }
+      ],
+      "name": "Proverbes 16"
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Mieux vaut une miche sèche avec la quiétude qu’une maison pleine de sacrifices avec la dispute.",
+          "chapter": "17",
+          "name": "Proverbes 17:1"
+        },
+        {
+          "verse": "2",
+          "text": "Un serviteur perspicace gouverne un fils infamant; au milieu de frères, il partage la possession.",
+          "chapter": "17",
+          "name": "Proverbes 17:2"
+        },
+        {
+          "verse": "3",
+          "text": "La raffinerie pour l’argent, le creuset pour l’or, mais IHVH-Adonaï examine les cœurs.",
+          "chapter": "17",
+          "name": "Proverbes 17:3"
+        },
+        {
+          "verse": "4",
+          "text": "Le malfaiteur est attentif à la lèvre de la fraude. Il écoute le mensonge sur la langue du dam.",
+          "chapter": "17",
+          "name": "Proverbes 17:4"
+        },
+        {
+          "verse": "5",
+          "text": "Le moqueur flétrit son auteur avec l’indigent. Qui se réjouit de la calamité n’est pas innocenté.",
+          "chapter": "17",
+          "name": "Proverbes 17:5"
+        },
+        {
+          "verse": "6",
+          "text": "Les fils de fils, nimbe des anciens; splendeur des fils, leur père.",
+          "chapter": "17",
+          "name": "Proverbes 17:6"
+        },
+        {
+          "verse": "7",
+          "text": "Lèvre éloquente ne sied pas au veule, ni au gratificateur lèvre du mensonge.",
+          "chapter": "17",
+          "name": "Proverbes 17:7"
+        },
+        {
+          "verse": "8",
+          "text": "Pot-de-vin est pierre précieuse aux yeux de son maître, où qu’il se tourne, il est perspicace.",
+          "chapter": "17",
+          "name": "Proverbes 17:8"
+        },
+        {
+          "verse": "9",
+          "text": "Chercheur d’amour couvre la carence; rabâcheur de parole sépare les amis.",
+          "chapter": "17",
+          "name": "Proverbes 17:9"
+        },
+        {
+          "verse": "10",
+          "text": "Le blâme influe qui discerne, plus que cent coups au fou.",
+          "chapter": "17",
+          "name": "Proverbes 17:10"
+        },
+        {
+          "verse": "11",
+          "text": "Le rebelle cherche seulement le mal; un messager cruel sera envoyé contre lui.",
+          "chapter": "17",
+          "name": "Proverbes 17:11"
+        },
+        {
+          "verse": "12",
+          "text": "Qu’un homme rencontre un ours désenfanté, plutôt qu’un fou dans sa démence!",
+          "chapter": "17",
+          "name": "Proverbes 17:12"
+        },
+        {
+          "verse": "13",
+          "text": "Qui répond au bien par le mal, le malheur ne se retire pas de sa maison.",
+          "chapter": "17",
+          "name": "Proverbes 17:13"
+        },
+        {
+          "verse": "14",
+          "text": "L’en-tête d’un litige, un déferlement d’eaux; avant qu’il ne s’exaspère, lâche la dispute.",
+          "chapter": "17",
+          "name": "Proverbes 17:14"
+        },
+        {
+          "verse": "15",
+          "text": "Justificateur du criminel et qui incrimine un juste sont tous deux en abomination pour IHVH-Adonaï.",
+          "chapter": "17",
+          "name": "Proverbes 17:15"
+        },
+        {
+          "verse": "16",
+          "text": "Pourquoi donc un prix dans la main d’un fou? Il n’a pas à cœur d’acquérir la sagesse.",
+          "chapter": "17",
+          "name": "Proverbes 17:16"
+        },
+        {
+          "verse": "17",
+          "text": "Un compagnon aime en tout temps, mais un frère est enfanté pour la détresse.",
+          "chapter": "17",
+          "name": "Proverbes 17:17"
+        },
+        {
+          "verse": "18",
+          "text": "L’humain sans cœur tope de la paume; il se porte garant en face de son compagnon.",
+          "chapter": "17",
+          "name": "Proverbes 17:18"
+        },
+        {
+          "verse": "19",
+          "text": "Amant de la carence, amant de la querelle. Qui hausse son ouverture recherche le bris.",
+          "chapter": "17",
+          "name": "Proverbes 17:19"
+        },
+        {
+          "verse": "20",
+          "text": "Cœur tortueux ne trouve pas le bien; langue subversive tombe dans le malheur.",
+          "chapter": "17",
+          "name": "Proverbes 17:20"
+        },
+        {
+          "verse": "21",
+          "text": "Qui enfante un fou, à lui l’affliction; père d’un veule ne se réjouit pas.",
+          "chapter": "17",
+          "name": "Proverbes 17:21"
+        },
+        {
+          "verse": "22",
+          "text": "Cœur joyeux améliore la santé; souffle consterné dessèche l’os.",
+          "chapter": "17",
+          "name": "Proverbes 17:22"
+        },
+        {
+          "verse": "23",
+          "text": "Le criminel prend le pot-de-vin sans droit, pour incliner les voies du jugement.",
+          "chapter": "17",
+          "name": "Proverbes 17:23"
+        },
+        {
+          "verse": "24",
+          "text": "La face de qui discerne est sagesse; les yeux du fou vont aux confins de la terre.",
+          "chapter": "17",
+          "name": "Proverbes 17:24"
+        },
+        {
+          "verse": "25",
+          "text": "Un fils fou est l’irritation de son père, l’amertume de celle qui l’a enfanté!",
+          "chapter": "17",
+          "name": "Proverbes 17:25"
+        },
+        {
+          "verse": "26",
+          "text": "Aussi, punir le juste n’est pas bien, ni frapper à bon droit les gratificateurs.",
+          "chapter": "17",
+          "name": "Proverbes 17:26"
+        },
+        {
+          "verse": "27",
+          "text": "Qui épargne ses dires pénètre la pénétration; qui garde le souffle froid est homme de discernement.",
+          "chapter": "17",
+          "name": "Proverbes 17:27"
+        },
+        {
+          "verse": "28",
+          "text": "Le dément aussi, s’il se tait, est compté pour sage. Qui clôt ses lèvres est sagace.",
+          "chapter": "17",
+          "name": "Proverbes 17:28"
+        }
+      ],
+      "name": "Proverbes 17"
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "L’isolé n’aspire qu’au caprice et s’exaspère de toute efficacité.",
+          "chapter": "18",
+          "name": "Proverbes 18:1"
+        },
+        {
+          "verse": "2",
+          "text": "Le fou ne désire pas le discernement, mais le découvrement de son cœur.",
+          "chapter": "18",
+          "name": "Proverbes 18:2"
+        },
+        {
+          "verse": "3",
+          "text": "À la venue du criminel, vient aussi le mépris; avec la turpitude, la flétrissure.",
+          "chapter": "18",
+          "name": "Proverbes 18:3"
+        },
+        {
+          "verse": "4",
+          "text": "Eaux profondes, paroles d’une bouche d’homme, torrent déferlant, nappe de sagesse.",
+          "chapter": "18",
+          "name": "Proverbes 18:4"
+        },
+        {
+          "verse": "5",
+          "text": "Porter les faces du criminel n’est pas un bien, ni incliner le jugement du juste.",
+          "chapter": "18",
+          "name": "Proverbes 18:5"
+        },
+        {
+          "verse": "6",
+          "text": "Les lèvres du fou viennent aux disputes; sa bouche appelle les coups.",
+          "chapter": "18",
+          "name": "Proverbes 18:6"
+        },
+        {
+          "verse": "7",
+          "text": "La bouche du fou est effarement pour lui; ses lèvres, un piège pour son être.",
+          "chapter": "18",
+          "name": "Proverbes 18:7"
+        },
+        {
+          "verse": "8",
+          "text": "Les paroles de qui maugrée engloutissent; elles descendent aux chambres du ventre.",
+          "chapter": "18",
+          "name": "Proverbes 18:8"
+        },
+        {
+          "verse": "9",
+          "text": "Qui se relâche dans son ouvrage est frère du maître destructeur.",
+          "chapter": "18",
+          "name": "Proverbes 18:9"
+        },
+        {
+          "verse": "10",
+          "text": "Tour d’énergie, le nom de IHVH-Adonaï: le juste y court et culmine.",
+          "chapter": "18",
+          "name": "Proverbes 18:10"
+        },
+        {
+          "verse": "11",
+          "text": "Aisance du riche, cité de son énergie, comme rempart culminant sous son masque.",
+          "chapter": "18",
+          "name": "Proverbes 18:11"
+        },
+        {
+          "verse": "12",
+          "text": "Le cœur de l’homme se hausse avant le bris; devant la gloire, l’humilité.",
+          "chapter": "18",
+          "name": "Proverbes 18:12"
+        },
+        {
+          "verse": "13",
+          "text": "Il répond d’une parole avant d’entendre: à lui la démence et l’opprobre!",
+          "chapter": "18",
+          "name": "Proverbes 18:13"
+        },
+        {
+          "verse": "14",
+          "text": "Le souffle de l’homme traite sa maladie; souffle consterné, qui le supporte?",
+          "chapter": "18",
+          "name": "Proverbes 18:14"
+        },
+        {
+          "verse": "15",
+          "text": "Cœur sagace acquiert pénétration; oreille de sages cherche pénétration.",
+          "chapter": "18",
+          "name": "Proverbes 18:15"
+        },
+        {
+          "verse": "16",
+          "text": "Le don de l’homme l’élargit et le mène en face des grands.",
+          "chapter": "18",
+          "name": "Proverbes 18:16"
+        },
+        {
+          "verse": "17",
+          "text": "Le premier a raison à son procès; vient son compagnon: il le sonde.",
+          "chapter": "18",
+          "name": "Proverbes 18:17"
+        },
+        {
+          "verse": "18",
+          "text": "Le sort fait cesser les litiges; il départage les parties.",
+          "chapter": "18",
+          "name": "Proverbes 18:18"
+        },
+        {
+          "verse": "19",
+          "text": "Le frère qui fait carence est pire qu’une cité redoutable; les procès sont comme les verrous d’un château.",
+          "chapter": "18",
+          "name": "Proverbes 18:19"
+        },
+        {
+          "verse": "20",
+          "text": "Le ventre se rassasie du fruit de la bouche de l’homme; il se rassasie de la récolte de ses lèvres.",
+          "chapter": "18",
+          "name": "Proverbes 18:20"
+        },
+        {
+          "verse": "21",
+          "text": "La mort et la vie sont en main de la langue; ceux qui l’aiment mangent son fruit.",
+          "chapter": "18",
+          "name": "Proverbes 18:21"
+        },
+        {
+          "verse": "22",
+          "text": "Qui trouve une femme a trouvé le bien; cela émane du gré de IHVH-Adonaï.",
+          "chapter": "18",
+          "name": "Proverbes 18:22"
+        },
+        {
+          "verse": "23",
+          "text": "L’indigent parle en implorant; le riche répond avec rudesse.",
+          "chapter": "18",
+          "name": "Proverbes 18:23"
+        },
+        {
+          "verse": "24",
+          "text": "L’homme a des compagnons qui le ruinent; mais il existe, l’amant, plus attaché qu’un frère.",
+          "chapter": "18",
+          "name": "Proverbes 18:24"
+        }
+      ],
+      "name": "Proverbes 18"
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Mieux vaut l’indigent qui va en son intégrité que le tortueux de ses lèvres, lui, le fou!",
+          "chapter": "19",
+          "name": "Proverbes 19:1"
+        },
+        {
+          "verse": "2",
+          "text": "Sans pénétration, même le répit n’est pas bien. Le pied qui se précipite faute.",
+          "chapter": "19",
+          "name": "Proverbes 19:2"
+        },
+        {
+          "verse": "3",
+          "text": "La démence de l’humain pervertit sa route; contre IHVH-Adonaï, son cœur fulmine.",
+          "chapter": "19",
+          "name": "Proverbes 19:3"
+        },
+        {
+          "verse": "4",
+          "text": "L’aisance ajoute de nombreux compagnons; le chétif est séparé de son compagnon.",
+          "chapter": "19",
+          "name": "Proverbes 19:4"
+        },
+        {
+          "verse": "5",
+          "text": "Témoin de mensonges n’est pas innocenté; qui exhale des tromperies n’échappe pas.",
+          "chapter": "19",
+          "name": "Proverbes 19:5"
+        },
+        {
+          "verse": "6",
+          "text": "Multiples, ils souhaitent les faces du gratificateur; tous sont les compagnons de l’homme qui donne.",
+          "chapter": "19",
+          "name": "Proverbes 19:6"
+        },
+        {
+          "verse": "7",
+          "text": "Les frères de l’indigent le haïssent tous; même ses compagnons s’éloignent de lui. Qui poursuit ses dires, ils sont à lui.",
+          "chapter": "19",
+          "name": "Proverbes 19:7"
+        },
+        {
+          "verse": "8",
+          "text": "Qui acquiert un cœur aime son être. Le gardien du discernement trouve le bien.",
+          "chapter": "19",
+          "name": "Proverbes 19:8"
+        },
+        {
+          "verse": "9",
+          "text": "Témoin de mensonge n’est pas innocenté; qui exhale les tromperies perd.",
+          "chapter": "19",
+          "name": "Proverbes 19:9"
+        },
+        {
+          "verse": "10",
+          "text": "La délectation ne sied pas au fou; moins encore à l’esclave de gouverner les chefs.",
+          "chapter": "19",
+          "name": "Proverbes 19:10"
+        },
+        {
+          "verse": "11",
+          "text": "La perspicacité de l’humain allonge sa narine; sa splendeur, passer sur la carence.",
+          "chapter": "19",
+          "name": "Proverbes 19:11"
+        },
+        {
+          "verse": "12",
+          "text": "La fulmination du roi terrifie comme celle du lion; son gré comme une rosée sur l’herbe.",
+          "chapter": "19",
+          "name": "Proverbes 19:12"
+        },
+        {
+          "verse": "13",
+          "text": "Un fils fou est le dam de son père; la querelle d’une femme, un suintement importun.",
+          "chapter": "19",
+          "name": "Proverbes 19:13"
+        },
+        {
+          "verse": "14",
+          "text": "Une maison et de l’aisance viennent de la possession des pères, mais de IHVH-Adonaï une femme perspicace.",
+          "chapter": "19",
+          "name": "Proverbes 19:14"
+        },
+        {
+          "verse": "15",
+          "text": "La paresse fait tomber la torpeur; être de duperie s’affame.",
+          "chapter": "19",
+          "name": "Proverbes 19:15"
+        },
+        {
+          "verse": "16",
+          "text": "Le gardien de l’ordre garde son être; qui méprise ses routes meurt.",
+          "chapter": "19",
+          "name": "Proverbes 19:16"
+        },
+        {
+          "verse": "17",
+          "text": "Qui gracie le chétif prête à IHVH-Adonaï: il lui paye sa rétribution.",
+          "chapter": "19",
+          "name": "Proverbes 19:17"
+        },
+        {
+          "verse": "18",
+          "text": "Discipline ton fils quand l’espoir existe; à le faire mourir, ne porte pas ton être.",
+          "chapter": "19",
+          "name": "Proverbes 19:18"
+        },
+        {
+          "verse": "19",
+          "text": "Qui accroît la fièvre porte le châtiment: oui, si tu secours, continue encore.",
+          "chapter": "19",
+          "name": "Proverbes 19:19"
+        },
+        {
+          "verse": "20",
+          "text": "Entends le conseil, reçois la discipline, pour t’assagir en ton avenir.",
+          "chapter": "19",
+          "name": "Proverbes 19:20"
+        },
+        {
+          "verse": "21",
+          "text": "Les pensées, au cœur de l’homme sont multiples, mais c’est le conseil de IHVH-Adonaï qui se réalise.",
+          "chapter": "19",
+          "name": "Proverbes 19:21"
+        },
+        {
+          "verse": "22",
+          "text": "Appétit de l’humain, son chérissement; mieux vaut l’indigent que l’homme trompeur.",
+          "chapter": "19",
+          "name": "Proverbes 19:22"
+        },
+        {
+          "verse": "23",
+          "text": "Le frémissement de IHVH-Adonaï est pour la vie. Il nuite, rassasié, et le mal ne le sanctionne jamais.",
+          "chapter": "19",
+          "name": "Proverbes 19:23"
+        },
+        {
+          "verse": "24",
+          "text": "Le paresseux enfouit sa main dans l’assiette; il ne la fait même pas retourner à sa bouche.",
+          "chapter": "19",
+          "name": "Proverbes 19:24"
+        },
+        {
+          "verse": "25",
+          "text": "Frappe le railleur: le niais rusera. Exhorte le sagace: il discernera la pénétration.",
+          "chapter": "19",
+          "name": "Proverbes 19:25"
+        },
+        {
+          "verse": "26",
+          "text": "Un fils infamant et atterrant razzie le père, fait fuir la mère.",
+          "chapter": "19",
+          "name": "Proverbes 19:26"
+        },
+        {
+          "verse": "27",
+          "text": "Mon fils, pour entendre la discipline, cesse de t’égarer loin des dires de la pénétration.",
+          "chapter": "19",
+          "name": "Proverbes 19:27"
+        },
+        {
+          "verse": "28",
+          "text": "Le témoin de Belia‘al raille le jugement; la bouche des criminels engloutit la fraude.",
+          "chapter": "19",
+          "name": "Proverbes 19:28"
+        },
+        {
+          "verse": "29",
+          "text": "Les châtiments sont prêts pour les railleurs, les coups pour le dos des fous.",
+          "chapter": "19",
+          "name": "Proverbes 19:29"
+        }
+      ],
+      "name": "Proverbes 19"
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Railleur, le vin; tumultueuse, la liqueur! Qui s’y égare ne s’assagit pas.",
+          "chapter": "20",
+          "name": "Proverbes 20:1"
+        },
+        {
+          "verse": "2",
+          "text": "L’effroi du roi gronde comme un lion; qui le suscite faute contre son être.",
+          "chapter": "20",
+          "name": "Proverbes 20:2"
+        },
+        {
+          "verse": "3",
+          "text": "Gloire de l’homme, s’abstenir de dispute; tout dément s’exaspère.",
+          "chapter": "20",
+          "name": "Proverbes 20:3"
+        },
+        {
+          "verse": "4",
+          "text": "À cause de l’hiver, le paresseux ne laboure pas; à la moisson, il demande... et rien!",
+          "chapter": "20",
+          "name": "Proverbes 20:4"
+        },
+        {
+          "verse": "5",
+          "text": "Eaux profondes, le conseil au cœur de l’homme; homme de discernement y puise.",
+          "chapter": "20",
+          "name": "Proverbes 20:5"
+        },
+        {
+          "verse": "6",
+          "text": "Le grand homme se proclame l’homme qui est chéri, mais un homme d’adhérence, qui le trouve?",
+          "chapter": "20",
+          "name": "Proverbes 20:6"
+        },
+        {
+          "verse": "7",
+          "text": "Le juste chemine dans son intégrité; en marche, ses fils, après lui!",
+          "chapter": "20",
+          "name": "Proverbes 20:7"
+        },
+        {
+          "verse": "8",
+          "text": "Le roi siège sur le trône du procès; de ses yeux, il éloigne tout mal.",
+          "chapter": "20",
+          "name": "Proverbes 20:8"
+        },
+        {
+          "verse": "9",
+          "text": "Qui dit: «J’ai affiné mon cœur; je me suis purifié de mes fautes»?",
+          "chapter": "20",
+          "name": "Proverbes 20:9"
+        },
+        {
+          "verse": "10",
+          "text": "Pierre et pierre, épha et épha: les deux sont aussi en abomination pour IHVH-Adonaï.",
+          "chapter": "20",
+          "name": "Proverbes 20:10"
+        },
+        {
+          "verse": "11",
+          "text": "Par ses agissements aussi, l’adolescent se fait reconnaître, si son œuvre est limpide et droite.",
+          "chapter": "20",
+          "name": "Proverbes 20:11"
+        },
+        {
+          "verse": "12",
+          "text": "L’oreille entend, l’œil voit; IHVH-Adonaï a fait les deux aussi.",
+          "chapter": "20",
+          "name": "Proverbes 20:12"
+        },
+        {
+          "verse": "13",
+          "text": "N’aime pas le sommeil, que tu ne deviennes nécessiteux; dessille tes yeux, rassasie-toi de pain.",
+          "chapter": "20",
+          "name": "Proverbes 20:13"
+        },
+        {
+          "verse": "14",
+          "text": "«Mauvais! mauvais!» dit l’acheteur. Il se retire, et se louange, alors.",
+          "chapter": "20",
+          "name": "Proverbes 20:14"
+        },
+        {
+          "verse": "15",
+          "text": "L’or existe et la multitude des perles; mais les lèvres de la pénétration, voilà l’objet précieux.",
+          "chapter": "20",
+          "name": "Proverbes 20:15"
+        },
+        {
+          "verse": "16",
+          "text": "Prends-lui son habit, car il a cautionné un étranger; et à cause de l’exotique il l’a gagé.",
+          "chapter": "20",
+          "name": "Proverbes 20:16"
+        },
+        {
+          "verse": "17",
+          "text": "Le pain du mensonge est suave à l’homme; mais après, il remplit sa bouche de gravier.",
+          "chapter": "20",
+          "name": "Proverbes 20:17"
+        },
+        {
+          "verse": "18",
+          "text": "Par le conseil, la pensée s’affermit; fais la guerre avec des stratagèmes.",
+          "chapter": "20",
+          "name": "Proverbes 20:18"
+        },
+        {
+          "verse": "19",
+          "text": "Qui va et calomnie découvre l’intimité; ne garantis pas qui séduit de ses lèvres.",
+          "chapter": "20",
+          "name": "Proverbes 20:19"
+        },
+        {
+          "verse": "20",
+          "text": "Le maudisseur de son père et de sa mère, sa lampe vacille dans la pupille des ténèbres.",
+          "chapter": "20",
+          "name": "Proverbes 20:20"
+        },
+        {
+          "verse": "21",
+          "text": "Possession contestée en premier ne sera pas bénie à l’avenir.",
+          "chapter": "20",
+          "name": "Proverbes 20:21"
+        },
+        {
+          "verse": "22",
+          "text": "Ne dis pas: «Je paierai de mal!» Espère en IHVH-Adonaï: il te sauvera!",
+          "chapter": "20",
+          "name": "Proverbes 20:22"
+        },
+        {
+          "verse": "23",
+          "text": "Pierre et pierre sont l’abomination de IHVH-Adonaï; les balances de duperie, un non-bien.",
+          "chapter": "20",
+          "name": "Proverbes 20:23"
+        },
+        {
+          "verse": "24",
+          "text": "De IHVH-Adonaï, les démarches du brave; mais l’humain, que discerne-t-il de sa route?",
+          "chapter": "20",
+          "name": "Proverbes 20:24"
+        },
+        {
+          "verse": "25",
+          "text": "Un piège pour l’humain de bredouiller: «Consacré!» puis, après les vœux, critiquer.",
+          "chapter": "20",
+          "name": "Proverbes 20:25"
+        },
+        {
+          "verse": "26",
+          "text": "Le roi sage disperse les criminels; il retourne contre eux la roue.",
+          "chapter": "20",
+          "name": "Proverbes 20:26"
+        },
+        {
+          "verse": "27",
+          "text": "L’haleine de l’humain est une lampe de IHVH-Adonaï; elle recherche toutes les chambres du ventre.",
+          "chapter": "20",
+          "name": "Proverbes 20:27"
+        },
+        {
+          "verse": "28",
+          "text": "Le chérissement, la vérité protègent le roi; il restaure son trône par le chérissement.",
+          "chapter": "20",
+          "name": "Proverbes 20:28"
+        },
+        {
+          "verse": "29",
+          "text": "Splendeur des adolescents, leur force; lustre des anciens, la sénescence.",
+          "chapter": "20",
+          "name": "Proverbes 20:29"
+        },
+        {
+          "verse": "30",
+          "text": "Plaies et blessures sont le baume du malfaiteur, des coups aux chambres du ventre.",
+          "chapter": "20",
+          "name": "Proverbes 20:30"
+        }
+      ],
+      "name": "Proverbes 20"
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Canal d’eaux dans la main de IHVH-Adonaï, le cœur du roi: il l’incline vers tout ce qu’il désire.",
+          "chapter": "21",
+          "name": "Proverbes 21:1"
+        },
+        {
+          "verse": "2",
+          "text": "Toute route de l’homme est droite à ses yeux, mais IHVH-Adonaï soupèse les cœurs.",
+          "chapter": "21",
+          "name": "Proverbes 21:2"
+        },
+        {
+          "verse": "3",
+          "text": "Faire la justification et le jugement est choisi par IHVH-Adonaï, plutôt que le sacrifice.",
+          "chapter": "21",
+          "name": "Proverbes 21:3"
+        },
+        {
+          "verse": "4",
+          "text": "Hauteur des yeux, dilatation du cœur, le rayon des criminels est une faute.",
+          "chapter": "21",
+          "name": "Proverbes 21:4"
+        },
+        {
+          "verse": "5",
+          "text": "Le zèle de pensées n’est qu’un avantage; toute précipitation, qu’une pénurie!",
+          "chapter": "21",
+          "name": "Proverbes 21:5"
+        },
+        {
+          "verse": "6",
+          "text": "Forger des trésors avec la langue du mensonge: fumée éphémère des chercheurs de mort!",
+          "chapter": "21",
+          "name": "Proverbes 21:6"
+        },
+        {
+          "verse": "7",
+          "text": "La razzia des criminels les entraîne, car ils refusent de faire justice.",
+          "chapter": "21",
+          "name": "Proverbes 21:7"
+        },
+        {
+          "verse": "8",
+          "text": "Subversive, aliénée, la route de l’homme! Limpide, son œuvre est droite.",
+          "chapter": "21",
+          "name": "Proverbes 21:8"
+        },
+        {
+          "verse": "9",
+          "text": "Mieux vaut habiter l’angle d’un toit qu’une maison garnie avec une femme disputeuse.",
+          "chapter": "21",
+          "name": "Proverbes 21:9"
+        },
+        {
+          "verse": "10",
+          "text": "L’être du criminel désire le mal; à ses yeux, son compagnon n’est pas gracié.",
+          "chapter": "21",
+          "name": "Proverbes 21:10"
+        },
+        {
+          "verse": "11",
+          "text": "À la punition du railleur, le niais s’assagit; quand le sage est perspicace, il prend de la pénétration.",
+          "chapter": "21",
+          "name": "Proverbes 21:11"
+        },
+        {
+          "verse": "12",
+          "text": "Le juste est lucide pour la maison du criminel; il pervertit dans le mal les criminels.",
+          "chapter": "21",
+          "name": "Proverbes 21:12"
+        },
+        {
+          "verse": "13",
+          "text": "Qui clôt son oreille à la clameur de l’indigent criera lui-même sans réponse.",
+          "chapter": "21",
+          "name": "Proverbes 21:13"
+        },
+        {
+          "verse": "14",
+          "text": "Don caché dompte la narine; pot-de-vin en poche, la fièvre rude.",
+          "chapter": "21",
+          "name": "Proverbes 21:14"
+        },
+        {
+          "verse": "15",
+          "text": "Rendre le jugement, joie du juste, effarement des ouvriers de fraude.",
+          "chapter": "21",
+          "name": "Proverbes 21:15"
+        },
+        {
+          "verse": "16",
+          "text": "L’humain qui a vagué loin de la route de perspicacité repose au rassemblement des fantômes.",
+          "chapter": "21",
+          "name": "Proverbes 21:16"
+        },
+        {
+          "verse": "17",
+          "text": "Amant de joie, homme de pénurie; amant du vin et de l’huile ne s’enrichit pas.",
+          "chapter": "21",
+          "name": "Proverbes 21:17"
+        },
+        {
+          "verse": "18",
+          "text": "Le criminel est la rançon du juste; à la place des équitables, le traître.",
+          "chapter": "21",
+          "name": "Proverbes 21:18"
+        },
+        {
+          "verse": "19",
+          "text": "Mieux vaut habiter une terre déserte que l’irritation d’une femme disputeuse.",
+          "chapter": "21",
+          "name": "Proverbes 21:19"
+        },
+        {
+          "verse": "20",
+          "text": "Dans l’oasis du sage, il est un trésor désirable et de l’huile; l’homme fou l’engloutit.",
+          "chapter": "21",
+          "name": "Proverbes 21:20"
+        },
+        {
+          "verse": "21",
+          "text": "Qui poursuit la justification et le chérissement trouve la vie, la justification et la gloire.",
+          "chapter": "21",
+          "name": "Proverbes 21:21"
+        },
+        {
+          "verse": "22",
+          "text": "Un sage est monté contre une ville de héros; il en a abattu la cruauté.",
+          "chapter": "21",
+          "name": "Proverbes 21:22"
+        },
+        {
+          "verse": "23",
+          "text": "Gardien de sa bouche et de sa langue se garde des détresses de son être.",
+          "chapter": "21",
+          "name": "Proverbes 21:23"
+        },
+        {
+          "verse": "24",
+          "text": "Le bouillonnant, le présomptueux a pour nom «railleur»; avec emportement, il fait bouillonner.",
+          "chapter": "21",
+          "name": "Proverbes 21:24"
+        },
+        {
+          "verse": "25",
+          "text": "Le désir du paresseux le met à mort: oui, ses mains refusent d’agir.",
+          "chapter": "21",
+          "name": "Proverbes 21:25"
+        },
+        {
+          "verse": "26",
+          "text": "Tout le jour appète d’appétit. Le juste donne sans épargner.",
+          "chapter": "21",
+          "name": "Proverbes 21:26"
+        },
+        {
+          "verse": "27",
+          "text": "Le sacrifice des criminels est une abomination, surtout s’il le fait venir avec préméditation.",
+          "chapter": "21",
+          "name": "Proverbes 21:27"
+        },
+        {
+          "verse": "28",
+          "text": "Témoin de tromperie perd; l’homme qui a entendu avec persistance parle.",
+          "chapter": "21",
+          "name": "Proverbes 21:28"
+        },
+        {
+          "verse": "29",
+          "text": "L’homme criminel est rude de ses faces; l’équitable discerne sa route.",
+          "chapter": "21",
+          "name": "Proverbes 21:29"
+        },
+        {
+          "verse": "30",
+          "text": "Pas de sagesse, pas de discernement, pas de conseil contre IHVH-Adonaï.",
+          "chapter": "21",
+          "name": "Proverbes 21:30"
+        },
+        {
+          "verse": "31",
+          "text": "Le cheval est prêt au jour de guerre, mais à IHVH-Adonaï le salut.",
+          "chapter": "21",
+          "name": "Proverbes 21:31"
+        }
+      ],
+      "name": "Proverbes 21"
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Le renom est préférable à la richesse multiple; la bonne grâce de l’argent, à l’or.",
+          "chapter": "22",
+          "name": "Proverbes 22:1"
+        },
+        {
+          "verse": "2",
+          "text": "Le riche et l’indigent se rencontrent: IHVH-Adonaï les a tous faits.",
+          "chapter": "22",
+          "name": "Proverbes 22:2"
+        },
+        {
+          "verse": "3",
+          "text": "Le rusé voit le malheur et se cache; les niais passent et sont punis.",
+          "chapter": "22",
+          "name": "Proverbes 22:3"
+        },
+        {
+          "verse": "4",
+          "text": "Au talon de l’humilité, le frémissement de IHVH-Adonaï, la richesse, la gloire, la vie.",
+          "chapter": "22",
+          "name": "Proverbes 22:4"
+        },
+        {
+          "verse": "5",
+          "text": "Sur la route du tortueux, des acanthes et des pièges; le gardien de son être s’en éloigne.",
+          "chapter": "22",
+          "name": "Proverbes 22:5"
+        },
+        {
+          "verse": "6",
+          "text": "Éduque l’adolescent selon sa route. Même lorsqu’il vieillira, il ne s’en écartera pas.",
+          "chapter": "22",
+          "name": "Proverbes 22:6"
+        },
+        {
+          "verse": "7",
+          "text": "Parmi les indigents, le riche gouverne; l’emprunteur est l’esclave de l’homme qui prête.",
+          "chapter": "22",
+          "name": "Proverbes 22:7"
+        },
+        {
+          "verse": "8",
+          "text": "Semeur de forfaiture moissonne la fraude; il sera achevé par la verge de son emportement.",
+          "chapter": "22",
+          "name": "Proverbes 22:8"
+        },
+        {
+          "verse": "9",
+          "text": "Bon œil est béni, car il donne de son pain au chétif.",
+          "chapter": "22",
+          "name": "Proverbes 22:9"
+        },
+        {
+          "verse": "10",
+          "text": "Répudie le railleur, le litige sort; le procès et la turpitude chôment.",
+          "chapter": "22",
+          "name": "Proverbes 22:10"
+        },
+        {
+          "verse": "11",
+          "text": "Qui aime la pureté du cœur a des lèvres de grâce, et pour son compagnon le roi.",
+          "chapter": "22",
+          "name": "Proverbes 22:11"
+        },
+        {
+          "verse": "12",
+          "text": "Les yeux de IHVH-Adonaï protègent la pénétration; il pervertit les paroles du traître.",
+          "chapter": "22",
+          "name": "Proverbes 22:12"
+        },
+        {
+          "verse": "13",
+          "text": "Le paresseux dit: «Un lion est dehors! je serais meurtri au milieu des places!»",
+          "chapter": "22",
+          "name": "Proverbes 22:13"
+        },
+        {
+          "verse": "14",
+          "text": "La bouche des étrangères est un profond pourrissoir; qui exaspère IHVH-Adonaï y tombe.",
+          "chapter": "22",
+          "name": "Proverbes 22:14"
+        },
+        {
+          "verse": "15",
+          "text": "La démence est attachée au cœur de l’adolescent; la verge et la discipline l’éloignent de lui.",
+          "chapter": "22",
+          "name": "Proverbes 22:15"
+        },
+        {
+          "verse": "16",
+          "text": "Pressurer le chétif pour le faire prospérer et donner au riche, quelle pénurie!",
+          "chapter": "22",
+          "name": "Proverbes 22:16"
+        },
+        {
+          "verse": "17",
+          "text": "Tends ton oreille, entends les paroles des sages: tu placeras ton cœur en ma pénétration.",
+          "chapter": "22",
+          "name": "Proverbes 22:17"
+        },
+        {
+          "verse": "18",
+          "text": "Oui, elles sont délicieuses; oui, tu les garderas dans ton ventre; elles s’affermiront ensemble sur tes lèvres.",
+          "chapter": "22",
+          "name": "Proverbes 22:18"
+        },
+        {
+          "verse": "19",
+          "text": "Pour que ton assurance soit en IHVH-Adonaï, je te le fais pénétrer ce jour, à toi aussi.",
+          "chapter": "22",
+          "name": "Proverbes 22:19"
+        },
+        {
+          "verse": "20",
+          "text": "N’ai-je pas écrit pour toi une trentaine avec des conseils et de la pénétration;",
+          "chapter": "22",
+          "name": "Proverbes 22:20"
+        },
+        {
+          "verse": "21",
+          "text": "pour te faire pénétrer le réel, les dires de la vérité, pour faire retourner les dires de la vérité à ceux qui t’envoient?",
+          "chapter": "22",
+          "name": "Proverbes 22:21"
+        },
+        {
+          "verse": "22",
+          "text": "Ne vole pas l’indigent; oui, il est indigent, lui. N’accable pas l’humilié à la porte.",
+          "chapter": "22",
+          "name": "Proverbes 22:22"
+        },
+        {
+          "verse": "23",
+          "text": "Oui, IHVH-Adonaï combat dans leur combat; il rafle l’être de ceux qui les raflent.",
+          "chapter": "22",
+          "name": "Proverbes 22:23"
+        },
+        {
+          "verse": "24",
+          "text": "Ne fais pas paître maître narine, ne viens pas à l’homme de fièvres,",
+          "chapter": "22",
+          "name": "Proverbes 22:24"
+        },
+        {
+          "verse": "25",
+          "text": "que tu ne sois dompté en ses voies et n’y prennes au piège ton être.",
+          "chapter": "22",
+          "name": "Proverbes 22:25"
+        },
+        {
+          "verse": "26",
+          "text": "Ne sois pas avec les topeurs de paume, avec les garants de dettes.",
+          "chapter": "22",
+          "name": "Proverbes 22:26"
+        },
+        {
+          "verse": "27",
+          "text": "Quand tu n’auras pas de quoi payer, pourquoi prendrait-il sous toi ta couche?",
+          "chapter": "22",
+          "name": "Proverbes 22:27"
+        },
+        {
+          "verse": "28",
+          "text": "Ne recule pas la frontière de pérennité, que tes pères ont faite.",
+          "chapter": "22",
+          "name": "Proverbes 22:28"
+        },
+        {
+          "verse": "29",
+          "text": "Contemple l’homme rapide à son ouvrage: il se poste en face de rois, il ne se poste jamais en face des obscurs.",
+          "chapter": "22",
+          "name": "Proverbes 22:29"
+        }
+      ],
+      "name": "Proverbes 22"
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Quand tu sièges pour consommer le pain avec un gouverneur, discerne, discerne qui est en face de toi.",
+          "chapter": "23",
+          "name": "Proverbes 23:1"
+        },
+        {
+          "verse": "2",
+          "text": "Mets un couteau dans ta glotte, si tu es maître de ton être.",
+          "chapter": "23",
+          "name": "Proverbes 23:2"
+        },
+        {
+          "verse": "3",
+          "text": "N’aie pas l’appétit de ses mets: c’est un pain de tromperie.",
+          "chapter": "23",
+          "name": "Proverbes 23:3"
+        },
+        {
+          "verse": "4",
+          "text": "Ne t’épuise pas pour t’enrichir, cesse en ton discernement.",
+          "chapter": "23",
+          "name": "Proverbes 23:4"
+        },
+        {
+          "verse": "5",
+          "text": "Volerait-elle? Tes yeux sont sur elle, mais elle n’est plus. Oui, elle se fait, elle se fait des ailes, et, comme le vautour, s’envole aux ciels.",
+          "chapter": "23",
+          "name": "Proverbes 23:5"
+        },
+        {
+          "verse": "6",
+          "text": "Ne consomme pas le pain du mauvais œil; n’aie pas appétit de ses mets.",
+          "chapter": "23",
+          "name": "Proverbes 23:6"
+        },
+        {
+          "verse": "7",
+          "text": "Oui, comme quelqu’un qui suppute en son être, il dit: «Mange et bois!»; mais son cœur n’est jamais avec toi.",
+          "chapter": "23",
+          "name": "Proverbes 23:7"
+        },
+        {
+          "verse": "8",
+          "text": "Tu as mangé ta miche, mais tu la vomis, détruisant tes paroles délicieuses.",
+          "chapter": "23",
+          "name": "Proverbes 23:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ne parle pas aux oreilles du fou: oui, il méprise la perspicacité de tes mots.",
+          "chapter": "23",
+          "name": "Proverbes 23:9"
+        },
+        {
+          "verse": "10",
+          "text": "Ne recule pas la frontière de pérennité; dans le champ des orphelins ne viens pas.",
+          "chapter": "23",
+          "name": "Proverbes 23:10"
+        },
+        {
+          "verse": "11",
+          "text": "Oui, leur racheteur est fort; lui-même combattra dans leur combat contre toi.",
+          "chapter": "23",
+          "name": "Proverbes 23:11"
+        },
+        {
+          "verse": "12",
+          "text": "Fais venir ton cœur à la discipline, tes oreilles aux dires de la pénétration.",
+          "chapter": "23",
+          "name": "Proverbes 23:12"
+        },
+        {
+          "verse": "13",
+          "text": "N’interdis pas à l’adolescent la discipline: quand tu le frappes d’un bâton, il ne meurt pas.",
+          "chapter": "23",
+          "name": "Proverbes 23:13"
+        },
+        {
+          "verse": "14",
+          "text": "Toi, frappe-le avec un bâton, et secours son être contre le Shéol.",
+          "chapter": "23",
+          "name": "Proverbes 23:14"
+        },
+        {
+          "verse": "15",
+          "text": "Mon fils, quand ton cœur s’assagit, moi aussi mon cœur se réjouit.",
+          "chapter": "23",
+          "name": "Proverbes 23:15"
+        },
+        {
+          "verse": "16",
+          "text": "Mes reins exultent quand tes lèvres parlent avec rectitudes.",
+          "chapter": "23",
+          "name": "Proverbes 23:16"
+        },
+        {
+          "verse": "17",
+          "text": "Que ton cœur n’arde pas après les fauteurs, mais après le frémissement de IHVH-Adonaï, tout le jour.",
+          "chapter": "23",
+          "name": "Proverbes 23:17"
+        },
+        {
+          "verse": "18",
+          "text": "Oui, quand l’avenir existe, ton espoir n’est pas tranché.",
+          "chapter": "23",
+          "name": "Proverbes 23:18"
+        },
+        {
+          "verse": "19",
+          "text": "Entends, toi, mon fils; sois sage et marche sur la route de ton cœur!",
+          "chapter": "23",
+          "name": "Proverbes 23:19"
+        },
+        {
+          "verse": "20",
+          "text": "Ne sois pas avec les lampeurs de vins, avec les gloutons de viande!",
+          "chapter": "23",
+          "name": "Proverbes 23:20"
+        },
+        {
+          "verse": "21",
+          "text": "Oui, les lampeurs, les gloutons tomberont dans l’indigence; la somnolence les vêtira de haillons.",
+          "chapter": "23",
+          "name": "Proverbes 23:21"
+        },
+        {
+          "verse": "22",
+          "text": "Entends ton père, celui qui t’a enfanté; ne méprise pas ta mère quand elle vieillit.",
+          "chapter": "23",
+          "name": "Proverbes 23:22"
+        },
+        {
+          "verse": "23",
+          "text": "Acquiers la vérité, mais ne la vends pas, ni la sagesse, la discipline, le discernement.",
+          "chapter": "23",
+          "name": "Proverbes 23:23"
+        },
+        {
+          "verse": "24",
+          "text": "Il s’égaye, il s’égaye, le père du juste; l’enfanteur du sage se réjouit avec lui.",
+          "chapter": "23",
+          "name": "Proverbes 23:24"
+        },
+        {
+          "verse": "25",
+          "text": "Ton père et ta mère se réjouiront; celle qui t’a enfanté s’égayera.",
+          "chapter": "23",
+          "name": "Proverbes 23:25"
+        },
+        {
+          "verse": "26",
+          "text": "Donne-moi ton cœur, mon fils: tes yeux agréeront mes routes!",
+          "chapter": "23",
+          "name": "Proverbes 23:26"
+        },
+        {
+          "verse": "27",
+          "text": "Oui, la putain est un profond pourrissoir; un puits de détresse, l’exotique.",
+          "chapter": "23",
+          "name": "Proverbes 23:27"
+        },
+        {
+          "verse": "28",
+          "text": "Elle s’embusque comme un ravisseur; elle ajoute aux traîtrises de l’humain.",
+          "chapter": "23",
+          "name": "Proverbes 23:28"
+        },
+        {
+          "verse": "29",
+          "text": "Pour qui: «Oïe? Pour qui: «Aboïe»? Pour qui les litiges? Pour qui la plainte? Pour qui le trouble? Pour qui les blessures gratuites? Pour qui l’inflammation des yeux?",
+          "chapter": "23",
+          "name": "Proverbes 23:29"
+        },
+        {
+          "verse": "30",
+          "text": "Pour ceux qui s’attardent sur le vin et viennent sonder la libation.",
+          "chapter": "23",
+          "name": "Proverbes 23:30"
+        },
+        {
+          "verse": "31",
+          "text": "Ne reluque pas le vin: «Oui, il est vermeil, oui, il donne son œil à la coupe, il circule droit...»",
+          "chapter": "23",
+          "name": "Proverbes 23:31"
+        },
+        {
+          "verse": "32",
+          "text": "Mais après, il mord comme un serpent, il pique comme une vipère.",
+          "chapter": "23",
+          "name": "Proverbes 23:32"
+        },
+        {
+          "verse": "33",
+          "text": "Tes yeux verront des étrangetés, et ton cœur parlera de subversions.",
+          "chapter": "23",
+          "name": "Proverbes 23:33"
+        },
+        {
+          "verse": "34",
+          "text": "Tu seras comme celui qui se couche au cœur de la mer, comme celui qui se couche sur la tête d’un mât.",
+          "chapter": "23",
+          "name": "Proverbes 23:34"
+        },
+        {
+          "verse": "35",
+          "text": "«Ils m’ont battu, je n’ai pas été malade; ils m’ont frappé, je n’ai rien su. Quand je me ranimerai, je continuerai à en demander encore.»",
+          "chapter": "23",
+          "name": "Proverbes 23:35"
+        }
+      ],
+      "name": "Proverbes 23"
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "N’arde pas après les hommes de malheur, n’aie pas l’appétit d’être avec eux.",
+          "chapter": "24",
+          "name": "Proverbes 24:1"
+        },
+        {
+          "verse": "2",
+          "text": "Oui, leur cœur murmure la razzia, leurs lèvres parlent de labeur.",
+          "chapter": "24",
+          "name": "Proverbes 24:2"
+        },
+        {
+          "verse": "3",
+          "text": "La maison se bâtit par la sagesse; elle s’affermit par le discernement;",
+          "chapter": "24",
+          "name": "Proverbes 24:3"
+        },
+        {
+          "verse": "4",
+          "text": "les chambres se remplissent avec la pénétration; toute aisance est précieuse et suave.",
+          "chapter": "24",
+          "name": "Proverbes 24:4"
+        },
+        {
+          "verse": "5",
+          "text": "Avec l’énergie, le brave est sage; l’homme de pénétration raffermit sa force.",
+          "chapter": "24",
+          "name": "Proverbes 24:5"
+        },
+        {
+          "verse": "6",
+          "text": "Oui, fais pour toi la guerre avec des stratagèmes; le salut est dans la multitude des conseillers.",
+          "chapter": "24",
+          "name": "Proverbes 24:6"
+        },
+        {
+          "verse": "7",
+          "text": "Trop altière pour le dément, la sagesse; à la porte, il n’ouvre pas la bouche.",
+          "chapter": "24",
+          "name": "Proverbes 24:7"
+        },
+        {
+          "verse": "8",
+          "text": "Il calcule pour méfaire et s’appelle «le Maître des préméditations».",
+          "chapter": "24",
+          "name": "Proverbes 24:8"
+        },
+        {
+          "verse": "9",
+          "text": "Initiative de la démence, la faute; abomination de l’humain, le railleur.",
+          "chapter": "24",
+          "name": "Proverbes 24:9"
+        },
+        {
+          "verse": "10",
+          "text": "Tu te relâches au jour de la détresse; étroite est ta force.",
+          "chapter": "24",
+          "name": "Proverbes 24:10"
+        },
+        {
+          "verse": "11",
+          "text": "Secours ceux qui sont pris par la mort; épargne ceux qui chancellent à la tuerie.",
+          "chapter": "24",
+          "name": "Proverbes 24:11"
+        },
+        {
+          "verse": "12",
+          "text": "Quand tu dis: «Certes, nous ne savions pas cela!» ne soupèse-t-il pas les cœurs? Lui, il discerne, il sait protéger ton être. Il retourne à l’humain selon son œuvre.",
+          "chapter": "24",
+          "name": "Proverbes 24:12"
+        },
+        {
+          "verse": "13",
+          "text": "Mange du miel, mon fils, oui, quel bien! Le gâteau en est doux à ton palais.",
+          "chapter": "24",
+          "name": "Proverbes 24:13"
+        },
+        {
+          "verse": "14",
+          "text": "Ainsi de pénétrer la sagesse pour ton être. Si tu l’as trouvée, l’avenir existe; ton espoir ne sera pas tranché.",
+          "chapter": "24",
+          "name": "Proverbes 24:14"
+        },
+        {
+          "verse": "15",
+          "text": "Criminel, ne t’embusque pas contre l’oasis du juste; ne razzie pas son pacage!",
+          "chapter": "24",
+          "name": "Proverbes 24:15"
+        },
+        {
+          "verse": "16",
+          "text": "Oui, le juste tombe sept fois puis se relève, mais les criminels trébuchent dans le malheur.",
+          "chapter": "24",
+          "name": "Proverbes 24:16"
+        },
+        {
+          "verse": "17",
+          "text": "À la chute de ton ennemi, ne te réjouis pas! Que ton cœur ne s’égaye pas quand il trébuche,",
+          "chapter": "24",
+          "name": "Proverbes 24:17"
+        },
+        {
+          "verse": "18",
+          "text": "que IHVH-Adonaï ne le voie, que ce soit mal à ses yeux, et qu’il détourne loin de lui sa narine!",
+          "chapter": "24",
+          "name": "Proverbes 24:18"
+        },
+        {
+          "verse": "19",
+          "text": "Ne brûle pas contre les malfaiteurs, n’arde pas après les criminels,",
+          "chapter": "24",
+          "name": "Proverbes 24:19"
+        },
+        {
+          "verse": "20",
+          "text": "car il n’est pas d’avenir au mal; la lampe des criminels vacille!",
+          "chapter": "24",
+          "name": "Proverbes 24:20"
+        },
+        {
+          "verse": "21",
+          "text": "Mon fils, frémis de IHVH-Adonaï et du roi; ne te mêle pas aux dissemblables!",
+          "chapter": "24",
+          "name": "Proverbes 24:21"
+        },
+        {
+          "verse": "22",
+          "text": "Oui, soudain, leur désastre surgit. L’échec des deux, qui le connaît?",
+          "chapter": "24",
+          "name": "Proverbes 24:22"
+        },
+        {
+          "verse": "23",
+          "text": "Ceux-ci aussi des sages: Reconnaître les faces dans le jugement n’est jamais bien.",
+          "chapter": "24",
+          "name": "Proverbes 24:23"
+        },
+        {
+          "verse": "24",
+          "text": "Qui dit au criminel: «Tu es un juste», les peuples le honnissent, les patries l’invectivent.",
+          "chapter": "24",
+          "name": "Proverbes 24:24"
+        },
+        {
+          "verse": "25",
+          "text": "Mais ceux qui exhortent se délecteront; sur eux vient la bénédiction du bien.",
+          "chapter": "24",
+          "name": "Proverbes 24:25"
+        },
+        {
+          "verse": "26",
+          "text": "Il embrasse des lèvres, celui qui réplique par des paroles actuelles.",
+          "chapter": "24",
+          "name": "Proverbes 24:26"
+        },
+        {
+          "verse": "27",
+          "text": "Prépare au-dehors ton ouvrage, arrange-le pour toi au champ. Bâtis ensuite ta maison;",
+          "chapter": "24",
+          "name": "Proverbes 24:27"
+        },
+        {
+          "verse": "28",
+          "text": "Ne sois pas un témoin gratuit contre ton compagnon. Séduiras-tu de tes lèvres?",
+          "chapter": "24",
+          "name": "Proverbes 24:28"
+        },
+        {
+          "verse": "29",
+          "text": "Ne dis pas: «Je lui ferai comme il m’a fait; je retournerai à l’homme selon son œuvre.»",
+          "chapter": "24",
+          "name": "Proverbes 24:29"
+        },
+        {
+          "verse": "30",
+          "text": "Je suis passé sur le champ d’un homme paresseux, sur le vignoble d’un humain privé de cœur.",
+          "chapter": "24",
+          "name": "Proverbes 24:30"
+        },
+        {
+          "verse": "31",
+          "text": "Et voici, il est monté tout en bardanes; les sanves ont recouvert ses faces; sa clôture de pierres s’est effondrée.",
+          "chapter": "24",
+          "name": "Proverbes 24:31"
+        },
+        {
+          "verse": "32",
+          "text": "Je contemple, moi-même j’y place mon cœur; vois et prends discipline.",
+          "chapter": "24",
+          "name": "Proverbes 24:32"
+        },
+        {
+          "verse": "33",
+          "text": "«Un peu de somme, un peu de somnolences, un peu croiser les mains pour se coucher!",
+          "chapter": "24",
+          "name": "Proverbes 24:33"
+        },
+        {
+          "verse": "34",
+          "text": "Elle vient, elle chemine, ton indigence, ta pénurie, comme un homme au bouclier.»",
+          "chapter": "24",
+          "name": "Proverbes 24:34"
+        }
+      ],
+      "name": "Proverbes 24"
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Encore, des exemples de Shelomo, ceux-ci, que les hommes de Hizqyahou, roi de Iehouda, ont recopiés:",
+          "chapter": "25",
+          "name": "Proverbes 25:1"
+        },
+        {
+          "verse": "2",
+          "text": "Gloire d’Elohîms, voiler la parole; gloire des rois, sonder la parole.",
+          "chapter": "25",
+          "name": "Proverbes 25:2"
+        },
+        {
+          "verse": "3",
+          "text": "Les ciels dans l’altitude, la terre en profondeur, et le cœur des rois, insondables.",
+          "chapter": "25",
+          "name": "Proverbes 25:3"
+        },
+        {
+          "verse": "4",
+          "text": "Ôte les scories de l’argent, un objet sort pour l’orfèvre;",
+          "chapter": "25",
+          "name": "Proverbes 25:4"
+        },
+        {
+          "verse": "5",
+          "text": "ôte le criminel en face du roi, son trône s’affermit dans la justice.",
+          "chapter": "25",
+          "name": "Proverbes 25:5"
+        },
+        {
+          "verse": "6",
+          "text": "Ne te magnifie pas face au roi; sur le lieu des grands ne te tiens pas.",
+          "chapter": "25",
+          "name": "Proverbes 25:6"
+        },
+        {
+          "verse": "7",
+          "text": "Oui, mieux vaut qu’il te dise: «Monte ici» que d’être rabaissé face au gratificateur que tes yeux voient.",
+          "chapter": "25",
+          "name": "Proverbes 25:7"
+        },
+        {
+          "verse": "8",
+          "text": "Ne te hâte pas de sortir te disputer, par crainte de ce que tu feras après, quand ton compagnon t’aura outragé.",
+          "chapter": "25",
+          "name": "Proverbes 25:8"
+        },
+        {
+          "verse": "9",
+          "text": "En ta dispute, dispute avec ton compagnon, mais ne découvre pas l’intimité d’autrui,",
+          "chapter": "25",
+          "name": "Proverbes 25:9"
+        },
+        {
+          "verse": "10",
+          "text": "que l’entendeur ne te vilipende et que ta médisance ne retourne pas.",
+          "chapter": "25",
+          "name": "Proverbes 25:10"
+        },
+        {
+          "verse": "11",
+          "text": "Des pommes d’or dans un écrin d’argent, une parole dite à propos.",
+          "chapter": "25",
+          "name": "Proverbes 25:11"
+        },
+        {
+          "verse": "12",
+          "text": "Narinière d’or, joyau vermeil, sage exhortateur à l’oreille qui écoute.",
+          "chapter": "25",
+          "name": "Proverbes 25:12"
+        },
+        {
+          "verse": "13",
+          "text": "Le délégué fidèle à ses mandants est comme une fraîcheur de neige un jour de moisson: il restaure l’être de ses maîtres.",
+          "chapter": "25",
+          "name": "Proverbes 25:13"
+        },
+        {
+          "verse": "14",
+          "text": "Des cumulus avec un vent sans pluie, tel est l’homme qui se louange d’un don mensonger.",
+          "chapter": "25",
+          "name": "Proverbes 25:14"
+        },
+        {
+          "verse": "15",
+          "text": "Longueur de narine séduit l’alcade; une langue tendre brise une ossature.",
+          "chapter": "25",
+          "name": "Proverbes 25:15"
+        },
+        {
+          "verse": "16",
+          "text": "Mange à ta suffisance du miel que tu as trouvé, de peur que tu ne t’en rassasies et ne le vomisses.",
+          "chapter": "25",
+          "name": "Proverbes 25:16"
+        },
+        {
+          "verse": "17",
+          "text": "Que ton pied soit cher dans la maison de ton compagnon, qu’il ne se rassasie de toi et ne te haïsse.",
+          "chapter": "25",
+          "name": "Proverbes 25:17"
+        },
+        {
+          "verse": "18",
+          "text": "Massue, épée, flèche affûtée: un homme répond contre son compagnon en témoin de mensonge.",
+          "chapter": "25",
+          "name": "Proverbes 25:18"
+        },
+        {
+          "verse": "19",
+          "text": "Dent cariée, pied branlant, la sûreté d’un traître au jour de détresse.",
+          "chapter": "25",
+          "name": "Proverbes 25:19"
+        },
+        {
+          "verse": "20",
+          "text": "Retirer un habit un jour de gel, c’est du vinaigre sur du nitre, c’est chanter des poèmes à un cœur souffrant.",
+          "chapter": "25",
+          "name": "Proverbes 25:20"
+        },
+        {
+          "verse": "21",
+          "text": "Si ton haineux est affamé, fais-lui manger du pain; s’il est assoiffé, abreuve-le d’eau,",
+          "chapter": "25",
+          "name": "Proverbes 25:21"
+        },
+        {
+          "verse": "22",
+          "text": "car tu amasses ainsi des braises sur sa tête, IHVH-Adonaï te récompensera.",
+          "chapter": "25",
+          "name": "Proverbes 25:22"
+        },
+        {
+          "verse": "23",
+          "text": "Le souffle du septentrion engendre la pluie, et les faces fulminantes la langue médisante.",
+          "chapter": "25",
+          "name": "Proverbes 25:23"
+        },
+        {
+          "verse": "24",
+          "text": "Mieux vaut habiter l’angle d’un toit qu’une maison garnie avec une femme disputeuse.",
+          "chapter": "25",
+          "name": "Proverbes 25:24"
+        },
+        {
+          "verse": "25",
+          "text": "De l’eau froide sur un être fatigué, une bonne nouvelle d’une terre lointaine.",
+          "chapter": "25",
+          "name": "Proverbes 25:25"
+        },
+        {
+          "verse": "26",
+          "text": "Source envasée, nappe corrompue, le juste chancelle en face du criminel.",
+          "chapter": "25",
+          "name": "Proverbes 25:26"
+        },
+        {
+          "verse": "27",
+          "text": "Manger du miel avec excès n’est pas bien. Sonder leur gloire est gloire.",
+          "chapter": "25",
+          "name": "Proverbes 25:27"
+        },
+        {
+          "verse": "28",
+          "text": "Ville en brèche, sans rempart, homme sans frein à son souffle.",
+          "chapter": "25",
+          "name": "Proverbes 25:28"
+        }
+      ],
+      "name": "Proverbes 25"
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Comme neige en été, comme pluie à la moisson, certes la gloire ne sied pas au fou.",
+          "chapter": "26",
+          "name": "Proverbes 26:1"
+        },
+        {
+          "verse": "2",
+          "text": "Comme erre un oiseau, comme vole une hirondelle, telle est la malédiction gratuite, elle vient contre lui.",
+          "chapter": "26",
+          "name": "Proverbes 26:2"
+        },
+        {
+          "verse": "3",
+          "text": "Fouet au cheval, mors à l’âne, bâton au dos des fous!",
+          "chapter": "26",
+          "name": "Proverbes 26:3"
+        },
+        {
+          "verse": "4",
+          "text": "Ne réponds pas au fou selon sa démence, que tu ne l’égales, toi aussi.",
+          "chapter": "26",
+          "name": "Proverbes 26:4"
+        },
+        {
+          "verse": "5",
+          "text": "Réponds au fou selon sa démence, de peur qu’il ne soit sage à ses yeux.",
+          "chapter": "26",
+          "name": "Proverbes 26:5"
+        },
+        {
+          "verse": "6",
+          "text": "Il se mutile les pieds et boit la violence, celui qui envoie des paroles en main d’un fou.",
+          "chapter": "26",
+          "name": "Proverbes 26:6"
+        },
+        {
+          "verse": "7",
+          "text": "Elles claudiquent, les jambes du boiteux; et l’exemple, dans la bouche des fous.",
+          "chapter": "26",
+          "name": "Proverbes 26:7"
+        },
+        {
+          "verse": "8",
+          "text": "Comme de serrer une pierre dans une bombarde, ainsi de donner la gloire au fou.",
+          "chapter": "26",
+          "name": "Proverbes 26:8"
+        },
+        {
+          "verse": "9",
+          "text": "Un vinettier brandi dans la main d’un ivrogne: un exemple dans la bouche des fous.",
+          "chapter": "26",
+          "name": "Proverbes 26:9"
+        },
+        {
+          "verse": "10",
+          "text": "Le maître profane tout, quand il salarie un fou, quand il salarie des emportés.",
+          "chapter": "26",
+          "name": "Proverbes 26:10"
+        },
+        {
+          "verse": "11",
+          "text": "Comme un chien retourne à son vomissement, le fou récidive dans sa démence.",
+          "chapter": "26",
+          "name": "Proverbes 26:11"
+        },
+        {
+          "verse": "12",
+          "text": "Tu as vu un homme sage à ses yeux? Le fou a plus d’espoir que lui.",
+          "chapter": "26",
+          "name": "Proverbes 26:12"
+        },
+        {
+          "verse": "13",
+          "text": "Le paresseux dit: «Un fauve est sur la route! Un lion entre les places!»",
+          "chapter": "26",
+          "name": "Proverbes 26:13"
+        },
+        {
+          "verse": "14",
+          "text": "Le portail tourne sur son gond et le paresseux dans son lit.",
+          "chapter": "26",
+          "name": "Proverbes 26:14"
+        },
+        {
+          "verse": "15",
+          "text": "Le paresseux enfouit sa main dans l’assiette; elle est trop basse pour la retourner à sa bouche.",
+          "chapter": "26",
+          "name": "Proverbes 26:15"
+        },
+        {
+          "verse": "16",
+          "text": "Le paresseux est plus sage à ses yeux que sept répondeurs de goût.",
+          "chapter": "26",
+          "name": "Proverbes 26:16"
+        },
+        {
+          "verse": "17",
+          "text": "Il saisit les oreilles d’un chien, le passant qui se mêle au combat non sien.",
+          "chapter": "26",
+          "name": "Proverbes 26:17"
+        },
+        {
+          "verse": "18",
+          "text": "Comme un bouffon qui tire des brandons, des flèches et la mort,",
+          "chapter": "26",
+          "name": "Proverbes 26:18"
+        },
+        {
+          "verse": "19",
+          "text": "tel est l’homme qui dupe son compagnon et dit: «Ne riais-je pas, moi?»",
+          "chapter": "26",
+          "name": "Proverbes 26:19"
+        },
+        {
+          "verse": "20",
+          "text": "Faute de bois le feu s’éteint; sans chicaneur la dispute se tait.",
+          "chapter": "26",
+          "name": "Proverbes 26:20"
+        },
+        {
+          "verse": "21",
+          "text": "Du charbon sur les braises, du bois au feu, et un homme querelleur pour attiser la dispute;",
+          "chapter": "26",
+          "name": "Proverbes 26:21"
+        },
+        {
+          "verse": "22",
+          "text": "Les paroles du chicaneur, comme des gloutons, descendent aux chambres du ventre.",
+          "chapter": "26",
+          "name": "Proverbes 26:22"
+        },
+        {
+          "verse": "23",
+          "text": "Grès plaqué de scories d’argent, lèvres allumées et cœur mauvais.",
+          "chapter": "26",
+          "name": "Proverbes 26:23"
+        },
+        {
+          "verse": "24",
+          "text": "Le haineux se dissimule derrière ses lèvres; dans son entraille, il place la duperie.",
+          "chapter": "26",
+          "name": "Proverbes 26:24"
+        },
+        {
+          "verse": "25",
+          "text": "Quand sa voix gracie, n’adhère pas à lui; oui, sept abominations sont en son cœur.",
+          "chapter": "26",
+          "name": "Proverbes 26:25"
+        },
+        {
+          "verse": "26",
+          "text": "La haine se couvre de séduction; son mal se découvre dans l’assemblée.",
+          "chapter": "26",
+          "name": "Proverbes 26:26"
+        },
+        {
+          "verse": "27",
+          "text": "Foreur de pourrissoir y tombe; la pierre retourne sur qui la roule.",
+          "chapter": "26",
+          "name": "Proverbes 26:27"
+        },
+        {
+          "verse": "28",
+          "text": "Langue de mensonge hait ceux qu’elle contrit; bouche lisse fait bannissement.",
+          "chapter": "26",
+          "name": "Proverbes 26:28"
+        }
+      ],
+      "name": "Proverbes 26"
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ne te louange pas du jour de demain; non, tu ne sais pas ce qu’enfante le jour.",
+          "chapter": "27",
+          "name": "Proverbes 27:1"
+        },
+        {
+          "verse": "2",
+          "text": "Qu’autrui te louange, mais non ta bouche; un étranger, mais non tes lèvres.",
+          "chapter": "27",
+          "name": "Proverbes 27:2"
+        },
+        {
+          "verse": "3",
+          "text": "Lourde la pierre, accablant le sable; mais l’irritation du dément est plus lourde que les deux.",
+          "chapter": "27",
+          "name": "Proverbes 27:3"
+        },
+        {
+          "verse": "4",
+          "text": "Cruauté de la fièvre, irritation de la narine; mais qui se dresse, face à la jalousie?",
+          "chapter": "27",
+          "name": "Proverbes 27:4"
+        },
+        {
+          "verse": "5",
+          "text": "Mieux vaut une franche réprimande qu’un amour caché.",
+          "chapter": "27",
+          "name": "Proverbes 27:5"
+        },
+        {
+          "verse": "6",
+          "text": "Adhérentes, les blessures de l’amant; kyrielles, les baisers du haineux.",
+          "chapter": "27",
+          "name": "Proverbes 27:6"
+        },
+        {
+          "verse": "7",
+          "text": "L’être rassasié piétine la miellée; à être affamé, toute amertume est douce.",
+          "chapter": "27",
+          "name": "Proverbes 27:7"
+        },
+        {
+          "verse": "8",
+          "text": "Comme un oiseau qui erre loin de son nid, ainsi l’homme qui erre loin de son lieu.",
+          "chapter": "27",
+          "name": "Proverbes 27:8"
+        },
+        {
+          "verse": "9",
+          "text": "L’huile et l’encens réjouissent le cœur; et la douceur d’un compagnon plus que le conseil de l’être.",
+          "chapter": "27",
+          "name": "Proverbes 27:9"
+        },
+        {
+          "verse": "10",
+          "text": "N’abandonne pas ton compagnon ni le compagnon de ton père. Ne viens pas dans la maison de ton frère le jour de ta calamité: meilleur proche voisin que frère lointain.",
+          "chapter": "27",
+          "name": "Proverbes 27:10"
+        },
+        {
+          "verse": "11",
+          "text": "Assagis-toi, mon fils, réjouis mon cœur; je retournerai la parole à mon flétrisseur.",
+          "chapter": "27",
+          "name": "Proverbes 27:11"
+        },
+        {
+          "verse": "12",
+          "text": "Le rusé voit le malheur et se cache; les niais passent, ils sont punis.",
+          "chapter": "27",
+          "name": "Proverbes 27:12"
+        },
+        {
+          "verse": "13",
+          "text": "Prends son habit car il a cautionné un étranger; et à cause de l’exotique il l’a gagé.",
+          "chapter": "27",
+          "name": "Proverbes 27:13"
+        },
+        {
+          "verse": "14",
+          "text": "Il salue à haute voix son compagnon de grand matin: cela lui est compté pour malédiction.",
+          "chapter": "27",
+          "name": "Proverbes 27:14"
+        },
+        {
+          "verse": "15",
+          "text": "Le suintement importun d’un jour de pluie et une femme querelleuse se valent.",
+          "chapter": "27",
+          "name": "Proverbes 27:15"
+        },
+        {
+          "verse": "16",
+          "text": "Qui la recèle recèle du vent; sa droite serre de l’huile.",
+          "chapter": "27",
+          "name": "Proverbes 27:16"
+        },
+        {
+          "verse": "17",
+          "text": "Le fer s’aiguise contre le fer; l’homme s’aiguise face à son compagnon.",
+          "chapter": "27",
+          "name": "Proverbes 27:17"
+        },
+        {
+          "verse": "18",
+          "text": "Protecteur du figuier mange son fruit; gardien de son maître est glorifié.",
+          "chapter": "27",
+          "name": "Proverbes 27:18"
+        },
+        {
+          "verse": "19",
+          "text": "Comme sur des eaux les faces font faces, ainsi le cœur de l’humain pour l’humain.",
+          "chapter": "27",
+          "name": "Proverbes 27:19"
+        },
+        {
+          "verse": "20",
+          "text": "Le Shéol, la perdition, ne se rassasient pas; et les yeux de l’humain ne se rassasient pas.",
+          "chapter": "27",
+          "name": "Proverbes 27:20"
+        },
+        {
+          "verse": "21",
+          "text": "La raffinerie pour l’argent, le creuset pour l’or; et l’homme en bouche de son louangeur.",
+          "chapter": "27",
+          "name": "Proverbes 27:21"
+        },
+        {
+          "verse": "22",
+          "text": "Si tu pilais le dément au mortier, au milieu des gruaux, avec un racloir, tu n’écarterais pas de lui sa démence.",
+          "chapter": "27",
+          "name": "Proverbes 27:22"
+        },
+        {
+          "verse": "23",
+          "text": "Connais, connais les faces de tes ovins, place ton cœur aux troupeaux,",
+          "chapter": "27",
+          "name": "Proverbes 27:23"
+        },
+        {
+          "verse": "24",
+          "text": "car la pléthore n’est pas éternelle, ni de cycle en cycle une couronne.",
+          "chapter": "27",
+          "name": "Proverbes 27:24"
+        },
+        {
+          "verse": "25",
+          "text": "Le pâturin se découvre, le gazon se voit, les herbes des montagnes se ramassent.",
+          "chapter": "27",
+          "name": "Proverbes 27:25"
+        },
+        {
+          "verse": "26",
+          "text": "Les moutons sont pour tes vêtements, et les menons pour prix d’un champ.",
+          "chapter": "27",
+          "name": "Proverbes 27:26"
+        },
+        {
+          "verse": "27",
+          "text": "Il est assez de lait de chèvre pour ton pain, pour le pain de ta maison et la vie de tes adolescentes.",
+          "chapter": "27",
+          "name": "Proverbes 27:27"
+        }
+      ],
+      "name": "Proverbes 27"
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Le criminel fuit même quand personne ne le poursuit; les justes ont l’assurance d’un lion.",
+          "chapter": "28",
+          "name": "Proverbes 28:1"
+        },
+        {
+          "verse": "2",
+          "text": "Quand la terre fait carence, multiples sont ses chefs; l’humain qui discerne et pénètre perpétue son assise.",
+          "chapter": "28",
+          "name": "Proverbes 28:2"
+        },
+        {
+          "verse": "3",
+          "text": "Homme ruiné qui pressure des indigents: pluie dévastatrice, et pas de pain.",
+          "chapter": "28",
+          "name": "Proverbes 28:3"
+        },
+        {
+          "verse": "4",
+          "text": "Ceux qui abandonnent la tora louangent le criminel; les gardiens de la tora les défient.",
+          "chapter": "28",
+          "name": "Proverbes 28:4"
+        },
+        {
+          "verse": "5",
+          "text": "Les hommes du mal ne discernent pas le jugement; les chercheurs de IHVH-Adonaï discernent tout.",
+          "chapter": "28",
+          "name": "Proverbes 28:5"
+        },
+        {
+          "verse": "6",
+          "text": "Mieux vaut l’indigent qui va dans son intégrité que le tortueux des-deux-routes, riche.",
+          "chapter": "28",
+          "name": "Proverbes 28:6"
+        },
+        {
+          "verse": "7",
+          "text": "Le gardien de la tora est un fils qui discerne; et le pâtre de goinfres est l’opprobre de son père.",
+          "chapter": "28",
+          "name": "Proverbes 28:7"
+        },
+        {
+          "verse": "8",
+          "text": "Qui multiplie son aisance avec usure et intérêt amasse pour gratifier les chétifs.",
+          "chapter": "28",
+          "name": "Proverbes 28:8"
+        },
+        {
+          "verse": "9",
+          "text": "Qui écarte son oreille pour ne pas entendre la tora, sa prière aussi est une abomination.",
+          "chapter": "28",
+          "name": "Proverbes 28:9"
+        },
+        {
+          "verse": "10",
+          "text": "Qui égare les équitables sur la route du mal tombe dans son pourrissoir; les intègres possèdent le bien.",
+          "chapter": "28",
+          "name": "Proverbes 28:10"
+        },
+        {
+          "verse": "11",
+          "text": "L’homme riche est sage à ses yeux, mais l’indigent qui discerne le sonde.",
+          "chapter": "28",
+          "name": "Proverbes 28:11"
+        },
+        {
+          "verse": "12",
+          "text": "À l’exultation des justes, la splendeur est multiple; à la levée des criminels l’humain se recherche.",
+          "chapter": "28",
+          "name": "Proverbes 28:12"
+        },
+        {
+          "verse": "13",
+          "text": "Qui couvre ses carences ne triomphe pas. Qui les avoue et les rejette est matricié.",
+          "chapter": "28",
+          "name": "Proverbes 28:13"
+        },
+        {
+          "verse": "14",
+          "text": "En marche, l’humain qui tremble en permanence; qui durcit son cœur tombe dans le malheur.",
+          "chapter": "28",
+          "name": "Proverbes 28:14"
+        },
+        {
+          "verse": "15",
+          "text": "Le lion gronde, l’ours est avide; un criminel gouverne un peuple indigent.",
+          "chapter": "28",
+          "name": "Proverbes 28:15"
+        },
+        {
+          "verse": "16",
+          "text": "Un guide qui manque de discernement multiplie les extorsions; haineux du profit prolonge les jours.",
+          "chapter": "28",
+          "name": "Proverbes 28:16"
+        },
+        {
+          "verse": "17",
+          "text": "L’humain qui extorque le sang d’un être fuit jusqu’à la fosse; nul ne le soutient.",
+          "chapter": "28",
+          "name": "Proverbes 28:17"
+        },
+        {
+          "verse": "18",
+          "text": "Marcheur intègre est sauvé; le tortueux des-deux-routes tombe dans l’une.",
+          "chapter": "28",
+          "name": "Proverbes 28:18"
+        },
+        {
+          "verse": "19",
+          "text": "Qui travaille sa glèbe se rassasie de pain; qui poursuit les vanités se rassasie d’indigence.",
+          "chapter": "28",
+          "name": "Proverbes 28:19"
+        },
+        {
+          "verse": "20",
+          "text": "L’homme d’adhérences multiplie les bénédictions; hâtif à s’enrichir ne s’innocente pas.",
+          "chapter": "28",
+          "name": "Proverbes 28:20"
+        },
+        {
+          "verse": "21",
+          "text": "Reconnaître les faces n’est pas un bien; pour une miche de pain, un brave fait carence.",
+          "chapter": "28",
+          "name": "Proverbes 28:21"
+        },
+        {
+          "verse": "22",
+          "text": "L’homme au mauvais œil s’affole pour avoir de l’aisance, mais il ne sait pas que la pénurie vient vers lui.",
+          "chapter": "28",
+          "name": "Proverbes 28:22"
+        },
+        {
+          "verse": "23",
+          "text": "Qui admoneste l’humain ensuite trouve grâce plus que celui dont la langue glisse.",
+          "chapter": "28",
+          "name": "Proverbes 28:23"
+        },
+        {
+          "verse": "24",
+          "text": "Qui cambriole son père et sa mère et dit: «Ce n’est pas une carence!» est l’associé de l’homme destructeur.",
+          "chapter": "28",
+          "name": "Proverbes 28:24"
+        },
+        {
+          "verse": "25",
+          "text": "L’être envieux suscite la dispute; qui s’assure en IHVH-Adonaï prospère.",
+          "chapter": "28",
+          "name": "Proverbes 28:25"
+        },
+        {
+          "verse": "26",
+          "text": "Qui s’assure en son cœur est fou; qui va dans la sagesse échappe.",
+          "chapter": "28",
+          "name": "Proverbes 28:26"
+        },
+        {
+          "verse": "27",
+          "text": "Qui donne à l’indigent n’a pas de pénurie; qui en détourne ses yeux multiplie les malédictions.",
+          "chapter": "28",
+          "name": "Proverbes 28:27"
+        },
+        {
+          "verse": "28",
+          "text": "Au lever des criminels l’humain se cache; à leur perte, les justes se multiplient.",
+          "chapter": "28",
+          "name": "Proverbes 28:28"
+        }
+      ],
+      "name": "Proverbes 28"
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "L’homme qui, sous les exhortations, durcit sa nuque sera brisé; et pas de guérisseur!",
+          "chapter": "29",
+          "name": "Proverbes 29:1"
+        },
+        {
+          "verse": "2",
+          "text": "À la multiplication des justes, le peuple se réjouit; quand le criminel gouverne, le peuple gémit.",
+          "chapter": "29",
+          "name": "Proverbes 29:2"
+        },
+        {
+          "verse": "3",
+          "text": "L’homme qui aime la sagesse réjouit son père; pâtre de putains perd l’aisance.",
+          "chapter": "29",
+          "name": "Proverbes 29:3"
+        },
+        {
+          "verse": "4",
+          "text": "Le roi, par le jugement, consolide la terre; l’homme aux prélèvements la casse.",
+          "chapter": "29",
+          "name": "Proverbes 29:4"
+        },
+        {
+          "verse": "5",
+          "text": "Un brave flatte son compagnon: c’est un filet déployé sous ses pas.",
+          "chapter": "29",
+          "name": "Proverbes 29:5"
+        },
+        {
+          "verse": "6",
+          "text": "À carence de l’homme mauvais, piège. Le juste jubile et se réjouit.",
+          "chapter": "29",
+          "name": "Proverbes 29:6"
+        },
+        {
+          "verse": "7",
+          "text": "Le juste connaît le procès des indigents; le criminel ne discerne pas la connaissance.",
+          "chapter": "29",
+          "name": "Proverbes 29:7"
+        },
+        {
+          "verse": "8",
+          "text": "Les hommes de raillerie soufflent dans la cité; les sages détournent la narine.",
+          "chapter": "29",
+          "name": "Proverbes 29:8"
+        },
+        {
+          "verse": "9",
+          "text": "Un homme sage châtié avec un homme dément: irritation et ricanement sans répit.",
+          "chapter": "29",
+          "name": "Proverbes 29:9"
+        },
+        {
+          "verse": "10",
+          "text": "Les hommes de sang haïssent l’intègre; les équitables cherchent son être.",
+          "chapter": "29",
+          "name": "Proverbes 29:10"
+        },
+        {
+          "verse": "11",
+          "text": "Le fou fait sortir tout son souffle; le sage, en arrière, le tempère.",
+          "chapter": "29",
+          "name": "Proverbes 29:11"
+        },
+        {
+          "verse": "12",
+          "text": "Un gouverneur attentif à la parole du mensonge: tous ses officiers sont des criminels.",
+          "chapter": "29",
+          "name": "Proverbes 29:12"
+        },
+        {
+          "verse": "13",
+          "text": "Le nécessiteux et l’homme qui pressure se rencontrent: IHVH-Adonaï illumine les yeux des deux.",
+          "chapter": "29",
+          "name": "Proverbes 29:13"
+        },
+        {
+          "verse": "14",
+          "text": "Un roi juge avec vérité les indigents; son trône s’affermit à jamais.",
+          "chapter": "29",
+          "name": "Proverbes 29:14"
+        },
+        {
+          "verse": "15",
+          "text": "Bâton et exhortation donnent sagesse; l’adolescent abandonné fait blêmir sa mère.",
+          "chapter": "29",
+          "name": "Proverbes 29:15"
+        },
+        {
+          "verse": "16",
+          "text": "À la multiplication des criminels, la carence se multiplie. Les justes verront leur chute.",
+          "chapter": "29",
+          "name": "Proverbes 29:16"
+        },
+        {
+          "verse": "17",
+          "text": "Discipline ton fils: il te reposera, donnera jouissance à ton être.",
+          "chapter": "29",
+          "name": "Proverbes 29:17"
+        },
+        {
+          "verse": "18",
+          "text": "Sans vision le peuple se détraque. Le gardien de la tora est en marche.",
+          "chapter": "29",
+          "name": "Proverbes 29:18"
+        },
+        {
+          "verse": "19",
+          "text": "Le serviteur ne se discipline pas par des paroles; oui, il discerne, mais pas de réponse.",
+          "chapter": "29",
+          "name": "Proverbes 29:19"
+        },
+        {
+          "verse": "20",
+          "text": "Tu as contemplé l’homme impulsif en ses paroles: le fou a plus d’espoir que lui.",
+          "chapter": "29",
+          "name": "Proverbes 29:20"
+        },
+        {
+          "verse": "21",
+          "text": "Qui gâte, dès son adolescence, son serviteur, son avenir sera d’ingratitude.",
+          "chapter": "29",
+          "name": "Proverbes 29:21"
+        },
+        {
+          "verse": "22",
+          "text": "L’homme de narine suscite la dispute; maître de fièvre est multiple en carence.",
+          "chapter": "29",
+          "name": "Proverbes 29:22"
+        },
+        {
+          "verse": "23",
+          "text": "L’orgueil de l’humain l’abaisse; le souffle rabaissé étaye la gloire.",
+          "chapter": "29",
+          "name": "Proverbes 29:23"
+        },
+        {
+          "verse": "24",
+          "text": "Qui partage avec un voleur hait son être; il entend l’imprécation et ne la rapporte pas.",
+          "chapter": "29",
+          "name": "Proverbes 29:24"
+        },
+        {
+          "verse": "25",
+          "text": "Tressaillement de l’humain donne piège; qui assure en IHVH-Adonaï culmine.",
+          "chapter": "29",
+          "name": "Proverbes 29:25"
+        },
+        {
+          "verse": "26",
+          "text": "Multiples, ils recherchent les faces du gouverneur; mais de IHVH-Adonaï le jugement de l’homme.",
+          "chapter": "29",
+          "name": "Proverbes 29:26"
+        },
+        {
+          "verse": "27",
+          "text": "Homme de forfait, abomination des justes; équitable de la route, abomination du criminel.",
+          "chapter": "29",
+          "name": "Proverbes 29:27"
+        }
+      ],
+      "name": "Proverbes 29"
+    },
+    {
+      "chapter": 30,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Paroles d’Agour bîn Iaqè, la charge, harangue du brave à Itiél. À Itiél et Oukhal.",
+          "chapter": "30",
+          "name": "Proverbes 30:1"
+        },
+        {
+          "verse": "2",
+          "text": "Oui, moi-même, le plus stupide des hommes, je n’ai pas le discernement de l’humain.",
+          "chapter": "30",
+          "name": "Proverbes 30:2"
+        },
+        {
+          "verse": "3",
+          "text": "Je n’ai pas appris la sagesse: la pénétration des consacrés, la pénétrerai-je?",
+          "chapter": "30",
+          "name": "Proverbes 30:3"
+        },
+        {
+          "verse": "4",
+          "text": "Qui monte aux ciel en descend-il? Qui a réuni le souffle de ses poings? Qui a serré les eaux dans une tunique? Qui a érigé toutes les extrémités de la terre? Quel est son nom et quel est le nom de son fils? Oui, le pénètres-tu?",
+          "chapter": "30",
+          "name": "Proverbes 30:4"
+        },
+        {
+          "verse": "5",
+          "text": "Tout le dire d’Eloha est affiné; c’est un bouclier pour ceux qui s’abritent en lui.",
+          "chapter": "30",
+          "name": "Proverbes 30:5"
+        },
+        {
+          "verse": "6",
+          "text": "N’ajoute pas à ses paroles, qu’il ne t’exhorte et que tu ne sois trompé.",
+          "chapter": "30",
+          "name": "Proverbes 30:6"
+        },
+        {
+          "verse": "7",
+          "text": "Deux, je les ai demandés de toi, ne me les interdis pas avant que je meure.",
+          "chapter": "30",
+          "name": "Proverbes 30:7"
+        },
+        {
+          "verse": "8",
+          "text": "Éloigne de moi l’inanité, la parole de tromperie. Ne me donne ni l’indigence ni la richesse. Donne-moi pour viatique ma part de pain,",
+          "chapter": "30",
+          "name": "Proverbes 30:8"
+        },
+        {
+          "verse": "9",
+          "text": "que je ne me rassasie, renie et dise: «Qui est IHVH-Adonaï?»; que je ne sois indigent, ne vole et ne me saisisse du nom de mon Elohîms.",
+          "chapter": "30",
+          "name": "Proverbes 30:9"
+        },
+        {
+          "verse": "10",
+          "text": "Ne calomnie pas, devant un serviteur, son Adôn, qu’il ne te maudisse et que tu ne sois condamné.",
+          "chapter": "30",
+          "name": "Proverbes 30:10"
+        },
+        {
+          "verse": "11",
+          "text": "L’âge maudit son père, il ne bénit pas sa mère.",
+          "chapter": "30",
+          "name": "Proverbes 30:11"
+        },
+        {
+          "verse": "12",
+          "text": "L’âge pur est à ses yeux; mais de son excrément, il n’est pas lavé.",
+          "chapter": "30",
+          "name": "Proverbes 30:12"
+        },
+        {
+          "verse": "13",
+          "text": "L’âge comme ses yeux s’exaltent et se chargent ses paupières!",
+          "chapter": "30",
+          "name": "Proverbes 30:13"
+        },
+        {
+          "verse": "14",
+          "text": "L’âge a pour dents des épées, pour coutelas des molaires, pour manger les humiliés de la terre, les pauvres parmi les humains.",
+          "chapter": "30",
+          "name": "Proverbes 30:14"
+        },
+        {
+          "verse": "15",
+          "text": "‘Alouqa, la sangsue, a deux filles: «Aboule! Aboule!» Trois ne se rassasient pas, quatre ne disent pas: «Assez!»:",
+          "chapter": "30",
+          "name": "Proverbes 30:15"
+        },
+        {
+          "verse": "16",
+          "text": "le Shéol, la matrice stérile, la terre non rassasiée d’eaux et le feu ne disent jamais: «Assez!»",
+          "chapter": "30",
+          "name": "Proverbes 30:16"
+        },
+        {
+          "verse": "17",
+          "text": "Un œil se moque du père et méprise l’obéissance due à la mère: les corbeaux du torrent le crèveront, les fils de vautour le mangeront.",
+          "chapter": "30",
+          "name": "Proverbes 30:17"
+        },
+        {
+          "verse": "18",
+          "text": "Trois sont trop étonnants pour moi; et quatre, je ne les pénètre pas:",
+          "chapter": "30",
+          "name": "Proverbes 30:18"
+        },
+        {
+          "verse": "19",
+          "text": "la route du vautour dans les ciels, la route du serpent sur le roc, la route du navire au cœur de la mer, la route de l’homme dans la nubile.",
+          "chapter": "30",
+          "name": "Proverbes 30:19"
+        },
+        {
+          "verse": "20",
+          "text": "Ainsi la route de la femme adultère: elle mange, s’essuie la bouche et dit: «Je n’ai pas commis de fraude!»",
+          "chapter": "30",
+          "name": "Proverbes 30:20"
+        },
+        {
+          "verse": "21",
+          "text": "Sous trois, la terre s’irrite; sous quatre, elle ne peut se relever:",
+          "chapter": "30",
+          "name": "Proverbes 30:21"
+        },
+        {
+          "verse": "22",
+          "text": "sous l’esclave qui règne, et le veule assouvi de pain;",
+          "chapter": "30",
+          "name": "Proverbes 30:22"
+        },
+        {
+          "verse": "23",
+          "text": "sous la haïe qui est épousée, et la domestique qui hérite de sa dame.",
+          "chapter": "30",
+          "name": "Proverbes 30:23"
+        },
+        {
+          "verse": "24",
+          "text": "Quatre sont des petits de la terre, mais experts en sagesse:",
+          "chapter": "30",
+          "name": "Proverbes 30:24"
+        },
+        {
+          "verse": "25",
+          "text": "les fourmis, peuple sans rudesse, préparent en été leur pain;",
+          "chapter": "30",
+          "name": "Proverbes 30:25"
+        },
+        {
+          "verse": "26",
+          "text": "les damans, peuple sans vigueur, mettent leur maison dans le rocher;",
+          "chapter": "30",
+          "name": "Proverbes 30:26"
+        },
+        {
+          "verse": "27",
+          "text": "le criquet n’a pas de roi, mais il sort tout bardé;",
+          "chapter": "30",
+          "name": "Proverbes 30:27"
+        },
+        {
+          "verse": "28",
+          "text": "la tarente grimpe de ses pattes, et la voilà dans les palais du roi.",
+          "chapter": "30",
+          "name": "Proverbes 30:28"
+        },
+        {
+          "verse": "29",
+          "text": "Trois excellent au défilé, quatre excellent à la marche:",
+          "chapter": "30",
+          "name": "Proverbes 30:29"
+        },
+        {
+          "verse": "30",
+          "text": "le lion, héros des bêtes; il ne se détourne devant rien;",
+          "chapter": "30",
+          "name": "Proverbes 30:30"
+        },
+        {
+          "verse": "31",
+          "text": "le lévrier aux deux hanches, ou le bouc; et le roi, invincible avec lui.",
+          "chapter": "30",
+          "name": "Proverbes 30:31"
+        },
+        {
+          "verse": "32",
+          "text": "Main à la bouche, si tu déchois en te surfaisant, ou si tu conspires.",
+          "chapter": "30",
+          "name": "Proverbes 30:32"
+        },
+        {
+          "verse": "33",
+          "text": "Oui, le jus du lait fait sortir le beurre; le jus de la narine fait sortir le sang; et le jus de deux narines fait sortir la dispute.",
+          "chapter": "30",
+          "name": "Proverbes 30:33"
+        }
+      ],
+      "name": "Proverbes 30"
+    },
+    {
+      "chapter": 31,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Paroles de Lemouél, roi; charge par laquelle sa mère le discipline.",
+          "chapter": "31",
+          "name": "Proverbes 31:1"
+        },
+        {
+          "verse": "2",
+          "text": "Non, mon fils, non, fils de mon ventre! non, fils de mes vœux!",
+          "chapter": "31",
+          "name": "Proverbes 31:2"
+        },
+        {
+          "verse": "3",
+          "text": "Ne donne pas aux femmes ta vigueur, tes routes à celles qui éliminent les rois.",
+          "chapter": "31",
+          "name": "Proverbes 31:3"
+        },
+        {
+          "verse": "4",
+          "text": "Ce n’est pas aux rois, Lemouél, ce n’est pas aux rois de boire du vin, ni aux potentats, de la liqueur,",
+          "chapter": "31",
+          "name": "Proverbes 31:4"
+        },
+        {
+          "verse": "5",
+          "text": "qu’il ne boive, n’oublie la loi et tronque le procès de tous les fils de l’humiliation.",
+          "chapter": "31",
+          "name": "Proverbes 31:5"
+        },
+        {
+          "verse": "6",
+          "text": "Donnez de la liqueur au perdant, du vin aux êtres amers!",
+          "chapter": "31",
+          "name": "Proverbes 31:6"
+        },
+        {
+          "verse": "7",
+          "text": "Il boira et oubliera son indigence; il ne se souviendra plus de son labeur.",
+          "chapter": "31",
+          "name": "Proverbes 31:7"
+        },
+        {
+          "verse": "8",
+          "text": "Ouvre ta bouche pour le muet, au procès de tous les fugitifs.",
+          "chapter": "31",
+          "name": "Proverbes 31:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ouvre ta bouche, juge avec justice, juge l’humilié et le pauvre;",
+          "chapter": "31",
+          "name": "Proverbes 31:9"
+        },
+        {
+          "verse": "10",
+          "text": "א Qui trouve une femme de valeur? Son prix est plus grand que celui des perles.",
+          "chapter": "31",
+          "name": "Proverbes 31:10"
+        },
+        {
+          "verse": "11",
+          "text": "ב Le cœur de son époux se sécurise en elle; le butin ne manque pas.",
+          "chapter": "31",
+          "name": "Proverbes 31:11"
+        },
+        {
+          "verse": "12",
+          "text": "ג Elle le rétribue de bien, non de mal, tous les jours de sa vie.",
+          "chapter": "31",
+          "name": "Proverbes 31:12"
+        },
+        {
+          "verse": "13",
+          "text": "ד Elle cherche de la laine, du lin, et fait ce que désirent ses paumes.",
+          "chapter": "31",
+          "name": "Proverbes 31:13"
+        },
+        {
+          "verse": "14",
+          "text": "ה Elle est comme les navires marchands et fait venir son pain de loin.",
+          "chapter": "31",
+          "name": "Proverbes 31:14"
+        },
+        {
+          "verse": "15",
+          "text": "ו Elle se lève encore de nuit et donne provende à sa maison, une part à ses adolescentes.",
+          "chapter": "31",
+          "name": "Proverbes 31:15"
+        },
+        {
+          "verse": "16",
+          "text": "ז Elle prémédite d’avoir un champ et le prend; au fruit de ses paumes, elle plante un vignoble.",
+          "chapter": "31",
+          "name": "Proverbes 31:16"
+        },
+        {
+          "verse": "17",
+          "text": "ח Elle ceint d’énergie ses hanches et affermit ses bras.",
+          "chapter": "31",
+          "name": "Proverbes 31:17"
+        },
+        {
+          "verse": "18",
+          "text": "ט Elle goûte, oui, le bien de son négoce; sa lampe ne s’éteint pas la nuit.",
+          "chapter": "31",
+          "name": "Proverbes 31:18"
+        },
+        {
+          "verse": "19",
+          "text": "י Elle lance ses mains sur la quenouille, et ses paumes saisissent le fuseau.",
+          "chapter": "31",
+          "name": "Proverbes 31:19"
+        },
+        {
+          "verse": "20",
+          "text": "כ Elle déploie sa paume pour l’humilié, et sa main s’élance vers le pauvre.",
+          "chapter": "31",
+          "name": "Proverbes 31:20"
+        },
+        {
+          "verse": "21",
+          "text": "ל Elle ne frémit pas de la neige pour sa maison, oui, toute sa maison est vêtue d’écarlate.",
+          "chapter": "31",
+          "name": "Proverbes 31:21"
+        },
+        {
+          "verse": "22",
+          "text": "מ Elle se fait des couvertures; son vêtement est de lin et de pourpre.",
+          "chapter": "31",
+          "name": "Proverbes 31:22"
+        },
+        {
+          "verse": "23",
+          "text": "נ Son époux est connu aux portes, quand il siège avec les anciens de la terre.",
+          "chapter": "31",
+          "name": "Proverbes 31:23"
+        },
+        {
+          "verse": "24",
+          "text": "ס Elle fait du drap et le vend, elle donne une ceinture au marchand.",
+          "chapter": "31",
+          "name": "Proverbes 31:24"
+        },
+        {
+          "verse": "25",
+          "text": "ע D’énergie, de magnificence vêtue, elle se rit du dernier jour.",
+          "chapter": "31",
+          "name": "Proverbes 31:25"
+        },
+        {
+          "verse": "26",
+          "text": "פ Elle ouvre sa bouche avec sagesse, la tora de chérissement sur sa langue.",
+          "chapter": "31",
+          "name": "Proverbes 31:26"
+        },
+        {
+          "verse": "27",
+          "text": "צ Elle guette les allées de sa maison, et ne mange pas de pain de paresse.",
+          "chapter": "31",
+          "name": "Proverbes 31:27"
+        },
+        {
+          "verse": "28",
+          "text": "ק Ses fils se lèvent et la félicitent, son époux la louange:",
+          "chapter": "31",
+          "name": "Proverbes 31:28"
+        },
+        {
+          "verse": "29",
+          "text": "ר «De multiples font valeur, mais toi, tu les surpasses toutes!»",
+          "chapter": "31",
+          "name": "Proverbes 31:29"
+        },
+        {
+          "verse": "30",
+          "text": "ש Mensonge la grâce, fumée la beauté! Une femme qui frémit de IHVH-Adonaï, elle-même est louangée.",
+          "chapter": "31",
+          "name": "Proverbes 31:30"
+        },
+        {
+          "verse": "31",
+          "text": "ת Donnez-lui le fruit de ses mains, ses œuvres la louangent aux portes.",
+          "chapter": "31",
+          "name": "Proverbes 31:31"
+        }
+      ],
+      "name": "Proverbes 31"
+    }
+  ]
+}

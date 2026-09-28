@@ -1,0 +1,942 @@
+{
+  "translation": "Chouraqui",
+  "abbreviation": "CHO",
+  "lang": "fr",
+  "language": "français",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 48,
+  "name": "Galates",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Paulos, envoyé, non des hommes, ni par un homme, mais par Iéshoua‘, le messie, et par Elohîms, le père, celui qui l’a réveillé d’entre les morts,",
+          "chapter": "1",
+          "name": "Galates 1:1"
+        },
+        {
+          "verse": "2",
+          "text": "et tous les frères qui sont avec moi, aux communautés de la Galatie,",
+          "chapter": "1",
+          "name": "Galates 1:2"
+        },
+        {
+          "verse": "3",
+          "text": "grâce à vous et paix, de par Elohîms, notre père, et l’Adôn Iéshoua‘, le messie,",
+          "chapter": "1",
+          "name": "Galates 1:3"
+        },
+        {
+          "verse": "4",
+          "text": "qui s’est donné pour nos fautes, afin de nous délivrer de l’ère actuelle, l a criminelle, selon le vouloir d’Elohîms, notre père.",
+          "chapter": "1",
+          "name": "Galates 1:4"
+        },
+        {
+          "verse": "5",
+          "text": "À lui la gloire pour les pérennités de pérennités. Amén.",
+          "chapter": "1",
+          "name": "Galates 1:5"
+        },
+        {
+          "verse": "6",
+          "text": "Je m’étonne que, si vite, vous vous détourniez de celui qui vous a appelés dans le chérissement du messie, pour une autre annonce,",
+          "chapter": "1",
+          "name": "Galates 1:6"
+        },
+        {
+          "verse": "7",
+          "text": "mais qui n’en est pas une autre! Seulement, certains vous troublent et veulent pervertir l’annonce du messie.",
+          "chapter": "1",
+          "name": "Galates 1:7"
+        },
+        {
+          "verse": "8",
+          "text": "Mais même si nous ou un messager du ciel, nous vous annoncions une autre annonce que celle que nous vous avons annoncée, qu’il soit interdit!",
+          "chapter": "1",
+          "name": "Galates 1:8"
+        },
+        {
+          "verse": "9",
+          "text": "Nous l’avons déjà dit, et je le redis maintenant: si quelqu’un vous annonce autrement que ce que vous avez reçu, qu’il soit interdit!",
+          "chapter": "1",
+          "name": "Galates 1:9"
+        },
+        {
+          "verse": "10",
+          "text": "Maintenant, dois-je, certes, convaincre des hommes, ou bien Elohîms? Dois-je chercher à plaire aux hommes? Si je plaisais encore aux hommes, je ne serais pas un serviteur du messie.",
+          "chapter": "1",
+          "name": "Galates 1:10"
+        },
+        {
+          "verse": "11",
+          "text": "Je vous le fais connaître, frères, l’annonce que je vous annonce n’est pas selon un homme.",
+          "chapter": "1",
+          "name": "Galates 1:11"
+        },
+        {
+          "verse": "12",
+          "text": "Non, je ne l’ai pas reçue ou apprise d’un homme, mais par le découvrement de Iéshoua‘, le messie.",
+          "chapter": "1",
+          "name": "Galates 1:12"
+        },
+        {
+          "verse": "13",
+          "text": "Oui, vous avez entendu ce qu’était ma conduite, jadis, dans le judaïsme: avec excès, j’ai persécuté la communauté d’Elohîms, je l’ai dévastée.",
+          "chapter": "1",
+          "name": "Galates 1:13"
+        },
+        {
+          "verse": "14",
+          "text": "Je progressais dans le judaïsme davantage que beaucoup de mes contemporains en ma race, abondant de zèle pour mes traditions ancestrales.",
+          "chapter": "1",
+          "name": "Galates 1:14"
+        },
+        {
+          "verse": "15",
+          "text": "Alors il a paru bon à celui qui m’a tiré du ventre de ma mère, et m’a appelé, par son chérissement,",
+          "chapter": "1",
+          "name": "Galates 1:15"
+        },
+        {
+          "verse": "16",
+          "text": "de découvrir en moi son fils, afin que je l’annonce aux goîm. Immédiatement, sans prendre conseil de la chair ni du sang,",
+          "chapter": "1",
+          "name": "Galates 1:16"
+        },
+        {
+          "verse": "17",
+          "text": "sans même monter à Ieroushalaîm chez ceux qui avaient été envoyés avant moi, je suis parti en Arabie, puis je suis revenu de nouveau à Damas.",
+          "chapter": "1",
+          "name": "Galates 1:17"
+        },
+        {
+          "verse": "18",
+          "text": "Ensuite, après trois ans, je suis monté à Ieroushalaîm pour visiter Kèpha; j’ai demeuré quinze jours auprès de lui.",
+          "chapter": "1",
+          "name": "Galates 1:18"
+        },
+        {
+          "verse": "19",
+          "text": "Non, je n’ai vu aucun autre envoyé, excepté Ia‘acob, le frère de l’Adôn.",
+          "chapter": "1",
+          "name": "Galates 1:19"
+        },
+        {
+          "verse": "20",
+          "text": "En ce que je vous écris, voici, en face d’Elohîms, je ne mens pas.",
+          "chapter": "1",
+          "name": "Galates 1:20"
+        },
+        {
+          "verse": "21",
+          "text": "Ensuite, je suis allé dans les régions de Syrie et de Cilicie.",
+          "chapter": "1",
+          "name": "Galates 1:21"
+        },
+        {
+          "verse": "22",
+          "text": "J’étais devenu un inconnu pour les communautés du messie en Judée.",
+          "chapter": "1",
+          "name": "Galates 1:22"
+        },
+        {
+          "verse": "23",
+          "text": "Elles avaient seulement entendu dire que «notre persécuteur de jadis annonçait maintenant l’adhérence qu’il détruisait jadis».",
+          "chapter": "1",
+          "name": "Galates 1:23"
+        },
+        {
+          "verse": "24",
+          "text": "Et elles glorifiaient Elohîms à mon propos.",
+          "chapter": "1",
+          "name": "Galates 1:24"
+        }
+      ],
+      "name": "Galates 1"
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ensuite, au bout de quatorze ans, je suis monté de nouveau à Ieroushalaîm, avec Bar-Naba et Titus, que j’avais pris avec moi.",
+          "chapter": "2",
+          "name": "Galates 2:1"
+        },
+        {
+          "verse": "2",
+          "text": "J’y suis monté selon le découvrement, et j’ai mis en face d’eux l’annonce que je crie parmi les goîm, mais en privé, devant les plus importants d’entre eux, de peur que je ne coure ou n’aie couru en vain.",
+          "chapter": "2",
+          "name": "Galates 2:2"
+        },
+        {
+          "verse": "3",
+          "text": "Mais Titus, qui est avec moi, un Hellène, n’a pas été obligé de se faire circoncire.",
+          "chapter": "2",
+          "name": "Galates 2:3"
+        },
+        {
+          "verse": "4",
+          "text": "Cela, à cause de faux frères, des intrus, qui se sont introduits pour épier la liberté que nous avons dans le messie Iéshoua‘ et nous asservir.",
+          "chapter": "2",
+          "name": "Galates 2:4"
+        },
+        {
+          "verse": "5",
+          "text": "Mais nous n’avons pas cédé par soumission à ceux-là, pas même pour une heure, afin que la vérité de l’annonce demeure pour vous...",
+          "chapter": "2",
+          "name": "Galates 2:5"
+        },
+        {
+          "verse": "6",
+          "text": "Et pour ceux qui paraissaient les plus importants (ce qu’ils étaient alors ne m’importe en rien: Elohîms ne fait pas acception d’homme), ceux-là ne m’ont rien imposé.",
+          "chapter": "2",
+          "name": "Galates 2:6"
+        },
+        {
+          "verse": "7",
+          "text": "Au contraire, ils ont vu que j’avais reçu en charge l’annonce pour le prépuce, comme Petros pour la circoncision.",
+          "chapter": "2",
+          "name": "Galates 2:7"
+        },
+        {
+          "verse": "8",
+          "text": "Oui, celui qui avait agi en Petros pour l’envoi à la circoncision agit en moi aussi pour les nations.",
+          "chapter": "2",
+          "name": "Galates 2:8"
+        },
+        {
+          "verse": "9",
+          "text": "Connaissant la grâce à moi donnée, Ia‘acob, Kèpha et Iohanân, qui paraissaient être des colonnes, m’ont donné, à moi et à Bar-Naba, les mains droites en communion, nous vers les nations, eux vers la circoncision.",
+          "chapter": "2",
+          "name": "Galates 2:9"
+        },
+        {
+          "verse": "10",
+          "text": "Nous n’avions qu’à nous souvenir des pauvres, ce que je me suis empressé de faire aussi.",
+          "chapter": "2",
+          "name": "Galates 2:10"
+        },
+        {
+          "verse": "11",
+          "text": "Mais quand Kèpha est venu à Antioche, je me suis opposé à lui en face, parce qu’il était condamnable.",
+          "chapter": "2",
+          "name": "Galates 2:11"
+        },
+        {
+          "verse": "12",
+          "text": "Avant que ceux de Ia‘acob ne soient venus, il mangeait avec les goîm. Mais quand ils sont venus, il s’est retiré et séparé, en frémissant de ceux de la circoncision.",
+          "chapter": "2",
+          "name": "Galates 2:12"
+        },
+        {
+          "verse": "13",
+          "text": "Les autres Iehoudîm se mirent aussi à feindre avec lui, de sorte que Bar-Naba a été entraîné par leur feinte.",
+          "chapter": "2",
+          "name": "Galates 2:13"
+        },
+        {
+          "verse": "14",
+          "text": "Mais quand j’ai vu qu’ils ne marchaient pas droit selon la vérité de l’annonce, j’ai dit à Kèpha en face de tous: «Si toi, qui es un Iehoudi, tu vis comme les goîm et non comme les Iehoudîm, comment peux-tu obliger les goîm à vivre en Iehoudîm?»",
+          "chapter": "2",
+          "name": "Galates 2:14"
+        },
+        {
+          "verse": "15",
+          "text": "Nous, Iehoudîm par nature, et non des goîm fautifs,",
+          "chapter": "2",
+          "name": "Galates 2:15"
+        },
+        {
+          "verse": "16",
+          "text": "nous savons que l’homme n’est pas justifié par les œuvres de la tora, mais par l’adhérence au messie Iéshoua‘. Nous, nous avons adhéré au messie Iéshoua‘, pour être justifiés par l’adhérence au messie et non par les œuvres de la tora: oui, par les œuvres de la tora aucune chair ne sera justifiée.",
+          "chapter": "2",
+          "name": "Galates 2:16"
+        },
+        {
+          "verse": "17",
+          "text": "Si, cherchant à être justifiés dans le messie, nous sommes aussi trouvés fautifs, alors le messie est-il un servant du mal? Certes non!",
+          "chapter": "2",
+          "name": "Galates 2:17"
+        },
+        {
+          "verse": "18",
+          "text": "Oui, si je reconstruis ce que j’ai détruit, je me constitue en transgresseur.",
+          "chapter": "2",
+          "name": "Galates 2:18"
+        },
+        {
+          "verse": "19",
+          "text": "Oui, par la tora je suis mort à la tora, afin de pouvoir vivre pour Elohîms. Avec le messie, j’ai été crucifié,",
+          "chapter": "2",
+          "name": "Galates 2:19"
+        },
+        {
+          "verse": "20",
+          "text": "et je ne vis plus moi-même, mais le messie vit en moi. Ce que je vis maintenant dans la chair, je le vis en adhérence à Bèn Elohîms, lui qui m’a aimé et s’est donné lui-même pour moi.",
+          "chapter": "2",
+          "name": "Galates 2:20"
+        },
+        {
+          "verse": "21",
+          "text": "Je ne rejette pas le chérissement d’Elohîms; mais si la justice vient par la tora, alors le messie est mort pour rien.",
+          "chapter": "2",
+          "name": "Galates 2:21"
+        }
+      ],
+      "name": "Galates 2"
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ô Galates insensés! Qui vous a ensorcelés, alors que Iéshoua‘, le messie, a été dépeint d’avance sous vos yeux crucifié?",
+          "chapter": "3",
+          "name": "Galates 3:1"
+        },
+        {
+          "verse": "2",
+          "text": "Je veux apprendre seulement cela de vous: avez-vous reçu le souffle par les œuvres de la tora, ou par l’écoute de l’adhérence?",
+          "chapter": "3",
+          "name": "Galates 3:2"
+        },
+        {
+          "verse": "3",
+          "text": "Êtes-vous ainsi insensés? Vous avez commencé par le souffle; maintenant, voulez-vous finir par la chair?",
+          "chapter": "3",
+          "name": "Galates 3:3"
+        },
+        {
+          "verse": "4",
+          "text": "Auriez-vous souffert tout cela en vain? Du moins, si c’était en vain!",
+          "chapter": "3",
+          "name": "Galates 3:4"
+        },
+        {
+          "verse": "5",
+          "text": "Donc, celui qui vous dispense le souffle et opère des puissances parmi vous, est-ce par les œuvres de la tora ou par l’écoute de l’adhérence?",
+          "chapter": "3",
+          "name": "Galates 3:5"
+        },
+        {
+          "verse": "6",
+          "text": "Comme Abrahâm a adhéré à Elohîms, ce qui lui fut compté pour justification,",
+          "chapter": "3",
+          "name": "Galates 3:6"
+        },
+        {
+          "verse": "7",
+          "text": "sachez donc que ceux de l’adhérence sont les fils d’Abrahâm.",
+          "chapter": "3",
+          "name": "Galates 3:7"
+        },
+        {
+          "verse": "8",
+          "text": "L’Écrit, prévoyant qu’Elohîms peut justifier les nations par l’adhérence, a d’avance annoncé à Abrahâm que «toutes les nations de la terre seront bénies en toi».",
+          "chapter": "3",
+          "name": "Galates 3:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ainsi, ceux de l’adhérence sont bénis avec Abrahâm, adhérant.",
+          "chapter": "3",
+          "name": "Galates 3:9"
+        },
+        {
+          "verse": "10",
+          "text": "Car tous ceux des œuvres de la tora sont sous une imprécation. Oui, il est écrit pour cela: «Est honni qui ne persévère pas dans toutes les paroles écrites dans le volume de cette tora pour les appliquer.»",
+          "chapter": "3",
+          "name": "Galates 3:10"
+        },
+        {
+          "verse": "11",
+          "text": "Que maintenant par la tora personne n’est justifié en face d’Elohîms, c’est clair, parce que «le juste vit par son adhérence».",
+          "chapter": "3",
+          "name": "Galates 3:11"
+        },
+        {
+          "verse": "12",
+          "text": "Mais la tora ne procède pas de l’adhérence, mais: «celui qui l’accomplit en vit.»",
+          "chapter": "3",
+          "name": "Galates 3:12"
+        },
+        {
+          "verse": "13",
+          "text": "Le messie nous a rachetés de l’imprécation de la tora, en devenant à cause de nous imprécation. Il est écrit: «Honni, le pendu au bois»,",
+          "chapter": "3",
+          "name": "Galates 3:13"
+        },
+        {
+          "verse": "14",
+          "text": "afin que la bénédiction d’Abrahâm parvienne aux nations par Iéshoua‘ le messie, pour que nous recevions la promesse du souffle par l’adhérence.",
+          "chapter": "3",
+          "name": "Galates 3:14"
+        },
+        {
+          "verse": "15",
+          "text": "Frères, je parle en homme: personne ne rejette ou ne fait des additions à un pacte humain, une fois signé.",
+          "chapter": "3",
+          "name": "Galates 3:15"
+        },
+        {
+          "verse": "16",
+          "text": "Or les promesses ont été énoncées pour Abrahâm et sa semence. Il n’est pas dit: «pour ses semences», comme s’il s’agissait de plusieurs, mais d’une seule: «pour ta semence», qui est le messie.",
+          "chapter": "3",
+          "name": "Galates 3:16"
+        },
+        {
+          "verse": "17",
+          "text": "Je dis cela: la tora est née quatre cent trente ans après un pacte ratifié par Elohîms. Elle ne l’annule pas, ce qui serait abolir la promesse.",
+          "chapter": "3",
+          "name": "Galates 3:17"
+        },
+        {
+          "verse": "18",
+          "text": "Oui, si l’héritage vient par la tora, ce n’est plus par la promesse. Mais Elohîms a fait grâce à Abrahâm par la promesse.",
+          "chapter": "3",
+          "name": "Galates 3:18"
+        },
+        {
+          "verse": "19",
+          "text": "Alors, pourquoi la tora? Elle a été ajoutée en raison des transgressions jusqu’à ce que vienne la semence de la promesse. Elle a été commandée par les messagers en main d’un médiateur.",
+          "chapter": "3",
+          "name": "Galates 3:19"
+        },
+        {
+          "verse": "20",
+          "text": "Or le médiateur n’est pas d’un seul, mais Elohîms est un.",
+          "chapter": "3",
+          "name": "Galates 3:20"
+        },
+        {
+          "verse": "21",
+          "text": "Alors, la tora serait-elle contre les promesses d’Elohîms? Certes non! Oui, s’il avait été donné une tora capable de faire vivre, alors la justice viendrait réellement de la tora.",
+          "chapter": "3",
+          "name": "Galates 3:21"
+        },
+        {
+          "verse": "22",
+          "text": "Mais l’Écrit a tout enfermé sous la faute, pour que, par l’adhérence à Iéshoua‘ le messie, la promesse soit donnée à ceux de l’adhérence.",
+          "chapter": "3",
+          "name": "Galates 3:22"
+        },
+        {
+          "verse": "23",
+          "text": "Avant que vienne l’adhérence, nous étions enfermés sous la garde de la tora, jusqu’à ce que l’adhérence soit découverte.",
+          "chapter": "3",
+          "name": "Galates 3:23"
+        },
+        {
+          "verse": "24",
+          "text": "Ainsi, la tora a été notre pédagogue vers le messie, pour que, par l’adhérence, nous soyons justifiés.",
+          "chapter": "3",
+          "name": "Galates 3:24"
+        },
+        {
+          "verse": "25",
+          "text": "Mais l’adhérence venue, nous ne sommes plus soumis à un pédagogue.",
+          "chapter": "3",
+          "name": "Galates 3:25"
+        },
+        {
+          "verse": "26",
+          "text": "Oui, vous êtes tous fils d’Elohîms par l’adhérence au messie Iéshoua‘.",
+          "chapter": "3",
+          "name": "Galates 3:26"
+        },
+        {
+          "verse": "27",
+          "text": "Oui, aussi nombreux que vous avez été immergés dans le messie, vous avez revêtu le messie,",
+          "chapter": "3",
+          "name": "Galates 3:27"
+        },
+        {
+          "verse": "28",
+          "text": "car il n’est ni Iehoudi ni Hellène, ni esclave ni homme libre, ni mâle ni femelle: oui, vous tous vous êtes un dans le messie Iéshoua‘.",
+          "chapter": "3",
+          "name": "Galates 3:28"
+        },
+        {
+          "verse": "29",
+          "text": "Mais si vous êtes du messie, vous êtes donc de la semence d’Abrahâm, héritiers, selon la promesse.",
+          "chapter": "3",
+          "name": "Galates 3:29"
+        }
+      ],
+      "name": "Galates 3"
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Or je dis: aussi longtemps que l’héritier est un enfant, il ne diffère en rien d’un esclave, bien qu’il soit le maître de tout.",
+          "chapter": "4",
+          "name": "Galates 4:1"
+        },
+        {
+          "verse": "2",
+          "text": "Il est soumis à des tuteurs et à des intendants, jusqu’au terme fixé d’avance par le père.",
+          "chapter": "4",
+          "name": "Galates 4:2"
+        },
+        {
+          "verse": "3",
+          "text": "Nous, de même, quand nous étions enfants, nous étions asservis aux éléments de l’univers.",
+          "chapter": "4",
+          "name": "Galates 4:3"
+        },
+        {
+          "verse": "4",
+          "text": "Mais quand est venue la plénitude du temps, Elohîms a envoyé son fils, né d’une femme, né sous la tora,",
+          "chapter": "4",
+          "name": "Galates 4:4"
+        },
+        {
+          "verse": "5",
+          "text": "pour racheter ceux qui étaient sous la tora, afin que nous recevions la filiation.",
+          "chapter": "4",
+          "name": "Galates 4:5"
+        },
+        {
+          "verse": "6",
+          "text": "Et puisque vous êtes des fils, Elohîms a envoyé le souffle de son fils en nos cœurs, criant: «Abba, Père».",
+          "chapter": "4",
+          "name": "Galates 4:6"
+        },
+        {
+          "verse": "7",
+          "text": "De sorte que tu n’es plus esclave, mais fils, et comme fils, héritier, aussi, par Elohîms.",
+          "chapter": "4",
+          "name": "Galates 4:7"
+        },
+        {
+          "verse": "8",
+          "text": "Mais alors, ne pénétrant pas Elohîms, vous étiez asservis à ceux qui, par nature, ne sont pas des Elohîms.",
+          "chapter": "4",
+          "name": "Galates 4:8"
+        },
+        {
+          "verse": "9",
+          "text": "Maintenant, pénétrant Elohîms, ou plutôt, étant pénétrés par Elohîms, comment retournez-vous de nouveau à des éléments infirmes et indigents auxquels vous voulez de nouveau encore vous asservir?",
+          "chapter": "4",
+          "name": "Galates 4:9"
+        },
+        {
+          "verse": "10",
+          "text": "Vous observez les jours, les mois, les saisons et les années.",
+          "chapter": "4",
+          "name": "Galates 4:10"
+        },
+        {
+          "verse": "11",
+          "text": "Je frémis pour vous d’avoir moi-même travaillé en vain parmi vous.",
+          "chapter": "4",
+          "name": "Galates 4:11"
+        },
+        {
+          "verse": "12",
+          "text": "Devenez comme moi, puisque moi aussi je suis comme vous, frères; je vous en implore, vous qui ne m’avez en rien injustement traité.",
+          "chapter": "4",
+          "name": "Galates 4:12"
+        },
+        {
+          "verse": "13",
+          "text": "Vous le savez: à cause d’une infirmité de la chair je vous ai, pour la première fois, fait l’annonce;",
+          "chapter": "4",
+          "name": "Galates 4:13"
+        },
+        {
+          "verse": "14",
+          "text": "et, en votre épreuve dans ma chair, vous n’avez pas eu de mépris ni craché, mais vous m’avez accueilli comme un messager d’Elohîms, comme Iéshoua‘, le messie.",
+          "chapter": "4",
+          "name": "Galates 4:14"
+        },
+        {
+          "verse": "15",
+          "text": "Où est donc votre entrain? Oui, je l’atteste pour vous: si vous l’aviez pu, vous vous seriez arraché les yeux pour me les donner.",
+          "chapter": "4",
+          "name": "Galates 4:15"
+        },
+        {
+          "verse": "16",
+          "text": "Je suis donc devenu votre ennemi pour vous avoir dit la vérité!",
+          "chapter": "4",
+          "name": "Galates 4:16"
+        },
+        {
+          "verse": "17",
+          "text": "Ils sont zélés envers vous, mais pas en bien, voulant nous exclure afin que vous ayez du zèle pour eux.",
+          "chapter": "4",
+          "name": "Galates 4:17"
+        },
+        {
+          "verse": "18",
+          "text": "Certes, il est bien d’être toujours zélés pour le bien, et pas seulement quand je suis présent avec vous,",
+          "chapter": "4",
+          "name": "Galates 4:18"
+        },
+        {
+          "verse": "19",
+          "text": "mes enfants, dont j’accouche à nouveau, jusqu’à ce que le messie soit formé en vous.",
+          "chapter": "4",
+          "name": "Galates 4:19"
+        },
+        {
+          "verse": "20",
+          "text": "Je voudrais être présent près de vous en ce moment pour modifier ma voix; oui, je suis perplexe à votre égard.",
+          "chapter": "4",
+          "name": "Galates 4:20"
+        },
+        {
+          "verse": "21",
+          "text": "Dites-moi, vous qui voulez être sous la tora, n’entendez-vous pas la tora?",
+          "chapter": "4",
+          "name": "Galates 4:21"
+        },
+        {
+          "verse": "22",
+          "text": "Il est écrit qu’Abrahâm eut deux fils, un de la servante, et un de la femme libre, par la promesse.",
+          "chapter": "4",
+          "name": "Galates 4:22"
+        },
+        {
+          "verse": "23",
+          "text": "Or, celui de la servante est né selon la chair, et celui de la femme libre, de la promesse.",
+          "chapter": "4",
+          "name": "Galates 4:23"
+        },
+        {
+          "verse": "24",
+          "text": "C’est une allégorie: oui, ce sont les deux pactes. L’un, du mont Sinaï, a enfanté pour l’esclavage: c’est Agar.",
+          "chapter": "4",
+          "name": "Galates 4:24"
+        },
+        {
+          "verse": "25",
+          "text": "Oui, Agar, c’est le Sinaï, en Arabie. Elle correspond à l’actuelle Ieroushalaîm, car elle est asservie avec ses enfants.",
+          "chapter": "4",
+          "name": "Galates 4:25"
+        },
+        {
+          "verse": "26",
+          "text": "Mais la Ieroushalaîm d’en haut est libre; elle est notre mère.",
+          "chapter": "4",
+          "name": "Galates 4:26"
+        },
+        {
+          "verse": "27",
+          "text": "Oui, il est écrit: «Chante, stérile, qui n’a pas enfanté. Éclate, chante et crie, toi qui n’as pas accouché. Oui, les enfants de la désertée sont plus nombreux que ceux de l’épouse.»",
+          "chapter": "4",
+          "name": "Galates 4:27"
+        },
+        {
+          "verse": "28",
+          "text": "Or, vous-mêmes, frères, vous êtes les enfants de la promesse, selon Is’hac.",
+          "chapter": "4",
+          "name": "Galates 4:28"
+        },
+        {
+          "verse": "29",
+          "text": "Mais comme alors celui qui naquit selon la chair persécutait celui du souffle, il en est ainsi maintenant aussi.",
+          "chapter": "4",
+          "name": "Galates 4:29"
+        },
+        {
+          "verse": "30",
+          "text": "Mais que dit l’écrit? «Chasse la servante et son fils! Non, certes, le fils de la servante n’héritera pas avec le fils de la femme libre.»",
+          "chapter": "4",
+          "name": "Galates 4:30"
+        },
+        {
+          "verse": "31",
+          "text": "Ainsi, frères, nous ne sommes pas les enfants de la servante, mais de la femme libre.",
+          "chapter": "4",
+          "name": "Galates 4:31"
+        }
+      ],
+      "name": "Galates 4"
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Le messie nous a libérés pour la liberté, donc tenez ferme et ne vous enfermez pas de nouveau sous le joug d’esclavage.",
+          "chapter": "5",
+          "name": "Galates 5:1"
+        },
+        {
+          "verse": "2",
+          "text": "Voici, moi, Paulos, je vous le dis: si vous vous faites circoncire, le messie ne vous servira en rien.",
+          "chapter": "5",
+          "name": "Galates 5:2"
+        },
+        {
+          "verse": "3",
+          "text": "J’atteste encore à tout homme qui se fait circoncire qu’il s’oblige d’accomplir toute la tora.",
+          "chapter": "5",
+          "name": "Galates 5:3"
+        },
+        {
+          "verse": "4",
+          "text": "Vous avez été affranchis par le messie, vous qui vous justifiez par la tora, en étant déchus du chérissement.",
+          "chapter": "5",
+          "name": "Galates 5:4"
+        },
+        {
+          "verse": "5",
+          "text": "Oui, nous, c’est par le souffle, en vertu de l’adhérence, que nous attendons ardemment l’espoir de la justification.",
+          "chapter": "5",
+          "name": "Galates 5:5"
+        },
+        {
+          "verse": "6",
+          "text": "Oui, dans le messie Iéshoua‘, la circoncision ni le prépuce n’ont de force, mais l’adhérence qui opère par l’amour.",
+          "chapter": "5",
+          "name": "Galates 5:6"
+        },
+        {
+          "verse": "7",
+          "text": "Vous couriez bien; mais qui vous a frappés de telle sorte que vous n’êtes plus persuadés par la vérité?",
+          "chapter": "5",
+          "name": "Galates 5:7"
+        },
+        {
+          "verse": "8",
+          "text": "La persuasion n’est pas venue de celui qui vous appelle:",
+          "chapter": "5",
+          "name": "Galates 5:8"
+        },
+        {
+          "verse": "9",
+          "text": "un peu de levain a fait lever toute la pâte.",
+          "chapter": "5",
+          "name": "Galates 5:9"
+        },
+        {
+          "verse": "10",
+          "text": "Mais je suis convaincu pour vous dans l’Adôn que vous n’aurez pas d’autre pensée. Celui qui vous trouble subira la condamnation, quel qu’il soit.",
+          "chapter": "5",
+          "name": "Galates 5:10"
+        },
+        {
+          "verse": "11",
+          "text": "Quant à moi, frères, si je proclame encore la circoncision, pourquoi donc suis-je encore persécuté? Il serait alors aboli, le scandale de la croix?",
+          "chapter": "5",
+          "name": "Galates 5:11"
+        },
+        {
+          "verse": "12",
+          "text": "Je voudrais aussi qu’ils soient tranchés, ceux qui vous agitent.",
+          "chapter": "5",
+          "name": "Galates 5:12"
+        },
+        {
+          "verse": "13",
+          "text": "Oui, vous avez été appelés à la liberté, frères, non pas à la liberté pour l’avantage de la chair, mais, par amour, asservissez-vous les uns aux autres.",
+          "chapter": "5",
+          "name": "Galates 5:13"
+        },
+        {
+          "verse": "14",
+          "text": "Oui, toute la tora est accomplie en une seule parole, dans le: «Aime ton compagnon comme toi-même!»",
+          "chapter": "5",
+          "name": "Galates 5:14"
+        },
+        {
+          "verse": "15",
+          "text": "Mais si vous vous mordez et dévorez les uns les autres, prenez garde d’être détruits les uns par les autres.",
+          "chapter": "5",
+          "name": "Galates 5:15"
+        },
+        {
+          "verse": "16",
+          "text": "Oui, je le dis: marchez dans le souffle, et vous n’accomplirez d’aucune manière le désir de la chair.",
+          "chapter": "5",
+          "name": "Galates 5:16"
+        },
+        {
+          "verse": "17",
+          "text": "Oui, la chair désire contre le souffle, et le souffle contre la chair; oui, ils sont adversaires l’un de l’autre, en sorte que vous ne faites pas ce que vous voudriez.",
+          "chapter": "5",
+          "name": "Galates 5:17"
+        },
+        {
+          "verse": "18",
+          "text": "Mais si vous êtes conduits par le souffle, vous n’êtes pas sous la tora.",
+          "chapter": "5",
+          "name": "Galates 5:18"
+        },
+        {
+          "verse": "19",
+          "text": "Or, les œuvres de la chair sont manifestes: puterie, impureté, débauche,",
+          "chapter": "5",
+          "name": "Galates 5:19"
+        },
+        {
+          "verse": "20",
+          "text": "idolâtrie, sorcellerie, haines, discorde, jalousie, emportements, rivalités, divisions, factions,",
+          "chapter": "5",
+          "name": "Galates 5:20"
+        },
+        {
+          "verse": "21",
+          "text": "envies, beuveries, orgies, et ce qui leur est semblable. Je vous le prédis comme je l’ai déjà prédit: ceux qui pratiquent cela n’hériteront pas du royaume d’Elohîms.",
+          "chapter": "5",
+          "name": "Galates 5:21"
+        },
+        {
+          "verse": "22",
+          "text": "Mais le fruit du souffle est l’amour, le chérissement, la paix, la patience, l’obligeance, la bonté, l’adhérence,",
+          "chapter": "5",
+          "name": "Galates 5:22"
+        },
+        {
+          "verse": "23",
+          "text": "l’humilité, la maîtrise de soi; ce contre quoi la tora n’est pas.",
+          "chapter": "5",
+          "name": "Galates 5:23"
+        },
+        {
+          "verse": "24",
+          "text": "Ceux du messie Iéshoua‘ ont crucifié la chair avec ses passions et ses désirs.",
+          "chapter": "5",
+          "name": "Galates 5:24"
+        },
+        {
+          "verse": "25",
+          "text": "Si nous vivons par le souffle, marchons aussi selon le souffle.",
+          "chapter": "5",
+          "name": "Galates 5:25"
+        },
+        {
+          "verse": "26",
+          "text": "Ne soyons pas vaniteux, les uns provoquant les autres, envieux les uns des autres.",
+          "chapter": "5",
+          "name": "Galates 5:26"
+        }
+      ],
+      "name": "Galates 5"
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Frères, même si un homme est pris en quelque délit, vous, ceux du souffle, relevez-le dans un souffle d’humilité. Considère que tu risques, toi aussi, d’être mis à l’épreuve.",
+          "chapter": "6",
+          "name": "Galates 6:1"
+        },
+        {
+          "verse": "2",
+          "text": "Portez les fardeaux les uns des autres: vous accomplirez ainsi la tora du messie.",
+          "chapter": "6",
+          "name": "Galates 6:2"
+        },
+        {
+          "verse": "3",
+          "text": "Ou, si quelqu’un croit être, en n’étant rien, il s’illusionne.",
+          "chapter": "6",
+          "name": "Galates 6:3"
+        },
+        {
+          "verse": "4",
+          "text": "Mais à chacun d’éprouver sa propre œuvre; alors il mettra sa fierté en lui seul et pas en un autre.",
+          "chapter": "6",
+          "name": "Galates 6:4"
+        },
+        {
+          "verse": "5",
+          "text": "Oui, à chacun de porter sa propre charge.",
+          "chapter": "6",
+          "name": "Galates 6:5"
+        },
+        {
+          "verse": "6",
+          "text": "L’enseigné dans la parole doit partager avec l’enseigneur tous ses biens.",
+          "chapter": "6",
+          "name": "Galates 6:6"
+        },
+        {
+          "verse": "7",
+          "text": "Ne vous y trompez pas: Elohîms ne doit pas être raillé! Oui, ce que l’homme sème, il le moissonne aussi.",
+          "chapter": "6",
+          "name": "Galates 6:7"
+        },
+        {
+          "verse": "8",
+          "text": "Qui sème dans la chair, de la chair moissonne la corruption; mais qui sème dans le souffle moissonne, du souffle, la vie en pérennité.",
+          "chapter": "6",
+          "name": "Galates 6:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ne perdons pas le cœur de bien faire! Oui, en temps voulu, nous moissonnerons sans faillir!",
+          "chapter": "6",
+          "name": "Galates 6:9"
+        },
+        {
+          "verse": "10",
+          "text": "Alors, tant que nous en avons le temps, œuvrons au bien de tous, surtout pour ceux qui sont de la maison de l’adhérence.",
+          "chapter": "6",
+          "name": "Galates 6:10"
+        },
+        {
+          "verse": "11",
+          "text": "Vous voyez avec quelles grandes lettres je vous écris de ma main!",
+          "chapter": "6",
+          "name": "Galates 6:11"
+        },
+        {
+          "verse": "12",
+          "text": "Ceux qui désirent faire bonne figure envers la chair vous obligent à vous faire circoncire, à seule fin de n’être pas persécutés pour la croix du messie.",
+          "chapter": "6",
+          "name": "Galates 6:12"
+        },
+        {
+          "verse": "13",
+          "text": "Non, ceux de la circoncision ne gardent pas eux-mêmes la tora; mais ils veulent vous faire circoncire afin de pouvoir être fiers de votre chair.",
+          "chapter": "6",
+          "name": "Galates 6:13"
+        },
+        {
+          "verse": "14",
+          "text": "Mais pour moi, je ne suis fier de rien, sinon de la croix de notre Adôn Iéshoua‘, le messie, sur laquelle l’univers a été crucifié pour moi et moi pour l’univers.",
+          "chapter": "6",
+          "name": "Galates 6:14"
+        },
+        {
+          "verse": "15",
+          "text": "Oui, la circoncision n’est rien, ni le prépuce, mais une nouvelle création.",
+          "chapter": "6",
+          "name": "Galates 6:15"
+        },
+        {
+          "verse": "16",
+          "text": "À tous ceux qui marchent selon cette règle, paix sur eux, grâce sur l’Israël d’Elohîms.",
+          "chapter": "6",
+          "name": "Galates 6:16"
+        },
+        {
+          "verse": "17",
+          "text": "Pour le reste, que nul ne me cause de troubles, car je porte en mon corps les stigmates de Iéshoua‘.",
+          "chapter": "6",
+          "name": "Galates 6:17"
+        },
+        {
+          "verse": "18",
+          "text": "Le chérissement de notre Adôn Iéshoua‘, le messie, soit en votre souffle, frères. Amén.",
+          "chapter": "6",
+          "name": "Galates 6:18"
+        }
+      ],
+      "name": "Galates 6"
+    }
+  ]
+}

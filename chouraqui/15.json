@@ -1,0 +1,1752 @@
+{
+  "translation": "Chouraqui",
+  "abbreviation": "CHO",
+  "lang": "fr",
+  "language": "français",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 15,
+  "name": "Esdras",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Mais en l’an un de Korèsh, roi de Paras, pour accomplir la parole de IHVH-Adonaï par la bouche de Irmeyahou, IHVH-Adonaï éveille le souffle de Korèsh, roi de Paras. Il fait passer une voix dans tout son royaume, et par écrit aussi, pour dire:",
+          "chapter": "1",
+          "name": "Esdras 1:1"
+        },
+        {
+          "verse": "2",
+          "text": "«Ainsi dit Korèsh, roi de Paras: Tous les royaumes de la terre, il me les a donnés, IHVH-Adonaï, l’Elohîms des ciels, et il m’a prescrit de lui bâtir une maison à Ieroushalaîm, en Iehouda.",
+          "chapter": "1",
+          "name": "Esdras 1:2"
+        },
+        {
+          "verse": "3",
+          "text": "Qui d’entre vous, parmi tout son peuple, que son Elohîms soit avec lui, et qu’il monte à Ieroushalaîm, en Iehouda, qu’il bâtisse la maison de IHVH-Adonaï l’Elohîms d’Israël, lui, l’Elohîms qui est à Ieroushalaîm.",
+          "chapter": "1",
+          "name": "Esdras 1:3"
+        },
+        {
+          "verse": "4",
+          "text": "À tous ceux qui restent, en tous lieux où ils résident, les hommes du lieu portent argent, or, équipements, bêtes, avec une gratification pour la maison de l’Elohîms à Ieroushalaîm.»",
+          "chapter": "1",
+          "name": "Esdras 1:4"
+        },
+        {
+          "verse": "5",
+          "text": "Les têtes de pères de Iehouda et de Biniamîn, les desservants, les Lévi, tous ceux dont Elohîms éveille le souffle, se lèvent pour monter bâtir la maison de IHVH-Adonaï à Ieroushalaîm.",
+          "chapter": "1",
+          "name": "Esdras 1:5"
+        },
+        {
+          "verse": "6",
+          "text": "Et tous leurs voisins les fortifient de leurs mains avec des objets d’argent, de l’or, des équipements, des bêtes et des libéralités, outre toutes gratifications.",
+          "chapter": "1",
+          "name": "Esdras 1:6"
+        },
+        {
+          "verse": "7",
+          "text": "Le roi Korèsh fait sortir les objets de la maison de IHVH-Adonaï, que Neboukhadrèsar avait fait sortir de Ieroushalaîm; il les donne à la maison de ses Elohîms.",
+          "chapter": "1",
+          "name": "Esdras 1:7"
+        },
+        {
+          "verse": "8",
+          "text": "Korèsh, roi de Paras, les fait sortir par la main de Mitredat, le trésorier. Il les compte à Shéshbasar, le nassi de Iehouda.",
+          "chapter": "1",
+          "name": "Esdras 1:8"
+        },
+        {
+          "verse": "9",
+          "text": "Voici leur nombre: patènes d’or: trente; patènes d’argent: mille; cuvettes: vingt-neuf;",
+          "chapter": "1",
+          "name": "Esdras 1:9"
+        },
+        {
+          "verse": "10",
+          "text": "godets d’or: trente; godets d’argent doublés: quatre cent dix; autres objets: mille.",
+          "chapter": "1",
+          "name": "Esdras 1:10"
+        },
+        {
+          "verse": "11",
+          "text": "Tous les objets d’or et d’argent, cinq mille quatre cents. Shéshbasar fait monter le tout avec la montée de l’exil de Babèl à Ieroushalaîm.",
+          "chapter": "1",
+          "name": "Esdras 1:11"
+        }
+      ],
+      "name": "Esdras 1"
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Voici les fils de la cité qui montent de la captivité de l’exil, où les avait exilés Neboukhadrèsar, roi de Babèl. Ils retournent à Ieroushalaîm et Iehouda, chaque homme en sa ville,",
+          "chapter": "2",
+          "name": "Esdras 2:1"
+        },
+        {
+          "verse": "2",
+          "text": "ceux qui viennent avec Zeroubabèl, Iéshoua‘, Nehèmyah, Serayah, Re‘élayah, Mordekhaï, Bilshân, Mispar, Bigvaï, Rehoum, Ba‘ana. Nombre des hommes du peuple d’Israël:",
+          "chapter": "2",
+          "name": "Esdras 2:2"
+        },
+        {
+          "verse": "3",
+          "text": "Benéi Par‘osh: deux mille cent soixante-douze;",
+          "chapter": "2",
+          "name": "Esdras 2:3"
+        },
+        {
+          "verse": "4",
+          "text": "Benéi Shephatyah: trois cent soixante-douze;",
+          "chapter": "2",
+          "name": "Esdras 2:4"
+        },
+        {
+          "verse": "5",
+          "text": "Benéi Arah: sept cent soixante-douze;",
+          "chapter": "2",
+          "name": "Esdras 2:5"
+        },
+        {
+          "verse": "6",
+          "text": "Benéi Pahat Moab, des Benéi Iéshoua‘, Ioab: deux mille huit cent douze;",
+          "chapter": "2",
+          "name": "Esdras 2:6"
+        },
+        {
+          "verse": "7",
+          "text": "Benéi ‘Éïlâm: mille deux cent cinquante-quatre;",
+          "chapter": "2",
+          "name": "Esdras 2:7"
+        },
+        {
+          "verse": "8",
+          "text": "Benéi Zatou: neuf cent quarante-cinq;",
+          "chapter": "2",
+          "name": "Esdras 2:8"
+        },
+        {
+          "verse": "9",
+          "text": "Benéi Zakaï: sept cent soixante;",
+          "chapter": "2",
+          "name": "Esdras 2:9"
+        },
+        {
+          "verse": "10",
+          "text": "Benéi Bani: six cent quarante-deux;",
+          "chapter": "2",
+          "name": "Esdras 2:10"
+        },
+        {
+          "verse": "11",
+          "text": "Benéi Bébaï: six cent vingt-trois;",
+          "chapter": "2",
+          "name": "Esdras 2:11"
+        },
+        {
+          "verse": "12",
+          "text": "Benéi ‘Azgad: mille deux cent vingt-deux;",
+          "chapter": "2",
+          "name": "Esdras 2:12"
+        },
+        {
+          "verse": "13",
+          "text": "Benéi Adoniqâm: six cent soixante-six;",
+          "chapter": "2",
+          "name": "Esdras 2:13"
+        },
+        {
+          "verse": "14",
+          "text": "Benéi Bigvaï: deux mille cinquante-six;",
+          "chapter": "2",
+          "name": "Esdras 2:14"
+        },
+        {
+          "verse": "15",
+          "text": "Benéi ‘Adîn: quatre cent cinquante-quatre;",
+          "chapter": "2",
+          "name": "Esdras 2:15"
+        },
+        {
+          "verse": "16",
+          "text": "Benéi Atér de Hizqyah: quatre-vingt-dix-huit;",
+          "chapter": "2",
+          "name": "Esdras 2:16"
+        },
+        {
+          "verse": "17",
+          "text": "Benéi Bésaï: trois cent vingt-trois;",
+          "chapter": "2",
+          "name": "Esdras 2:17"
+        },
+        {
+          "verse": "18",
+          "text": "Benéi Iora: cent douze;",
+          "chapter": "2",
+          "name": "Esdras 2:18"
+        },
+        {
+          "verse": "19",
+          "text": "Benéi Hashoum: deux cent vingt-trois;",
+          "chapter": "2",
+          "name": "Esdras 2:19"
+        },
+        {
+          "verse": "20",
+          "text": "Benéi Guibar: quatre-vingt-quinze;",
+          "chapter": "2",
+          "name": "Esdras 2:20"
+        },
+        {
+          "verse": "21",
+          "text": "Benéi Béit Lèhèm: cent vingt-trois;",
+          "chapter": "2",
+          "name": "Esdras 2:21"
+        },
+        {
+          "verse": "22",
+          "text": "Hommes de Netopha: cinquante-six;",
+          "chapter": "2",
+          "name": "Esdras 2:22"
+        },
+        {
+          "verse": "23",
+          "text": "Hommes d’‘Anatot: cent vingt-huit;",
+          "chapter": "2",
+          "name": "Esdras 2:23"
+        },
+        {
+          "verse": "24",
+          "text": "Benéi ‘Azmavèt: quarante-deux;",
+          "chapter": "2",
+          "name": "Esdras 2:24"
+        },
+        {
+          "verse": "25",
+          "text": "Benéi Qiriat ‘Arîm, Kephira et Beérot: sept cent quarante-trois;",
+          "chapter": "2",
+          "name": "Esdras 2:25"
+        },
+        {
+          "verse": "26",
+          "text": "Benéi Harama et Guèba‘: six cents vingt et un;",
+          "chapter": "2",
+          "name": "Esdras 2:26"
+        },
+        {
+          "verse": "27",
+          "text": "Hommes de Mikhmas: cent vingt-deux;",
+          "chapter": "2",
+          "name": "Esdras 2:27"
+        },
+        {
+          "verse": "28",
+          "text": "Hommes de Béit-Él et de ‘Aï: deux cent vingt-trois;",
+          "chapter": "2",
+          "name": "Esdras 2:28"
+        },
+        {
+          "verse": "29",
+          "text": "Benéi Nebo: cinquante-deux;",
+          "chapter": "2",
+          "name": "Esdras 2:29"
+        },
+        {
+          "verse": "30",
+          "text": "Benéi Magbish: cent cinquante-six;",
+          "chapter": "2",
+          "name": "Esdras 2:30"
+        },
+        {
+          "verse": "31",
+          "text": "Benéi ‘Éïlâm, un autre: mille deux cent cinquante-quatre;",
+          "chapter": "2",
+          "name": "Esdras 2:31"
+        },
+        {
+          "verse": "32",
+          "text": "Benéi Harîm: trois cent vingt;",
+          "chapter": "2",
+          "name": "Esdras 2:32"
+        },
+        {
+          "verse": "33",
+          "text": "Benéi Lod, Hadid et Ono: sept cent vingt-cinq;",
+          "chapter": "2",
+          "name": "Esdras 2:33"
+        },
+        {
+          "verse": "34",
+          "text": "Benéi Ieriho: trois cent quarante-cinq;",
+          "chapter": "2",
+          "name": "Esdras 2:34"
+        },
+        {
+          "verse": "35",
+          "text": "Benéi Senaa: trois mille six cent trente.",
+          "chapter": "2",
+          "name": "Esdras 2:35"
+        },
+        {
+          "verse": "36",
+          "text": "Les desservants Benéi Ieda‘yah de la maison de Iéshoua‘: neuf cent soixante-treize;",
+          "chapter": "2",
+          "name": "Esdras 2:36"
+        },
+        {
+          "verse": "37",
+          "text": "Benéi Imér: mille cinquante-deux;",
+          "chapter": "2",
+          "name": "Esdras 2:37"
+        },
+        {
+          "verse": "38",
+          "text": "Benéi Pashhour: mille deux cent quarante-sept;",
+          "chapter": "2",
+          "name": "Esdras 2:38"
+        },
+        {
+          "verse": "39",
+          "text": "Benéi Harîm: mille dix-sept.",
+          "chapter": "2",
+          "name": "Esdras 2:39"
+        },
+        {
+          "verse": "40",
+          "text": "Les Lévi, Benéi Iéshoua‘ et Qadmiél des Benéi Hodavyah: soixante-quatorze.",
+          "chapter": "2",
+          "name": "Esdras 2:40"
+        },
+        {
+          "verse": "41",
+          "text": "Les poètes, Benéi Assaph: cent vingt-huit.",
+          "chapter": "2",
+          "name": "Esdras 2:41"
+        },
+        {
+          "verse": "42",
+          "text": "Les fils des portiers: Benéi Shaloum, Benéi Atér, Benéi Talmôn, Benéi ‘Aqoub, Benéi Hatita, Benéi Shobaï. En tout: cent trente-neuf.",
+          "chapter": "2",
+          "name": "Esdras 2:42"
+        },
+        {
+          "verse": "43",
+          "text": "Les oblats: Benéi Siha, Benéi Hassoupha, Benéi Taba‘ot,",
+          "chapter": "2",
+          "name": "Esdras 2:43"
+        },
+        {
+          "verse": "44",
+          "text": "Benéi Qéiros, Benéi Si‘aha, Benéi Padôn,",
+          "chapter": "2",
+          "name": "Esdras 2:44"
+        },
+        {
+          "verse": "45",
+          "text": "Benéi Lebana, Benéi Hagaba, Benéi ‘Aqoub,",
+          "chapter": "2",
+          "name": "Esdras 2:45"
+        },
+        {
+          "verse": "46",
+          "text": "Benéi Hagab, Benéi Samlaï, Benéi Hanân,",
+          "chapter": "2",
+          "name": "Esdras 2:46"
+        },
+        {
+          "verse": "47",
+          "text": "Benéi Guidél, Benéi Gahar, Benéi Reayah,",
+          "chapter": "2",
+          "name": "Esdras 2:47"
+        },
+        {
+          "verse": "48",
+          "text": "Benéi Resîn, Benéi Neqoda, Benéi Gazâm,",
+          "chapter": "2",
+          "name": "Esdras 2:48"
+        },
+        {
+          "verse": "49",
+          "text": "Benéi ‘Ouza, Benéi Passéah, Benéi Béssaï,",
+          "chapter": "2",
+          "name": "Esdras 2:49"
+        },
+        {
+          "verse": "50",
+          "text": "Benéi Asna, Benéi Me‘ounîm, Benéi Nephoussîm,",
+          "chapter": "2",
+          "name": "Esdras 2:50"
+        },
+        {
+          "verse": "51",
+          "text": "Benéi Baqbouq, Benéi Haqoupha, Benéi Harhour,",
+          "chapter": "2",
+          "name": "Esdras 2:51"
+        },
+        {
+          "verse": "52",
+          "text": "Benéi Baslout, Benéi Mehida, Benéi Harsha,",
+          "chapter": "2",
+          "name": "Esdras 2:52"
+        },
+        {
+          "verse": "53",
+          "text": "Benéi Barqos, Benéi Sissera, Benéi Tèmah,",
+          "chapter": "2",
+          "name": "Esdras 2:53"
+        },
+        {
+          "verse": "54",
+          "text": "Benéi Nesiah, Benéi Hatipha.",
+          "chapter": "2",
+          "name": "Esdras 2:54"
+        },
+        {
+          "verse": "55",
+          "text": "Fils des serviteurs de Shelomo: Benéi Sotaï, Benéi ha-Sophèrèt, Benéi Perouda,",
+          "chapter": "2",
+          "name": "Esdras 2:55"
+        },
+        {
+          "verse": "56",
+          "text": "Benéi Ia‘ala, Benéi Darqôn, Benéi Guidél,",
+          "chapter": "2",
+          "name": "Esdras 2:56"
+        },
+        {
+          "verse": "57",
+          "text": "Benéi Shephatyah, Benéi Hatil, Benéi Pokhèrèt-ha-Sebaîm, Benéi Ami.",
+          "chapter": "2",
+          "name": "Esdras 2:57"
+        },
+        {
+          "verse": "58",
+          "text": "Tous les oblats et les fils des serviteurs de Shelomo: trois cent quatre-vingt-douze.",
+          "chapter": "2",
+          "name": "Esdras 2:58"
+        },
+        {
+          "verse": "59",
+          "text": "Voici ceux qui montent de Tél-Mèlah, Tél-Harsha, Keroub, Adân, Imér, qui ne pouvaient rapporter si la maison de leurs pères et leur semence étaient d’Israël:",
+          "chapter": "2",
+          "name": "Esdras 2:59"
+        },
+        {
+          "verse": "60",
+          "text": "Benéi Delayah, Benéi Tobyah, Benéi Neqoda: six cent cinquante-deux.",
+          "chapter": "2",
+          "name": "Esdras 2:60"
+        },
+        {
+          "verse": "61",
+          "text": "Parmi les fils des desservants: Benéi Habayah, Benéi Haqos, Benéi Barzilaï, qui avait pris l’une des filles de Barzilaï le Guil‘adi.",
+          "chapter": "2",
+          "name": "Esdras 2:61"
+        },
+        {
+          "verse": "62",
+          "text": "Ceux-là avaient recherché l’écrit de leurs enregistrements et ne l’avaient pas trouvé. Ils étaient exclus de la desserte.",
+          "chapter": "2",
+          "name": "Esdras 2:62"
+        },
+        {
+          "verse": "63",
+          "text": "Le Tirshata leur dit de ne pas manger du sacrement des sacrements, jusqu’à ce qu’un desservant se dresse aux Ourîm et aux Toumîm.",
+          "chapter": "2",
+          "name": "Esdras 2:63"
+        },
+        {
+          "verse": "64",
+          "text": "Tout le rassemblement comme un: quarante deux mille trois cent soixante,",
+          "chapter": "2",
+          "name": "Esdras 2:64"
+        },
+        {
+          "verse": "65",
+          "text": "outre leurs serviteurs et leurs servantes; ceux-ci: sept mille trois cent trente-sept; leurs poètes et leurs poétesses: deux cents.",
+          "chapter": "2",
+          "name": "Esdras 2:65"
+        },
+        {
+          "verse": "66",
+          "text": "Leurs chevaux: sept cent trente-six; leurs mulets: deux cent quarante-cinq;",
+          "chapter": "2",
+          "name": "Esdras 2:66"
+        },
+        {
+          "verse": "67",
+          "text": "leurs chameaux: quatre cent trente-cinq; leurs ânes: six mille sept cent vingt.",
+          "chapter": "2",
+          "name": "Esdras 2:67"
+        },
+        {
+          "verse": "68",
+          "text": "Des têtes de pères, à leur venue à la maison de IHVH-Adonaï à Ieroushalaîm, ont gratifié la maison d’Elohîms pour la dresser sur son assise.",
+          "chapter": "2",
+          "name": "Esdras 2:68"
+        },
+        {
+          "verse": "69",
+          "text": "Selon leur force, ils donnent au trésor de l’ouvrage, drachmes d’or: soixante et un mille; mines d’argent: cinq mille; aubes de desservants: cent.",
+          "chapter": "2",
+          "name": "Esdras 2:69"
+        },
+        {
+          "verse": "70",
+          "text": "Les desservants, les Lévi, une partie du peuple, les poètes, les portiers, les oblats s’installent dans leurs villes, et tout Israël dans ses villes.",
+          "chapter": "2",
+          "name": "Esdras 2:70"
+        }
+      ],
+      "name": "Esdras 2"
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "La septième lunaison arrive. Les Benéi Israël sont dans leurs villes; le peuple se rassemble comme un seul homme à Ieroushalaîm.",
+          "chapter": "3",
+          "name": "Esdras 3:1"
+        },
+        {
+          "verse": "2",
+          "text": "Iéshoua‘ bèn Iosadaq se lève avec ses frères, les desservants, et Zeroubabèl bèn Shealtiél avec ses frères. Ils bâtissent l’autel de l’Elohîms d’Israël pour y faire monter des montées, comme il est écrit dans la tora de Moshè, l’homme de l’Elohîms.",
+          "chapter": "3",
+          "name": "Esdras 3:2"
+        },
+        {
+          "verse": "3",
+          "text": "Ils assoient l’autel sur ses assises, oui, avec effroi sur eux des peuples de la terre. Ils y font monter des montées pour IHVH-Adonaï, les montées du matin et du soir.",
+          "chapter": "3",
+          "name": "Esdras 3:3"
+        },
+        {
+          "verse": "4",
+          "text": "Ils font la fête des Cabanes, comme c’est écrit, la montée au jour le jour, au nombre, en règle, parole du jour en son jour;",
+          "chapter": "3",
+          "name": "Esdras 3:4"
+        },
+        {
+          "verse": "5",
+          "text": "et ensuite la montée permanente, celle des lunaisons, pour tous les rendez-vous à IHVH-Adonaï, et pour gratifier une gratification.",
+          "chapter": "3",
+          "name": "Esdras 3:5"
+        },
+        {
+          "verse": "6",
+          "text": "Dès le premier jour de la septième lunaison, ils commencent à faire monter des montées pour IHVH-Adonaï. Mais le Héikhal de IHVH-Adonaï n’était pas édifié.",
+          "chapter": "3",
+          "name": "Esdras 3:6"
+        },
+        {
+          "verse": "7",
+          "text": "Ils donnent de l’argent aux carriers et aux artisans, de la nourriture, de la boisson, de l’huile aux Sidonîm, aux Sorîm, pour faire venir des bois de cèdre du Lebanôn en mer de Iapho, selon l’autorisation de Korèsh, roi de Paras, pour eux.",
+          "chapter": "3",
+          "name": "Esdras 3:7"
+        },
+        {
+          "verse": "8",
+          "text": "En l’an deuxième de leur venue à la maison de l’Elohîms à Ieroushalaîm, en la deuxième lunaison, Zeroubabèl bèn Shealtiél et Iéshoua‘ bèn Iosadaq, avec le reste de leurs frères, les desservants, les Lévi et tous ceux qui vinrent de la captivité à Ieroushalaîm commencent. Ils dressent les Lévi de vingt ans et plus pour diriger l’ouvrage de la maison de IHVH-Adonaï.",
+          "chapter": "3",
+          "name": "Esdras 3:8"
+        },
+        {
+          "verse": "9",
+          "text": "Iéshoua‘ se dresse avec ses fils, ses frères, Qadmiél, ses fils, les Benéi Iehouda, comme un seul, pour diriger les ouvriers de l’ouvrage dans la maison de l’Elohîms, les Benéi Hénadad, leurs fils et leurs frères, les Lévi.",
+          "chapter": "3",
+          "name": "Esdras 3:9"
+        },
+        {
+          "verse": "10",
+          "text": "Les bâtisseurs fondent le Héikhal de IHVH-Adonaï. Ils dressent les desservants vêtus, avec les trompettes, et les Lévi, les Benéi Assaph, avec les cymbales, pour louanger IHVH-Adonaï, par la main de David, roi d’Israël.",
+          "chapter": "3",
+          "name": "Esdras 3:10"
+        },
+        {
+          "verse": "11",
+          "text": "Ils répondent en louangeant et en célébrant: IHVH-Adonaï, le bien, oui, en pérennité, son chérissement sur Israël.» Tout le peuple fait ovation, grande ovation, en louangeant IHVH-Adonaï pour la fondation de la maison de IHVH-Adonaï.",
+          "chapter": "3",
+          "name": "Esdras 3:11"
+        },
+        {
+          "verse": "12",
+          "text": "Nombreux parmi les desservants, les Lévi, les têtes de pères, et les anciens, qui avaient vu la première maison, pleurant à grande voix, quand cette maison est fondée sous leurs yeux. Nombreux, avec des ovations dans la joie, ils élèvent la voix.",
+          "chapter": "3",
+          "name": "Esdras 3:12"
+        },
+        {
+          "verse": "13",
+          "text": "Le peuple ne distingue pas la voix de l’ovation de joie de la voix des pleurs du peuple. Oui, le peuple fait ovation, une grande ovation. La voix s’entend jusqu’au loin.",
+          "chapter": "3",
+          "name": "Esdras 3:13"
+        }
+      ],
+      "name": "Esdras 3"
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Les oppresseurs de Iehouda et de Biniamîn entendent que les fils de l’exil bâtissent un palais pour IHVH-Adonaï, l’Elohîms d’Israël.",
+          "chapter": "4",
+          "name": "Esdras 4:1"
+        },
+        {
+          "verse": "2",
+          "text": "Ils avancent vers Zeroubabèl et vers les têtes de pères. Ils leur disent: «Nous bâtirons avec vous. Oui, comme vous, nous consulterons votre Elohîms. Nous sacrifions pour lui depuis les jours d’Éssar-Hadôn, le roi d’Ashour, qui nous fit monter ici.»",
+          "chapter": "4",
+          "name": "Esdras 4:2"
+        },
+        {
+          "verse": "3",
+          "text": "Zeroubabèl, Iéshoua‘ et le reste des têtes des pères d’Israël leur disent: «Ce n’est pas à vous, mais à nous de bâtir une maison pour notre Elohîms. Oui, nous bâtirons seuls pour IHVH-Adonaï, l’Elohîms d’Israël, comme nous l’a ordonné le roi Korèsh, roi de Paras.»",
+          "chapter": "4",
+          "name": "Esdras 4:3"
+        },
+        {
+          "verse": "4",
+          "text": "Et c’est le peuple de la terre: il affaiblit les mains du peuple de Iehouda et le trouble tandis qu’il bâtit.",
+          "chapter": "4",
+          "name": "Esdras 4:4"
+        },
+        {
+          "verse": "5",
+          "text": "Ils soudoient des conseillers pour annuler leur conseil, tous les jours de Korèsh, roi de Paras, jusqu’au règne de Dariavèsh, roi de Paras.",
+          "chapter": "4",
+          "name": "Esdras 4:5"
+        },
+        {
+          "verse": "6",
+          "text": "Sous le règne d’Ahashvérosh, au commencement de son règne, ils écrivent une accusation contre les habitants de Iehouda et de Ieroushalaîm.",
+          "chapter": "4",
+          "name": "Esdras 4:6"
+        },
+        {
+          "verse": "7",
+          "text": "Aux jours d’Artahshasta, Bishlâm, Mitredat, Tabeél et le reste de ses collègues écrivent à Artahshasta, roi de Paras, une missive écrite en écriture araméenne et traduite en araméen.",
+          "chapter": "4",
+          "name": "Esdras 4:7"
+        },
+        {
+          "verse": "8",
+          "text": "Rehoum, le maître d’ordre, Shimshaï, l’actuaire, et le reste de leurs collègues écrivent une lettre sur Ieroushalaîm au roi Artahshasta pour dire:",
+          "chapter": "4",
+          "name": "Esdras 4:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ainsi, Rehoum, le maître d’ordre, Shimshaï, l’actuaire, et le reste de leurs collègues, les juges, les contrôleurs, les inspecteurs, les préposés, les hommes d’Èrèkh, de Babèl, de Shoushân, ceux de ‘Éïlâm",
+          "chapter": "4",
+          "name": "Esdras 4:9"
+        },
+        {
+          "verse": "10",
+          "text": "et le reste des peuples exilés par Asnapar, le grand, le glorieux, installés dans la cité de Shomrôn et dans le reste au-delà du Fleuve. Et maintenant,",
+          "chapter": "4",
+          "name": "Esdras 4:10"
+        },
+        {
+          "verse": "11",
+          "text": "voici la copie de la missive qu’ils ont envoyée au roi Artahshasta: «Tes serviteurs, les hommes d’au-delà du Fleuve. Maintenant",
+          "chapter": "4",
+          "name": "Esdras 4:11"
+        },
+        {
+          "verse": "12",
+          "text": "il est connu du roi que les Iehoudîm, qui sont montés de chez toi, sont venus vers nous, à Ieroushalaîm. Ils bâtissent la cité rebelle et mauvaise; ils achèvent les remparts, ils renforcent les fondations.",
+          "chapter": "4",
+          "name": "Esdras 4:12"
+        },
+        {
+          "verse": "13",
+          "text": "Maintenant, qu’il soit connu du roi que si cette cité se bâtit, ces remparts s’achèvent, ils ne donneront ni la corvée, ni l’impôt, ni la taxe, et le trésor des rois en souffrira.",
+          "chapter": "4",
+          "name": "Esdras 4:13"
+        },
+        {
+          "verse": "14",
+          "text": "Maintenant, puisque nous avons mangé le sel du palais, il ne nous convient pas de voir l’insulte faite au roi. C’est pourquoi nous expédions et faisons connaître au roi,",
+          "chapter": "4",
+          "name": "Esdras 4:14"
+        },
+        {
+          "verse": "15",
+          "text": "qu’il vérifie l’acte des Mémoires. Tu comprendras que cette cité est une cité rebelle, nuisible aux rois et aux provinces. Ils y fomentent des révolutions dès les jours de pérennité. C’est pourquoi cette ville a été détruite.",
+          "chapter": "4",
+          "name": "Esdras 4:15"
+        },
+        {
+          "verse": "16",
+          "text": "Mais nous faisons connaître au roi que si cette cité se rebâtit et si ces remparts s’achèvent, alors tu n’auras plus de part au-delà du Fleuve.»",
+          "chapter": "4",
+          "name": "Esdras 4:16"
+        },
+        {
+          "verse": "17",
+          "text": "Le roi envoie un ordre: «À Rehoum, le maître d’ordre, à Shimshaï, l’actuaire, et au reste de leurs collègues qui habitent Shomrôn et dans le reste de l’au-delà du Fleuve. Paix! Maintenant,",
+          "chapter": "4",
+          "name": "Esdras 4:17"
+        },
+        {
+          "verse": "18",
+          "text": "la missive que vous avez envoyée a été lue et expliquée devant moi.",
+          "chapter": "4",
+          "name": "Esdras 4:18"
+        },
+        {
+          "verse": "19",
+          "text": "Sur ordre donné par moi, ils ont vérifié et trouvé que cette cité depuis les jours de pérennité s’élève contre les rois; la rébellion et la révolution s’y fomentent.",
+          "chapter": "4",
+          "name": "Esdras 4:19"
+        },
+        {
+          "verse": "20",
+          "text": "Mais des rois puissants ont régné sur Ieroushalaîm et dominé tout l’au-delà du Fleuve. Il leur était donné corvée, impôt et taxe.",
+          "chapter": "4",
+          "name": "Esdras 4:20"
+        },
+        {
+          "verse": "21",
+          "text": "Maintenant, donnez ordre d’arrêter ces hommes. Cette cité ne se rebâtira pas jusqu’à ce que l’ordre en soit donné par moi.",
+          "chapter": "4",
+          "name": "Esdras 4:21"
+        },
+        {
+          "verse": "22",
+          "text": "Soyez prudents, afin de ne pas commettre d’erreur en cela, afin que la révolution ne s’élève pas pour nuire aux rois.»",
+          "chapter": "4",
+          "name": "Esdras 4:22"
+        },
+        {
+          "verse": "23",
+          "text": "Alors, après que la copie de la missive du roi Artahshasta a été lue devant Rehoum et Shimshaï, l’actuaire, et leurs collègues, ils vont en hâte à Ieroushalaîm auprès des Iehoudîm: ils les arrêtent par la force des bras.",
+          "chapter": "4",
+          "name": "Esdras 4:23"
+        },
+        {
+          "verse": "24",
+          "text": "Alors le service de la maison d’Elohîms, à Ieroushalaîm, est arrêté. Il est arrêté jusqu’en l’an deux du roi Dariavèsh, roi de Paras.",
+          "chapter": "4",
+          "name": "Esdras 4:24"
+        }
+      ],
+      "name": "Esdras 4"
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Hagaï, l’inspiré, et Zekharyah bèn ‘Ido, l’inspiré, sont inspirés sur les Iehoudîm de Iehouda et de Ieroushalaîm, au nom de l’Elohîms d’Israël.",
+          "chapter": "5",
+          "name": "Esdras 5:1"
+        },
+        {
+          "verse": "2",
+          "text": "Alors Zeroubabèl bèn Shealtiél et Iéshoua‘ bèn Iosadaq commencent à bâtir la maison d’Elohîms à Ieroushalaîm. Les inspirés d’Elohîms sont avec eux pour les aider.",
+          "chapter": "5",
+          "name": "Esdras 5:2"
+        },
+        {
+          "verse": "3",
+          "text": "En même temps, Tatnaï, le pacha au passage du Fleuve, Shetar, Boznaï et leurs collègues viennent à eux. Ils leur disent ainsi: «Qui vous a donné l’autorisation de bâtir cette maison et d’achever ce rempart?»",
+          "chapter": "5",
+          "name": "Esdras 5:3"
+        },
+        {
+          "verse": "4",
+          "text": "Nous leur avons dit alors: «Quels sont les noms des hommes qui bâtissent cette maison?»",
+          "chapter": "5",
+          "name": "Esdras 5:4"
+        },
+        {
+          "verse": "5",
+          "text": "L’œil de leur Elohîms est sur les anciens des Iehoudîm. Ils ne les arrêtent pas jusqu’à ce que l’affaire soit allée à Dariavèsh. Ils répondent alors à cela par une missive.",
+          "chapter": "5",
+          "name": "Esdras 5:5"
+        },
+        {
+          "verse": "6",
+          "text": "Copie de la lettre envoyée par Tatnaï, pacha de l’au-delà du Fleuve, Shetar, Boznaï et ses collègues, les préposés sur l’au-delà du Fleuve, à Dariavèsh le roi.",
+          "chapter": "5",
+          "name": "Esdras 5:6"
+        },
+        {
+          "verse": "7",
+          "text": "Ils lui envoient une missive écrite ainsi: «Au roi Dariavèsh, toute la paix!",
+          "chapter": "5",
+          "name": "Esdras 5:7"
+        },
+        {
+          "verse": "8",
+          "text": "Il sera connu du roi que nous sommes allés en Iehouda, la province, la maison du grand Eloha. Elle se bâtit en pierres roulées, et le bois est intégré dans les murs. Ce travail se fait avec application et réussite, de leurs mains.",
+          "chapter": "5",
+          "name": "Esdras 5:8"
+        },
+        {
+          "verse": "9",
+          "text": "Alors nous avons questionné ces anciens. Nous leur avons dit ainsi: Qui vous a donc donné l’autorisation de bâtir cette maison et d’achever ce rempart?",
+          "chapter": "5",
+          "name": "Esdras 5:9"
+        },
+        {
+          "verse": "10",
+          "text": "Nous avons même demandé leurs noms pour te les faire connaître, en écrivant le nom des hommes qui sont à leur tête.",
+          "chapter": "5",
+          "name": "Esdras 5:10"
+        },
+        {
+          "verse": "11",
+          "text": "Ils nous ont répondu d’une parole et dit: Nous sommes les serviteurs de l’Elohîms des ciels et de la terre, et nous rebâtissons la maison qui avait été bâtie voici de nombreuses années. Un grand roi d’Israël l’avait bâtie et achevée.",
+          "chapter": "5",
+          "name": "Esdras 5:11"
+        },
+        {
+          "verse": "12",
+          "text": "Mais comme nos pères avaient irrité l’Elohîms des ciels, il les a donnés en main de Neboukhadrèsar, roi de Babèl, le Kasdi. Il a démoli cette maison d’Elohîms et exilé le peuple à Babèl.",
+          "chapter": "5",
+          "name": "Esdras 5:12"
+        },
+        {
+          "verse": "13",
+          "text": "Mais en l’an un de Korèsh, roi de Babèl, le roi Korèsh a donné ordre de rebâtir cette maison de l’Elohîms;",
+          "chapter": "5",
+          "name": "Esdras 5:13"
+        },
+        {
+          "verse": "14",
+          "text": "et même les objets d’or et d’argent de la maison d’Elohîms, que Neboukhadrèsar avait emportés du palais de Ieroushalaîm pour les apporter au palais de Babèl, il les a donnés au nommé Shéshbasar, qu’il avait nommé pacha.",
+          "chapter": "5",
+          "name": "Esdras 5:14"
+        },
+        {
+          "verse": "15",
+          "text": "Et il lui a dit: ‹ Remporte ces objets, va et ramène-les au palais qui est à Ieroushalaîm. La maison de l’Elohîms sera bâtie sur son lieu. ›",
+          "chapter": "5",
+          "name": "Esdras 5:15"
+        },
+        {
+          "verse": "16",
+          "text": "Alors ce Shéshbasar a posé les fondations de la maison de l’Elohîms qui est à Ieroushalaîm. Depuis lors et jusqu’à présent elle se bâtit, mais n’est pas achevée.",
+          "chapter": "5",
+          "name": "Esdras 5:16"
+        },
+        {
+          "verse": "17",
+          "text": "Maintenant, si c’est bien pour le roi, il sera vérifié dans la maison des archives du roi, à Babèl, si vraiment ordre a été donné par le roi Korèsh de bâtir cette maison de l’Elohîms à Ieroushalaîm. Qu’il nous transmette la volonté du roi en cela.»",
+          "chapter": "5",
+          "name": "Esdras 5:17"
+        }
+      ],
+      "name": "Esdras 5"
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Alors le roi Dariavèsh donne ordre de vérifier dans la maison des Actes où sont déposées les archives, à Babèl.",
+          "chapter": "6",
+          "name": "Esdras 6:1"
+        },
+        {
+          "verse": "2",
+          "text": "Et il est trouvé, à Ahmeta, la capitale de la province des Madaï, un volume où il était écrit ainsi: «Mémoire.",
+          "chapter": "6",
+          "name": "Esdras 6:2"
+        },
+        {
+          "verse": "3",
+          "text": "En l’an un du roi Korèsh, le roi Korèsh a donné un ordre: ‹ La maison d’Eloha, à Ieroushalaîm, la maison sera bâtie, un lieu où sacrifier des sacrifices. Ses fondations seront consolidées. Sa hauteur: soixante coudées; sa largeur: soixante coudées;",
+          "chapter": "6",
+          "name": "Esdras 6:3"
+        },
+        {
+          "verse": "4",
+          "text": "trois rangées de pierres roulées, une rangée de bois nouveau. La dépense sera donnée par la maison du roi.",
+          "chapter": "6",
+          "name": "Esdras 6:4"
+        },
+        {
+          "verse": "5",
+          "text": "Et même les objets d’or et d’argent de la maison d’Elohîms, que Neboukhadrèsar avait fait sortir du palais de Ieroushalaîm, pour les emporter à Babèl, seront retournés et rapportés au palais de Ieroushalaîm, en leur lieu, et déposés dans la maison d’Elohîms. ›",
+          "chapter": "6",
+          "name": "Esdras 6:5"
+        },
+        {
+          "verse": "6",
+          "text": "Maintenant, Tatnaï, pacha au passage du Fleuve, Shetar, Boznaï et tous leurs collègues, les préposés au passage du Fleuve, tenez-vous loin de là!",
+          "chapter": "6",
+          "name": "Esdras 6:6"
+        },
+        {
+          "verse": "7",
+          "text": "Permettez le service de cette maison d’Elohîms. Que le pacha des Iehoudîm et les anciens Iehoudîm bâtissent cette maison de l’Elohîms sur son lieu.",
+          "chapter": "6",
+          "name": "Esdras 6:7"
+        },
+        {
+          "verse": "8",
+          "text": "L’ordre en est donné par moi, pour que vous aidiez les anciens des Iehoudîm à bâtir cette maison d’Elohîms, sur les biens du roi et les taxes au passage du Fleuve. Les dépenses seront couvertes avec fidélité aux mains de ces hommes, pour ne rien arrêter.",
+          "chapter": "6",
+          "name": "Esdras 6:8"
+        },
+        {
+          "verse": "9",
+          "text": "Tout ce qui est nécessaire, en taureaux, béliers, moutons, pour les montées de l’Elohîms des ciels; le froment, le sel, le vin, l’huile, selon la parole des desservants qui sont à Ieroushalaîm, leur sera donné, jour après jour, sans faute,",
+          "chapter": "6",
+          "name": "Esdras 6:9"
+        },
+        {
+          "verse": "10",
+          "text": "pour qu’ils présentent les agréments à l’Elohîms des ciels et prient pour la vie du roi et de ses fils.",
+          "chapter": "6",
+          "name": "Esdras 6:10"
+        },
+        {
+          "verse": "11",
+          "text": "L’ordre est donné par moi que tout homme qui enfreindra ce décret, la poutre sera arrachée de sa maison et il y sera empalé droit. Sa maison sera ainsi mise au rebut.",
+          "chapter": "6",
+          "name": "Esdras 6:11"
+        },
+        {
+          "verse": "12",
+          "text": "L’Elohîms qui a fait demeurer son nom là exterminera tout roi et peuple qui avancera la main pour changer ou pour détruire cette maison d’Elohîms qui est à Ieroushalaîm. Moi, Dariavèsh, j’en ai donné l’ordre. Il sera exécuté avec fidélité.»",
+          "chapter": "6",
+          "name": "Esdras 6:12"
+        },
+        {
+          "verse": "13",
+          "text": "Alors Tatnaï, le pacha au passage du Fleuve, Shetar, Boznaï et leurs collègues agissent aussitôt selon ce que leur avait mandé Dariavèsh, le roi.",
+          "chapter": "6",
+          "name": "Esdras 6:13"
+        },
+        {
+          "verse": "14",
+          "text": "Les anciens des Iehoudîm bâtissent et progressent, sous l’inspiration de Hagaï, l’inspiré, et de Zekharyah bèn ‘Ido. Ils bâtissent et l’achèvent sur l’ordre de l’Eloha d’Israël et sur l’ordre de Korèsh, de Dariavèsh, et d’Artahshasta, roi de Paras.",
+          "chapter": "6",
+          "name": "Esdras 6:14"
+        },
+        {
+          "verse": "15",
+          "text": "Cette maison est terminée au troisième jour de la lunaison d’Adar, qui est l’an six du roi Dariavèsh.",
+          "chapter": "6",
+          "name": "Esdras 6:15"
+        },
+        {
+          "verse": "16",
+          "text": "Les Benéi Israël, les desservants, les Lévi, le reste des fils de l’exil font l’inauguration de cette maison d’Elohîms dans la joie.",
+          "chapter": "6",
+          "name": "Esdras 6:16"
+        },
+        {
+          "verse": "17",
+          "text": "Pour l’inauguration de cette maison d’Elohîms, ils présentent des taureaux: cent; des béliers: deux cents; des moutons: quatre cents; des cabris de caprins en défauteurs, pour tout Israël: douze, selon le nombre des rameaux d’Israël.",
+          "chapter": "6",
+          "name": "Esdras 6:17"
+        },
+        {
+          "verse": "18",
+          "text": "Ils établissent les desservants selon leurs sections et les Lévi selon leurs divisions, au service de l’Elohîms qui est à Ieroushalaîm, comme c’est écrit dans l’acte de Moshè.",
+          "chapter": "6",
+          "name": "Esdras 6:18"
+        },
+        {
+          "verse": "19",
+          "text": "Les fils de l’exil font Pèssah le quatorze de la première lunaison.",
+          "chapter": "6",
+          "name": "Esdras 6:19"
+        },
+        {
+          "verse": "20",
+          "text": "Oui, les desservants et les Lévi se purifient comme un seul. Tous purs, ils égorgent le Pèssah pour tous les fils de l’exil, pour leurs frères les desservants et pour eux-mêmes.",
+          "chapter": "6",
+          "name": "Esdras 6:20"
+        },
+        {
+          "verse": "21",
+          "text": "Les Benéi Israël de retour d’exil en mangent avec tous ceux qui se sont séparés de la contamination des nations de la terre, pour chercher IHVH-Adonaï, l’Elohîms d’Israël.",
+          "chapter": "6",
+          "name": "Esdras 6:21"
+        },
+        {
+          "verse": "22",
+          "text": "Ils font la fête des Azymes sept jours dans la joie: oui, IHVH-Adonaï les a réjouis, il a tourné le cœur du roi d’Ashour à leur égard, pour fortifier leurs mains avec l’ouvrage de la maison d’Elohîms, l’Elohîms d’Israël.",
+          "chapter": "6",
+          "name": "Esdras 6:22"
+        }
+      ],
+      "name": "Esdras 6"
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Après ces paroles, sous le règne d’Artahshasta, roi de Paras, ‘Èzra bèn Serayah bèn ‘Azaryah bèn Hilqyah",
+          "chapter": "7",
+          "name": "Esdras 7:1"
+        },
+        {
+          "verse": "2",
+          "text": "bèn Shaloum bèn Sadoq bèn Ahitoub",
+          "chapter": "7",
+          "name": "Esdras 7:2"
+        },
+        {
+          "verse": "3",
+          "text": "bèn Amaryah bèn ‘Azaryah bèn Merayot",
+          "chapter": "7",
+          "name": "Esdras 7:3"
+        },
+        {
+          "verse": "4",
+          "text": "bèn Zerahyah bèn ‘Ouzi bèn Bouqi",
+          "chapter": "7",
+          "name": "Esdras 7:4"
+        },
+        {
+          "verse": "5",
+          "text": "bèn Abishoua‘ bèn Pinhas bèn Èl‘azar bèn Aarôn, le desservant, la tête,",
+          "chapter": "7",
+          "name": "Esdras 7:5"
+        },
+        {
+          "verse": "6",
+          "text": "lui, ‘Èzra, était monté de Babèl, lui, l’actuaire, expert dans la tora de Moshè, qu’a donnée IHVH-Adonaï, l’Elohîms d’Israël. Le roi lui donne tout ce qu’il demande, selon la main sur lui de IHVH-Adonaï, son Elohîms.",
+          "chapter": "7",
+          "name": "Esdras 7:6"
+        },
+        {
+          "verse": "7",
+          "text": "Des Benéi Israël, des desservants, des Lévi, des poètes, des portiers, des oblats, montent à Ieroushalaîm en l’an sept du roi Artahshasta.",
+          "chapter": "7",
+          "name": "Esdras 7:7"
+        },
+        {
+          "verse": "8",
+          "text": "Il vient à Ieroushalaîm, à la cinquième lunaison, en l’an septième du roi.",
+          "chapter": "7",
+          "name": "Esdras 7:8"
+        },
+        {
+          "verse": "9",
+          "text": "Oui, le premier de la première lunaison, c’est le rassemblement de la montée de Babèl; et le premier de la cinquième lunaison, il vient à Ieroushalaîm, selon la bonne main de IHVH-Adonaï sur lui.",
+          "chapter": "7",
+          "name": "Esdras 7:9"
+        },
+        {
+          "verse": "10",
+          "text": "Oui, ‘Èzra avait préparé son cœur à chercher la tora de IHVH-Adonaï, à agir et à apprendre à Israël la loi et le jugement.",
+          "chapter": "7",
+          "name": "Esdras 7:10"
+        },
+        {
+          "verse": "11",
+          "text": "Voici la copie de la missive que le roi Artahshasta donne à ‘Èzra, le desservant, l’actuaire, actuaire des paroles, des ordres de IHVH-Adonaï, de ses lois sur Israël:",
+          "chapter": "7",
+          "name": "Esdras 7:11"
+        },
+        {
+          "verse": "12",
+          "text": "«Artahshasta, le roi des rois, à ‘Èzra, desservant, actuaire de la loi des Eloha des ciels, etc. Maintenant",
+          "chapter": "7",
+          "name": "Esdras 7:12"
+        },
+        {
+          "verse": "13",
+          "text": "l’ordre est donné par moi: tous ceux du peuple d’Israël, de ses desservants, des Lévi, qui seront volontaires dans mon royaume pour aller avec toi à Ieroushalaîm, qu’ils y aillent!",
+          "chapter": "7",
+          "name": "Esdras 7:13"
+        },
+        {
+          "verse": "14",
+          "text": "Tu es envoyé en face du roi et des sept conseillers, pour veiller sur Iehouda et Ieroushalaîm, selon la loi de ton Eloha qui est en ta main,",
+          "chapter": "7",
+          "name": "Esdras 7:14"
+        },
+        {
+          "verse": "15",
+          "text": "pour porter l’argent et l’or que le roi et ses conseillers gratifient pour l’Eloha d’Israël, dont la résidence est à Ieroushalaîm;",
+          "chapter": "7",
+          "name": "Esdras 7:15"
+        },
+        {
+          "verse": "16",
+          "text": "et tout l’argent et l’or que tu trouveras dans toute la province de Babèl, avec les volontaires du peuple et des desservants qui en gratifieront la maison de leur Eloha qui est à Ieroushalaîm.",
+          "chapter": "7",
+          "name": "Esdras 7:16"
+        },
+        {
+          "verse": "17",
+          "text": "Ainsi hâte-toi d’acheter aussitôt, de cet argent, des taureaux, des béliers, des moutons pour les sacrifier sur l’autel qui est dans la maison de votre Eloha à Ieroushalaîm.",
+          "chapter": "7",
+          "name": "Esdras 7:17"
+        },
+        {
+          "verse": "18",
+          "text": "Ce qui sera bien pour toi et pour tes frères de faire avec le reste de l’argent et de l’or, faites-le au gré de votre Eloha.",
+          "chapter": "7",
+          "name": "Esdras 7:18"
+        },
+        {
+          "verse": "19",
+          "text": "Les objets donnés à toi pour le service de la maison de ton Eloha, donne-les en face de l’Eloha de Ieroushalaîm.",
+          "chapter": "7",
+          "name": "Esdras 7:19"
+        },
+        {
+          "verse": "20",
+          "text": "Le reste des besoins de la maison de ton Elohîms, qu’il t’incombera d’assumer, assume-les de la maison des archives du roi.",
+          "chapter": "7",
+          "name": "Esdras 7:20"
+        },
+        {
+          "verse": "21",
+          "text": "Et par moi, par moi-même, le roi Artahshasta, ordre en est donné à tous les trésoriers d’au-delà du Fleuve: Tout ce que ‘Èzra, le desservant, l’actuaire de la tora de l’Eloha des ciels, vous demandera sera exécuté aussitôt,",
+          "chapter": "7",
+          "name": "Esdras 7:21"
+        },
+        {
+          "verse": "22",
+          "text": "jusqu’à cent talents d’argent, cent kor de froment, cent bat de vin, cent bat d’huile, et du sel sans limitation.",
+          "chapter": "7",
+          "name": "Esdras 7:22"
+        },
+        {
+          "verse": "23",
+          "text": "Tout ce qui est selon l’ordre de l’Eloha sera exécuté avec exactitude, pour la maison de l’Elohîms des ciels; car pourquoi l’écume serait-elle contre le roi et ses fils?",
+          "chapter": "7",
+          "name": "Esdras 7:23"
+        },
+        {
+          "verse": "24",
+          "text": "À vous, nous vous faisons savoir que sur tous les desservants, les Lévi, les poètes, les portiers, les oblats, les serviteurs de cette maison d’Eloha, il n’est pas permis de lever de corvée, d’impôt, ni de taxe.",
+          "chapter": "7",
+          "name": "Esdras 7:24"
+        },
+        {
+          "verse": "25",
+          "text": "Et toi, ‘Èzra, selon la sagesse de ton Elohîms qui est en ta main, prépose des juges, des magistrats qui jugeront tout le peuple au-delà du Fleuve, tous les connaisseurs des lois de ton Eloha. Quiconque ne comprendra pas, fais-le comprendre.",
+          "chapter": "7",
+          "name": "Esdras 7:25"
+        },
+        {
+          "verse": "26",
+          "text": "Et qui n’exécutera pas l’ordre de ton Eloha et l’ordre du roi, justice sera faite contre lui, soit par la mort, soit par l’expulsion, soit par une punition pécuniaire, soit par la prison.»",
+          "chapter": "7",
+          "name": "Esdras 7:26"
+        },
+        {
+          "verse": "27",
+          "text": "Il est béni, IHVH-Adonaï l’Elohîms de nos pères, qui a donné cela au cœur du roi, pour magnifier la maison de IHVH-Adonaï à Ieroushalaîm.",
+          "chapter": "7",
+          "name": "Esdras 7:27"
+        },
+        {
+          "verse": "28",
+          "text": "Il a tendu sur moi le chérissement en face du roi et de ses conseillers et de tous les chefs du roi, les héros. Moi, je me suis fortifié selon la main de IHVH-Adonaï, mon Elohîms, sur moi, et j’ai groupé les chefs d’Israël pour monter avec moi.",
+          "chapter": "7",
+          "name": "Esdras 7:28"
+        }
+      ],
+      "name": "Esdras 7"
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Voici les têtes de leurs pères avec leurs enregistrements, qui montent avec moi de Babèl, du royaume d’Artahshasta, le roi:",
+          "chapter": "8",
+          "name": "Esdras 8:1"
+        },
+        {
+          "verse": "2",
+          "text": "Des Benéi Pinhas, Guérshôm; des Benéi Itamar, Daniél; des Benéi David, Hatoush;",
+          "chapter": "8",
+          "name": "Esdras 8:2"
+        },
+        {
+          "verse": "3",
+          "text": "des Benéi Shekhanyah, des Benéi Par‘osh, Zekharyah, et avec lui les mâles de l’enregistrement: cent cinquante.",
+          "chapter": "8",
+          "name": "Esdras 8:3"
+        },
+        {
+          "verse": "4",
+          "text": "Des Benéi Pahat Moab, Elyeho‘éinaï bèn Zerahyah, et avec lui les deux cents mâles.",
+          "chapter": "8",
+          "name": "Esdras 8:4"
+        },
+        {
+          "verse": "5",
+          "text": "Des Benéi Shekhanyah bèn Iahaziél, et avec lui les trois cents mâles.",
+          "chapter": "8",
+          "name": "Esdras 8:5"
+        },
+        {
+          "verse": "6",
+          "text": "Des Benéi ‘Adîn, ‘Èbèd bèn Ionatân, et avec lui les cinquante mâles.",
+          "chapter": "8",
+          "name": "Esdras 8:6"
+        },
+        {
+          "verse": "7",
+          "text": "Des Benéi ‘Éïlâm, Iesha‘yah bèn ‘Atalyah, et avec lui les soixante-dix mâles.",
+          "chapter": "8",
+          "name": "Esdras 8:7"
+        },
+        {
+          "verse": "8",
+          "text": "Des Benéi Shephatyah, Zebadyah bèn Mikhaél, et avec lui les quatre-vingts mâles.",
+          "chapter": "8",
+          "name": "Esdras 8:8"
+        },
+        {
+          "verse": "9",
+          "text": "Des Benéi Ioab, ‘Obadyah bèn Iehiél, et avec lui les deux cent dix-huit mâles.",
+          "chapter": "8",
+          "name": "Esdras 8:9"
+        },
+        {
+          "verse": "10",
+          "text": "Des Benéi Shelomit bèn Iossiphyah, et avec lui les cent soixante mâles.",
+          "chapter": "8",
+          "name": "Esdras 8:10"
+        },
+        {
+          "verse": "11",
+          "text": "Des Benéi Bébaï, Zekharyah bèn Bébaï, et avec lui les vingt-huit mâles.",
+          "chapter": "8",
+          "name": "Esdras 8:11"
+        },
+        {
+          "verse": "12",
+          "text": "Des Benéi ‘Azgad, Iohanân bèn Haqatân, et avec lui les cent dix mâles.",
+          "chapter": "8",
+          "name": "Esdras 8:12"
+        },
+        {
+          "verse": "13",
+          "text": "Des Benéi Adoniqâm, les derniers, et voici leurs noms: Èliphèlèt, Ie‘iél, Shema‘yah, et avec eux les soixante mâles,",
+          "chapter": "8",
+          "name": "Esdras 8:13"
+        },
+        {
+          "verse": "14",
+          "text": "Des Benéi Bigvaï, ‘Outaï, Zakour et avec, les soixante-dix mâles.",
+          "chapter": "8",
+          "name": "Esdras 8:14"
+        },
+        {
+          "verse": "15",
+          "text": "Je les groupe vers le fleuve qui vient vers Ahava. Nous campons là trois jours. Je discerne le peuple et les desservants, mais des Benéi Lévi, je n’en trouve pas là.",
+          "chapter": "8",
+          "name": "Esdras 8:15"
+        },
+        {
+          "verse": "16",
+          "text": "J’envoie Èli‘èzèr, Ariél, Shema‘yah, Èlnatân, Iarib, Èlnatân, Natân, Zekharyah, Meshoulâm, les têtes, et Ioyarib, Èlnatân, les discernants.",
+          "chapter": "8",
+          "name": "Esdras 8:16"
+        },
+        {
+          "verse": "17",
+          "text": "Je leur donne des ordres pour Ido, la tête, à Kassiphya-le-lieu. Je mets dans leur bouche les paroles à dire à Ido et à ses frères, les oblats de Kassiphya-le-lieu, pour faire venir à nous les officiants pour la maison de notre Elohîms.",
+          "chapter": "8",
+          "name": "Esdras 8:17"
+        },
+        {
+          "verse": "18",
+          "text": "Et comme la bonne main de notre Elohîms est sur nous, ils font venir à nous un homme perspicace des Benéi Mahli bèn Lévi bèn Israël: Shérébyah, ses fils et ses frères: dix-huit;",
+          "chapter": "8",
+          "name": "Esdras 8:18"
+        },
+        {
+          "verse": "19",
+          "text": "Hashabyah, et avec lui Iesha‘yah des Benéi Merari, ses frères et ses fils: vingt;",
+          "chapter": "8",
+          "name": "Esdras 8:19"
+        },
+        {
+          "verse": "20",
+          "text": "et des oblats donnés par David et les chefs pour le service des Lévi, oblats: deux cent vingt, tous pointés par leurs noms.",
+          "chapter": "8",
+          "name": "Esdras 8:20"
+        },
+        {
+          "verse": "21",
+          "text": "Là, j’ai proclamé un jeûne sur le fleuve Ahava, pour nous violenter en face de notre Elohîms, lui demander la route droite pour nous, pour notre marmaille, pour tous nos équipements.",
+          "chapter": "8",
+          "name": "Esdras 8:21"
+        },
+        {
+          "verse": "22",
+          "text": "Oui, j’avais blêmi de demander au roi une armée et des cavaliers pour nous aider contre l’ennemi sur notre route. Oui, nous avions dit au roi pour dire: «La main de notre Elohîms est sur tous ceux qui demandent le bien; et sa fougue, sa narine contre tous ses relaps.»",
+          "chapter": "8",
+          "name": "Esdras 8:22"
+        },
+        {
+          "verse": "23",
+          "text": "Nous jeûnons et demandons cela à Elohîms. Il intercède pour nous.",
+          "chapter": "8",
+          "name": "Esdras 8:23"
+        },
+        {
+          "verse": "24",
+          "text": "Parmi les chefs des desservants, j’en distingue douze: Shérébyah, Hashabyah, et avec eux dix de leurs frères.",
+          "chapter": "8",
+          "name": "Esdras 8:24"
+        },
+        {
+          "verse": "25",
+          "text": "J’ai pesé pour eux l’argent, l’or, les objets, le prélèvement pour la maison de notre Elohîms, qu’avaient prélevé le roi, ses conseillers, ses chefs, et tout Israël qui se trouvait là.",
+          "chapter": "8",
+          "name": "Esdras 8:25"
+        },
+        {
+          "verse": "26",
+          "text": "Je pèse en leur main six cent cinquante talents d’argent; des objets d’argent: cent; en talents d’or: cent;",
+          "chapter": "8",
+          "name": "Esdras 8:26"
+        },
+        {
+          "verse": "27",
+          "text": "des godets d’or: vingt; des drachmes: mille; de bons objets en bronze doré: deux, convoitables comme de l’or.",
+          "chapter": "8",
+          "name": "Esdras 8:27"
+        },
+        {
+          "verse": "28",
+          "text": "Je leur dis: «Vous êtes consacrés à IHVH-Adonaï, et les objets sont consacrés. L’or et l’argent sont en gratification pour IHVH-Adonaï, l’Elohîms de vos pères.",
+          "chapter": "8",
+          "name": "Esdras 8:28"
+        },
+        {
+          "verse": "29",
+          "text": "Hâtez-vous et gardez jusqu’à ce que vous les pesiez en face des chefs des desservants, des Lévi, des chefs des pères d’Israël, à Ieroushalaîm, dans les bureaux de la maison de IHVH-Adonaï.»",
+          "chapter": "8",
+          "name": "Esdras 8:29"
+        },
+        {
+          "verse": "30",
+          "text": "Les desservants, les Lévi, reçoivent le poids d’argent, d’or, d’objets à faire venir à Ieroushalaîm dans la maison de notre Elohîms.",
+          "chapter": "8",
+          "name": "Esdras 8:30"
+        },
+        {
+          "verse": "31",
+          "text": "Nous sommes partis du fleuve Ahava, le douze de la première lunaison, pour aller à Ieroushalaîm. La main de notre Elohîms était sur nous: il nous secourt de la paume de l’ennemi et de l’embusqué sur la route.",
+          "chapter": "8",
+          "name": "Esdras 8:31"
+        },
+        {
+          "verse": "32",
+          "text": "Nous venons à Ieroushalaîm et habitons là trois jours.",
+          "chapter": "8",
+          "name": "Esdras 8:32"
+        },
+        {
+          "verse": "33",
+          "text": "Le quatrième jour, nous pesons l’argent, l’or, les objets, dans la maison de notre Elohîms, en main de Merémot bèn Ouryah, le desservant, avec Èl‘azar bèn Pinhas, Iozabad bèn Iéshoua‘ et No‘adyah bèn Binouï, les Lévi;",
+          "chapter": "8",
+          "name": "Esdras 8:33"
+        },
+        {
+          "verse": "34",
+          "text": "le tout en nombre, en poids; tout le poids est inscrit en ce temps.",
+          "chapter": "8",
+          "name": "Esdras 8:34"
+        },
+        {
+          "verse": "35",
+          "text": "Les revenants de la captivité, les fils de l’exil, présentent des montées à l’Elohîms d’Israël; bouvillons: douze pour tout Israël; béliers: quatre-vingt-seize; moutons: soixante-dix-sept; cabris défauteurs: douze; le tout en montée pour IHVH-Adonaï.",
+          "chapter": "8",
+          "name": "Esdras 8:35"
+        },
+        {
+          "verse": "36",
+          "text": "Ils donnent les édits du roi aux satrapes du roi et aux pachas du passage du Fleuve. Ils élèvent le peuple et la maison de l’Elohîms.",
+          "chapter": "8",
+          "name": "Esdras 8:36"
+        }
+      ],
+      "name": "Esdras 8"
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "À l’achèvement de cela, les chefs s’avancent vers moi pour dire: «Le peuple d’Israël, les desservants, les Lévi ne se sont pas distingués des peuples des terres, du Kena‘ani, du Hiti, du Perizi, du Ieboussi, de l’‘Amoni, du Moabi, du Misri, de l’Emori pour leur abominations.",
+          "chapter": "9",
+          "name": "Esdras 9:1"
+        },
+        {
+          "verse": "2",
+          "text": "Oui, ils ont épousé leurs filles, eux et leurs fils. La semence consacrée s’est mêlée aux peuples de la terre; la main des chefs et des lieutenants fut, dans cette rébellion, première.»",
+          "chapter": "9",
+          "name": "Esdras 9:2"
+        },
+        {
+          "verse": "3",
+          "text": "Quand j’entends cette parole, je déchire mon habit et mon manteau, je rase les cheveux de ma tête et ma barbe, je m’assois, désolé.",
+          "chapter": "9",
+          "name": "Esdras 9:3"
+        },
+        {
+          "verse": "4",
+          "text": "Vers moi se réunissent tous ceux qui tremblent aux paroles de l’Elohîms d’Israël sur la rébellion de l’exil. Moi, je m’assois, désolé, jusqu’à l’offrande du soir.",
+          "chapter": "9",
+          "name": "Esdras 9:4"
+        },
+        {
+          "verse": "5",
+          "text": "À l’offrande du soir, je me lève de mon carême. Ayant déchiré mon habit et mon manteau, je ploie sur mes genoux; je tends mes paumes vers IHVH-Adonaï, mon Elohîms,",
+          "chapter": "9",
+          "name": "Esdras 9:5"
+        },
+        {
+          "verse": "6",
+          "text": "et je dis: «Je blêmis, flétri de lever, Elohaï, mes faces vers toi. Oui, nos torts se sont multipliés au-dessus de la tête; notre culpabilité a grandi jusqu’aux ciels.",
+          "chapter": "9",
+          "name": "Esdras 9:6"
+        },
+        {
+          "verse": "7",
+          "text": "Depuis les jours de nos pères, nous, en grande culpabilité jusqu’à ce jour, nous avons été donnés à nos torts, nous, nos rois, nos desservants, en main des rois des terres, par l’épée, par la captivité, par le pillage, par le blêmissement des faces, comme en ce jour.",
+          "chapter": "9",
+          "name": "Esdras 9:7"
+        },
+        {
+          "verse": "8",
+          "text": "Maintenant, pour un court instant, c’était une amnistie de IHVH-Adonaï, notre Elohîms. Il nous laissait des rescapés et nous donnait un piquet au lieu de son sanctuaire. Pour illuminer nos yeux, notre Elohîms nous donnait un peu de vie dans notre servitude.",
+          "chapter": "9",
+          "name": "Esdras 9:8"
+        },
+        {
+          "verse": "9",
+          "text": "Oui, nous sommes des serfs, mais dans notre servitude notre Elohîms ne nous a pas abandonnés. Il a tendu sur nous le chérissement, face aux rois de Paras pour nous donner la vie, relever la maison de notre Elohîms, redresser ses ruines, nous donner une clôture en Iehouda et Ieroushalaîm.",
+          "chapter": "9",
+          "name": "Esdras 9:9"
+        },
+        {
+          "verse": "10",
+          "text": "Maintenant, que dirons-nous, notre Elohîms, après cela? Oui, nous avons abandonné tes ordres",
+          "chapter": "9",
+          "name": "Esdras 9:10"
+        },
+        {
+          "verse": "11",
+          "text": "que tu as ordonnés par la main de tes serviteurs les inspirés, pour dire: ‹ La terre où vous venez pour en hériter est une terre de menstrues, dans la menstrue des peuples des terres, avec les abominations dont ils l’ont remplie, de bouche à bouche, dans leur contamination.",
+          "chapter": "9",
+          "name": "Esdras 9:11"
+        },
+        {
+          "verse": "12",
+          "text": "Maintenant ne donnez pas vos filles à leurs fils, ne mariez pas leurs filles à vos fils. Ne cherchez ni leur paix, ni leur bien, en pérennité, pour que vous vous fortifiiez, mangiez le meilleur de la terre et en fassiez vos fils jusqu’en pérennité. ›",
+          "chapter": "9",
+          "name": "Esdras 9:12"
+        },
+        {
+          "verse": "13",
+          "text": "Après tout ce qui nous est arrivé pour nos actes mauvais et en notre grande culpabilité, oui, toi, notre Elohîms, tu nous as épargnés au-dessous de nos torts et tu nous as donné une telle échappée.",
+          "chapter": "9",
+          "name": "Esdras 9:13"
+        },
+        {
+          "verse": "14",
+          "text": "Retournerions-nous pour annuler tes ordres et pour nous marier avec les peuples de ces abominations? Ne fulminerais-tu pas contre nous jusqu’à l’achèvement, sans reste ni rescapé?",
+          "chapter": "9",
+          "name": "Esdras 9:14"
+        },
+        {
+          "verse": "15",
+          "text": "IHVH-Adonaï, Elohîms d’Israël, tu es juste! Nous restons quelques rescapés comme en ce jour. Nous voici en face de toi dans notre culpabilité; nul ne peut tenir en face de toi, en cela.»",
+          "chapter": "9",
+          "name": "Esdras 9:15"
+        }
+      ],
+      "name": "Esdras 9"
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Tandis qu’‘Èzra prie et fait ses aveux en pleurant et en tombant en face de la maison de l’Elohîms, un rassemblement très nombreux d’Israël se groupe vers lui, hommes, femmes, enfants. Oui, il pleure beaucoup, le peuple en pleurs.",
+          "chapter": "10",
+          "name": "Esdras 10:1"
+        },
+        {
+          "verse": "2",
+          "text": "Shekhanyah bèn Iehiél, des Benéi ‘Éïlâm, répond et dit à ‘Èzra: «Nous nous sommes rebellés contre notre Elohîms: nous avons installé des femmes étrangères des peuples de la terre. Maintenant il existe une espérance pour Israël en tout cela.",
+          "chapter": "10",
+          "name": "Esdras 10:2"
+        },
+        {
+          "verse": "3",
+          "text": "Maintenant nous trancherons un pacte avec notre Elohîms pour faire sortir toutes les femmes et ce qui est né d’elles, selon le conseil d’Adonaï. Et ceux qui tremblent à l’ordre de notre Elohîms agiront selon la tora.",
+          "chapter": "10",
+          "name": "Esdras 10:3"
+        },
+        {
+          "verse": "4",
+          "text": "Lève-toi! Oui, la parole est à toi et nous sommes avec toi. Sois fort, agis!»",
+          "chapter": "10",
+          "name": "Esdras 10:4"
+        },
+        {
+          "verse": "5",
+          "text": "‘Èzra se lève. Il fait jurer les chefs des desservants, des Lévi, et tout Israël, de faire selon cette parole. Ils jurent.",
+          "chapter": "10",
+          "name": "Esdras 10:5"
+        },
+        {
+          "verse": "6",
+          "text": "‘Èzra se lève en face de la maison de l’Elohîms. Il va au bureau de Yehohanân bèn Èliashib. Il va là, ne mange pas de pain et ne boit pas d’eau. Oui, il s’endeuille sur la rébellion de l’exil.",
+          "chapter": "10",
+          "name": "Esdras 10:6"
+        },
+        {
+          "verse": "7",
+          "text": "Ils font passer une voix en Iehouda et Ieroushalaîm pour tous les fils de l’exil: se grouper à Ieroushalaîm.",
+          "chapter": "10",
+          "name": "Esdras 10:7"
+        },
+        {
+          "verse": "8",
+          "text": "Qui ne viendrait pas dans les trois jours, selon le conseil des chefs et des anciens, tout son bien serait interdit; et lui, il serait séparé du rassemblement de l’exil.",
+          "chapter": "10",
+          "name": "Esdras 10:8"
+        },
+        {
+          "verse": "9",
+          "text": "Tous les hommes de Iehouda et de Biniamîn se groupent à Ieroushalaîm dans les trois jours. C’est la neuvième lunaison, le vingt de la lunaison. Tout le peuple habite sur la place de la maison de l’Elohîms, secoué par la parole et par les pluies.",
+          "chapter": "10",
+          "name": "Esdras 10:9"
+        },
+        {
+          "verse": "10",
+          "text": "Se lève ‘Èzra, le desservant. Il leur dit: «Vous vous êtes rebellés. Vous avez installé des femmes étrangères, pour ajouter à la culpabilité d’Israël.",
+          "chapter": "10",
+          "name": "Esdras 10:10"
+        },
+        {
+          "verse": "11",
+          "text": "Maintenant, donnez merci à IHVH-Adonaï, l’Elohîms de nos pères. Faites son vouloir. Séparez-vous des peuples de la terre et des femmes étrangères.»",
+          "chapter": "10",
+          "name": "Esdras 10:11"
+        },
+        {
+          "verse": "12",
+          "text": "Tout le rassemblement répond et dit à grande voix: «Oui, c’est à nous de faire selon ta parole!",
+          "chapter": "10",
+          "name": "Esdras 10:12"
+        },
+        {
+          "verse": "13",
+          "text": "Mais le peuple est nombreux, c’est le temps des pluies, et pas de force pour se tenir dehors! L’ouvrage n’est pas pour un jour ni pour deux! Oui, nous avons multiplié nos carences en cette parole.",
+          "chapter": "10",
+          "name": "Esdras 10:13"
+        },
+        {
+          "verse": "14",
+          "text": "Nos chefs se dresseront donc pour tout le rassemblement. Tous ceux qui, dans nos villes, ont installé des femmes étrangères viendront à temps fixe avec eux, les anciens et les juges de chaque ville, jusqu’à détourner de lui la brûlure de narine de notre Elohîms à ce propos.»",
+          "chapter": "10",
+          "name": "Esdras 10:14"
+        },
+        {
+          "verse": "15",
+          "text": "Seuls Ionatân bèn ‘Assahél et Iahzeyah bèn Tiqva se dressent contre cela. Meshoulâm et Shabetaï le Lévi les aident.",
+          "chapter": "10",
+          "name": "Esdras 10:15"
+        },
+        {
+          "verse": "16",
+          "text": "Mais les fils de l’exil font ainsi: ‘Èzra le desservant, et des hommes, des têtes de pères par maison de leurs pères, sont distingués tous par noms; ils siègent le premier jour de la dixième lunaison pour chercher la parole.",
+          "chapter": "10",
+          "name": "Esdras 10:16"
+        },
+        {
+          "verse": "17",
+          "text": "Ils achèvent le tout, pour les hommes qui avaient installé des femmes étrangères, au premier jour de la première lunaison.",
+          "chapter": "10",
+          "name": "Esdras 10:17"
+        },
+        {
+          "verse": "18",
+          "text": "Parmi les fils des desservants qui avaient installé des femmes étrangères, se trouvent des Benéi Iéshoua‘ bèn Iosadaq et ses frères: Ma‘asséyah, Èli‘èzèr, Iarib et Guedalyah.",
+          "chapter": "10",
+          "name": "Esdras 10:18"
+        },
+        {
+          "verse": "19",
+          "text": "Ils donnent leur main pour faire sortir leurs femmes; ils font coulpe d’un bélier d’ovins, pour leur culpabilité.",
+          "chapter": "10",
+          "name": "Esdras 10:19"
+        },
+        {
+          "verse": "20",
+          "text": "Des Benéi Imér: Hanani et Zebadyah;",
+          "chapter": "10",
+          "name": "Esdras 10:20"
+        },
+        {
+          "verse": "21",
+          "text": "des Benéi Harîm: Ma‘asséyah, Élyah, Shema‘yah, Iehiél, ‘Ouzyah;",
+          "chapter": "10",
+          "name": "Esdras 10:21"
+        },
+        {
+          "verse": "22",
+          "text": "des Benéi Pashehour: Èlio‘éinaï, Ma‘asséyah, Ishma‘él, Netanél, Iozabad, Èl‘assa.",
+          "chapter": "10",
+          "name": "Esdras 10:22"
+        },
+        {
+          "verse": "23",
+          "text": "Des Lévi: Iozabad, Shim‘i, Qélayah-lui: Qelita-, Petahyah, Iehouda, Èli‘èzèr.",
+          "chapter": "10",
+          "name": "Esdras 10:23"
+        },
+        {
+          "verse": "24",
+          "text": "Des poètes: Èliashib; des portiers: Shaloum, Tèlèm, Ouri.",
+          "chapter": "10",
+          "name": "Esdras 10:24"
+        },
+        {
+          "verse": "25",
+          "text": "D’Israël, des Benéi Par‘osh: Ramyah, Izyah, Malkyah, Miyamîn, Èl‘azar, Malkhyah, Benayah;",
+          "chapter": "10",
+          "name": "Esdras 10:25"
+        },
+        {
+          "verse": "26",
+          "text": "Des Benéi ‘Éïlâm: Matanyah, Zekharyah, Iehiél, ‘Abdi, Ierémot, Élyah;",
+          "chapter": "10",
+          "name": "Esdras 10:26"
+        },
+        {
+          "verse": "27",
+          "text": "des Benéi Zatou: Èlyo‘einaï, Èlyashib, Matanayah, Ierémot, Zabad, ‘Aziza;",
+          "chapter": "10",
+          "name": "Esdras 10:27"
+        },
+        {
+          "verse": "28",
+          "text": "des Benéi Bébaï: Yehohanân, Hananyah, Zabaï, ‘Atlaï;",
+          "chapter": "10",
+          "name": "Esdras 10:28"
+        },
+        {
+          "verse": "29",
+          "text": "des Benéi Bani: Meshoulâm, Maloukh, ‘Adayah, Iashoub, Sheal, Ramot;",
+          "chapter": "10",
+          "name": "Esdras 10:29"
+        },
+        {
+          "verse": "30",
+          "text": "des Benéi Pahat Moab: ‘Adna, Kelal, Benayah, Ma‘asséyah, Matanyah, Besalél, Binouï, Menashè;",
+          "chapter": "10",
+          "name": "Esdras 10:30"
+        },
+        {
+          "verse": "31",
+          "text": "des Benéi Harîm: Èli‘èzèr, Ishyah, Malkyah, Shema‘yah, Shim‘ôn,",
+          "chapter": "10",
+          "name": "Esdras 10:31"
+        },
+        {
+          "verse": "32",
+          "text": "Biniamîn, Maloukh, Shemaryah;",
+          "chapter": "10",
+          "name": "Esdras 10:32"
+        },
+        {
+          "verse": "33",
+          "text": "des Benéi Hashoum: Matenaï, Matata, Zabad, Èliphèlèt, Ierémaï, Menashè, Shim‘i;",
+          "chapter": "10",
+          "name": "Esdras 10:33"
+        },
+        {
+          "verse": "34",
+          "text": "des Benéi Bani: Ma‘adaï, ‘Amerâm, Ouél,",
+          "chapter": "10",
+          "name": "Esdras 10:34"
+        },
+        {
+          "verse": "35",
+          "text": "Benayah, Bédyah, Kelouhou,",
+          "chapter": "10",
+          "name": "Esdras 10:35"
+        },
+        {
+          "verse": "36",
+          "text": "Vanyah, Merémot, Èliashib,",
+          "chapter": "10",
+          "name": "Esdras 10:36"
+        },
+        {
+          "verse": "37",
+          "text": "Matanyah, Matenaï, Ia‘ashaï,",
+          "chapter": "10",
+          "name": "Esdras 10:37"
+        },
+        {
+          "verse": "38",
+          "text": "Bani, Binouï, Shim‘i,",
+          "chapter": "10",
+          "name": "Esdras 10:38"
+        },
+        {
+          "verse": "39",
+          "text": "Shèlèmyah, Natân, ‘Adayah,",
+          "chapter": "10",
+          "name": "Esdras 10:39"
+        },
+        {
+          "verse": "40",
+          "text": "Makhnadebaï, Shashaï, Sharaï,",
+          "chapter": "10",
+          "name": "Esdras 10:40"
+        },
+        {
+          "verse": "41",
+          "text": "‘Azarél, Shèlèmyahou, Shemaryah,",
+          "chapter": "10",
+          "name": "Esdras 10:41"
+        },
+        {
+          "verse": "42",
+          "text": "Shaloum, Amaryah, Iosseph;",
+          "chapter": "10",
+          "name": "Esdras 10:42"
+        },
+        {
+          "verse": "43",
+          "text": "des Benéi Nebo: Ie‘iél, Matityah, Zabad, Zebina, Iadaï, Ioël, Benayah.",
+          "chapter": "10",
+          "name": "Esdras 10:43"
+        },
+        {
+          "verse": "44",
+          "text": "Tous ceux-là avaient épousé des femmes étrangères. Parmi eux, il existait des femmes qui avaient eu des fils.",
+          "chapter": "10",
+          "name": "Esdras 10:44"
+        }
+      ],
+      "name": "Esdras 10"
+    }
+  ]
+}

@@ -1,0 +1,1908 @@
+{
+  "translation": "King James Française",
+  "abbreviation": "KJF",
+  "lang": "fr",
+  "language": "français",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 58,
+  "name": "Hébreux",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Dieu, qui autrefois, à diverses reprises et en diverses manières, a parlé à nos pères par les prophètes,",
+          "chapter": "1",
+          "name": "Hébreux 1:1"
+        },
+        {
+          "verse": "2",
+          "text": "Nous a en ces derniers jours, parlé par son Fils, lequel il a assigné héritier de toutes choses, par lequel aussi il a fait les mondes;",
+          "chapter": "1",
+          "name": "Hébreux 1:2"
+        },
+        {
+          "verse": "3",
+          "text": "Qui, étant le rayonnement de sa gloire et l’image exprimée de sa personne, et soutenant toutes choses par la parole de sa puissance, lorsqu’il a par lui-même fait la purification de nos péchés, s’est assis à la main droite de la Majesté dans les hauts |[lieux];",
+          "chapter": "1",
+          "name": "Hébreux 1:3"
+        },
+        {
+          "verse": "4",
+          "text": "Étant fait d’autant plus supérieur aux anges, puisqu’il a par héritage obtenu un nom plus excellent que le leur.",
+          "chapter": "1",
+          "name": "Hébreux 1:4"
+        },
+        {
+          "verse": "5",
+          "text": "Car auquel des anges |[Dieu]| a-t-il jamais dit: Tu es mon Fils, aujourd’hui je t’ai engendré? Et encore: Je lui serai un Père, et il me sera un Fils?",
+          "chapter": "1",
+          "name": "Hébreux 1:5"
+        },
+        {
+          "verse": "6",
+          "text": "Et encore, quand il introduit le premier engendré dans le monde, il dit: Et que tous les anges de Dieu l’adorent.",
+          "chapter": "1",
+          "name": "Hébreux 1:6"
+        },
+        {
+          "verse": "7",
+          "text": "Et des anges, il dit: Qui fait ses anges des esprits, et ses ministres une flamme de feu.",
+          "chapter": "1",
+          "name": "Hébreux 1:7"
+        },
+        {
+          "verse": "8",
+          "text": "Mais au Fils il dit: Ton trône, ô Dieu, est pour toujours et toujours, un sceptre de droiture est le sceptre de ton royaume.",
+          "chapter": "1",
+          "name": "Hébreux 1:8"
+        },
+        {
+          "verse": "9",
+          "text": "Tu as aimé la droiture, et haï l’iniquité, c’est pourquoi Dieu, aussi ton Dieu, t’a oint avec l’huile de joie au-dessus de tes semblables.",
+          "chapter": "1",
+          "name": "Hébreux 1:9"
+        },
+        {
+          "verse": "10",
+          "text": "Et Toi, Seigneur, au commencement tu as posé la fondation de la terre, et les cieux sont les œuvres de tes mains.",
+          "chapter": "1",
+          "name": "Hébreux 1:10"
+        },
+        {
+          "verse": "11",
+          "text": "Ils périront, mais toi, tu demeures; et ils vieilliront tous comme un vêtement,",
+          "chapter": "1",
+          "name": "Hébreux 1:11"
+        },
+        {
+          "verse": "12",
+          "text": "Et comme un habit tu les plieras; et ils seront changés, mais toi, tu es le même, et tes années ne failliront pas.",
+          "chapter": "1",
+          "name": "Hébreux 1:12"
+        },
+        {
+          "verse": "13",
+          "text": "Mais auquel des anges |[Dieu]| a-t-il jamais dit: Assieds-toi à ma main droite, jusqu’à ce que j’aie fait de tes ennemis ton marchepied?",
+          "chapter": "1",
+          "name": "Hébreux 1:13"
+        },
+        {
+          "verse": "14",
+          "text": "Ne sont-ils pas tous des esprits administrateurs, envoyés pour |[exercer un]| ministère pour ceux qui seront héritiers du salut?",
+          "chapter": "1",
+          "name": "Hébreux 1:14"
+        }
+      ],
+      "name": "Hébreux 1"
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "C’est pourquoi nous devons d’autant plus sérieusement porter une plus grande attention aux choses que nous avons entendues, de peur qu’à tout moment nous ne les laissions échapper.",
+          "chapter": "2",
+          "name": "Hébreux 2:1"
+        },
+        {
+          "verse": "2",
+          "text": "Car si la parole prononcée par les anges a été ferme, et |[si]| toute transgression, et |[toute]| désobéissance a reçu une juste représaille,",
+          "chapter": "2",
+          "name": "Hébreux 2:2"
+        },
+        {
+          "verse": "3",
+          "text": "Comment échapperons-nous, si nous négligeons un si grand salut, qui a premièrement commencé d’être déclaré par le Seigneur, et nous a été confirmé par ceux qui l’avaient entendu?",
+          "chapter": "2",
+          "name": "Hébreux 2:3"
+        },
+        {
+          "verse": "4",
+          "text": "Dieu aussi leur rendant témoignage par des signes et des prodiges, et par divers miracles, et par les dons de l’Esprit Saint, selon sa volonté?",
+          "chapter": "2",
+          "name": "Hébreux 2:4"
+        },
+        {
+          "verse": "5",
+          "text": "Car ce n’est pas aux anges qu’il a assujetti le monde à venir dont nous parlons.",
+          "chapter": "2",
+          "name": "Hébreux 2:5"
+        },
+        {
+          "verse": "6",
+          "text": "Mais quelqu’un a témoigné à un endroit précis, disant: Qu’est-ce que l’homme, que tu penses à lui? ou le fils d’homme que tu prêtes attention à lui?",
+          "chapter": "2",
+          "name": "Hébreux 2:6"
+        },
+        {
+          "verse": "7",
+          "text": "Tu l’as fait un peu inférieur aux anges; tu l’as couronné de gloire et d’honneur, et tu l’as établi sur les œuvres de tes mains;",
+          "chapter": "2",
+          "name": "Hébreux 2:7"
+        },
+        {
+          "verse": "8",
+          "text": "Tu as assujetti toutes choses sous ses pieds. Car en ce qu’il lui a tout assujetti, il n’a rien laissé qui ne lui soit assujetti. Mais maintenant nous ne voyons pas encore |[que]| toutes choses lui sont assujetties.",
+          "chapter": "2",
+          "name": "Hébreux 2:8"
+        },
+        {
+          "verse": "9",
+          "text": "Mais nous voyons Jésus, qui a été fait un peu inférieur aux anges à cause des souffrances de la mort, couronné de gloire et d’honneur, afin que par la grâce de Dieu il goûte la mort pour chaque homme.",
+          "chapter": "2",
+          "name": "Hébreux 2:9"
+        },
+        {
+          "verse": "10",
+          "text": "Car il convenait que celui pour lequel sont toutes choses, et par lequel sont toutes choses, amenant beaucoup de fils à la gloire, pour rendre parfait le capitaine de leur salut, à travers les souffrances.",
+          "chapter": "2",
+          "name": "Hébreux 2:10"
+        },
+        {
+          "verse": "11",
+          "text": "Car, et celui qui sanctifie, et ceux qui sont sanctifiés sont tous d’un; c’est pourquoi il n’a pas honte de les appeler frères,",
+          "chapter": "2",
+          "name": "Hébreux 2:11"
+        },
+        {
+          "verse": "12",
+          "text": "Disant: Je déclarerai ton nom à mes frères; au milieu de l’église je te chanterai des louanges.",
+          "chapter": "2",
+          "name": "Hébreux 2:12"
+        },
+        {
+          "verse": "13",
+          "text": "Et encore: Je me confierai en lui. Et encore: |[Me]| voici, moi et les enfants que Dieu m’a donnés.",
+          "chapter": "2",
+          "name": "Hébreux 2:13"
+        },
+        {
+          "verse": "14",
+          "text": "D’autant plus que les enfants sont participants de la chair et du sang, lui aussi de même y a participé, afin qu’à travers la mort il puisse détruire celui qui avait le pouvoir de la mort, c’est-à-dire, le diable;",
+          "chapter": "2",
+          "name": "Hébreux 2:14"
+        },
+        {
+          "verse": "15",
+          "text": "Et qu’il délivre ceux qui par peur de la mort, étaient toute leur vie assujettie à la servitude.",
+          "chapter": "2",
+          "name": "Hébreux 2:15"
+        },
+        {
+          "verse": "16",
+          "text": "Car en vérité, il n’a pas pris la nature des anges, mais il a pris sur lui la semence d’Abraham.",
+          "chapter": "2",
+          "name": "Hébreux 2:16"
+        },
+        {
+          "verse": "17",
+          "text": "C’est pourquoi il a fallu qu’il devienne semblable en toutes choses à ses frères, afin qu’il puisse être un miséricordieux, et fidèle grand prêtre dans les choses se rapportant à Dieu, pour faire réconciliation pour les péchés du peuple.",
+          "chapter": "2",
+          "name": "Hébreux 2:17"
+        },
+        {
+          "verse": "18",
+          "text": "Car en ce qu’il a lui-même souffert, étant tenté, il est capable de secourir ceux qui sont tentés.",
+          "chapter": "2",
+          "name": "Hébreux 2:18"
+        }
+      ],
+      "name": "Hébreux 2"
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "C'est pourquoi, frères saints, participants à l'appel céleste, considérez l'Apôtre et le Grand Prêtre de notre profession, Christ Jésus,",
+          "chapter": "3",
+          "name": "Hébreux 3:1"
+        },
+        {
+          "verse": "2",
+          "text": "Qui a été fidèle à celui qui l’a assigné, comme Moïse aussi était fidèle dans toute sa maison.",
+          "chapter": "3",
+          "name": "Hébreux 3:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car cet homme a été considéré digne de plus de gloire que celle de Moïse, d’autant plus grande que celui qui a bâti la maison a plus d’honneur que la maison.",
+          "chapter": "3",
+          "name": "Hébreux 3:3"
+        },
+        {
+          "verse": "4",
+          "text": "Car toute maison est bâtie par quelqu’un; mais celui qui a bâti toutes choses est Dieu.",
+          "chapter": "3",
+          "name": "Hébreux 3:4"
+        },
+        {
+          "verse": "5",
+          "text": "Et Moïse a assurément était fidèle dans toute sa maison, comme serviteur, pour un témoignage de ces choses qui devaient être déclarées après;",
+          "chapter": "3",
+          "name": "Hébreux 3:5"
+        },
+        {
+          "verse": "6",
+          "text": "Mais Christ, comme un fils sur sa propre maison;duquel nous sommes la maison, si nous tenons ferme la confiance et la réjouissance de l’espérance jusqu’à la fin.",
+          "chapter": "3",
+          "name": "Hébreux 3:6"
+        },
+        {
+          "verse": "7",
+          "text": "C’est pourquoi, (comme dit l’Esprit Saint: Aujourd’hui, si vous entendez sa voix,",
+          "chapter": "3",
+          "name": "Hébreux 3:7"
+        },
+        {
+          "verse": "8",
+          "text": "N’endurcissez pas vos cœurs, comme lors de la provocation, au jour de la tentation dans le désert,",
+          "chapter": "3",
+          "name": "Hébreux 3:8"
+        },
+        {
+          "verse": "9",
+          "text": "Quand vos pères me tentèrent |[et]| m’éprouvèrent, et virent mes œuvres pendant quarante ans.",
+          "chapter": "3",
+          "name": "Hébreux 3:9"
+        },
+        {
+          "verse": "10",
+          "text": "C’est pourquoi j’étais attristé par cette génération, et |[j’ai]| dit: Ils s’égarent toujours dans leur cœur, et ils n’ont pas connu mes chemins.",
+          "chapter": "3",
+          "name": "Hébreux 3:10"
+        },
+        {
+          "verse": "11",
+          "text": "Ainsi j’ai juré dans ma colère: Ils n’entreront pas dans mon repos).",
+          "chapter": "3",
+          "name": "Hébreux 3:11"
+        },
+        {
+          "verse": "12",
+          "text": "Prenez garde, frères, de peur qu’aucun de vous n’ait un mauvais cœur d’incrédulité, en abandonnant le Dieu vivant.",
+          "chapter": "3",
+          "name": "Hébreux 3:12"
+        },
+        {
+          "verse": "13",
+          "text": "Mais exhortez-vous l’un l’autre chaque jour, aussi longtemps qu’on peut dire: Aujourd’hui; de peur que l’un de vous ne s’endurcisse par la séduction du péché.",
+          "chapter": "3",
+          "name": "Hébreux 3:13"
+        },
+        {
+          "verse": "14",
+          "text": "Car nous sommes faits participants de Christ, pourvu que nous tenions ferme le commencement de notre assurance jusqu’à la fin,",
+          "chapter": "3",
+          "name": "Hébreux 3:14"
+        },
+        {
+          "verse": "15",
+          "text": "Pendant qu’il est dit: Aujourd’hui, si vous entendez sa voix, n’endurcissez pas vos cœurs, comme lors de la provocation.",
+          "chapter": "3",
+          "name": "Hébreux 3:15"
+        },
+        {
+          "verse": "16",
+          "text": "Car quelques-uns l’ayant entendu, |[le]| provoquèrent; néanmoins pas tous ceux qui sortirent d’Égypte par Moïse.",
+          "chapter": "3",
+          "name": "Hébreux 3:16"
+        },
+        {
+          "verse": "17",
+          "text": "Mais avec lesquels fut-il attristé pendant quarante ans? n’est-ce pas par ceux qui péchèrent, dont les corps tombèrent dans le désert?",
+          "chapter": "3",
+          "name": "Hébreux 3:17"
+        },
+        {
+          "verse": "18",
+          "text": "Et auxquels jura-t-il qu’ils n’entreraient pas dans son repos, sinon à ceux qui n’avaient pas cru?",
+          "chapter": "3",
+          "name": "Hébreux 3:18"
+        },
+        {
+          "verse": "19",
+          "text": "Ainsi nous voyons qu’ils ne purent y entrer à cause |[de leur]| incrédulité.",
+          "chapter": "3",
+          "name": "Hébreux 3:19"
+        }
+      ],
+      "name": "Hébreux 3"
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Craignons donc, de peur qu’une promesse nous soit laissée d’entrer dans son repos, que quelqu’un d’entre vous paraisse ne pas l’atteindre.",
+          "chapter": "4",
+          "name": "Hébreux 4:1"
+        },
+        {
+          "verse": "2",
+          "text": "Car l’évangile nous a été prêché, aussi bien qu’à eux; mais la parole de la prédication ne leur a en rien profité, n’étant pas mêlée avec la foi en ceux qui l’entendirent.",
+          "chapter": "4",
+          "name": "Hébreux 4:2"
+        },
+        {
+          "verse": "3",
+          "text": "Pour nous qui avons cru, nous entrons dans le repos, comme il a dit: Comme j’ai juré dans ma colère: Si jamais ils entrent dans mon repos bien que les œuvres étaient achevées dès la fondation du monde.",
+          "chapter": "4",
+          "name": "Hébreux 4:3"
+        },
+        {
+          "verse": "4",
+          "text": "Car il a dit de cette manière à un certain endroit au sujet du septième jour: Et Dieu se reposa le septième jour de toutes ses œuvres;",
+          "chapter": "4",
+          "name": "Hébreux 4:4"
+        },
+        {
+          "verse": "5",
+          "text": "Et à cet endroit encore: S’ils entrent dans mon repos.",
+          "chapter": "4",
+          "name": "Hébreux 4:5"
+        },
+        {
+          "verse": "6",
+          "text": "Voyant donc qu’il reste que quelques-uns y entrent, et que ceux à qui premièrement il avait été prêché ne sont pas entrés à cause de leur incrédulité,",
+          "chapter": "4",
+          "name": "Hébreux 4:6"
+        },
+        {
+          "verse": "7",
+          "text": "Il |[Dieu]| détermine de nouveau un certain jour, disant par David: Aujourd’hui, si longtemps après, comme il est dit: Aujourd’hui si vous entendez sa voix, n’endurcissez pas vos cœurs.",
+          "chapter": "4",
+          "name": "Hébreux 4:7"
+        },
+        {
+          "verse": "8",
+          "text": "Car si Jésus leur avait donné le repos, Il n’aurait pas parlé après cela d’un autre jour.",
+          "chapter": "4",
+          "name": "Hébreux 4:8"
+        },
+        {
+          "verse": "9",
+          "text": "Il reste donc un repos au peuple de Dieu.",
+          "chapter": "4",
+          "name": "Hébreux 4:9"
+        },
+        {
+          "verse": "10",
+          "text": "Car celui qui est entré dans son repos s’est aussi reposé de ses œuvres, comme Dieu s’était reposé des siennes.",
+          "chapter": "4",
+          "name": "Hébreux 4:10"
+        },
+        {
+          "verse": "11",
+          "text": "Travaillons donc pour entrer dans ce repos, de peur que quelqu’un ne tombe en suivant le même exemple d’incrédulité.",
+          "chapter": "4",
+          "name": "Hébreux 4:11"
+        },
+        {
+          "verse": "12",
+          "text": "Car la parole de Dieu est vivante, et efficace, et plus pénétrante qu’aucune épée à deux tranchants, perçant jusqu’à la division de l’âme et de l’esprit, des jointures et des moelles, et |[elle]| discerne les pensées et les intentions du cœur;",
+          "chapter": "4",
+          "name": "Hébreux 4:12"
+        },
+        {
+          "verse": "13",
+          "text": "Et il n’y a aucune créature qui soit cachée devant lui, mais toutes choses sont nues et découvertes aux yeux de celui avec lequel nous avons à faire.",
+          "chapter": "4",
+          "name": "Hébreux 4:13"
+        },
+        {
+          "verse": "14",
+          "text": "Voyant donc que nous avons un très grand prêtre, qui a traversé les cieux, Jésus, le Fils de Dieu, tenons ferme notre profession.",
+          "chapter": "4",
+          "name": "Hébreux 4:14"
+        },
+        {
+          "verse": "15",
+          "text": "Car nous n’avons pas un grand prêtre qui ne puisse être touché par nos infirmités, mais |[il]| a été tenté en tous points comme nous sommes, cependant sans péché.",
+          "chapter": "4",
+          "name": "Hébreux 4:15"
+        },
+        {
+          "verse": "16",
+          "text": "C’est pourquoi approchons-nous avec hardiesse du trône de grâce, afin que nous puissions obtenir miséricorde et trouver grâce pour nous aider en temps de besoin.",
+          "chapter": "4",
+          "name": "Hébreux 4:16"
+        }
+      ],
+      "name": "Hébreux 4"
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Car tout grand prêtre pris parmi les hommes, est établi pour les hommes dans les choses se rapportant à Dieu, afin qu’il puisse offrir des dons et des sacrifices pour les péchés;",
+          "chapter": "5",
+          "name": "Hébreux 5:1"
+        },
+        {
+          "verse": "2",
+          "text": "Qui puisse avoir compassion envers les ignorants et envers ceux qui sont dans l’erreur, puisque lui-même est entouré d’infirmité.",
+          "chapter": "5",
+          "name": "Hébreux 5:2"
+        },
+        {
+          "verse": "3",
+          "text": "Et pour cette raison, il doit offrir pour les péchés, comme pour le peuple, ainsi aussi pour lui-même.",
+          "chapter": "5",
+          "name": "Hébreux 5:3"
+        },
+        {
+          "verse": "4",
+          "text": "Et nul ne s’attribue cet honneur, mais celui qui est appelé de Dieu, comme l’a été Aaron.",
+          "chapter": "5",
+          "name": "Hébreux 5:4"
+        },
+        {
+          "verse": "5",
+          "text": "De même aussi Christ ne s’est pas glorifié lui-même pour être fait grand prêtre, mais celui qui lui a dit: Tu es mon Fils, aujourd’hui je t’ai engendré.",
+          "chapter": "5",
+          "name": "Hébreux 5:5"
+        },
+        {
+          "verse": "6",
+          "text": "Comme il dit aussi à un autre endroit: Tu es prêtre pour toujours selon l’ordre de Melchisedec.",
+          "chapter": "5",
+          "name": "Hébreux 5:6"
+        },
+        {
+          "verse": "7",
+          "text": "Qui durant les jours de sa chair, lorsqu’il offrit avec grand cri et larmes, des prières et des supplications à celui qui pouvait le sauver de la mort, et ayant été entendu en ce qu’il craignait,",
+          "chapter": "5",
+          "name": "Hébreux 5:7"
+        },
+        {
+          "verse": "8",
+          "text": "Bien qu’il était Fils, cependant il a appris l’obéissance par les choses qu’il a souffertes,",
+          "chapter": "5",
+          "name": "Hébreux 5:8"
+        },
+        {
+          "verse": "9",
+          "text": "Et ayant été rendu parfait, il est devenu l’auteur du salut éternel pour tous ceux qui lui obéissent;",
+          "chapter": "5",
+          "name": "Hébreux 5:9"
+        },
+        {
+          "verse": "10",
+          "text": "Étant appelé de Dieu grand prêtre selon l’ordre de Melchisedec.",
+          "chapter": "5",
+          "name": "Hébreux 5:10"
+        },
+        {
+          "verse": "11",
+          "text": "Duquel nous avons beaucoup de choses à dire, et difficile à exprimer, vu que vous êtes devenus dur d’oreille.",
+          "chapter": "5",
+          "name": "Hébreux 5:11"
+        },
+        {
+          "verse": "12",
+          "text": "Car lorsque vous devriez être des professeurs, vous avez encore besoin qu’on vous enseigne les premiers rudiments des oracles de Dieu, et vous êtes devenus tels, que vous avez besoin de lait, et non de nourriture solide.",
+          "chapter": "5",
+          "name": "Hébreux 5:12"
+        },
+        {
+          "verse": "13",
+          "text": "Car quiconque consomme du lait, est inexpérimenté dans la parole de droiture; car il est un petit enfant.",
+          "chapter": "5",
+          "name": "Hébreux 5:13"
+        },
+        {
+          "verse": "14",
+          "text": "Mais la nourriture solide est pour ceux qui ont atteint la maturité, c’est-à-dire ceux qui par l’habitude, ont leurs sens exercés à discerner le bien et le mal.",
+          "chapter": "5",
+          "name": "Hébreux 5:14"
+        }
+      ],
+      "name": "Hébreux 5"
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "C’est pourquoi, laissant les principes |[de base]| de la doctrine de Christ, allons vers la perfection, ne posant pas de nouveau le fondement de la repentance des œuvres mortes, et de la foi envers Dieu,",
+          "chapter": "6",
+          "name": "Hébreux 6:1"
+        },
+        {
+          "verse": "2",
+          "text": "De la doctrine des baptêmes, et de l’imposition des mains, et de la résurrection des morts, et du jugement éternel,",
+          "chapter": "6",
+          "name": "Hébreux 6:2"
+        },
+        {
+          "verse": "3",
+          "text": "Et nous ferons cela, si Dieu le permet.",
+          "chapter": "6",
+          "name": "Hébreux 6:3"
+        },
+        {
+          "verse": "4",
+          "text": "Car il est impossible, pour ceux qui ont été une fois éclairés, et qui ont goûté du don céleste, et |[qui]| ont été faits participants de l’Esprit Saint,",
+          "chapter": "6",
+          "name": "Hébreux 6:4"
+        },
+        {
+          "verse": "5",
+          "text": "Et |[qui]| ont goûté la bonne parole de Dieu, et les puissances du monde à venir,",
+          "chapter": "6",
+          "name": "Hébreux 6:5"
+        },
+        {
+          "verse": "6",
+          "text": "S’ils retombent, de les amener de nouveau à la repentance, vu qu’ils crucifient de nouveau pour eux-mêmes le Fils de Dieu, et l’exposent à une honte manifeste.",
+          "chapter": "6",
+          "name": "Hébreux 6:6"
+        },
+        {
+          "verse": "7",
+          "text": "Car la terre qui s’imbibe de la pluie qui vient souvent sur elle, et qui produit des herbes appropriées pour ceux par qui elle est labourée, reçoit la bénédiction de Dieu.",
+          "chapter": "6",
+          "name": "Hébreux 6:7"
+        },
+        {
+          "verse": "8",
+          "text": "Mais celle qui porte des épines et des chardons, est rejetée et est près de la malédiction; dont la fin est d’être brûlée.",
+          "chapter": "6",
+          "name": "Hébreux 6:8"
+        },
+        {
+          "verse": "9",
+          "text": "Cependant bien-aimés, nous sommes persuadés, quant à vous de choses meilleures, et de choses qui accompagnent le salut, quoique nous parlions ainsi.",
+          "chapter": "6",
+          "name": "Hébreux 6:9"
+        },
+        {
+          "verse": "10",
+          "text": "Car Dieu n’est pas injuste, pour oublier votre œuvre et le travail d’amour que vous avez montré envers son nom, en ce que vous avez subvenu aux saints et y subvenez |[encore].",
+          "chapter": "6",
+          "name": "Hébreux 6:10"
+        },
+        {
+          "verse": "11",
+          "text": "Et nous désirons que chacun de vous montre la même assiduité pour la pleine assurance de l’espérance, jusqu’à la fin;",
+          "chapter": "6",
+          "name": "Hébreux 6:11"
+        },
+        {
+          "verse": "12",
+          "text": "Afin que vous ne deveniez pas paresseux, mais que vous suiviez ceux qui, par foi et patience, héritent les promesses.",
+          "chapter": "6",
+          "name": "Hébreux 6:12"
+        },
+        {
+          "verse": "13",
+          "text": "Car lorsque Dieu fit la promesse à Abraham, parce qu’il ne pouvait jurer par un plus grand, il jura par lui-même,",
+          "chapter": "6",
+          "name": "Hébreux 6:13"
+        },
+        {
+          "verse": "14",
+          "text": "Disant: Assurément, en bénissant je te bénirai, et en multipliant je te multiplierai.",
+          "chapter": "6",
+          "name": "Hébreux 6:14"
+        },
+        {
+          "verse": "15",
+          "text": "Et ainsi, après qu’il ait enduré patiemment, il obtint la promesse.",
+          "chapter": "6",
+          "name": "Hébreux 6:15"
+        },
+        {
+          "verse": "16",
+          "text": "Car les hommes en vérité jurent par le plus grand, et pour eux un serment fait pour confirmation met fin à tout différend;",
+          "chapter": "6",
+          "name": "Hébreux 6:16"
+        },
+        {
+          "verse": "17",
+          "text": "En quoi, Dieu voulant montrer plus abondamment aux héritiers de la promesse l’immutabilité de son conseil, le confirma par un serment;",
+          "chapter": "6",
+          "name": "Hébreux 6:17"
+        },
+        {
+          "verse": "18",
+          "text": "Afin que par deux choses immuables, dans lesquelles il était impossible que Dieu mente, nous puissions avoir une forte consolation, |[nous]| qui cherchons refuge à saisir l’espérance placée devant nous,",
+          "chapter": "6",
+          "name": "Hébreux 6:18"
+        },
+        {
+          "verse": "19",
+          "text": "Laquelle espérance nous avons comme une ancre de l’âme, sûre et ferme, et qui entre jusqu’au-dedans du voile,",
+          "chapter": "6",
+          "name": "Hébreux 6:19"
+        },
+        {
+          "verse": "20",
+          "text": "Où le précurseur est entré pour nous, c’est-à-dire Jésus, ayant été fait grand prêtre pour toujours, selon l’ordre de Melchisedec.",
+          "chapter": "6",
+          "name": "Hébreux 6:20"
+        }
+      ],
+      "name": "Hébreux 6"
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Car ce Melchisedec, roi de Salem, prêtre du Dieu Très-Haut, qui alla au-devant d’Abraham lorsqu’il revenait de la défaite des rois, et qui le bénit;",
+          "chapter": "7",
+          "name": "Hébreux 7:1"
+        },
+        {
+          "verse": "2",
+          "text": "Auquel aussi Abraham donna le dixième de tout; étant premièrement par interprétation Roi de droiture, et ensuite aussi Roi de Salem, qui est, Roi de paix;",
+          "chapter": "7",
+          "name": "Hébreux 7:2"
+        },
+        {
+          "verse": "3",
+          "text": "Sans père, sans mère, sans descendant, n’ayant ni commencement de jours, ni fin de vie; mais fait semblable au Fils de Dieu, |[il]| demeure prêtre perpétuellement.",
+          "chapter": "7",
+          "name": "Hébreux 7:3"
+        },
+        {
+          "verse": "4",
+          "text": "Or considérez combien grand était cet homme, à qui même Abraham le patriarche donna le dixième du butin.",
+          "chapter": "7",
+          "name": "Hébreux 7:4"
+        },
+        {
+          "verse": "5",
+          "text": "Et ceux qui sont des fils de Levi (Lévi), qui reçoivent la charge de la prêtrise, ont le commandement selon la loi, de lever la dîme sur le peuple, c’est-à-dire, sur leurs frères, bien qu’ils soient sortis des reins d’Abraham,",
+          "chapter": "7",
+          "name": "Hébreux 7:5"
+        },
+        {
+          "verse": "6",
+          "text": "Mais celui dont la descendance n’est pas considérée comme la leur, reçut d’Abraham la dîme, et bénit celui qui avait les promesses.",
+          "chapter": "7",
+          "name": "Hébreux 7:6"
+        },
+        {
+          "verse": "7",
+          "text": "Et sans contredit, le moindre est béni par le meilleur.",
+          "chapter": "7",
+          "name": "Hébreux 7:7"
+        },
+        {
+          "verse": "8",
+          "text": "Et ici, les hommes mortels reçoivent les dîmes; mais là, celui qui les reçoit, duquel il est rendu témoignage qu’il vit.",
+          "chapter": "7",
+          "name": "Hébreux 7:8"
+        },
+        {
+          "verse": "9",
+          "text": "Et pour ainsi dire, Levi (Lévi) même, qui reçoit les dîmes, a payé les dîmes en Abraham;",
+          "chapter": "7",
+          "name": "Hébreux 7:9"
+        },
+        {
+          "verse": "10",
+          "text": "Car il était encore dans les reins de son père, lorsque Melchisedec alla à sa rencontre.",
+          "chapter": "7",
+          "name": "Hébreux 7:10"
+        },
+        {
+          "verse": "11",
+          "text": "Si donc la perfection était par la prêtrise lévitique (car |[c’est]| sous elle que le peuple a reçu la loi), quel autre besoin y avait-il qu’un autre prêtre soit suscité selon l’ordre de Melchisedec, et non pas appelé selon l’ordre d’Aaron?",
+          "chapter": "7",
+          "name": "Hébreux 7:11"
+        },
+        {
+          "verse": "12",
+          "text": "Car la prêtrise étant changée, il est nécessaire qu’il y ait aussi un changement de la loi.",
+          "chapter": "7",
+          "name": "Hébreux 7:12"
+        },
+        {
+          "verse": "13",
+          "text": "Car celui de qui ces choses sont dites appartient à une autre tribu, de laquelle nul homme n’a assisté à l’autel.",
+          "chapter": "7",
+          "name": "Hébreux 7:13"
+        },
+        {
+          "verse": "14",
+          "text": "Car il est évident que notre Seigneur jaillit de Juda, tribu de laquelle Moïse n’a rien dit concernant la prêtrise.",
+          "chapter": "7",
+          "name": "Hébreux 7:14"
+        },
+        {
+          "verse": "15",
+          "text": "Et cela est encore bien plus évident, en ce qu’un autre prêtre, selon la ressemblance de Melchisedec, se lève,",
+          "chapter": "7",
+          "name": "Hébreux 7:15"
+        },
+        {
+          "verse": "16",
+          "text": "Qui a été fait, non selon la loi du commandement charnel, mais selon la puissance d’une vie sans fin.",
+          "chapter": "7",
+          "name": "Hébreux 7:16"
+        },
+        {
+          "verse": "17",
+          "text": "Car il témoigne |[ainsi]: Tu es un prêtre pour toujours, selon l’ordre de Melchisedec.",
+          "chapter": "7",
+          "name": "Hébreux 7:17"
+        },
+        {
+          "verse": "18",
+          "text": "Car il y a véritablement une annulation du commandement qui a précédé, à cause de sa faiblesse et de son inutilité;",
+          "chapter": "7",
+          "name": "Hébreux 7:18"
+        },
+        {
+          "verse": "19",
+          "text": "Car la loi n’a rien amené à la perfection, seulement l’introduction d’une meilleure espérance, par laquelle nous nous approchons de Dieu.",
+          "chapter": "7",
+          "name": "Hébreux 7:19"
+        },
+        {
+          "verse": "20",
+          "text": "Et d’autant qu’il a été fait prêtre sans serment:",
+          "chapter": "7",
+          "name": "Hébreux 7:20"
+        },
+        {
+          "verse": "21",
+          "text": "(Car ces prêtres-là ont été faits sans serment; mais celui-ci |[l’a été]| avec serment, par celui qui lui a dit: Le Seigneur a juré, et ne se repentira pas; Tu es un prêtre pour toujours, selon l’ordre de Melchisedec),",
+          "chapter": "7",
+          "name": "Hébreux 7:21"
+        },
+        {
+          "verse": "22",
+          "text": "Par cela Jésus a été fait garant d’un bien meilleur testament.",
+          "chapter": "7",
+          "name": "Hébreux 7:22"
+        },
+        {
+          "verse": "23",
+          "text": "Et il y a eut en vérité beaucoup de prêtres, parce que la mort les empêchait de continuer.",
+          "chapter": "7",
+          "name": "Hébreux 7:23"
+        },
+        {
+          "verse": "24",
+          "text": "Mais cet homme, parce qu’il demeure pour toujours, possède une prêtrise immuable.",
+          "chapter": "7",
+          "name": "Hébreux 7:24"
+        },
+        {
+          "verse": "25",
+          "text": "C’est pourquoi aussi il peut sauver parfaitement ceux qui viennent à Dieu par lui, puisqu’il vit toujours pour intercéder pour eux.",
+          "chapter": "7",
+          "name": "Hébreux 7:25"
+        },
+        {
+          "verse": "26",
+          "text": "Car il nous convenait d’avoir un tel grand prêtre, qui est saint, innocent, sans souillure, séparé des pécheurs, et élevé plus haut que les cieux;",
+          "chapter": "7",
+          "name": "Hébreux 7:26"
+        },
+        {
+          "verse": "27",
+          "text": "Qui n’a pas besoin, comme ces grands prêtres, d’offrir tous les jours des sacrifices, d’abord pour ses propres péchés, et puis pour ceux du peuple; car il a fait cela une fois pour toutes, lorsqu’il s’est offert lui-même.",
+          "chapter": "7",
+          "name": "Hébreux 7:27"
+        },
+        {
+          "verse": "28",
+          "text": "Car la loi établit comme grands prêtres des hommes soumis à l’infirmité; mais la parole du serment qui était depuis la loi, établit le Fils, qui est consacré pour toujours.",
+          "chapter": "7",
+          "name": "Hébreux 7:28"
+        }
+      ],
+      "name": "Hébreux 7"
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Or le summum des choses dont nous avons parlé, c’est que nous avons un tel grand prêtre, qui est assis à la main droite du trône de la Majesté dans les cieux,",
+          "chapter": "8",
+          "name": "Hébreux 8:1"
+        },
+        {
+          "verse": "2",
+          "text": "Un ministre du sanctuaire et du vrai tabernacle, que le Seigneur a dressé, et non l’homme.",
+          "chapter": "8",
+          "name": "Hébreux 8:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car tout grand prêtre est établi pour offrir des dons et des sacrifices; c’est pourquoi il est nécessaire que cet homme ait aussi quelque chose à offrir.",
+          "chapter": "8",
+          "name": "Hébreux 8:3"
+        },
+        {
+          "verse": "4",
+          "text": "Car s’il était sur la terre, il ne serait pas prêtre, puisqu’il y a des prêtres qui offrent les dons selon la loi,",
+          "chapter": "8",
+          "name": "Hébreux 8:4"
+        },
+        {
+          "verse": "5",
+          "text": "Qui servent d’exemple et d’ombre des choses célestes, comme Dieu avait averti Moïse, lorsqu’il devait dresser le tabernacle: Car prends garde, dit-il, de faire toutes choses selon le modèle qui t’a été montré sur le mont.",
+          "chapter": "8",
+          "name": "Hébreux 8:5"
+        },
+        {
+          "verse": "6",
+          "text": "Mais maintenant il |[Christ]| a obtenu un ministère d’autant plus excellent, qu’il est le médiateur d’une meilleure alliance, qui a été établie sur de meilleures promesses.",
+          "chapter": "8",
+          "name": "Hébreux 8:6"
+        },
+        {
+          "verse": "7",
+          "text": "Car si la première alliance avait été sans défaut, il n’y aurait pas eu lieu d’en chercher une seconde.",
+          "chapter": "8",
+          "name": "Hébreux 8:7"
+        },
+        {
+          "verse": "8",
+          "text": "Car en leur trouvant des défauts, il dit: Voici, les jours viennent, dit le Seigneur, que je ferai une alliance nouvelle avec la maison d’Israël, et avec la maison de Judah (Juda);",
+          "chapter": "8",
+          "name": "Hébreux 8:8"
+        },
+        {
+          "verse": "9",
+          "text": "Non selon l’alliance que j’ai faite avec leurs pères, au jour où je les pris par la main pour les accompagner hors du pays d’Égypte; parce qu’ils n’ont pas persisté dans mon alliance, et je ne les ai pas considérés, dit le Seigneur.",
+          "chapter": "8",
+          "name": "Hébreux 8:9"
+        },
+        {
+          "verse": "10",
+          "text": "Car voici l’alliance que je ferai avec la maison d’Israël après ces jours-là, dit le Seigneur. Je mettrai mes lois dans leur cerveau, et je les écrirai dans leur cœur. Je leur serai un Dieu, et ils me seront un peuple;",
+          "chapter": "8",
+          "name": "Hébreux 8:10"
+        },
+        {
+          "verse": "11",
+          "text": "Et chaque homme n’enseignera pas son voisin, et chaque homme son frère, disant: Connais le Seigneur; car tous me connaîtront, depuis le plus petit jusqu’au plus grand.",
+          "chapter": "8",
+          "name": "Hébreux 8:11"
+        },
+        {
+          "verse": "12",
+          "text": "Car je serai miséricordieux à l’égard de leurs injustices, et je ne me souviendrai plus de leurs péchés, ni de leurs iniquités.",
+          "chapter": "8",
+          "name": "Hébreux 8:12"
+        },
+        {
+          "verse": "13",
+          "text": "Puisqu’il dit: Une nouvelle alliance, il fait vieillir la première. Or ce qui devient ancien et qui vieillit, est près de disparaître.",
+          "chapter": "8",
+          "name": "Hébreux 8:13"
+        }
+      ],
+      "name": "Hébreux 8"
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Assurément la première alliance avait donc aussi des ordonnances pour le service divin, et un sanctuaire de ce monde.",
+          "chapter": "9",
+          "name": "Hébreux 9:1"
+        },
+        {
+          "verse": "2",
+          "text": "Car un tabernacle fut construit; le premier, dans lequel était le chandelier, et la table, et le pain de présentation, qui est appelé le sanctuaire.",
+          "chapter": "9",
+          "name": "Hébreux 9:2"
+        },
+        {
+          "verse": "3",
+          "text": "Et après le second voile, le tabernacle qui est appelé |[lieu]| le plus Saint de tous;",
+          "chapter": "9",
+          "name": "Hébreux 9:3"
+        },
+        {
+          "verse": "4",
+          "text": "Qui avait l’encensoir d’or, et l’arche de l’alliance, entièrement couverte d’or tout autour, dans laquelle était la cruche d’or, qui contenait la manne, et le bâton d’Aaron, qui avait fleuri, et les tables de l’alliance;",
+          "chapter": "9",
+          "name": "Hébreux 9:4"
+        },
+        {
+          "verse": "5",
+          "text": "Et au-dessus d’elle les chérubins de gloire, ombrageant le siège de miséricorde; desquelles |[choses]| nous ne pouvons pas maintenant parler en détail.",
+          "chapter": "9",
+          "name": "Hébreux 9:5"
+        },
+        {
+          "verse": "6",
+          "text": "Or lorsque ces choses furent ainsi instituées, les prêtres entraient toujours dans le premier tabernacle, en accomplissant le service de Dieu;",
+          "chapter": "9",
+          "name": "Hébreux 9:6"
+        },
+        {
+          "verse": "7",
+          "text": "Mais seul le grand prêtre entrait dans le second, une fois par an non sans du sang, lequel il offrait pour lui-même et pour les fautes du peuple;",
+          "chapter": "9",
+          "name": "Hébreux 9:7"
+        },
+        {
+          "verse": "8",
+          "text": "L’Esprit Saint montrant par là que le chemin du |[lieu]| le plus saint de tous n’avait pas encore été manifesté, tant que le premier tabernacle était encore debout;",
+          "chapter": "9",
+          "name": "Hébreux 9:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ce qui était une figure pour le temps présent, dans lequel on offrait des dons et des sacrifices, qui ne pouvaient rendre parfait, quant à la conscience, celui qui faisait le service,",
+          "chapter": "9",
+          "name": "Hébreux 9:9"
+        },
+        {
+          "verse": "10",
+          "text": "Lequel était constitué seulement en viandes et boissons, et diverses ablutions, et des ordonnances charnelles, imposées seulement jusqu’au temps de réforme.",
+          "chapter": "9",
+          "name": "Hébreux 9:10"
+        },
+        {
+          "verse": "11",
+          "text": "Mais Christ étant venu, grand prêtre des bonnes choses à venir, par un tabernacle plus grand et plus parfait, non pas fait par des mains, c’est-à-dire, non pas de cette création.",
+          "chapter": "9",
+          "name": "Hébreux 9:11"
+        },
+        {
+          "verse": "12",
+          "text": "Ni par le sang des chèvres et des veaux, mais par son propre sang, il est entré une fois pour toutes dans le lieu saint, ayant obtenu une rédemption éternelle pour nous.",
+          "chapter": "9",
+          "name": "Hébreux 9:12"
+        },
+        {
+          "verse": "13",
+          "text": "Car si le sang des taureaux et des chèvres et les cendres d’une génisse |[dont on fait]| l’aspersion sanctifie les souillés, pour la pureté de la chair,",
+          "chapter": "9",
+          "name": "Hébreux 9:13"
+        },
+        {
+          "verse": "14",
+          "text": "Combien plus le sang de Christ, qui par l’Esprit éternel, s’est offert lui-même à Dieu, sans tache, purgera-t-il votre conscience des œuvres mortes, pour servir le Dieu vivant?",
+          "chapter": "9",
+          "name": "Hébreux 9:14"
+        },
+        {
+          "verse": "15",
+          "text": "Et pour cela il est médiateur du nouveau testament afin que par le moyen de la mort pour la rédemption des transgressions qui étaient sous le premier testament, ceux qui sont appelés, puissent recevoir la promesse de l’héritage éternel.",
+          "chapter": "9",
+          "name": "Hébreux 9:15"
+        },
+        {
+          "verse": "16",
+          "text": "Car où il y a un testament, il est nécessaire qu’il y ait la mort du testateur.",
+          "chapter": "9",
+          "name": "Hébreux 9:16"
+        },
+        {
+          "verse": "17",
+          "text": "Car un testament est en vigueur après que les hommes sont morts, autrement il n’a aucun pouvoir tant que le testateur vit.",
+          "chapter": "9",
+          "name": "Hébreux 9:17"
+        },
+        {
+          "verse": "18",
+          "text": "C’est pourquoi le premier testament, n’a pas été dédié sans sang.",
+          "chapter": "9",
+          "name": "Hébreux 9:18"
+        },
+        {
+          "verse": "19",
+          "text": "Car après que Moïse ait dit à tout le peuple chaque précepte selon la loi, il prit le sang des veaux et des chèvres, avec de l’eau et de la laine écarlate, et de l’hysope, et aspergea et le livre et tout le peuple,",
+          "chapter": "9",
+          "name": "Hébreux 9:19"
+        },
+        {
+          "verse": "20",
+          "text": "Disant: Ceci est le sang du testament que Dieu vous a prescrit.",
+          "chapter": "9",
+          "name": "Hébreux 9:20"
+        },
+        {
+          "verse": "21",
+          "text": "De plus, il aspergea du sang sur le tabernacle et sur tous les ustensiles du ministère.",
+          "chapter": "9",
+          "name": "Hébreux 9:21"
+        },
+        {
+          "verse": "22",
+          "text": "Et presque toutes choses sont selon la loi, purgées avec le sang, et sans effusion de sang il n’y a pas de rémission.",
+          "chapter": "9",
+          "name": "Hébreux 9:22"
+        },
+        {
+          "verse": "23",
+          "text": "Il était donc nécessaire que les représentations des choses |[qui sont]| dans les cieux, soient purifiées par celles-ci, mais que les choses célestes |[le soient]| par de meilleurs sacrifices que ceux-là.",
+          "chapter": "9",
+          "name": "Hébreux 9:23"
+        },
+        {
+          "verse": "24",
+          "text": "Car Christ n’est pas entré dans les lieux saints faits par des mains, qui sont les figures du vrai, mais dans le ciel même, afin de paraître maintenant en la présence de Dieu pour nous.",
+          "chapter": "9",
+          "name": "Hébreux 9:24"
+        },
+        {
+          "verse": "25",
+          "text": "Ni pour qu’il s’offre souvent lui-même, comme le grand prêtre entre dans le lieu saint chaque année avec le sang des autres;",
+          "chapter": "9",
+          "name": "Hébreux 9:25"
+        },
+        {
+          "verse": "26",
+          "text": "Car il aurait fallu alors qu’il ait souffert souvent depuis la fondation du monde; mais maintenant une fois à la fin du monde il a paru pour ôter le péché par le sacrifice de lui-même.",
+          "chapter": "9",
+          "name": "Hébreux 9:26"
+        },
+        {
+          "verse": "27",
+          "text": "Et comme il est réservé aux hommes de mourir une fois, et après cela |[vient]| le jugement;",
+          "chapter": "9",
+          "name": "Hébreux 9:27"
+        },
+        {
+          "verse": "28",
+          "text": "Ainsi Christ a été offert une fois pour porter les péchés de beaucoup, il apparaîtra une seconde fois sans péché à ceux qui l’attendent pour |[leur]| salut.",
+          "chapter": "9",
+          "name": "Hébreux 9:28"
+        }
+      ],
+      "name": "Hébreux 9"
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Car la loi ayant l’ombre des bonnes choses à venir, et non l’image même des choses, ne peut jamais, par ces sacrifices qu’on offre continuellement chaque année, rendre parfaits ceux qui y assistent.",
+          "chapter": "10",
+          "name": "Hébreux 10:1"
+        },
+        {
+          "verse": "2",
+          "text": "Autrement n’auraient-ils pas cessé d’être offerts? puisque les adorateurs une fois purifiés, n’auraient plus eu conscience de |[leurs]| péchés.",
+          "chapter": "10",
+          "name": "Hébreux 10:2"
+        },
+        {
+          "verse": "3",
+          "text": "Or dans ces sacrifices, il y a une commémoration des péchés réitérée chaque année;",
+          "chapter": "10",
+          "name": "Hébreux 10:3"
+        },
+        {
+          "verse": "4",
+          "text": "Car il n’est pas possible que le sang des taureaux et des chèvres ôte les péchés.",
+          "chapter": "10",
+          "name": "Hébreux 10:4"
+        },
+        {
+          "verse": "5",
+          "text": "C’est pourquoi, quand il entre dans le monde, il dit: Tu n’as pas voulu de sacrifice ni d’offrande, mais tu m’as préparé un corps.",
+          "chapter": "10",
+          "name": "Hébreux 10:5"
+        },
+        {
+          "verse": "6",
+          "text": "Tu n’as pas pris plaisir aux offrandes brûlées, ni aux sacrifices pour le péché.",
+          "chapter": "10",
+          "name": "Hébreux 10:6"
+        },
+        {
+          "verse": "7",
+          "text": "Alors j’ai dit: Voici, je viens, (il est écrit de moi dans le volume du livre) pour faire ta volonté, ô Dieu.",
+          "chapter": "10",
+          "name": "Hébreux 10:7"
+        },
+        {
+          "verse": "8",
+          "text": "Il a dit plus haut: Tu n’as pas voulu de sacrifice, ni d’offrande, ni d’offrandes brûlées, ni d’offrande pour le péché, tu n’y as pas pris plaisir, lesquels sont offerts selon la loi;",
+          "chapter": "10",
+          "name": "Hébreux 10:8"
+        },
+        {
+          "verse": "9",
+          "text": "Alors il a dit: Voici, je viens pour faire ta volonté ô Dieu. Il ôte le premier, afin de pouvoir établir le second.",
+          "chapter": "10",
+          "name": "Hébreux 10:9"
+        },
+        {
+          "verse": "10",
+          "text": "Par laquelle |[volonté]| nous sommes sanctifiés, par l’offrande du corps de Jésus Christ faite une fois pour toutes.",
+          "chapter": "10",
+          "name": "Hébreux 10:10"
+        },
+        {
+          "verse": "11",
+          "text": "Et tout prêtre se tient chaque jour, administrant et offrant souvent les mêmes sacrifices, qui ne peuvent jamais ôter les péchés;",
+          "chapter": "10",
+          "name": "Hébreux 10:11"
+        },
+        {
+          "verse": "12",
+          "text": "Mais cet homme, après qu’il ait offert un sacrifice pour les péchés pour toujours, s’est assis à la main droite de Dieu,",
+          "chapter": "10",
+          "name": "Hébreux 10:12"
+        },
+        {
+          "verse": "13",
+          "text": "Attendant désormais jusqu’à ce que ses ennemis soient faits son marchepied.",
+          "chapter": "10",
+          "name": "Hébreux 10:13"
+        },
+        {
+          "verse": "14",
+          "text": "Car par une seule offrande il a rendu parfaits pour toujours ceux qui sont sanctifiés.",
+          "chapter": "10",
+          "name": "Hébreux 10:14"
+        },
+        {
+          "verse": "15",
+          "text": "De quoi l’Esprit Saint aussi nous le témoigne; car, après qu’il ait dit d’abord:",
+          "chapter": "10",
+          "name": "Hébreux 10:15"
+        },
+        {
+          "verse": "16",
+          "text": "C’est ici l’alliance que je ferai avec eux après ces jours-là, dit le Seigneur, je mettrai mes lois dans leurs cœurs, et je les écrirai dans leurs cerveaux;",
+          "chapter": "10",
+          "name": "Hébreux 10:16"
+        },
+        {
+          "verse": "17",
+          "text": "Et je ne me souviendrai plus de leurs péchés ni de leurs iniquités.",
+          "chapter": "10",
+          "name": "Hébreux 10:17"
+        },
+        {
+          "verse": "18",
+          "text": "Or là où il y a rémission de |[ces choses], il n’y a plus d’offrande pour le péché.",
+          "chapter": "10",
+          "name": "Hébreux 10:18"
+        },
+        {
+          "verse": "19",
+          "text": "Ayant donc, frères, hardiesse pour entrer dans |[le lieu]| le plus saint par le sang de Jésus,",
+          "chapter": "10",
+          "name": "Hébreux 10:19"
+        },
+        {
+          "verse": "20",
+          "text": "Par un chemin nouveau et vivant, qu’il a consacré pour nous à travers le voile, c’est-à-dire, sa chair,",
+          "chapter": "10",
+          "name": "Hébreux 10:20"
+        },
+        {
+          "verse": "21",
+          "text": "Et ayant un grand prêtre |[établi]| sur la maison de Dieu;",
+          "chapter": "10",
+          "name": "Hébreux 10:21"
+        },
+        {
+          "verse": "22",
+          "text": "Approchons-nous avec un cœur vrai, en pleine assurance de foi, ayant nos cœurs par aspersion |[purifiés]| d’une mauvaise conscience, et nos corps lavés d’eau pure.",
+          "chapter": "10",
+          "name": "Hébreux 10:22"
+        },
+        {
+          "verse": "23",
+          "text": "Tenons ferme la profession de notre foi sans vaciller; (car il est fidèle celui qui a promis);",
+          "chapter": "10",
+          "name": "Hébreux 10:23"
+        },
+        {
+          "verse": "24",
+          "text": "Et considérons-nous l’un l’autre pour nous inciter à l’amour et aux bonnes œuvres;",
+          "chapter": "10",
+          "name": "Hébreux 10:24"
+        },
+        {
+          "verse": "25",
+          "text": "Ne délaissant pas notre mutuelle assemblée, comme quelques-uns en ont coutume, mais nous exhortant l’un l’autre, et cela d’autant plus que vous voyez approcher le jour.",
+          "chapter": "10",
+          "name": "Hébreux 10:25"
+        },
+        {
+          "verse": "26",
+          "text": "Car si nous péchons volontairement, après que nous avons reçu la connaissance de la vérité, il ne reste plus de sacrifice pour les péchés,",
+          "chapter": "10",
+          "name": "Hébreux 10:26"
+        },
+        {
+          "verse": "27",
+          "text": "Mais une certaine attente terrifiante du jugement et une indignation enflammée, qui dévorera les adversaires.",
+          "chapter": "10",
+          "name": "Hébreux 10:27"
+        },
+        {
+          "verse": "28",
+          "text": "Celui qui avait méprisé la loi de Moïse est mort sans miséricorde, sur le témoignage de deux ou trois;",
+          "chapter": "10",
+          "name": "Hébreux 10:28"
+        },
+        {
+          "verse": "29",
+          "text": "D’une punition combien plus sévère pensez-vous que sera jugé digne celui qui a piétiné le Fils de Dieu, et qui a estimé une chose profane le sang de l’alliance par lequel il avait été sanctifié, et qui a outragé l’Esprit de grâce?",
+          "chapter": "10",
+          "name": "Hébreux 10:29"
+        },
+        {
+          "verse": "30",
+          "text": "Car nous connaissons celui qui a dit: À moi appartient la vengeance; je le rendrai, dit le Seigneur. Et encore: Le Seigneur jugera son peuple.",
+          "chapter": "10",
+          "name": "Hébreux 10:30"
+        },
+        {
+          "verse": "31",
+          "text": "C’est une chose terrible que de tomber entre les mains du Dieu vivant.",
+          "chapter": "10",
+          "name": "Hébreux 10:31"
+        },
+        {
+          "verse": "32",
+          "text": "Mais rappelez-vous des jours précédents, durant lesquels après avoir été éclairés, vous avez enduré un grand combat de souffrances;",
+          "chapter": "10",
+          "name": "Hébreux 10:32"
+        },
+        {
+          "verse": "33",
+          "text": "Quand d’une part vous avez été mis en spectacle par des opprobres et des afflictions, et quand d’autre part vous avez été faits compagnons de ceux qui étaient ainsi traités.",
+          "chapter": "10",
+          "name": "Hébreux 10:33"
+        },
+        {
+          "verse": "34",
+          "text": "Car vous avez eu de la compassion pour moi en mes liens, et vous avez accepté avec joie l’enlèvement de vos biens, sachant en vous-mêmes que vous avez au ciel un bien meilleur et permanent.",
+          "chapter": "10",
+          "name": "Hébreux 10:34"
+        },
+        {
+          "verse": "35",
+          "text": "Ne rejetez donc pas au loin votre confiance qui a une grande rétribution de récompense.",
+          "chapter": "10",
+          "name": "Hébreux 10:35"
+        },
+        {
+          "verse": "36",
+          "text": "Car vous avez besoin de patience, afin qu’après que vous ayez fait la volonté de Dieu, vous puissiez recevoir la promesse.",
+          "chapter": "10",
+          "name": "Hébreux 10:36"
+        },
+        {
+          "verse": "37",
+          "text": "Car encore un peu, et celui qui doit venir, viendra, et il ne tardera pas.",
+          "chapter": "10",
+          "name": "Hébreux 10:37"
+        },
+        {
+          "verse": "38",
+          "text": "Or le juste vivra par la foi; mais si quelque homme se retire, mon âme ne prendra pas plaisir en lui.",
+          "chapter": "10",
+          "name": "Hébreux 10:38"
+        },
+        {
+          "verse": "39",
+          "text": "Mais nous ne sommes pas de ceux qui se retirent pour se perdre, mais de ceux qui croient pour le salut de l’âme.",
+          "chapter": "10",
+          "name": "Hébreux 10:39"
+        }
+      ],
+      "name": "Hébreux 10"
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Or la foi est la substance des choses qu’on espère, l’évidence des choses qu’on ne voit pas.",
+          "chapter": "11",
+          "name": "Hébreux 11:1"
+        },
+        {
+          "verse": "2",
+          "text": "Car par elle, les anciens ont obtenu un bon témoignage.",
+          "chapter": "11",
+          "name": "Hébreux 11:2"
+        },
+        {
+          "verse": "3",
+          "text": "Par la foi nous comprenons que les mondes ont été disposés par la parole de Dieu; de sorte que les choses qui se voient n’ont pas été faites de choses qui paraissent.",
+          "chapter": "11",
+          "name": "Hébreux 11:3"
+        },
+        {
+          "verse": "4",
+          "text": "Par la foi, Abel offrit à Dieu un sacrifice plus excellent que Cain (Caïn), par elle, il a obtenu |[le]| témoignage qu’il était droit, Dieu rendant témoignage de ses dons; et par elle étant mort, il parle encore.",
+          "chapter": "11",
+          "name": "Hébreux 11:4"
+        },
+        {
+          "verse": "5",
+          "text": "Par la foi, Énoch a été transporté afin qu’il ne voit pas la mort, et ne fut pas trouvé, parce que Dieu l’avait transporté; car avant qu’il soit transporté, il avait ce témoignage, qu’il avait satisfait Dieu.",
+          "chapter": "11",
+          "name": "Hébreux 11:5"
+        },
+        {
+          "verse": "6",
+          "text": "Or sans la foi il est impossible de le satisfaire, car celui qui vient à Dieu doit croire qui il est et qu’il est le rémunérateur de ceux qui le cherchent diligemment.",
+          "chapter": "11",
+          "name": "Hébreux 11:6"
+        },
+        {
+          "verse": "7",
+          "text": "Par la foi, Noah (Noé), étant averti par Dieu des choses qui ne se voyaient pas encore, poussé par la peur, prépara une arche pour le salut de sa maison; par laquelle il condamna le monde, et devint héritier de la droiture qui est par la foi.",
+          "chapter": "11",
+          "name": "Hébreux 11:7"
+        },
+        {
+          "verse": "8",
+          "text": "Par la foi, Abraham, lorsqu’il a été appelé, obéit, pour aller au lieu qu’il devait ensuite recevoir en héritage, et il partit, ne sachant où il allait.",
+          "chapter": "11",
+          "name": "Hébreux 11:8"
+        },
+        {
+          "verse": "9",
+          "text": "Par la foi, il séjourna dans la terre promise comme dans un pays étranger, demeurant sous des tentes, avec Isaac et Jacob, les héritiers avec lui de la même promesse.",
+          "chapter": "11",
+          "name": "Hébreux 11:9"
+        },
+        {
+          "verse": "10",
+          "text": "Car il attendait la cité qui a des fondements, dont le concepteur et le constructeur est Dieu.",
+          "chapter": "11",
+          "name": "Hébreux 11:10"
+        },
+        {
+          "verse": "11",
+          "text": "Par la foi aussi, Sara elle-même, reçut la faculté de concevoir une semence et elle accoucha après qu’elle ait déjà passé l’âge, parce qu’elle jugea fidèle celui qui avait promis.",
+          "chapter": "11",
+          "name": "Hébreux 11:11"
+        },
+        {
+          "verse": "12",
+          "text": "C’est pourquoi aussi d’un seul, et qui était comme mort, est né une multitude, aussi nombreuse que les étoiles du ciel, et que le sable qui est sur le rivage de la mer, innombrable.",
+          "chapter": "11",
+          "name": "Hébreux 11:12"
+        },
+        {
+          "verse": "13",
+          "text": "Tous ceux-là sont morts dans la foi, sans avoir reçu les promesses, mais les ayant vues de loin, et en étaient persuadés et les avaient embrassées, et avaient confessé qu’ils étaient étrangers et pèlerins sur la terre.",
+          "chapter": "11",
+          "name": "Hébreux 11:13"
+        },
+        {
+          "verse": "14",
+          "text": "Car ceux qui disent de telles choses déclarent clairement qu’ils cherchent un pays.",
+          "chapter": "11",
+          "name": "Hébreux 11:14"
+        },
+        {
+          "verse": "15",
+          "text": "Et assurément, s’ils s’étaient souvenus de ce pays d’où ils étaient sortis, ils auraient pu avoir l’occasion d’y retourner;",
+          "chapter": "11",
+          "name": "Hébreux 11:15"
+        },
+        {
+          "verse": "16",
+          "text": "Mais maintenant ils désirent un meilleur pays, c’est-à-dire un céleste; c’est pourquoi Dieu n’a pas honte d’être appelé leur Dieu; car il leur a préparé une cité.",
+          "chapter": "11",
+          "name": "Hébreux 11:16"
+        },
+        {
+          "verse": "17",
+          "text": "Par la foi, Abraham, lorsqu’il a été éprouvé, offrit Isaac, et celui qui avait reçu les promesses offrit son seul fils engendré,",
+          "chapter": "11",
+          "name": "Hébreux 11:17"
+        },
+        {
+          "verse": "18",
+          "text": "Duquel il avait été dit: Qu’en Isaac ta semence sera appelée;",
+          "chapter": "11",
+          "name": "Hébreux 11:18"
+        },
+        {
+          "verse": "19",
+          "text": "Ayant considéré que Dieu était capable de le ressusciter, et même des morts; d’où aussi, en quelque sorte il le reçut.",
+          "chapter": "11",
+          "name": "Hébreux 11:19"
+        },
+        {
+          "verse": "20",
+          "text": "Par la foi, Isaac bénit Jacob et Esau (Esaü) en vue des choses à venir.",
+          "chapter": "11",
+          "name": "Hébreux 11:20"
+        },
+        {
+          "verse": "21",
+          "text": "Par la foi, Jacob sur le point de mourir, bénit chacun des fils de Joseph, et adora, s’appuyant sur le bout de son bâton.",
+          "chapter": "11",
+          "name": "Hébreux 11:21"
+        },
+        {
+          "verse": "22",
+          "text": "Par la foi, Joseph, à sa mort, fit mention de la sortie des enfants d’Israël, et donna un commandement concernant ses os.",
+          "chapter": "11",
+          "name": "Hébreux 11:22"
+        },
+        {
+          "verse": "23",
+          "text": "Par la foi, Moïse, quand il est né, fut caché pendant trois mois par ses parents, parce qu’ils virent que l’enfant était particulier; et ils n’eurent pas peur du commandement du roi.",
+          "chapter": "11",
+          "name": "Hébreux 11:23"
+        },
+        {
+          "verse": "24",
+          "text": "Par la foi, Moïse, quand il est devenu plus âgé, refusa d’être appelé fils de la fille de Pharaon;",
+          "chapter": "11",
+          "name": "Hébreux 11:24"
+        },
+        {
+          "verse": "25",
+          "text": "Choisissant plutôt d’être dans l’affliction avec le peuple de Dieu, que de jouir pour un temps des délices du péché;",
+          "chapter": "11",
+          "name": "Hébreux 11:25"
+        },
+        {
+          "verse": "26",
+          "text": "Estimant l’opprobre de Christ comme de plus grandes richesses que les trésors de l’Égypte, car il regardait vers la récompense de la rémunération.",
+          "chapter": "11",
+          "name": "Hébreux 11:26"
+        },
+        {
+          "verse": "27",
+          "text": "Par la foi, il quitta l’Égypte, sans avoir peur de la colère du roi; car il tint ferme, comme voyant celui qui est invisible.",
+          "chapter": "11",
+          "name": "Hébreux 11:27"
+        },
+        {
+          "verse": "28",
+          "text": "Par la foi, il célébra la pâque, et l’aspersion du sang, afin que le destructeur des premiers-nés ne les touche pas.",
+          "chapter": "11",
+          "name": "Hébreux 11:28"
+        },
+        {
+          "verse": "29",
+          "text": "Par la foi, ils traversèrent la mer Rouge comme par terre sèche; ce que les Égyptiens essayant de faire, se noyèrent.",
+          "chapter": "11",
+          "name": "Hébreux 11:29"
+        },
+        {
+          "verse": "30",
+          "text": "Par la foi, les murs de Jéricho tombèrent, après qu’ils en eurent fait le tour durant sept jours.",
+          "chapter": "11",
+          "name": "Hébreux 11:30"
+        },
+        {
+          "verse": "31",
+          "text": "Par la foi, Rahab, la prostituée, ne périt pas avec ceux qui n’avaient pas cru, après qu’elle ait recueilli les espions en paix.",
+          "chapter": "11",
+          "name": "Hébreux 11:31"
+        },
+        {
+          "verse": "32",
+          "text": "Et que dirai-je de plus? Car le temps me manquerait pour parler de Gideon (Gédéon), et de Barak, et de Samson, et de Jephté, de David aussi, et de Samuel, et des prophètes;",
+          "chapter": "11",
+          "name": "Hébreux 11:32"
+        },
+        {
+          "verse": "33",
+          "text": "Qui par la foi, ont conquis des royaumes, exercèrent la droiture, obtinrent les promesses, fermèrent la gueule des lions,",
+          "chapter": "11",
+          "name": "Hébreux 11:33"
+        },
+        {
+          "verse": "34",
+          "text": "Éteignirent la violence du feu, échappèrent au tranchant des épées, de faibles ont été rendus vigoureux, mirent en fuite les armées des étrangers.",
+          "chapter": "11",
+          "name": "Hébreux 11:34"
+        },
+        {
+          "verse": "35",
+          "text": "Les femmes reçurent leurs morts revenus à la vie; et d’autres furent torturés, n’acceptant pas la délivrance, afin qu’ils puissent obtenir une meilleure résurrection;",
+          "chapter": "11",
+          "name": "Hébreux 11:35"
+        },
+        {
+          "verse": "36",
+          "text": "Et d’autres ont été éprouvés par de cruelles moqueries et le fouet, oui, de plus par des liens et par la prison",
+          "chapter": "11",
+          "name": "Hébreux 11:36"
+        },
+        {
+          "verse": "37",
+          "text": "Ils furent lapidés, ils furent sciés en deux, ils furent tentés, et furent tués par le tranchant de l’épée, ils errèrent çà et là, vêtus de peaux de brebis et de peaux de chèvres, étant destitués, affligés, tourmentés;",
+          "chapter": "11",
+          "name": "Hébreux 11:37"
+        },
+        {
+          "verse": "38",
+          "text": "(Desquels le monde n’était pas digne), ils errèrent dans les déserts et dans les montagnes, dans les cavernes et dans les grottes de la terre.",
+          "chapter": "11",
+          "name": "Hébreux 11:38"
+        },
+        {
+          "verse": "39",
+          "text": "Et tous ceux-là, ayant obtenu un bon témoignage par la foi, n’ont pas reçu la promesse;",
+          "chapter": "11",
+          "name": "Hébreux 11:39"
+        },
+        {
+          "verse": "40",
+          "text": "Dieu ayant pourvu à quelque chose de meilleur pour nous, afin qu’ainsi ils ne parviennent pas à la perfection sans nous.",
+          "chapter": "11",
+          "name": "Hébreux 11:40"
+        }
+      ],
+      "name": "Hébreux 11"
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "C’est pourquoi, voyant que nous aussi, sommes environnés d’un si grand nuage de témoins, rejetons tout fardeau et le péché qui nous enveloppe si aisément, et courons avec patience la course qui est devant nous,",
+          "chapter": "12",
+          "name": "Hébreux 12:1"
+        },
+        {
+          "verse": "2",
+          "text": "En regardant à Jésus, l’auteur et le finisseur de notre foi, lequel pour la joie qui était placée devant lui, a enduré la croix, méprisant la honte, et est assis à la main droite du trône de Dieu.",
+          "chapter": "12",
+          "name": "Hébreux 12:2"
+        },
+        {
+          "verse": "3",
+          "text": "C’est pourquoi, considérez celui qui a enduré une telle contradiction |[de la part]| des pécheurs contre lui-même, de peur que vous ne vous lassiez, et que vous perdiez courage dans vos cerveaux.",
+          "chapter": "12",
+          "name": "Hébreux 12:3"
+        },
+        {
+          "verse": "4",
+          "text": "Vous n’avez pas encore résisté jusqu’au sang, en combattant contre le péché.",
+          "chapter": "12",
+          "name": "Hébreux 12:4"
+        },
+        {
+          "verse": "5",
+          "text": "Et vous avez oublié l’exhortation laquelle vous parle comme à des enfants: Mon fils, ne méprise pas le châtiment du Seigneur, et ne perds pas courage, quand tu es repris par lui;",
+          "chapter": "12",
+          "name": "Hébreux 12:5"
+        },
+        {
+          "verse": "6",
+          "text": "Car celui que le Seigneur aime, il le châtie, et il fouette tout fils qu’il reçoit.",
+          "chapter": "12",
+          "name": "Hébreux 12:6"
+        },
+        {
+          "verse": "7",
+          "text": "Si vous endurez le châtiment, Dieu se comporte envers vous comme envers des fils; car quel est le fils que le père ne châtie pas?",
+          "chapter": "12",
+          "name": "Hébreux 12:7"
+        },
+        {
+          "verse": "8",
+          "text": "Mais si vous êtes sans châtiment, auquel tous sont participants, alors vous êtes des bâtards, et non des fils.",
+          "chapter": "12",
+          "name": "Hébreux 12:8"
+        },
+        {
+          "verse": "9",
+          "text": "De plus, nous avons eu les pères de notre chair qui nous ont corrigés, et nous leur avons exprimé notre révérence. Ne serons-nous pas plutôt beaucoup plus soumis au Père des esprits, et |[nous]| vivrons?",
+          "chapter": "12",
+          "name": "Hébreux 12:9"
+        },
+        {
+          "verse": "10",
+          "text": "Car en vérité ils nous châtiaient quelques jours, comme ils le trouvaient bon; mais lui |[nous châtie]| pour notre bien, afin que nous puissions être participants de sa sainteté.",
+          "chapter": "12",
+          "name": "Hébreux 12:10"
+        },
+        {
+          "verse": "11",
+          "text": "Or tout châtiment sur le moment ne semble pas être |[un sujet]| de joie, mais de tristesse; mais ensuite il produit un fruit paisible de droiture à ceux qui sont ainsi exercés.",
+          "chapter": "12",
+          "name": "Hébreux 12:11"
+        },
+        {
+          "verse": "12",
+          "text": "C’est pourquoi relevez les mains défaillantes, et les genoux affaiblis;",
+          "chapter": "12",
+          "name": "Hébreux 12:12"
+        },
+        {
+          "verse": "13",
+          "text": "Et faites prendre à vos pieds des sentiers droits, de peur que ce qui est boiteux ne dévie pas du chemin, mais qu’il soit plutôt guéri.",
+          "chapter": "12",
+          "name": "Hébreux 12:13"
+        },
+        {
+          "verse": "14",
+          "text": "Poursuivez la paix avec tous, et la sainteté, sans laquelle nul homme ne verra le Seigneur;",
+          "chapter": "12",
+          "name": "Hébreux 12:14"
+        },
+        {
+          "verse": "15",
+          "text": "Veillant de peur qu’aucun homme ne soit dépourvu de la grâce de Dieu; de peur que quelque racine d’amertume, en jaillissant, ne vous trouble, et que par elle beaucoup ne soient souillés;",
+          "chapter": "12",
+          "name": "Hébreux 12:15"
+        },
+        {
+          "verse": "16",
+          "text": "De peur qu’il n’y ait quelque fornicateur, ou personne profane comme Esau (Esaü), qui, pour un morceau de viande vendit son droit d’aînesse.",
+          "chapter": "12",
+          "name": "Hébreux 12:16"
+        },
+        {
+          "verse": "17",
+          "text": "Car vous savez comment après, lorsqu’il voulut hériter de la bénédiction, il fut rejeté, car il ne trouva pas de lieu à la repentance, quoiqu’il l’ait recherchée avec larmes.",
+          "chapter": "12",
+          "name": "Hébreux 12:17"
+        },
+        {
+          "verse": "18",
+          "text": "Car vous n’êtes pas venus au mont qui peut être touché, et qui brûlait par le feu, ni à la noirceur, ni à l’obscurité, ni à la tempête,",
+          "chapter": "12",
+          "name": "Hébreux 12:18"
+        },
+        {
+          "verse": "19",
+          "text": "Ni au son de la trompette, ni à la voix des paroles, laquelle ceux qui l’entendaient, implorèrent pour que la parole ne leur soit plus adressée.",
+          "chapter": "12",
+          "name": "Hébreux 12:19"
+        },
+        {
+          "verse": "20",
+          "text": "(Car ils ne pouvaient pas endurer ce qui était commandé: Si même une bête touche la montagne, elle sera lapidée, ou transpercée d’un dard.",
+          "chapter": "12",
+          "name": "Hébreux 12:20"
+        },
+        {
+          "verse": "21",
+          "text": "Et ce spectacle était si terrible, que Moïse dit: Je suis excessivement effrayé et en tremble;",
+          "chapter": "12",
+          "name": "Hébreux 12:21"
+        },
+        {
+          "verse": "22",
+          "text": "Mais vous êtes venus au mont Sion, et à la cité du Dieu vivant, la Jérusalem céleste, et au nombre innombrable d’anges,",
+          "chapter": "12",
+          "name": "Hébreux 12:22"
+        },
+        {
+          "verse": "23",
+          "text": "À l’assemblée générale et à l’église des premiers-nés, qui sont écrits dans le ciel, et à Dieu, le juge de tous, et aux esprits des hommes justes parvenus à la perfection,",
+          "chapter": "12",
+          "name": "Hébreux 12:23"
+        },
+        {
+          "verse": "24",
+          "text": "Et à Jésus, le médiateur de la nouvelle alliance, et au sang d’aspersion, qui parle de meilleures choses que celui d’Abel.",
+          "chapter": "12",
+          "name": "Hébreux 12:24"
+        },
+        {
+          "verse": "25",
+          "text": "Prenez garde que vous ne refusiez pas celui qui parle. Car s’ils n’ont pas échappé, ceux qui refusèrent celui qui parlait sur la terre, combien plus n’échapperons-nous pas, si nous nous détournons de celui qui parle depuis le ciel;",
+          "chapter": "12",
+          "name": "Hébreux 12:25"
+        },
+        {
+          "verse": "26",
+          "text": "Dont la voix secoua alors la terre; mais maintenant il a promis, disant: Encore une fois je secouerai non seulement la terre, mais aussi le ciel.",
+          "chapter": "12",
+          "name": "Hébreux 12:26"
+        },
+        {
+          "verse": "27",
+          "text": "Et cette parole: Encore une fois, signifie la suppression de ces choses qui sont stables, comme des choses qui ont été faites, pour que ces choses qui ne peuvent pas être instables demeurent.",
+          "chapter": "12",
+          "name": "Hébreux 12:27"
+        },
+        {
+          "verse": "28",
+          "text": "C’est pourquoi, recevant un royaume qui ne peut être déplacé, ayons la grâce par laquelle nous puissions servir Dieu agréablement, avec révérence et une pieuse crainte;",
+          "chapter": "12",
+          "name": "Hébreux 12:28"
+        },
+        {
+          "verse": "29",
+          "text": "Car notre Dieu est un feu consumant.",
+          "chapter": "12",
+          "name": "Hébreux 12:29"
+        }
+      ],
+      "name": "Hébreux 12"
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Que l’amour fraternel continue.",
+          "chapter": "13",
+          "name": "Hébreux 13:1"
+        },
+        {
+          "verse": "2",
+          "text": "N’oubliez pas l’hospitalité; car par elle quelques-uns ont accueilli des anges sans le savoir.",
+          "chapter": "13",
+          "name": "Hébreux 13:2"
+        },
+        {
+          "verse": "3",
+          "text": "Souvenez-vous de ceux qui sont dans des liens, comme |[si vous étiez]| liés avec eux; et de ceux qui sont dans l’adversité, comme étant vous-mêmes aussi dans |[le]| corps.",
+          "chapter": "13",
+          "name": "Hébreux 13:3"
+        },
+        {
+          "verse": "4",
+          "text": "Que le mariage soit honorable en tous, et le lit sans souillure; mais Dieu jugera les prostituées et les adultères.",
+          "chapter": "13",
+          "name": "Hébreux 13:4"
+        },
+        {
+          "verse": "5",
+          "text": "Que votre conduite soit exempte de convoitise; et soyez satisfaits de ce que vous avez; car il a dit: Jamais je ne te laisserai, ni ne t’abandonnerai.",
+          "chapter": "13",
+          "name": "Hébreux 13:5"
+        },
+        {
+          "verse": "6",
+          "text": "De sorte que nous pouvons dire avec témérité: Le Seigneur est mon aide, et je n’aurai pas peur de ce que l’homme pourrait me faire.",
+          "chapter": "13",
+          "name": "Hébreux 13:6"
+        },
+        {
+          "verse": "7",
+          "text": "Souvenez-vous de ceux qui ont autorité sur vous, qui vous ont déclaré la parole de Dieu, desquels suivez la foi, considérant le résultat de leur conduite.",
+          "chapter": "13",
+          "name": "Hébreux 13:7"
+        },
+        {
+          "verse": "8",
+          "text": "Jésus-Christ |[est]| le même, hier et aujourd’hui, et pour toujours.",
+          "chapter": "13",
+          "name": "Hébreux 13:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ne soyez pas emportés par des doctrines diverses et étranges; car c’est une bonne chose que le cœur soit affermi par grâce et non par les aliments, lesquels n’ont rien profité à ceux qui s’y sont attachés.",
+          "chapter": "13",
+          "name": "Hébreux 13:9"
+        },
+        {
+          "verse": "10",
+          "text": "Nous avons un autel, dont ceux qui servent dans le tabernacle n’ont pas le droit de manger.",
+          "chapter": "13",
+          "name": "Hébreux 13:10"
+        },
+        {
+          "verse": "11",
+          "text": "Car les corps de ces animaux, dont le sang est porté dans le sanctuaire par le grand prêtre pour le péché, sont brûlés hors du camp.",
+          "chapter": "13",
+          "name": "Hébreux 13:11"
+        },
+        {
+          "verse": "12",
+          "text": "C’est pourquoi aussi Jésus, afin qu’il puisse sanctifier le peuple avec son propre sang, a souffert hors de la porte.",
+          "chapter": "13",
+          "name": "Hébreux 13:12"
+        },
+        {
+          "verse": "13",
+          "text": "Sortons donc vers lui hors du camp, portant son opprobre.",
+          "chapter": "13",
+          "name": "Hébreux 13:13"
+        },
+        {
+          "verse": "14",
+          "text": "Car nous n’avons pas ici de cité permanente, mais nous cherchons celle |[qui est]| à venir.",
+          "chapter": "13",
+          "name": "Hébreux 13:14"
+        },
+        {
+          "verse": "15",
+          "text": "Par lui offrons donc sans cesse à Dieu le sacrifice de louange, c’est-à-dire, le fruit de nos lèvres remerciant son nom.",
+          "chapter": "13",
+          "name": "Hébreux 13:15"
+        },
+        {
+          "verse": "16",
+          "text": "Mais n’oubliez pas de faire le bien et de partager; car Dieu est très satisfait par de tels sacrifices.",
+          "chapter": "13",
+          "name": "Hébreux 13:16"
+        },
+        {
+          "verse": "17",
+          "text": "Obéissez à ceux qui ont autorité sur vous et soyez-[leur]| soumis, car ils veillent sur vos âmes, comme ceux qui devront en rendre compte, afin qu’ils le fassent avec joie et non pas à regret; car cela vous serait préjudiciable.",
+          "chapter": "13",
+          "name": "Hébreux 13:17"
+        },
+        {
+          "verse": "18",
+          "text": "Priez pour nous, car nous avons confiance d’avoir une bonne conscience, voulant nous conduire honnêtement en toutes choses.",
+          "chapter": "13",
+          "name": "Hébreux 13:18"
+        },
+        {
+          "verse": "19",
+          "text": "Mais je vous supplie d’autant plus de le faire, afin que je puisse vous être rendu plus tôt.",
+          "chapter": "13",
+          "name": "Hébreux 13:19"
+        },
+        {
+          "verse": "20",
+          "text": "Que le Dieu de paix, qui a ramené d’entre les morts notre Seigneur Jésus, le grand berger des brebis, par le sang de l’alliance éternelle,",
+          "chapter": "13",
+          "name": "Hébreux 13:20"
+        },
+        {
+          "verse": "21",
+          "text": "Vous rende parfaits en toute bonne œuvre pour faire sa volonté, faisant en vous ce qui est agréable à sa vue, par Jésus Christ, auquel soit la gloire pour toujours et toujours. Amen.",
+          "chapter": "13",
+          "name": "Hébreux 13:21"
+        },
+        {
+          "verse": "22",
+          "text": "Et je vous supplie, frères, de supporter la parole d’exhortation; car je vous ai écrit une lettre en peu de mots.",
+          "chapter": "13",
+          "name": "Hébreux 13:22"
+        },
+        {
+          "verse": "23",
+          "text": "Sachez que notre frère Timothée a été mis en liberté; avec lequel je vous verrai, s’il vient bientôt.",
+          "chapter": "13",
+          "name": "Hébreux 13:23"
+        },
+        {
+          "verse": "24",
+          "text": "Saluez tous ceux qui ont autorité sur vous, et tous les saints. Ceux d’Italie vous saluent.",
+          "chapter": "13",
+          "name": "Hébreux 13:24"
+        },
+        {
+          "verse": "25",
+          "text": "Grâce soit avec vous tous. Amen.",
+          "chapter": "13",
+          "name": "Hébreux 13:25"
+        }
+      ],
+      "name": "Hébreux 13"
+    }
+  ]
+}

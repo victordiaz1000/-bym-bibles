@@ -1,0 +1,2730 @@
+{
+  "translation": "King James Française",
+  "abbreviation": "KJF",
+  "lang": "fr",
+  "language": "français",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 46,
+  "name": "1 Corinthiens",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Paul, appelé à être un apôtre de Jésus Christ par la volonté de Dieu, et Sosthenes (Sosthène) notre frère,",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:1"
+        },
+        {
+          "verse": "2",
+          "text": "À l’église de Dieu qui est à Corinthe, à ceux qui sont sanctifiés en Christ Jésus, appelés à être saints, avec tous ceux qui en tout lieu font appel au nom de Jésus Christ notre Seigneur, leur |[Seigneur]| et le nôtre.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:2"
+        },
+        {
+          "verse": "3",
+          "text": "Grâce soit à vous, et paix |[de la part]| de Dieu, notre Père, et du Seigneur Jésus-Christ.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:3"
+        },
+        {
+          "verse": "4",
+          "text": "Je remercie toujours mon Dieu pour vous, pour la grâce de Dieu qui vous est donnée par Jésus Christ,",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:4"
+        },
+        {
+          "verse": "5",
+          "text": "De ce qu’en toutes choses, vous êtes enrichis par lui, en toute parole et en toute connaissance;",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:5"
+        },
+        {
+          "verse": "6",
+          "text": "C’est-à-dire comme le témoignage de Christ a été affermi en vous;",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:6"
+        },
+        {
+          "verse": "7",
+          "text": "Si bien qu’il ne vous manque aucun don, en attendant la venue de notre Seigneur Jésus Christ,",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:7"
+        },
+        {
+          "verse": "8",
+          "text": "Qui aussi vous affermira jusqu’à la fin, afin que vous puissiez être irréprochables au jour de notre Seigneur Jésus Christ.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:8"
+        },
+        {
+          "verse": "9",
+          "text": "Dieu est fidèle, par qui vous avez été appelés à l’association de son Fils Jésus Christ notre Seigneur.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:9"
+        },
+        {
+          "verse": "10",
+          "text": "Or je vous supplie, frères, par le nom de notre Seigneur Jésus Christ, que vous parliez tous la même chose, et qu’il n’y ait pas de divisions parmi vous, mais que vous soyez parfaitement unis dans une même pensée et dans un même jugement.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:10"
+        },
+        {
+          "verse": "11",
+          "text": "Car il m’a été dit de vous, mes frères, par ceux qui sont de la maison de Chloé, qu’il y a des dissensions parmi vous.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:11"
+        },
+        {
+          "verse": "12",
+          "text": "Or ceci je dis, que chacun de vous dit: Moi, je suis de Paul; et moi, d’Apollos; et moi, de Cephas; et moi, de Christ.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:12"
+        },
+        {
+          "verse": "13",
+          "text": "Christ est-il divisé? Paul a-t-il été crucifié pour vous? ou avez-vous été baptisés au nom de Paul?",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:13"
+        },
+        {
+          "verse": "14",
+          "text": "Je remercie Dieu de ce que je n’ai baptisé aucun de vous, sinon Crispus et Gaïus;",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:14"
+        },
+        {
+          "verse": "15",
+          "text": "De peur que nul ne dise que j’ai baptisé en mon propre nom.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:15"
+        },
+        {
+          "verse": "16",
+          "text": "Et j’ai baptisé aussi la famille de Stephanas; de plus, je ne sais si j’ai baptisé quelqu’un d’autre.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:16"
+        },
+        {
+          "verse": "17",
+          "text": "Car Christ ne m’a pas envoyé pour baptiser, mais pour prêcher l’évangile, non avec sagesse de parole, de peur que la croix de Christ soit rendue sans effet.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:17"
+        },
+        {
+          "verse": "18",
+          "text": "Car la prédication de la croix est pour ceux qui périssent folie; mais à nous qui sommes sauvés, elle est le pouvoir de Dieu.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:18"
+        },
+        {
+          "verse": "19",
+          "text": "Car il est écrit: Je détruirai la sagesse des sages et j’anéantirai la compréhension des prudents.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:19"
+        },
+        {
+          "verse": "20",
+          "text": "Où est le sage? où est le scribe? où est l’argumentateur de ce monde? Dieu n’a-t-il pas rendu insensée la sagesse de ce monde?",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:20"
+        },
+        {
+          "verse": "21",
+          "text": "Car puisqu’en la sagesse de Dieu, le monde, par la sagesse, n’a pas connu Dieu, il a plu à Dieu par la folie de la prédication de sauver ceux qui croient.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:21"
+        },
+        {
+          "verse": "22",
+          "text": "Car les Juifs exigent un signe, et les Grecs cherchent la sagesse,",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:22"
+        },
+        {
+          "verse": "23",
+          "text": "Mais nous, nous prêchons Christ crucifié, aux Juifs une pierre d’achoppement, et aux Grecs folie;",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:23"
+        },
+        {
+          "verse": "24",
+          "text": "Mais pour ceux qui sont appelés, tant Juifs que Grecs, |[nous prêchons]| Christ le pouvoir de Dieu et la sagesse de Dieu.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:24"
+        },
+        {
+          "verse": "25",
+          "text": "Parce que la folie de Dieu est plus sage que les hommes, et la faiblesse de Dieu est plus forte que les hommes.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:25"
+        },
+        {
+          "verse": "26",
+          "text": "Car vous voyez votre vocation, frères, que vous n’êtes pas beaucoup d’hommes sages selon la chair, ni beaucoup de puissants, ni beaucoup de nobles, qui êtes appelés.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:26"
+        },
+        {
+          "verse": "27",
+          "text": "Mais Dieu a choisi les choses folles du monde pour confondre les sages, et Dieu a choisi les choses faibles du monde pour confondre les choses qui sont puissantes;",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:27"
+        },
+        {
+          "verse": "28",
+          "text": "Et Dieu a choisi les choses viles du monde et les choses qui sont méprisées, oui, et les choses qui ne sont pas, pour amener à néant celles qui sont,",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:28"
+        },
+        {
+          "verse": "29",
+          "text": "Afin que nulle chair ne se glorifie en sa présence.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:29"
+        },
+        {
+          "verse": "30",
+          "text": "Mais vous êtes de lui en Christ Jésus, qui |[de la part]| de Dieu, nous a été fait sagesse et droiture, et sanctification et rédemption;",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:30"
+        },
+        {
+          "verse": "31",
+          "text": "Afin que, selon ce qui est écrit: Celui qui se glorifie, se glorifie dans le Seigneur.",
+          "chapter": "1",
+          "name": "1 Corinthiens 1:31"
+        }
+      ],
+      "name": "1 Corinthiens 1"
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et moi, frères, quand je suis venu à vous, je ne suis pas venu avec excellence de parole, ou de sagesse en vous déclarant le témoignage de Dieu.",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:1"
+        },
+        {
+          "verse": "2",
+          "text": "Car j’étais déterminé de ne savoir autre chose parmi vous, sinon Jésus Christ, et celui-ci crucifié.",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:2"
+        },
+        {
+          "verse": "3",
+          "text": "Et j’étais avec vous dans la faiblesse, et dans la crainte et tremblant beaucoup.",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:3"
+        },
+        {
+          "verse": "4",
+          "text": "Et mon discours et ma prédication n’ont pas été en paroles persuasives de la sagesse humaine, mais en démonstration de l’Esprit et d’autorité;",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:4"
+        },
+        {
+          "verse": "5",
+          "text": "Afin que votre foi ne se maintienne pas sur la sagesse des hommes, mais sur le pouvoir de Dieu.",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:5"
+        },
+        {
+          "verse": "6",
+          "text": "Néanmoins nous parlons sagesse parmi ceux qui sont parfaits, toutefois pas la sagesse de ce monde, ni des princes de ce monde, qui vont être anéantis;",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:6"
+        },
+        {
+          "verse": "7",
+          "text": "Mais nous parlons la sagesse de Dieu en un mystère, c’est-à-dire |[la]| sagesse cachée, que Dieu avait déterminée avant |[que]| le monde |[existe]| pour notre gloire,",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:7"
+        },
+        {
+          "verse": "8",
+          "text": "Laquelle aucun des princes de ce monde n’a connue, car s’ils l’avaient connue, ils n’auraient pas crucifié le Seigneur de gloire.",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:8"
+        },
+        {
+          "verse": "9",
+          "text": "Mais, comme il est écrit: Les choses que l’œil n’a pas vues, ni l’oreille entendues, qui ne sont pas montées cœur de l’homme, lesquelles Dieu a préparées pour ceux qui l’aiment.",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:9"
+        },
+        {
+          "verse": "10",
+          "text": "Mais Dieu nous les a révélées par son Esprit; car l’Esprit sonde toutes choses, oui, |[même]| les choses profondes de Dieu.",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:10"
+        },
+        {
+          "verse": "11",
+          "text": "Car quel homme connaît les choses de l’homme, sinon l’esprit de l’homme qui est en lui? De même aussi, aucun homme ne connaît les choses de Dieu, sinon l’Esprit de Dieu.",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:11"
+        },
+        {
+          "verse": "12",
+          "text": "Or nous avons reçu, non l’esprit du monde, mais l’esprit qui est de Dieu, afin que nous puissions connaître les choses qui nous sont données librement par Dieu;",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:12"
+        },
+        {
+          "verse": "13",
+          "text": "Lesquelles choses aussi nous parlons, non pas avec les mots qu’enseigne la sagesse humaine, mais avec ceux qu’enseigne l’ Esprit Saint, comparant les choses spirituelles avec |[les choses]| spirituelles.",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:13"
+        },
+        {
+          "verse": "14",
+          "text": "Mais l’homme naturel ne reçoit pas les choses de l’Esprit de Dieu; car elles sont folie pour lui, il ne peut pas non plus les connaître, parce qu’elles se discernent spirituellement.",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:14"
+        },
+        {
+          "verse": "15",
+          "text": "Mais celui qui est spirituel juge toutes choses, toutefois il n’est lui-même jugé par aucun homme.",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:15"
+        },
+        {
+          "verse": "16",
+          "text": "Car qui a connu le cerveau du Seigneur pour qu’il puisse l’instruire? Mais nous, nous avons le cerveau de Christ.",
+          "chapter": "2",
+          "name": "1 Corinthiens 2:16"
+        }
+      ],
+      "name": "1 Corinthiens 2"
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et moi, frères, je n’ai pu vous parler comme à des |[hommes]| spirituels; mais comme à des |[hommes]| charnels, même comme à des bébés en Christ.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:1"
+        },
+        {
+          "verse": "2",
+          "text": "Je vous ai nourris de lait, et non de viande, car jusqu’à maintenant vous n’étiez pas capables de la supporter; maintenant même, vous n’en êtes toujours pas capables.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car vous êtes encore charnels; car, puisqu’il y a parmi vous, envie, et querelle, et divisions, n’êtes-vous pas charnels, et ne marchez-vous pas |[à la manière]| des hommes?",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:3"
+        },
+        {
+          "verse": "4",
+          "text": "Car tandis que l’un dit: Je suis de Paul; et un autre Je suis d’Apollos, n’êtes-vous pas charnels?",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:4"
+        },
+        {
+          "verse": "5",
+          "text": "Qui donc est Paul, et qui est Apollos, sinon des ministres par lesquels vous avez cru, comme le Seigneur a donné à chaque homme?",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:5"
+        },
+        {
+          "verse": "6",
+          "text": "J’ai planté, Apollos a arrosé, mais Dieu a donné l’accroissement.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:6"
+        },
+        {
+          "verse": "7",
+          "text": "Ainsi donc, ni celui qui plante n’est quelque chose, ni celui qui arrose, mais Dieu qui donne l’accroissement.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:7"
+        },
+        {
+          "verse": "8",
+          "text": "Or celui qui plante et celui qui arrose sont un, et chaque homme recevra sa propre récompense selon son propre travail.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:8"
+        },
+        {
+          "verse": "9",
+          "text": "Car nous collaborons ensemble avec Dieu; vous êtes le champ de Dieu, vous êtes l’édifice de Dieu.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:9"
+        },
+        {
+          "verse": "10",
+          "text": "Selon la grâce de Dieu qui m’est donnée, comme un sage entrepreneur de bâtiments, j’ai posé le fondement, et un autre édifie dessus. Mais que chaque homme prenne garde comment il édifie dessus.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:10"
+        },
+        {
+          "verse": "11",
+          "text": "Car nul homme ne peut poser d’autre fondement que celui qui est posé, lequel est Jésus Christ.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:11"
+        },
+        {
+          "verse": "12",
+          "text": "Or si quelque homme édifie sur ce fondement |[avec de]| l’or, de l’argent, des pierres précieuses, du bois, du foin, du chaume,",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:12"
+        },
+        {
+          "verse": "13",
+          "text": "L’œuvre de chaque homme sera rendue manifeste; car le jour la fera connaître, parce qu’elle sera révélée par |[le]| feu; et le feu éprouvera de quelle façon est l’œuvre de chaque homme.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:13"
+        },
+        {
+          "verse": "14",
+          "text": "Si l’œuvre qu’un homme a édifiée, subsiste, il recevra une récompense.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:14"
+        },
+        {
+          "verse": "15",
+          "text": "Si l’œuvre d’un homme vient à être brûlée, il en subira la perte, mais lui-même sera sauvé, toutefois comme par |[le]| feu.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:15"
+        },
+        {
+          "verse": "16",
+          "text": "Ne savez-vous pas que vous êtes le temple de Dieu, et que l’Esprit de Dieu demeure en vous?",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:16"
+        },
+        {
+          "verse": "17",
+          "text": "Si un homme profane le temple de Dieu, Dieu le détruira; car le temple de Dieu est saint, lequel temple vous êtes.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:17"
+        },
+        {
+          "verse": "18",
+          "text": "Que nul homme ne se berne lui-même. Si un homme parmi vous semble être sage dans ce monde, qu’il devienne insensé, afin qu’il puisse devenir sage.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:18"
+        },
+        {
+          "verse": "19",
+          "text": "Car la sagesse de ce monde est folie avec Dieu. Car il est écrit: Il surprend les sages dans leurs propres ruses.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:19"
+        },
+        {
+          "verse": "20",
+          "text": "Et encore: Le Seigneur connaît les pensées des sages, et elles sont vaines.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:20"
+        },
+        {
+          "verse": "21",
+          "text": "C’est pourquoi que nul homme ne se glorifie dans les hommes. Car toutes choses sont à vous;",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:21"
+        },
+        {
+          "verse": "22",
+          "text": "Que ce soit Paul, ou Apollos, ou Céphas, ou le monde, ou |[la]| vie, ou |[la]| mort, ou |[les]| choses présentes, ou |[les]| choses à venir; toutes choses sont à vous,",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:22"
+        },
+        {
+          "verse": "23",
+          "text": "Et vous êtes à Christ, et Christ est à Dieu.",
+          "chapter": "3",
+          "name": "1 Corinthiens 3:23"
+        }
+      ],
+      "name": "1 Corinthiens 3"
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Que tout homme donc nous considère comme les ministres de Christ et administrateurs des mystères de Dieu.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:1"
+        },
+        {
+          "verse": "2",
+          "text": "De plus, il est exigé des administrateurs, que chaque homme soit trouvé fidèle.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:2"
+        },
+        {
+          "verse": "3",
+          "text": "Mais pour moi, c’est peu de chose que je sois jugé par vous, ou par un jugement d’homme; oui, je ne me juge pas moi-même.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:3"
+        },
+        {
+          "verse": "4",
+          "text": "Car je ne connais rien par moi-même; toutefois je ne suis pas justifié pour cela; mais celui qui me juge, c’est le Seigneur.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:4"
+        },
+        {
+          "verse": "5",
+          "text": "C’est pourquoi, ne jugez rien avant le temps, jusqu’à ce que le Seigneur vienne, lequel mettra à la fois en lumière les choses cachées dans l’obscurité, et rendra manifestes les conseils des cœurs; et alors chaque homme recevra |[sa]| louange |[de la part]| de Dieu.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:5"
+        },
+        {
+          "verse": "6",
+          "text": "Et ces choses, frères, je les ai, si je peux m’exprimer ainsi, transférées et à moi et à Apollos, à cause de vous, afin qu’en nous, vous puissiez apprendre à ne pas penser |[concernant]| les hommes au-delà de ce qui est écrit, afin qu’aucun de vous ne conçoive d’orgueil l’un contre l’autre.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:6"
+        },
+        {
+          "verse": "7",
+          "text": "Car qui te rend différent d’un autre? Et qu’as-tu, que tu n’aies reçu? Or si tu l’as reçu, pourquoi te glorifies-tu, comme si tu ne l’avais pas reçu?",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:7"
+        },
+        {
+          "verse": "8",
+          "text": "À présent vous êtes rassasiés, dà présent vous êtes riches, vous avez régné comme des rois sans nous; et plût à Dieu que vous régniez, afin que nous puissions aussi régner avec vous.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:8"
+        },
+        {
+          "verse": "9",
+          "text": "Car je pense que Dieu nous a présentés, nous les apôtres les derniers, comme destinés à la mort, car nous sommes donnés en spectacle au monde, et aux anges et aux hommes.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:9"
+        },
+        {
+          "verse": "10",
+          "text": "Nous sommes insensés pour l’amour de Christ, mais vous êtes sages en Christ; nous sommes faibles mais vous êtes forts; vous êtes honorables mais nous sommes méprisés.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:10"
+        },
+        {
+          "verse": "11",
+          "text": "Même jusqu’à cette heure-ci nous avons faim et soif, et nous sommes nus et sommes frappés, et nous n’avons pas de domicile;",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:11"
+        },
+        {
+          "verse": "12",
+          "text": "Et nous peinons, travaillant de nos propres mains; étant injuriés, nous bénissons; étant persécutés, nous le supportons;",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:12"
+        },
+        {
+          "verse": "13",
+          "text": "Étant calomniés, nous supplions; nous sommes devenus comme les ordures du monde, et sommes le rebut de toutes choses jusqu’à ce jour.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:13"
+        },
+        {
+          "verse": "14",
+          "text": "Je n’écris pas ces choses pour vous faire honte; mais comme |[étant]| mes fils bien-aimés, je vous avertis.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:14"
+        },
+        {
+          "verse": "15",
+          "text": "Car même si vous aviez dix mille instructeurs en Christ, toutefois vous n’avez pas beaucoup de pères; car en Christ Jésus je vous ai engendrés à travers l’évangile.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:15"
+        },
+        {
+          "verse": "16",
+          "text": "C’est pourquoi je vous supplie, suivez mon exemple.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:16"
+        },
+        {
+          "verse": "17",
+          "text": "Pour cette raison je vous ai envoyé Timothée, qui est mon fils bien-aimé et fidèle dans le Seigneur; il vous rappellera mes chemins lesquels sont en Christ, comme j’enseigne partout dans chaque église.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:17"
+        },
+        {
+          "verse": "18",
+          "text": "Or quelques-uns se sont enorgueillis comme si je ne devais pas venir à vous.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:18"
+        },
+        {
+          "verse": "19",
+          "text": "Mais je viendrai bientôt à vous, si le Seigneur le veut, et |[je]| connaîtrai, non la parole de ceux qui se sont enorgueillis, mais le pouvoir.",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:19"
+        },
+        {
+          "verse": "20",
+          "text": "Car le royaume de Dieu n’est pas en parole, mais en pouvoir",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:20"
+        },
+        {
+          "verse": "21",
+          "text": "Que voulez-vous? viendrai-je à vous avec un bâton, ou avec amour, et dans l’esprit de soumission?",
+          "chapter": "4",
+          "name": "1 Corinthiens 4:21"
+        }
+      ],
+      "name": "1 Corinthiens 4"
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "On raconte couramment qu’il y a |[de la]| fornication parmi vous, et une telle fornication qui n’est pas nommée, même parmi les Gentils: que quelqu’un aurait la femme de son père.",
+          "chapter": "5",
+          "name": "1 Corinthiens 5:1"
+        },
+        {
+          "verse": "2",
+          "text": "Et vous êtes enorgueillis, et vous n’avez pas plutôt pris le deuil afin que celui qui a commis cet acte puisse être retiré du milieu de vous.",
+          "chapter": "5",
+          "name": "1 Corinthiens 5:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car moi en vérité, comme absent de corps, mais présent en esprit, |[j’]ai déjà jugé, comme si j’étais présent, concernant celui qui a commis cet acte,",
+          "chapter": "5",
+          "name": "1 Corinthiens 5:3"
+        },
+        {
+          "verse": "4",
+          "text": "Au nom de notre Seigneur Jésus Christ, lorsque vous êtes réunis ensemble, |[vous]| et mon esprit, avec le pouvoir de notre Seigneur Jésus Christ,",
+          "chapter": "5",
+          "name": "1 Corinthiens 5:4"
+        },
+        {
+          "verse": "5",
+          "text": "Qu’on livre un tel |[homme]| à Satan pour la destruction de la chair, afin que l’esprit puisse être sauvé au jour du Seigneur Jésus.",
+          "chapter": "5",
+          "name": "1 Corinthiens 5:5"
+        },
+        {
+          "verse": "6",
+          "text": "Votre vantardise n’est pas bonne. Ne savez-vous pas qu’un peu de levain fait lever toute la pâte?",
+          "chapter": "5",
+          "name": "1 Corinthiens 5:6"
+        },
+        {
+          "verse": "7",
+          "text": "Retirez donc le vieux levain, afin que vous puissiez devenir une nouvelle pâte, puisque vous êtes sans levain. Car même Christ, notre pâque, est sacrifié pour nous.",
+          "chapter": "5",
+          "name": "1 Corinthiens 5:7"
+        },
+        {
+          "verse": "8",
+          "text": "C’est pourquoi, célébrons la fête, non avec le vieux levain, ni avec le levain de malice et de méchanceté; mais avec le pain sans levain de sincérité et de vérité.",
+          "chapter": "5",
+          "name": "1 Corinthiens 5:8"
+        },
+        {
+          "verse": "9",
+          "text": "Je vous ai écrit dans une épître de ne pas fréquenter les fornicateurs;",
+          "chapter": "5",
+          "name": "1 Corinthiens 5:9"
+        },
+        {
+          "verse": "10",
+          "text": "Toutefois pas absolument avec les fornicateurs de ce monde, ou avec les envieux et les extorqueurs, ou les idolâtres; car alors il faudrait que vous sortiez du monde.",
+          "chapter": "5",
+          "name": "1 Corinthiens 5:10"
+        },
+        {
+          "verse": "11",
+          "text": "Mais maintenant, je vous ai écrit de ne fréquenter aucun homme qui est appelé un frère, mais est fornicateur, ou envieux, ou idolâtre, ou médisant, ou ivrogne, ou extorqueur, que vous ne mangiez pas avec un tel |[homme].",
+          "chapter": "5",
+          "name": "1 Corinthiens 5:11"
+        },
+        {
+          "verse": "12",
+          "text": "Car qu’ai-je à faire à juger aussi ceux du dehors? Ne jugez-vous pas ceux qui sont dedans?",
+          "chapter": "5",
+          "name": "1 Corinthiens 5:12"
+        },
+        {
+          "verse": "13",
+          "text": "Mais ceux qui sont du dehors, Dieu |[les]| juge. C’est pourquoi retirez du milieu de vous cette méchante personne.",
+          "chapter": "5",
+          "name": "1 Corinthiens 5:13"
+        }
+      ],
+      "name": "1 Corinthiens 5"
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Quelqu’un d’entre vous lorsqu’il a un litige avec un autre, ose-t-il aller en procès devant les injustes, et non devant les saints?",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:1"
+        },
+        {
+          "verse": "2",
+          "text": "Ne savez-vous pas que les saints jugeront le monde? et si le monde sera jugé par vous, êtes-vous indignes de juger les plus petites choses?",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:2"
+        },
+        {
+          "verse": "3",
+          "text": "Ne savez-vous pas que nous jugerons les anges? Combien plus les choses concernant cette vie?",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:3"
+        },
+        {
+          "verse": "4",
+          "text": "Si donc vous avez des procès pour les choses concernant cette vie, établissez pour juges ceux qui sont le moins estimés dans l’église.",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:4"
+        },
+        {
+          "verse": "5",
+          "text": "Je parle à votre honte. Est-ce ainsi qu’il n’y a pas un homme sage parmi vous? Non, pas même un seul, qui soit capable de juger entre ses frères?",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:5"
+        },
+        {
+          "verse": "6",
+          "text": "Mais un frère a un procès avec un frère, et cela devant les incroyants.",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:6"
+        },
+        {
+          "verse": "7",
+          "text": "Maintenant donc il y a une grande faute parmi vous, parce que vous avez des procès entre vous. Pourquoi n’acceptez-vous pas plutôt d’avoir tort? Pourquoi ne supportez-vous pas plutôt d’être dépouillés?",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:7"
+        },
+        {
+          "verse": "8",
+          "text": "Non, vous faites du tort et vous dépouillez et cela à vos frères.",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ne savez-vous pas que les iniques n’hériteront pas le royaume de Dieu? Ne soyez pas bernés: ni fornicateurs, ni idolâtres, ni adultères, ni efféminés, ni ceux qui abusent d’eux-mêmes avec les hommes,",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:9"
+        },
+        {
+          "verse": "10",
+          "text": "Ni voleurs, ni envieux, ni ivrognes, ni médisants, ni extorqueurs n’hériteront le royaume de Dieu.",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:10"
+        },
+        {
+          "verse": "11",
+          "text": "Et tels étaient quelques-uns d’entre vous; mais vous êtes lavés, mais vous êtes sanctifiés, mais vous êtes justifiés dans le nom du Seigneur Jésus, et par l’Esprit de notre Dieu.",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:11"
+        },
+        {
+          "verse": "12",
+          "text": "Toutes choses |[selon la loi]| me sont permises, mais toutes choses ne sont pas utiles; toutes choses |[selon la loi]| me sont permises, mais je ne serai assujetti sous le pouvoir d’aucune.",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:12"
+        },
+        {
+          "verse": "13",
+          "text": "Les aliments |[sont]| pour le ventre, et le ventre pour les aliments; mais Dieu détruira et celui-là et ceux-ci. Or le corps n’est pas pour la fornication, mais pour le Seigneur, et le Seigneur pour le corps.",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:13"
+        },
+        {
+          "verse": "14",
+          "text": "Et Dieu a ressuscité le Seigneur, et il nous ressuscitera aussi par son propre pouvoir.",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:14"
+        },
+        {
+          "verse": "15",
+          "text": "Ne savez-vous pas que vos corps sont les membres de Christ? Prendrai-je donc les membres de Christ, pour en faire les membres d’une prostituée? À Dieu ne plaise.",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:15"
+        },
+        {
+          "verse": "16",
+          "text": "Quoi? Ne savez-vous pas que celui qui est joint à une prostituée n’est qu’un |[même]| corps? car les deux, dit-il, seront une |[même]| chair.",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:16"
+        },
+        {
+          "verse": "17",
+          "text": "Mais celui qui est joint au Seigneur est un |[seul]| esprit.",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:17"
+        },
+        {
+          "verse": "18",
+          "text": "Fuyez la fornication. Quelque péché qu’un homme commette, il est hors du corps; mais celui qui commet fornication, pèche contre son propre corps.",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:18"
+        },
+        {
+          "verse": "19",
+          "text": "Quoi? Ne savez-vous pas que votre corps est le temple de l’Esprit Saint qui est en vous, et que vous avez |[reçu]| de Dieu, et vous ne vous appartenez pas?",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:19"
+        },
+        {
+          "verse": "20",
+          "text": "Car vous êtes achetés à |[grand]| prix; c’est pourquoi glorifiez Dieu en votre corps et en votre esprit, qui appartiennent à Dieu.",
+          "chapter": "6",
+          "name": "1 Corinthiens 6:20"
+        }
+      ],
+      "name": "1 Corinthiens 6"
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Or concernant les choses dont vous m’avez écrit, il est bon pour un homme de ne pas toucher une femme.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:1"
+        },
+        {
+          "verse": "2",
+          "text": "Néanmoins, pour éviter la fornication, que chaque homme ait sa propre femme, et chaque femme ait son propre mari.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:2"
+        },
+        {
+          "verse": "3",
+          "text": "Que le mari rende à la femme la bienveillance |[qui lui est]| due; et de même aussi la femme au mari.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:3"
+        },
+        {
+          "verse": "4",
+          "text": "La femme n’a pas |[de]| pouvoir sur son propre corps, mais le mari; et de même aussi, le mari n’a pas |[de]| pouvoir sur son propre corps, mais la femme.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:4"
+        },
+        {
+          "verse": "5",
+          "text": "Ne vous privez pas l’un de l’autre, si ce n’est par un consentement |[mutuel]| pour un temps, afin que vous puissiez vous donner au jeûne et à la prière; et revenez ensemble de nouveau, afin que Satan ne vous tente par votre manque de maîtrise.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:5"
+        },
+        {
+          "verse": "6",
+          "text": "Mais je dis ceci par concession, et non pas par commandement.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:6"
+        },
+        {
+          "verse": "7",
+          "text": "Car je voudrais que tous les hommes soient comme moi. Mais chaque homme a reçu de Dieu son don propre, l’un d’une manière, l’autre d’une autre.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:7"
+        },
+        {
+          "verse": "8",
+          "text": "Je dis donc à ceux qui ne sont pas mariés, et aux veuves, qu’il est bon pour eux s’ils demeurent comme moi.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:8"
+        },
+        {
+          "verse": "9",
+          "text": "Mais s’ils ne peuvent se maîtriser, qu’ils se marient; car il vaut mieux se marier que de s’enflammer.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:9"
+        },
+        {
+          "verse": "10",
+          "text": "Et à |[ceux qui sont]| mariés, je leur recommande non pas moi toutefois, mais le Seigneur: Que la femme ne se sépare pas de son mari;",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:10"
+        },
+        {
+          "verse": "11",
+          "text": "Mais si elle se sépare, qu’elle demeure sans être mariée, ou qu’elle se réconcilie avec son mari; et que le mari ne répudie pas sa femme.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:11"
+        },
+        {
+          "verse": "12",
+          "text": "Mais aux autres je dis, |[et]| non le Seigneur: Si quelque frère a une femme non croyante, et qu’elle consente à demeurer avec lui, qu’il ne la répudie pas;",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:12"
+        },
+        {
+          "verse": "13",
+          "text": "Et la femme qui a un mari non croyant, et qu’il consente à demeurer avec elle, qu’elle ne le quitte pas.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:13"
+        },
+        {
+          "verse": "14",
+          "text": "Car le mari non croyant est sanctifié par la femme; et la femme non croyante est sanctifiée par le mari; autrement, vos enfants seraient impurs, mais maintenant ils sont saints.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:14"
+        },
+        {
+          "verse": "15",
+          "text": "Mais si le non croyant s’en va, qu’il parte. Un frère ou une sœur ne sont pas assujettis en pareil cas; mais Dieu nous a appelés à la paix.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:15"
+        },
+        {
+          "verse": "16",
+          "text": "Car que sais-tu, ô femme, si tu ne sauveras pas ton mari? Ou comment sais-tu, ô homme, si tu sauveras ta femme?",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:16"
+        },
+        {
+          "verse": "17",
+          "text": "Mais que chaque homme marche selon ce que Dieu lui a attribué, selon que le Seigneur l’a appelé. Et |[c’est]| ainsi que je l’ordonne dans toutes les églises.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:17"
+        },
+        {
+          "verse": "18",
+          "text": "Est-ce qu’un homme a été appelé étant circoncis? qu’il ne devienne pas incirconcis; est-ce qu’aucun a été appelé dans l’incirconcision? qu’il ne se fasse pas circoncire.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:18"
+        },
+        {
+          "verse": "19",
+          "text": "La circoncision n’est rien, et l’incirconcision n’est rien; mais |[ce qui compte c’est]| l’observation des commandements de Dieu.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:19"
+        },
+        {
+          "verse": "20",
+          "text": "Que chaque homme demeure dans la condition où il a été appelé.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:20"
+        },
+        {
+          "verse": "21",
+          "text": "Es-tu appelé étant un serviteur? n’e t’en soucie pas; mais si tu peux devenir libre, uses-en plutôt.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:21"
+        },
+        {
+          "verse": "22",
+          "text": "Car celui qui est appelé dans le Seigneur, étant un serviteur, est l’affranchi du Seigneur; de même aussi, celui qui est appelé, étant libre, est serviteur de Christ.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:22"
+        },
+        {
+          "verse": "23",
+          "text": "Vous êtes achetés à un |[grand]| prix; ne soyez pas les serviteurs des hommes.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:23"
+        },
+        {
+          "verse": "24",
+          "text": "Frères, que chaque homme demeure avec Dieu dans la condition où il a été appelé.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:24"
+        },
+        {
+          "verse": "25",
+          "text": "En ce qui concerne les vierges, je n’ai aucun commandement du Seigneur; toute fois je donne mon avis, comme ayant obtenu miséricorde du Seigneur pour être fidèle.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:25"
+        },
+        {
+          "verse": "26",
+          "text": "J’estime donc que ceci est bon pour la nécessité présente, je dis qu’il est bon à l’homme d’être ainsi.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:26"
+        },
+        {
+          "verse": "27",
+          "text": "Es-tu lié à une femme? ne cherche pas à t’en détacher. Es-tu détaché d’une femme? ne cherche pas de femme.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:27"
+        },
+        {
+          "verse": "28",
+          "text": "Néanmoins si tu te maries, tu n’as pas péché; et si une vierge se marie, elle n’a pas péché. Cependant de telles |[personnes]| auront des afflictions dans la chair; |[que puis-]| je vous |[les]| épargner.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:28"
+        },
+        {
+          "verse": "29",
+          "text": "Mais je dis ceci, frères: Le temps est court; il reste, que ceux qui ont une femme soient comme s’ils n[’en]| avaient pas;",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:29"
+        },
+        {
+          "verse": "30",
+          "text": "Et ceux qui pleurent, comme s’ils ne pleuraient pas; et ceux qui se réjouissent, comme s’ils ne se réjouissaient pas; et ceux qui achètent, comme s’ils ne possédaient pas;",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:30"
+        },
+        {
+          "verse": "31",
+          "text": "Et ceux qui se servent de ce monde, comme n’en abusant pas; car la mode de ce monde passe.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:31"
+        },
+        {
+          "verse": "32",
+          "text": "Mais je voudrais que vous soyez sans sollicitude. Celui qui n’est pas marié prend soin des choses du Seigneur, comment il peut plaire au Seigneur.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:32"
+        },
+        {
+          "verse": "33",
+          "text": "Mais celui qui est marié, prend soin des choses du monde, comment il peut plaire à sa femme.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:33"
+        },
+        {
+          "verse": "34",
+          "text": "Il y a aussi une différence entre une femme mariée et une vierge. La femme qui n’est pas mariée, prend soin des choses du Seigneur, afin qu’elle puisse être sainte dans le corps et dans l’esprit; mais celle qui est mariée, prend soin des choses du monde, comment elle peut plaire à son mari.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:34"
+        },
+        {
+          "verse": "35",
+          "text": "Et je dis ceci pour votre propre intérêt, non pas que je veuille vous tendre un piège, mais pour ce qui est convenable, et afin que vous puissiez servir le Seigneur sans distraction.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:35"
+        },
+        {
+          "verse": "36",
+          "text": "Mais si un homme pense qu’il agit d’une manière déplacée à l’égard de sa virginité, et qu’elle a passé la fleur de son âge et qu’il faut qu’il en soit ainsi, qu’il fasse ce qu’il voudra, il ne pèche pas; qu’ils se marient.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:36"
+        },
+        {
+          "verse": "37",
+          "text": "Néanmoins celui qui tient ferme dans son cœur, ne ressentant aucune nécessité, mais qui a pouvoir sur sa propre volonté, et a ainsi décidé en son cœur de garder sa virginité, fait bien.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:37"
+        },
+        {
+          "verse": "38",
+          "text": "Ainsi donc celui qui la donne en mariage fait bien; mais celui qui ne la donne pas en mariage, fait mieux.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:38"
+        },
+        {
+          "verse": "39",
+          "text": "La femme est liée par la loi aussi longtemps que son mari est en vie; mais si son mari meurt, elle est libre de se remarier à qui elle veut, seulement dans le Seigneur.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:39"
+        },
+        {
+          "verse": "40",
+          "text": "Mais elle est plus heureuse si elle demeure ainsi, selon mon avis; et je pense aussi que j’ai l’Esprit de Dieu.",
+          "chapter": "7",
+          "name": "1 Corinthiens 7:40"
+        }
+      ],
+      "name": "1 Corinthiens 7"
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Or concernant les choses offertes aux idoles, nous savons que nous avons tous de la connaissance. |[La]| connaissance enorgueillit, mais |[la]| charité édifie.",
+          "chapter": "8",
+          "name": "1 Corinthiens 8:1"
+        },
+        {
+          "verse": "2",
+          "text": "Et si un homme pense savoir quelque chose, il ne connaît encore rien comme il devrait connaître.",
+          "chapter": "8",
+          "name": "1 Corinthiens 8:2"
+        },
+        {
+          "verse": "3",
+          "text": "Mais si un homme aime Dieu, celui-là même est connu de lui.",
+          "chapter": "8",
+          "name": "1 Corinthiens 8:3"
+        },
+        {
+          "verse": "4",
+          "text": "Pour ce qui est donc de manger des choses offertes en sacrifice aux idoles, nous savons qu’une idole n’est rien dans le monde, et qu’il n’y a aucun autre Dieu qu’un |[seul].",
+          "chapter": "8",
+          "name": "1 Corinthiens 8:4"
+        },
+        {
+          "verse": "5",
+          "text": "Car bien qu’il y en ait qui soient appelés dieux, soit dans |[le]| ciel, soit sur |[la]| terre, (comme il y a beaucoup |[de]| dieux et beaucoup |[de]| seigneurs),",
+          "chapter": "8",
+          "name": "1 Corinthiens 8:5"
+        },
+        {
+          "verse": "6",
+          "text": "Mais pour nous, il n’y a qu’un |[seul]| Dieu, le Père, duquel sont toutes choses, et nous en lui; et un |[seul]| Seigneur Jésus Christ, par lequel sont toutes choses, et nous par lui.",
+          "chapter": "8",
+          "name": "1 Corinthiens 8:6"
+        },
+        {
+          "verse": "7",
+          "text": "Quoi qu’il en soit chaque homme n’a pas cette connaissance; car quelques-uns jusqu’à présent, |[ont]| conscience de l’idole, |[ils]| la mangent comme une chose offerte à une idole; et leur conscience étant faible est souillée.",
+          "chapter": "8",
+          "name": "1 Corinthiens 8:7"
+        },
+        {
+          "verse": "8",
+          "text": "Mais la nourriture ne nous recommande pas à Dieu; si nous mangeons, sommes-nous meilleurs; si nous ne mangeons pas, sommes-nous pires.",
+          "chapter": "8",
+          "name": "1 Corinthiens 8:8"
+        },
+        {
+          "verse": "9",
+          "text": "Mais prenez garde de peur que cette liberté que vous avez, ne devienne une occasion de chute pour ceux qui sont faibles.",
+          "chapter": "8",
+          "name": "1 Corinthiens 8:9"
+        },
+        {
+          "verse": "10",
+          "text": "Car si un homme te voit, |[toi]| qui as de la connaissance, être assis à table dans le temple des idoles, la conscience de celui qui est faible, ne sera-t-elle pas encouragée à manger ces choses qui sont offertes aux idoles;",
+          "chapter": "8",
+          "name": "1 Corinthiens 8:10"
+        },
+        {
+          "verse": "11",
+          "text": "Et par ta connaissance périra le frère faible, pour lequel Christ est mort?",
+          "chapter": "8",
+          "name": "1 Corinthiens 8:11"
+        },
+        {
+          "verse": "12",
+          "text": "Mais lorsque vous péchez ainsi contre les frères, et blessez leur conscience faible, vous péchez contre Christ.",
+          "chapter": "8",
+          "name": "1 Corinthiens 8:12"
+        },
+        {
+          "verse": "13",
+          "text": "C’est pourquoi, si la nourriture est une occasion de chute pour mon frère, je ne mangerai aucune chair, tant que le monde existe, de peur que je sois une occasion de chute pour mon frère.",
+          "chapter": "8",
+          "name": "1 Corinthiens 8:13"
+        }
+      ],
+      "name": "1 Corinthiens 8"
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ne suis-je pas un apôtre? Ne suis-je pas libre? N’ai-je pas vu Jésus Christ notre Seigneur? N’êtes-vous pas mon ouvrage dans le Seigneur?",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:1"
+        },
+        {
+          "verse": "2",
+          "text": "Si je ne suis pas un apôtre pour les autres, toute fois je |[le]| suis assurément pour vous; car vous êtes le sceau de mon apostolat dans le Seigneur.",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:2"
+        },
+        {
+          "verse": "3",
+          "text": "Ma réponse à ceux qui m’examinent est celle-ci,",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:3"
+        },
+        {
+          "verse": "4",
+          "text": "N’avons-nous pas le pouvoir de manger et boire?",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:4"
+        },
+        {
+          "verse": "5",
+          "text": "N’avons-nous pas le pouvoir de mener avec nous une sœur, une épouse, ainsi que les autres apôtres, et comme les frères du Seigneur, et Cephas?",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:5"
+        },
+        {
+          "verse": "6",
+          "text": "Ou, est-ce seulement moi et Barnabas, n’avons pas le pouvoir de nous abstenir de travailler?",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:6"
+        },
+        {
+          "verse": "7",
+          "text": "Qui va jamais à la guerre à ses propres frais? Qui plante une vigne, et ne mange pas de son fruit? Ou, qui nourrit un troupeau, et ne mange pas du lait du troupeau?",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:7"
+        },
+        {
+          "verse": "8",
+          "text": "Dis-je ces choses selon |[la coutume]| des hommes? ou la loi ne le dit-elle pas aussi?",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:8"
+        },
+        {
+          "verse": "9",
+          "text": "Car il est écrit dans la loi de Moïse: Tu ne muselleras pas la bouche du bœuf qui piétine le grain. Dieu ne prend-il pas soin des bœufs?",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:9"
+        },
+        {
+          "verse": "10",
+          "text": "Ou le dit-il entièrement pour nous? Pour notre bien, sans aucun doute, il est écrit, que celui qui laboure, doit labourer dans l’espérance, et que celui qui foule |[le grain]| dans l’espérance devrait être participant de son espérance.",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:10"
+        },
+        {
+          "verse": "11",
+          "text": "Si nous avons semé pour vous des choses spirituelles, est-ce une grande chose si nous moissonnons vos choses charnelles?",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:11"
+        },
+        {
+          "verse": "12",
+          "text": "Si d’autres sont participants de ce pouvoir sur vous, ne l’avons- nous pas plutôt? Toutefois nous n’avons pas usé de ce pouvoir, mais nous supportons toutes choses, de peur que nous empêchions l’évangile de Christ.",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:12"
+        },
+        {
+          "verse": "13",
+          "text": "Ne savez-vous pas que ceux qui administrent les choses saintes vivent des choses |[provenant]| du temple? et |[que]| ceux qui servent à l’autel, participent à l’autel?",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:13"
+        },
+        {
+          "verse": "14",
+          "text": "De même aussi, le Seigneur a ordonné à ceux qui prêchent l’évangile, de vivre de l’évangile.",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:14"
+        },
+        {
+          "verse": "15",
+          "text": "Mais je n’ai utilisé aucune de ces choses, et je n’ai pas non plus écrit ces choses afin qu’il en soit fait ainsi envers moi; car il serait mieux pour moi de mourir, que de voir tout homme anéantir ma gloire.",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:15"
+        },
+        {
+          "verse": "16",
+          "text": "Car si je prêche l’évangile, je n’ai pas à m’en glorifier, car |[c’est]| une nécessité |[qui]| repose sur moi; oui, malheur à moi, si je ne prêche pas l’évangile!",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:16"
+        },
+        {
+          "verse": "17",
+          "text": "Car si je fais cette chose volontairement, j’[en]| ai une récompense; mais si |[c’est]| contre ma volonté, une dispensation de l’évangile m’est confiée.",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:17"
+        },
+        {
+          "verse": "18",
+          "text": "Quelle est donc ma récompense? En vérité, |[c’est]| que lorsque je prêche l’évangile, je puisse apporter l’évangile de Christ gratuitement, afin que je n’abuse pas de mon pouvoir dans l’évangile.",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:18"
+        },
+        {
+          "verse": "19",
+          "text": "Car bien que je sois libre |[à l’égard]| de tous les hommes, toute fois je me suis fait serviteur de tous, afin que je puisse en gagner un plus grand nombre.",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:19"
+        },
+        {
+          "verse": "20",
+          "text": "Et pour les Juifs, je suis devenu comme un Juif, afin que je puisse gagner les Juifs; pour ceux qui sont sous la loi, comme sous la loi, afin que je puisse gagner ceux qui sont sous la loi;",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:20"
+        },
+        {
+          "verse": "21",
+          "text": "À ceux qui sont sans loi, comme |[étant]| sans loi, (n’étant pas sans loi quant à Dieu, mais sous la loi de Christ), afin que je puisse gagner ceux qui sont sans loi.",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:21"
+        },
+        {
+          "verse": "22",
+          "text": "Pour les faibles, je suis devenu faible, afin que je puisse gagner les faibles; je me suis fait toutes choses envers tous les hommes, afin que je puisse par tous les moyens en sauver quelques-uns.",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:22"
+        },
+        {
+          "verse": "23",
+          "text": "Et je fais cela à cause de l’évangile, afin que je puisse être participant avec vous.",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:23"
+        },
+        {
+          "verse": "24",
+          "text": "Ne savez-vous pas que |[parmi]| ceux qui courent dans une course, un seul remporte le prix? Alors courez afin que vous puissiez l’obtenir.",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:24"
+        },
+        {
+          "verse": "25",
+          "text": "Et chaque homme qui s’exerce pour la compétition, est modéré en toutes choses. Donc ils le font pour obtenir une couronne corruptible; mais nous, une incorruptible.",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:25"
+        },
+        {
+          "verse": "26",
+          "text": "C’est pourquoi je cours ainsi, non dans l’incertitude; je me bats ainsi, mais non pas comme battant l’air;",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:26"
+        },
+        {
+          "verse": "27",
+          "text": "Mais je maîtrise mon corps, et je le tiens assujetti, de peur qu’en quelque sorte, après avoir prêché aux autres, je ne sois moi-même rejeté.",
+          "chapter": "9",
+          "name": "1 Corinthiens 9:27"
+        }
+      ],
+      "name": "1 Corinthiens 9"
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "De plus, frères, je ne veux pas que vous soyez ignorants, comment nos pères ont tous été sous le nuage, et tous ont passé à travers la mer;",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:1"
+        },
+        {
+          "verse": "2",
+          "text": "Et ont tous été baptisés en |[suivant]| Moïse dans le nuage et dans la mer;",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:2"
+        },
+        {
+          "verse": "3",
+          "text": "Et ont tous mangé de la même nourriture spirituelle;",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:3"
+        },
+        {
+          "verse": "4",
+          "text": "Et ont tous bu du même breuvage spirituel; car ils buvaient de ce Roc spirituel qui les suivait; et ce Roc était Christ;",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:4"
+        },
+        {
+          "verse": "5",
+          "text": "Mais pour beaucoup d’entre eux; Dieu n’eut pas grand plaisir: car ils furent anéantis dans le désert.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:5"
+        },
+        {
+          "verse": "6",
+          "text": "Or ces choses ont été pour nous des exemples, afin que nous ne convoitions pas de mauvaises choses, comme ils ont aussi convoité.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:6"
+        },
+        {
+          "verse": "7",
+          "text": "Ne soyez pas non plus idolâtres, comme l’étaient quelques-uns d’entre eux, comme il est écrit: Le peuple s’assit pour manger et pour boire, puis ils se levèrent pour jouer.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:7"
+        },
+        {
+          "verse": "8",
+          "text": "Ne commettons pas non plus |[la]| fornication, comme quelques-uns d’entre eux l’ont commis; et il en est tombé en un jour vingt-trois mille.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ne tentons pas non plus Christ, comme quelques-uns d’entre eux l’ont aussi tenté et furent détruits par les serpents.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:9"
+        },
+        {
+          "verse": "10",
+          "text": "Ne murmurez pas non plus, comme quelques-uns d’entre eux ont aussi murmuré, et ont péri par le destructeur.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:10"
+        },
+        {
+          "verse": "11",
+          "text": "Or toutes ces choses leur sont arrivées comme exemples; et elles sont écrites pour notre admonition, nous sur qui les fins du monde sont parvenues.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:11"
+        },
+        {
+          "verse": "12",
+          "text": "C’est pourquoi, que celui qui pense qu’il se tient debout, prenne garde de peur qu’il ne tombe.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:12"
+        },
+        {
+          "verse": "13",
+          "text": "Aucune tentation ne vous a éprouvés, sinon que ce qui est commun à l’homme; mais Dieu est fidèle, lequel ne vous laissera pas être tentés au-delà de ce que vous êtes capables |[d’endurer]; mais avec la tentation |[il]| vous |[en]| donnera aussi le moyen d’échapper, afin que vous puissiez la supporter.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:13"
+        },
+        {
+          "verse": "14",
+          "text": "C’est pourquoi, mes bien-aimés, fuyez l’idolâtrie.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:14"
+        },
+        {
+          "verse": "15",
+          "text": "Je parle comme à des hommes sages; jugez vous-mêmes de ce que je dis.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:15"
+        },
+        {
+          "verse": "16",
+          "text": "La coupe de bénédiction que nous bénissons, n’est-elle pas la communion du sang de Christ? Le pain que nous rompons, n’est-il pas la communion du corps de Christ?",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:16"
+        },
+        {
+          "verse": "17",
+          "text": "Car nous |[qui]| sommes nombreux, sommes un |[seul]| pain, et un |[seul]| corps; car nous sommes tous participants de ce même pain.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:17"
+        },
+        {
+          "verse": "18",
+          "text": "Voyez l’Israël selon la chair; ceux qui mangent des sacrifices, ne sont-ils pas participants de l’autel?",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:18"
+        },
+        {
+          "verse": "19",
+          "text": "Que dis-je donc? que l’idole est quelque chose, ou que ce qui est offert en sacrifice aux idoles est quelque chose?",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:19"
+        },
+        {
+          "verse": "20",
+          "text": "Mais je dis que les choses que les Gentils sacrifient, ils |[les]| sacrifient aux diables, et non à Dieu et je ne veux pas que vous vous associez aux diables.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:20"
+        },
+        {
+          "verse": "21",
+          "text": "Vous ne pouvez boire la coupe du Seigneur, et la coupe des diables; vous ne pouvez être participants à la table du Seigneur, et à la table des diables.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:21"
+        },
+        {
+          "verse": "22",
+          "text": "Provoquons-nous le Seigneur à la jalousie? sommes-nous plus forts que lui?",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:22"
+        },
+        {
+          "verse": "23",
+          "text": "Toutes choses me sont permises selon la loi, mais toutes choses ne sont pas opportunes; toutes choses me sont permises selon la loi, mais toutes choses n’édifient pas.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:23"
+        },
+        {
+          "verse": "24",
+          "text": "Que nul homme ne cherche ce qui lui est particulier, mais chaque homme le bien-être pour autrui.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:24"
+        },
+        {
+          "verse": "25",
+          "text": "Mangez de tout ce qui se vend à la boucherie, sans poser de question par motif de conscience;",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:25"
+        },
+        {
+          "verse": "26",
+          "text": "Car la terre est au Seigneur, et tout ce qu’elle contient.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:26"
+        },
+        {
+          "verse": "27",
+          "text": "Si quelqu’un qui ne croit pas vous convie à un festin, et que vous vous apprêtiez à y aller, mangez de tout ce qui est mis devant vous, sans poser de question par motif de conscience.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:27"
+        },
+        {
+          "verse": "28",
+          "text": "Mais si un homme vous dit: Ceci est offert en sacrifice aux idoles; n’[en]| mangez pas, à cause de celui qui vous a avertis, et par motif de conscience; car la terre est au Seigneur, et tout ce qu’elle contient.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:28"
+        },
+        {
+          "verse": "29",
+          "text": "La conscience, dis-je, non pas la tienne, mais celle de l’autre; car pourquoi ma liberté est-elle jugée par la conscience d’un autre homme?",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:29"
+        },
+        {
+          "verse": "30",
+          "text": "Car si par grâce je suis un participant, pourquoi parlerait-on mal de moi pour laquelle je remercie?",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:30"
+        },
+        {
+          "verse": "31",
+          "text": "Soit donc que vous mangiez, ou buviez, ou quoi que vous fassiez, faites tout à la gloire de Dieu.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:31"
+        },
+        {
+          "verse": "32",
+          "text": "Ne soyez aucunement une occasion de chute, ni aux Juifs, ni aux Gentils, ni à l’église de Dieu;",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:32"
+        },
+        {
+          "verse": "33",
+          "text": "Comme moi aussi, je tâche de plaire à tous les hommes en toutes choses, ne cherchant pas mon propre intérêt, mais l’intérêt de beaucoup, afin qu’ils puissent être sauvés.",
+          "chapter": "10",
+          "name": "1 Corinthiens 10:33"
+        }
+      ],
+      "name": "1 Corinthiens 10"
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Suivez |[mon exemple]| comme moi-même je suis aussi |[l’exemple]| de Christ.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:1"
+        },
+        {
+          "verse": "2",
+          "text": "Or je vous loue, frères, de ce que vous vous souvenez de moi en toutes choses, et de ce que vous gardez les ordres tels que je vous les ai donnés.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:2"
+        },
+        {
+          "verse": "3",
+          "text": "Mais je veux que vous sachiez que le chef de tout homme est Christ, et le chef de la femme est l’homme, et le chef de Christ est Dieu.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:3"
+        },
+        {
+          "verse": "4",
+          "text": "Tout homme priant ou prophétisant, ayant sa tête couverte, déshonore son chef.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:4"
+        },
+        {
+          "verse": "5",
+          "text": "Mais toute femme qui prie ou prophétise avec sa tête découverte, déshonore son chef; car c’est tout comme si elle était rasée.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:5"
+        },
+        {
+          "verse": "6",
+          "text": "Car si la femme n’est pas couverte, qu’elle soit également tondue; mais s’il |[est]| honteux pour une femme d’être tondue, ou d’être rasée, qu’elle soit couverte.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:6"
+        },
+        {
+          "verse": "7",
+          "text": "Car en effet un homme ne doit pas couvrir sa tête, puisqu’il est l’image et |[la]| gloire de Dieu; mais la femme est la gloire de l’homme.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:7"
+        },
+        {
+          "verse": "8",
+          "text": "Car l’homme ne provient pas de la femme, mais la femme |[provient]| de l’homme.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:8"
+        },
+        {
+          "verse": "9",
+          "text": "Et l’homme non plus n’a pas été créé pour la femme, mais la femme |[l’a été]| pour l’homme.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:9"
+        },
+        {
+          "verse": "10",
+          "text": "Pour cette raison la femme, doit avoir |[le]| pouvoir sur sa tête à cause des anges.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:10"
+        },
+        {
+          "verse": "11",
+          "text": "Toutefois, l’homme n’est pas sans la femme, ni la femme sans l’homme, dans le Seigneur.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:11"
+        },
+        {
+          "verse": "12",
+          "text": "Car comme la femme provient de l’homme, de même aussi est l’homme par la femme; mais toutes choses |[proviennent]| de Dieu.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:12"
+        },
+        {
+          "verse": "13",
+          "text": "Jugez-en vous-mêmes; est-il convenable qu’une femme prie Dieu |[la tête]| découverte?",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:13"
+        },
+        {
+          "verse": "14",
+          "text": "La nature même ne vous enseigne-t-elle pas que, si un homme porte des cheveux longs, c’est une honte pour lui?",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:14"
+        },
+        {
+          "verse": "15",
+          "text": "Mais si une femme porte de longs cheveux, c’est une gloire pour elle, car sa chevelure lui est donnée pour la couvrir.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:15"
+        },
+        {
+          "verse": "16",
+          "text": "Mais si un homme semble vouloir discuter, nous n’avons pas une telle coutume, ni les églises de Dieu non plus.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:16"
+        },
+        {
+          "verse": "17",
+          "text": "Or en ceci que je vous déclare, je ne vous loue pas, c’est que vous vous assemblez, non pour le meilleur, mais pour le pire.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:17"
+        },
+        {
+          "verse": "18",
+          "text": "Car, en premier lieu, lorsque vous vous assemblez dans l’église, j’apprends qu’il y a des divisions parmi vous, et je le crois en partie,",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:18"
+        },
+        {
+          "verse": "19",
+          "text": "Car il doit y avoir aussi des hérésies parmi vous, afin que ceux qui sont dignes d’approbation, puissent être manifestés parmi vous.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:19"
+        },
+        {
+          "verse": "20",
+          "text": "Quand donc vous vous assemblez dans un même lieu, ce n’est pas pour manger le souper du Seigneur;",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:20"
+        },
+        {
+          "verse": "21",
+          "text": "Car en mangeant, chacun prend avant les autres son propre souper; et l’un a faim, et l’autre est ivre.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:21"
+        },
+        {
+          "verse": "22",
+          "text": "Quoi? N’avez-vous pas des maisons pour y manger et pour boire? Où méprisez-vous l’église de Dieu, et faites-vous honte à ceux qui n’ont rien? Que vous dirai-je? Vous louerai-je à ce sujet? Je ne vous loue pas.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:22"
+        },
+        {
+          "verse": "23",
+          "text": "Car j’ai reçu du Seigneur ce qu’aussi je vous ai donné, |[C’est]| que le Seigneur Jésus, la nuit même en laquelle il fut trahi, prit du pain;",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:23"
+        },
+        {
+          "verse": "24",
+          "text": "Et après qu'il ait remercié, il le rompit, et dit: \\\\Prenez, mangez; ceci est mon corps, qui est rompu pour vous; faites ceci en mémoire de moi.\\\\",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:24"
+        },
+        {
+          "verse": "25",
+          "text": "De même aussi, il prit la coupe, après qu'il ait soupé, disant: \\\\Cette coupe est le nouveau testament en mon sang; faites ceci, aussi souvent que vous la boirez, en mémoire de moi.\\\\",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:25"
+        },
+        {
+          "verse": "26",
+          "text": "Car aussi souvent que vous mangez ce pain, et que vous buvez cette coupe, vous démontrez la mort du Seigneur, jusqu’à ce qu’il vienne.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:26"
+        },
+        {
+          "verse": "27",
+          "text": "C’est pourquoi, quiconque mangera ce pain, et boira cette coupe du Seigneur indignement, sera coupable à l’égard du corps et du sang du Seigneur.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:27"
+        },
+        {
+          "verse": "28",
+          "text": "Mais que chaque homme s’examine soi-même, et qu’ainsi il mange de ce pain et boive de cette coupe;",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:28"
+        },
+        {
+          "verse": "29",
+          "text": "Car celui qui mange et qui boit indignement, mange et boit |[sa]| damnation, ne discernant pas le corps du Seigneur.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:29"
+        },
+        {
+          "verse": "30",
+          "text": "[C’est]| pour cela |[que]| beaucoup sont faibles et malades parmi vous, et beaucoup dorment.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:30"
+        },
+        {
+          "verse": "31",
+          "text": "Car si nous nous jugions nous-mêmes, nous ne serions pas jugés.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:31"
+        },
+        {
+          "verse": "32",
+          "text": "Mais quand nous sommes jugés, nous sommes châtiés par le Seigneur, afin que nous ne soyons pas condamnés avec le monde.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:32"
+        },
+        {
+          "verse": "33",
+          "text": "C’est pourquoi, mes frères, lorsque vous vous assemblez pour manger, attendez-vous l’un l’autre.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:33"
+        },
+        {
+          "verse": "34",
+          "text": "Et si un homme a faim, qu’il mange chez lui, afin que vous ne veniez pas à la condamnation. Quant au reste, je le réglerai quand je serai arrivé.",
+          "chapter": "11",
+          "name": "1 Corinthiens 11:34"
+        }
+      ],
+      "name": "1 Corinthiens 11"
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Maintenant, concernant les dons spirituels, frères, je ne veux pas, que vous soyez ignorants.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:1"
+        },
+        {
+          "verse": "2",
+          "text": "Vous savez que vous étiez |[des]| Gentils, entraînés vers ces idoles muettes, selon que vous étiez menés.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:2"
+        },
+        {
+          "verse": "3",
+          "text": "C’est pourquoi je veux vous faire comprendre que nul homme parlant par l’Esprit de Dieu, n’appelle Jésus maudit, et que nul homme ne peut dire que Jésus est le Seigneur, sinon par l’Esprit Saint.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:3"
+        },
+        {
+          "verse": "4",
+          "text": "Or il y a diversité de dons, mais le même Esprit.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:4"
+        },
+        {
+          "verse": "5",
+          "text": "Et il y a différences d’administrations, mais le même Seigneur.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:5"
+        },
+        {
+          "verse": "6",
+          "text": "Et il y a diversité d’opérations, mais c’est le même Dieu qui œuvre tout en tous.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:6"
+        },
+        {
+          "verse": "7",
+          "text": "Mais la manifestation de l’Esprit est donnée à chaque homme pour bénéficier à tous.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:7"
+        },
+        {
+          "verse": "8",
+          "text": "Car à l’un est donnée par l’Esprit la parole de sagesse; à un autre la parole de connaissance par le même Esprit;",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:8"
+        },
+        {
+          "verse": "9",
+          "text": "À un autre la foi par le même Esprit; à un autre les dons de guérison par le même Esprit;",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:9"
+        },
+        {
+          "verse": "10",
+          "text": "À un autre d’effectuer des miracles; à un autre, |[la]| prophétie; à un autre, |[le]| discernement des esprits; à un autre diverses sortes de langues; à un autre l’interprétation des langues.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:10"
+        },
+        {
+          "verse": "11",
+          "text": "Mais toutes ces |[choses]| sont effectuées par ce seul et même Esprit distribuant à chaque homme exactement comme il lui plaît.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:11"
+        },
+        {
+          "verse": "12",
+          "text": "Car comme le corps est un, et a beaucoup de membres, et tous les membres de ce même corps, |[bien qu’]| étant nombreux, sont un |[seul]| corps, ainsi aussi est Christ.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:12"
+        },
+        {
+          "verse": "13",
+          "text": "Car par un |[seul]| Esprit nous sommes tous baptisés en un |[seul]| corps, soit que nous soyons Juifs, soit Gentils, soit que nous soyons asservis, soit libres; et nous avons tous été abreuvés d’un |[seul]| Esprit.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:13"
+        },
+        {
+          "verse": "14",
+          "text": "Car le corps n’est pas un |[seul]| membre, mais beaucoup |[de membres].",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:14"
+        },
+        {
+          "verse": "15",
+          "text": "Si le pied disait: Parce que je ne suis pas la main, je ne fais pas partie du corps; n’est-il pas du corps pour autant?",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:15"
+        },
+        {
+          "verse": "16",
+          "text": "Et si l’oreille disait: Parce que je ne suis pas l’œil, je ne fais pas partie du corps; n’est-elle pas du corps pour autant?",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:16"
+        },
+        {
+          "verse": "17",
+          "text": "Si tout le corps était un œil, où serait l’ouïe? S’il était tout ouïe, où serait l’odorat?",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:17"
+        },
+        {
+          "verse": "18",
+          "text": "Mais maintenant Dieu a placé les membres, chacun d’entre eux dans le corps, comme il a voulu.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:18"
+        },
+        {
+          "verse": "19",
+          "text": "Et si tous étaient un |[seul]| membre, où serait le corps?",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:19"
+        },
+        {
+          "verse": "20",
+          "text": "Mais maintenant il y a beaucoup de membres, toute fois un |[seul]| corps.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:20"
+        },
+        {
+          "verse": "21",
+          "text": "Et l’œil ne peut pas dire à la main: Je n’ai pas besoin de toi; ni encore la tête |[dire]| aux pieds Je n’ai pas besoin de vous.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:21"
+        },
+        {
+          "verse": "22",
+          "text": "Non, bien plus, ces membres du corps qui paraissent être les plus faibles, sont nécessaires.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:22"
+        },
+        {
+          "verse": "23",
+          "text": "Et ces membres du corps que nous estimons être les moins honorables nous leur concédons un plus grand honneur; et nos membres non attrayants, ont un plus grand attrait.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:23"
+        },
+        {
+          "verse": "24",
+          "text": "Car nos membres attrayants, n’[en]| ont pas besoin; mais Dieu a ainsi proportionné le corps en donnant plus d’honneur à ce qui |[en]| manquait;",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:24"
+        },
+        {
+          "verse": "25",
+          "text": "Afin qu’il n’y ait pas de division dans le corps, mais que les membres aient le même soin les uns pour les autres.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:25"
+        },
+        {
+          "verse": "26",
+          "text": "Et si un membre souffre, tous les membres souffrent avec lui; ou si un membre est honoré, tous les membres se réjouissent avec lui.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:26"
+        },
+        {
+          "verse": "27",
+          "text": "Or vous êtes le corps de Christ, et |[ses]| membres |[chacun]| en particulier.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:27"
+        },
+        {
+          "verse": "28",
+          "text": "Et Dieu a placé les uns dans l’église, premièrement |[les]| apôtres, deuxièmement |[les]| prophètes, troisièmement |[les]| enseignants, ensuite |[les]| miracles, puis |[les]| dons de guérison, |[les]| secours, l[es]| gouvernements, |[les]| diversités de langues.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:28"
+        },
+        {
+          "verse": "29",
+          "text": "Sont |[-ils]| tous apôtres? Sont |[-ils]| tous prophètes? Enseignent [-ils]| tous]? Font [-ils]| tous des miracles?",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:29"
+        },
+        {
+          "verse": "30",
+          "text": "Ont [-ils]| tous les dons de guérisons? Parlent [-ils]| tous en langues? Interprètent [-ils]| tous?",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:30"
+        },
+        {
+          "verse": "31",
+          "text": "Mais désirez ardemment les meilleurs dons, et je vais vous montrer un chemin encore plus excellent.",
+          "chapter": "12",
+          "name": "1 Corinthiens 12:31"
+        }
+      ],
+      "name": "1 Corinthiens 12"
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Si je parle les langues des hommes et des anges et |[que je]| n’ai pas l[a]| charité, je deviens comme le cuivre résonnant, ou |[comme]| une cymbale retentissante.",
+          "chapter": "13",
+          "name": "1 Corinthiens 13:1"
+        },
+        {
+          "verse": "2",
+          "text": "Et si j’ai le don de prophétie, et |[que je]| comprenne tous les mystères et toute connaissance; et si j’ai toute la foi en sorte que je puisse transporter les montagnes, et |[que]| je n’ai pas |[la]| charité, je ne suis rien.",
+          "chapter": "13",
+          "name": "1 Corinthiens 13:2"
+        },
+        {
+          "verse": "3",
+          "text": "Et si je dispense tous mes biens pour nourrir les pauvres, et si je livre mon corps pour être brûlé, et |[que je]| n’ai pas |[la]| charité, cela ne me sert à rien.",
+          "chapter": "13",
+          "name": "1 Corinthiens 13:3"
+        },
+        {
+          "verse": "4",
+          "text": "[La]| charité souffre longuement, et |[elle]| est bienfaisante; |[la]| charité n’est pas envieuse; |[la]| charité ne se vante pas, |[elle]| ne s’enorgueillit pas,",
+          "chapter": "13",
+          "name": "1 Corinthiens 13:4"
+        },
+        {
+          "verse": "5",
+          "text": "[Elle]| ne se comporte pas malhonnêtement; ne cherche pas son intérêt; ne s’irrite pas facilement; ne pense pas mal;",
+          "chapter": "13",
+          "name": "1 Corinthiens 13:5"
+        },
+        {
+          "verse": "6",
+          "text": "[Elle]| ne se réjouit pas de l’iniquité, mais se réjouit dans la vérité;",
+          "chapter": "13",
+          "name": "1 Corinthiens 13:6"
+        },
+        {
+          "verse": "7",
+          "text": "[Elle]| supporte toutes choses, croit toutes choses, espère toutes choses, endure toutes choses.",
+          "chapter": "13",
+          "name": "1 Corinthiens 13:7"
+        },
+        {
+          "verse": "8",
+          "text": "[La]| charité ne se retirera jamais; mais pour ce qui est des prophéties, elles se retireront, pour ce qui est des langues, elles cesseront, pour ce qui est de la connaissance, elle disparaîtra.",
+          "chapter": "13",
+          "name": "1 Corinthiens 13:8"
+        },
+        {
+          "verse": "9",
+          "text": "Car nous connaissons partiellement, et nous prophétisons partiellement.",
+          "chapter": "13",
+          "name": "1 Corinthiens 13:9"
+        },
+        {
+          "verse": "10",
+          "text": "Mais quand ce qui est parfait sera venu, alors ce qui est partiel sera supprimé.",
+          "chapter": "13",
+          "name": "1 Corinthiens 13:10"
+        },
+        {
+          "verse": "11",
+          "text": "Quand j’étais un enfant, je parlais comme un enfant, je comprenais comme un enfant, je pensais comme un enfant; mais lorsque je suis devenu homme, j’ai abandonné les choses enfantines.",
+          "chapter": "13",
+          "name": "1 Corinthiens 13:11"
+        },
+        {
+          "verse": "12",
+          "text": "Car maintenant nous voyons au travers d’un miroir, obscurément; mais alors |[nous verrons]| face à face; maintenant je connais partiellement, mais alors je connaîtrai comme je suis aussi connu.",
+          "chapter": "13",
+          "name": "1 Corinthiens 13:12"
+        },
+        {
+          "verse": "13",
+          "text": "Et maintenant ces trois: foi, espérance, charité, demeurent; mais la plus grande d’elles est |[la]| charité.",
+          "chapter": "13",
+          "name": "1 Corinthiens 13:13"
+        }
+      ],
+      "name": "1 Corinthiens 13"
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Poursuivez |[la]| charité et désirez les dons spirituels, mais plutôt que vous puissiez prophétiser.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:1"
+        },
+        {
+          "verse": "2",
+          "text": "Car celui qui parle une langue inconnue, ne parle pas aux hommes, mais à Dieu, car nul homme ne le comprend; cependant dans l’esprit il prononce des mystères.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:2"
+        },
+        {
+          "verse": "3",
+          "text": "Mais celui qui prophétise parle aux hommes pour édification, et exhortation et consolation.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:3"
+        },
+        {
+          "verse": "4",
+          "text": "Celui qui parle en une langue inconnue, s’édifie lui-même; mais celui qui prophétise, édifie l’église.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:4"
+        },
+        {
+          "verse": "5",
+          "text": "J’aimerais que vous parliez tous en langues, mais plutôt que vous prophétisiez; car plus grand est celui qui prophétise, que celui qui parle en langues, à moins qu’il n’interprète, afin que l’église puisse recevoir de l’édification.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:5"
+        },
+        {
+          "verse": "6",
+          "text": "Maintenant, frères, si je viens à vous en parlant en langues, en quoi vous profiterai-je, à moins que je ne vous parle par révélation, ou par connaissance, ou par prophétie, ou par doctrine?",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:6"
+        },
+        {
+          "verse": "7",
+          "text": "Et en effet les choses sans vie qui rendent un son, soit |[une]| flûte, soit |[une]| harpe, si elles ne donnent quelque distinction dans leur son, comment reconnaîtra-t-on ce qui est joué sur la flûte, ou sur la harpe?",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:7"
+        },
+        {
+          "verse": "8",
+          "text": "Car si la trompette donne un son incertain, qui se préparera pour la bataille?",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:8"
+        },
+        {
+          "verse": "9",
+          "text": "Vous de même, si vous ne prononcez pas avec la langue des mots faciles à comprendre, comment saura-t-on ce qui se dit? car vous parlerez en l’air.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:9"
+        },
+        {
+          "verse": "10",
+          "text": "Il y a, selon qu’il advienne toutes sortes de voix dans le monde, et aucune d’elles n’est sans signification.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:10"
+        },
+        {
+          "verse": "11",
+          "text": "C’est pourquoi si je ne connais pas le sens de la voix, je serai un barbare à celui qui parle, et celui qui parle sera un barbare pour moi.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:11"
+        },
+        {
+          "verse": "12",
+          "text": "De même vous aussi, puisque vous vous montrez zélés pour les dons spirituels, cherchez pour que vous puissiez y exceller pour l’édification de l’église.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:12"
+        },
+        {
+          "verse": "13",
+          "text": "C’est pourquoi, que celui qui parle en une langue inconnue, prie afin qu’il puisse interpréter.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:13"
+        },
+        {
+          "verse": "14",
+          "text": "Car, si je prie dans une langue inconnue, mon esprit prie, mais mon intelligence est sans fruit.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:14"
+        },
+        {
+          "verse": "15",
+          "text": "Qu’est-ce donc? Je prierai avec l’esprit, et je prierai aussi avec l’intelligence; je chanterai avec l’esprit, et je chanterai aussi avec l’intelligence.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:15"
+        },
+        {
+          "verse": "16",
+          "text": "Autrement, si tu bénis avec l’esprit, comment celui qui tient la place |[d’un homme]| sans instruction dira-t-il Amen à ton acte de remerciement, puisqu’il ne comprend pas ce que tu dis?",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:16"
+        },
+        {
+          "verse": "17",
+          "text": "Car tu remercies vraiment bien, mais l’autre n’est pas édifié.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:17"
+        },
+        {
+          "verse": "18",
+          "text": "Je remercie mon Dieu, |[de ce]| que je parle plus de langues que vous tous;",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:18"
+        },
+        {
+          "verse": "19",
+          "text": "Toutefois dans l’église j’aime mieux dire cinq mots avec mon intelligence, afin que par ma voix je puisse instruire aussi les autres, que dix mille mots dans une langue inconnue.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:19"
+        },
+        {
+          "verse": "20",
+          "text": "Frères, ne soyez pas des enfants dans |[votre]| compréhension; néanmoins pour la malice soyez des enfants; mais quant à la compréhension, soyez des hommes.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:20"
+        },
+        {
+          "verse": "21",
+          "text": "Dans la loi il est écrit: |[Par]| des hommes d’autres langues, et |[par]| d’autres lèvres, je parlerai à ce peuple, et malgré cela ils ne m’entendront pas, dit le Seigneur.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:21"
+        },
+        {
+          "verse": "22",
+          "text": "C’est pourquoi les langues sont pour signe, pas pour ceux qui croient, mais pour ceux qui ne croient pas; mais l[a]| prophétie ne s’adresse pas à ceux qui ne croient pas, mais à ceux qui croient.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:22"
+        },
+        {
+          "verse": "23",
+          "text": "Si donc l’église tout entière s’assemble en un même lieu, et |[que]| tous parlent en langues, et qu’il entre ceux qui sont sans instruction, ou des incrédules, ne diront-ils pas que vous êtes fous?",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:23"
+        },
+        {
+          "verse": "24",
+          "text": "Mais si tous prophétisent, et qu’il entre un qui ne croit pas ou un sans instruction, il est convaincu par tous, il est jugé par tous;",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:24"
+        },
+        {
+          "verse": "25",
+          "text": "Et ainsi les secrets de son cœur sont rendus manifestes, et ainsi tombant sur sa face, il adorera Dieu, et déclarera que Dieu est vraiment en vous.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:25"
+        },
+        {
+          "verse": "26",
+          "text": "Qu’est-ce donc, frères? Lorsque vous vous assemblez, chacun de vous a un psaume, a une doctrine, a une langue, a une révélation, a une interprétation. Que toutes choses soient faites pour l’édification.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:26"
+        },
+        {
+          "verse": "27",
+          "text": "Si un homme parle une langue inconnue, qu’ils soient deux ou tout au plus trois, et cela chacun son tour; et |[que]| l’un interprète.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:27"
+        },
+        {
+          "verse": "28",
+          "text": "Mais s’il n’y a pas d’interprète, qu’il se taise dans l’église, et qu’il parle à lui-même et à Dieu.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:28"
+        },
+        {
+          "verse": "29",
+          "text": "Que deux ou trois prophètes parlent, et que les autres jugent.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:29"
+        },
+        {
+          "verse": "30",
+          "text": "Si quelque chose est révélée à un autre qui est assis, que le premier se taise.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:30"
+        },
+        {
+          "verse": "31",
+          "text": "Car vous pouvez tous prophétiser l’un après l’autre, afin que tous apprennent, et que tous soient confortés.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:31"
+        },
+        {
+          "verse": "32",
+          "text": "Et les esprits des prophètes sont soumis aux prophètes;",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:32"
+        },
+        {
+          "verse": "33",
+          "text": "Car Dieu n’est pas l’auteur de confusion, mais de paix, comme dans toutes les églises des saints,",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:33"
+        },
+        {
+          "verse": "34",
+          "text": "Que vos femmes se taisent dans les églises, car il ne leur est pas permis d’y parler; mais on leur recommande d’être obéissantes, comme aussi le dit la loi.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:34"
+        },
+        {
+          "verse": "35",
+          "text": "Et si elles veulent apprendre quelque chose, qu’elles interrogent leurs maris à la maison; car c’est une honte pour les femmes de parler dans l’église.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:35"
+        },
+        {
+          "verse": "36",
+          "text": "Quoi? la parole de Dieu est-elle provenue de vous? ou est-elle venue à vous seuls?",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:36"
+        },
+        {
+          "verse": "37",
+          "text": "Si un homme pense être un prophète, ou spirituel, qu’il reconnaisse que les choses que je vous écris sont des commandements du Seigneur.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:37"
+        },
+        {
+          "verse": "38",
+          "text": "Mais si un homme est ignorant, qu’il soit ignorant.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:38"
+        },
+        {
+          "verse": "39",
+          "text": "C’est pourquoi, frères, désirez ardemment de prophétiser, et n’empêchez pas de parler en langues.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:39"
+        },
+        {
+          "verse": "40",
+          "text": "Que toutes choses se fassent avec bienséance et avec ordre.",
+          "chapter": "14",
+          "name": "1 Corinthiens 14:40"
+        }
+      ],
+      "name": "1 Corinthiens 14"
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "De plus, frères, je vous déclare l’évangile que je vous ai prêché, que vous avez aussi reçu, et dans lequel vous tenez fermes;",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:1"
+        },
+        {
+          "verse": "2",
+          "text": "Par lequel aussi vous êtes sauvés, si vous gardez en mémoire ce que je vous ai prêché, sans quoi vous auriez cru en vain.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car je vous ai transmis avant tout ce que j’avais aussi reçu, comment Christ est mort pour nos péchés, selon les écritures;",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:3"
+        },
+        {
+          "verse": "4",
+          "text": "Et qu’il a été enseveli, et qu’il est ressuscité le troisième jour, selon les écritures;",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:4"
+        },
+        {
+          "verse": "5",
+          "text": "Et qu’il a été vu de Cephas, puis des douze;",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:5"
+        },
+        {
+          "verse": "6",
+          "text": "Qu’ensuite, il a été vu par plus de cinq cents frères en même temps, dont la plupart sont encore vivants, mais dont quelques-uns sont endormis.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:6"
+        },
+        {
+          "verse": "7",
+          "text": "Qu’ensuite, il a été vu par Jacques, puis par tous les apôtres.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:7"
+        },
+        {
+          "verse": "8",
+          "text": "Et en dernier, il a été vu de moi aussi comme d’un avorton.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:8"
+        },
+        {
+          "verse": "9",
+          "text": "Car je suis le moindre des apôtres, |[moi]| qui ne suis pas digne d’être appelé apôtre, parce que j’ai persécuté l’église de Dieu.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:9"
+        },
+        {
+          "verse": "10",
+          "text": "Mais par la grâce de Dieu je suis ce que je suis; et sa grâce qu’il m’a concédée n’a pas été vaine; mais j’ai travaillé beaucoup plus qu’eux tous; toute fois pas moi, mais la grâce de Dieu qui était avec moi.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:10"
+        },
+        {
+          "verse": "11",
+          "text": "C’est pourquoi |[que ce]| soit moi, ou |[que ce]| soit eux, nous prêchons ainsi, et vous avez cru ainsi.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:11"
+        },
+        {
+          "verse": "12",
+          "text": "Or si Christ est prêché, qu’il est ressuscité des morts, comment disent quelques-uns parmi vous qu’il n’y a pas de résurrection des morts?",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:12"
+        },
+        {
+          "verse": "13",
+          "text": "Mais s’il n’y a pas de résurrection des morts, alors Christ n’est pas ressuscité.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:13"
+        },
+        {
+          "verse": "14",
+          "text": "Et si Christ n’est pas ressuscité, alors notre prédication est vaine, et votre foi est aussi vaine.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:14"
+        },
+        {
+          "verse": "15",
+          "text": "Oui, et nous sommes considérés de faux témoins de Dieu; parce que nous avons témoigné de la part de Dieu, qu’il a ressuscité Christ, lequel il n’a pas ressuscité, si vraiment les morts ne ressuscitent pas.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:15"
+        },
+        {
+          "verse": "16",
+          "text": "Car si les morts ne ressuscitent pas, alors Christ n’est pas ressuscité.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:16"
+        },
+        {
+          "verse": "17",
+          "text": "Et si Christ n’est pas ressuscité, votre foi est vaine, vous êtes encore dans vos péchés.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:17"
+        },
+        {
+          "verse": "18",
+          "text": "Alors ceux aussi qui se sont endormis en Christ ont péri.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:18"
+        },
+        {
+          "verse": "19",
+          "text": "Si dans cette vie seulement nous avons espérance en Christ, nous sommes de tous les hommes les plus misérables.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:19"
+        },
+        {
+          "verse": "20",
+          "text": "Mais maintenant Christ est ressuscité des morts, et |[il]| est devenu les prémices de ceux qui sont endormis.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:20"
+        },
+        {
+          "verse": "21",
+          "text": "Car puisque par |[l’]homme est venue la mort, par |[l’]homme aussi est venue la résurrection des morts.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:21"
+        },
+        {
+          "verse": "22",
+          "text": "Car comme en Adam tous meurent, de même en Christ tous seront rendus vivants.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:22"
+        },
+        {
+          "verse": "23",
+          "text": "Mais chaque homme en son propre rang; Christ |[est]| les prémices, ensuite ceux qui sont à Christ, à sa venue.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:23"
+        },
+        {
+          "verse": "24",
+          "text": "Puis vient la fin, quand il aura remis le royaume à Dieu, c’est-à-dire le Père, quand il aura réprimé tout gouvernement, toute autorité et pouvoir.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:24"
+        },
+        {
+          "verse": "25",
+          "text": "Car il faut qu’il règne jusqu’à ce qu’il ait mis tous ses ennemis sous ses pieds.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:25"
+        },
+        {
+          "verse": "26",
+          "text": "Le dernier ennemi qui sera détruit est |[la]| mort.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:26"
+        },
+        {
+          "verse": "27",
+          "text": "Car il a mis toutes choses sous ses pieds. Mais quand il dit que toutes choses lui sont assujetties, il est manifeste que celui qui lui a assujetti toutes choses est excepté.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:27"
+        },
+        {
+          "verse": "28",
+          "text": "Et lorsque toutes choses lui auront été assujetties alors le Fils aussi sera lui-même assujetti à celui qui lui a assujetti toutes choses, afin que Dieu puisse être tout en tous.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:28"
+        },
+        {
+          "verse": "29",
+          "text": "Autrement, que feront ceux qui sont baptisés pour les morts, si les morts ne ressuscitent absolument pas? pourquoi sont-ils alors baptisés pour les morts?",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:29"
+        },
+        {
+          "verse": "30",
+          "text": "Et pourquoi sommes-nous en danger à toute heure?",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:30"
+        },
+        {
+          "verse": "31",
+          "text": "J’affirme par votre réjouissance que j’ai en Christ Jésus notre Seigneur, je meurs chaque jour.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:31"
+        },
+        {
+          "verse": "32",
+          "text": "Si à la manière des hommes j’ai combattu contre les bêtes à Éphèse, quel avantage en ai-je, si les morts ne ressuscitent pas? Mangeons et buvons, car demain nous mourrons.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:32"
+        },
+        {
+          "verse": "33",
+          "text": "Ne soyez pas bernés les mauvaises compagnies corrompent les bonnes mœurs.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:33"
+        },
+        {
+          "verse": "34",
+          "text": "Réveillez-vous à la droiture, et ne péchez pas; car quelques-uns n’ont pas la connaissance de Dieu; je dis ceci à votre honte.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:34"
+        },
+        {
+          "verse": "35",
+          "text": "Mais un homme dira: Comment les morts ressuscitent-ils? et avec quel corps viennent-ils?",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:35"
+        },
+        {
+          "verse": "36",
+          "text": "Toi insensé, ce que tu sèmes n’est pas vivifié, sauf s’il meurt.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:36"
+        },
+        {
+          "verse": "37",
+          "text": "Et quant à ce que tu sèmes, tu ne sèmes pas ce corps qui naîtra, mais du grain nu, ce peut-être de blé, ou de quelque autre grain.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:37"
+        },
+        {
+          "verse": "38",
+          "text": "Mais Dieu lui donne un corps comme il a voulu, et à chaque semence son propre corps.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:38"
+        },
+        {
+          "verse": "39",
+          "text": "Toute chair n’est pas la même chair; mais il y a une sorte de chair des hommes, une autre |[la]| chair des bêtes, une autre |[celle]| des poissons, et une autre |[celle]| des oiseaux.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:39"
+        },
+        {
+          "verse": "40",
+          "text": "Il y a aussi des corps célestes, et des corps terrestres; mais la gloire des célestes est une et la gloire des terrestres est une autre;",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:40"
+        },
+        {
+          "verse": "41",
+          "text": "Il y a une gloire du soleil, et une autre gloire de la lune, et une autre gloire des étoiles; car une étoile diffère d’une autre étoile en gloire.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:41"
+        },
+        {
+          "verse": "42",
+          "text": "Ainsi aussi est la résurrection des morts. Il |[le corps]| est semé en corruption, il ressuscite en incorruption;",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:42"
+        },
+        {
+          "verse": "43",
+          "text": "Il est semé en déshonneur, il ressuscite en gloire; il est semé en faiblesse, il ressuscite en pouvoir;",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:43"
+        },
+        {
+          "verse": "44",
+          "text": "Il est semé un corps naturel, il ressuscite corps spirituel. Il y a un corps naturel, et il y a un corps spirituel,",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:44"
+        },
+        {
+          "verse": "45",
+          "text": "Et ainsi il est écrit: Le premier homme Adam, a été fait une âme vivante; le dernier Adam a été fait un esprit vivifiant.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:45"
+        },
+        {
+          "verse": "46",
+          "text": "Néanmoins ce n’était pas le premier qui est spirituel, mais ce qui est naturel; et après ce qui est spirituel.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:46"
+        },
+        {
+          "verse": "47",
+          "text": "Le premier homme est |[tiré]| de la terre, terrestre, le second homme est le Seigneur |[venu]| du ciel.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:47"
+        },
+        {
+          "verse": "48",
+          "text": "Comme est le terrestre, ainsi sont aussi ceux qui sont terrestres; et comme est le céleste, ainsi sont aussi ceux qui sont célestes.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:48"
+        },
+        {
+          "verse": "49",
+          "text": "Et comme nous avons porté l’image du terrestre, nous porterons aussi l’image du céleste.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:49"
+        },
+        {
+          "verse": "50",
+          "text": "Maintenant je dis ceci, frères, que la chair et le sang ne peuvent hériter le royaume de Dieu, et que la corruption non plus n’hérite pas l’incorruption.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:50"
+        },
+        {
+          "verse": "51",
+          "text": "Voici, je vous dis un mystère: Nous ne dormirons pas tous, mais nous serons tous changés,",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:51"
+        },
+        {
+          "verse": "52",
+          "text": "En un moment, en un clin d’œil, à la dernière trompette; car la trompette sonnera, et les morts ressusciteront incorruptibles, et nous serons changés.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:52"
+        },
+        {
+          "verse": "53",
+          "text": "Car ce |[corps]| corruptible doit revêtir l’incorruption, et ce |[corps]| mortel doit revêtir l’immortalité.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:53"
+        },
+        {
+          "verse": "54",
+          "text": "Ainsi quand ce |[corps]| corruptible aura revêtu l’incorruption, et ce |[corps]| mortel aura revêtu l’immortalité, alors sera accomplie cette parole qui est écrite: La mort est engloutie en victoire.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:54"
+        },
+        {
+          "verse": "55",
+          "text": "Ô mort où est ton aiguillon? Ô tombe où est ta victoire?",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:55"
+        },
+        {
+          "verse": "56",
+          "text": "L’aiguillon de la mort est le péché; et la puissance du péché est la loi.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:56"
+        },
+        {
+          "verse": "57",
+          "text": "Mais remercions Dieu, qui nous donne la victoire par notre Seigneur Jésus Christ.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:57"
+        },
+        {
+          "verse": "58",
+          "text": "C’est pourquoi, mes frères bien-aimés, soyez fermes, inébranlables, toujours abondant dans l’œuvre du Seigneur, d’autant que vous savez que votre labeur n’est pas vain dans le Seigneur.",
+          "chapter": "15",
+          "name": "1 Corinthiens 15:58"
+        }
+      ],
+      "name": "1 Corinthiens 15"
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Concernant la collecte |[qui se fait]| pour les saints, faites comme j’en ai donné l’ordre aux églises de Galatie.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:1"
+        },
+        {
+          "verse": "2",
+          "text": "Chaque premier jour de la semaine, que chacun de vous mette à part, selon la prospérité que Dieu lui accordera, afin qu’il n’y ait pas de collectes quand je viendrai.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:2"
+        },
+        {
+          "verse": "3",
+          "text": "Et lorsque je serai arrivé, quiconque vous approuverez par vos lettres, je |[les]| enverrai pour porter votre libéralité à Jérusalem.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:3"
+        },
+        {
+          "verse": "4",
+          "text": "Et s’il convient que j’y aille aussi, ils iront avec moi.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:4"
+        },
+        {
+          "verse": "5",
+          "text": "Je viendrai donc à vous, après que j’aurai passé par la Macédoine; car je dois passer par la Macédoine.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:5"
+        },
+        {
+          "verse": "6",
+          "text": "Et il se peut que je demeurerai, oui et que je passerai l’hiver avec vous, afin que vous puissiez me conduire partout où j’irai.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:6"
+        },
+        {
+          "verse": "7",
+          "text": "Car je ne vous verrai pas maintenant en passant; mais je compte rester avec vous quelque temps, si le Seigneur |[le]| permet.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:7"
+        },
+        {
+          "verse": "8",
+          "text": "Toutefois je resterai à Éphèse jusqu’à la Pentecôte.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:8"
+        },
+        {
+          "verse": "9",
+          "text": "Car une grande et efficace porte m’est ouverte, et il y a beaucoup d’adversaires.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:9"
+        },
+        {
+          "verse": "10",
+          "text": "Que si Timothée vient, voyez à ce qu’il puisse être parmi vous sans crainte, car il travaille à l’œuvre du Seigneur comme moi-même.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:10"
+        },
+        {
+          "verse": "11",
+          "text": "Qu’aucun homme donc ne le méprise, mais conduisez-le en paix, afin qu’il puisse venir à moi, car je l’attends avec les frères.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:11"
+        },
+        {
+          "verse": "12",
+          "text": "Quant à notre frère, Apollos, j’ai grandement désiré qu’il vienne à vous avec les frères; mais ce n’était pas du tout sa volonté de venir maintenant; mais il viendra quand il en aura l’opportunité.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:12"
+        },
+        {
+          "verse": "13",
+          "text": "Veillez, tenez fermes dans la foi, soyez des hommes, soyez forts.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:13"
+        },
+        {
+          "verse": "14",
+          "text": "Que toutes choses soient faites avec charité.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:14"
+        },
+        {
+          "verse": "15",
+          "text": "Je vous supplie, frères, (vous connaissez la maison de Stephanas, qu’elle est les prémices de l’Achaicus (Achaïe), et qu’ils se sont dévoués au service des saints),",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:15"
+        },
+        {
+          "verse": "16",
+          "text": "Que vous vous soumettiez à de tels |[hommes]| et à quiconque aide et travaille avec nous.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:16"
+        },
+        {
+          "verse": "17",
+          "text": "Je suis heureux de l’arrivée de Stephanas, de Fortunatus et d’Achaicus (Achaïe), parce qu’ils ont suppléé à ce que vous ne pouviez pas faire |[pour moi];",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:17"
+        },
+        {
+          "verse": "18",
+          "text": "Car ils ont détendu mon esprit et le vôtre; c’est pourquoi soyez reconnaissants à de tels |[hommes].",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:18"
+        },
+        {
+          "verse": "19",
+          "text": "Les églises d’Asie vous saluent. Aquila (Aquilas) et Priscilla (Priscille), vous saluent bien dans le Seigneur, ainsi que l’église qui est dans leur maison.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:19"
+        },
+        {
+          "verse": "20",
+          "text": "Tous les frères vous saluent. Saluez-vous les uns les autres par un saint baiser.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:20"
+        },
+        {
+          "verse": "21",
+          "text": "La salutation de moi Paul, de ma propre main.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:21"
+        },
+        {
+          "verse": "22",
+          "text": "Si un homme n’aime pas le Seigneur Jésus Christ, qu’il soit Anathème, Maranatha.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:22"
+        },
+        {
+          "verse": "23",
+          "text": "La grâce de notre Seigneur Jésus Christ soit avec vous.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:23"
+        },
+        {
+          "verse": "24",
+          "text": "Mon amour est avec vous tous en Christ Jésus. Amen.",
+          "chapter": "16",
+          "name": "1 Corinthiens 16:24"
+        }
+      ],
+      "name": "1 Corinthiens 16"
+    }
+  ]
+}

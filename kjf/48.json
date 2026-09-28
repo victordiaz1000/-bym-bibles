@@ -1,0 +1,942 @@
+{
+  "translation": "King James Française",
+  "abbreviation": "KJF",
+  "lang": "fr",
+  "language": "français",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 48,
+  "name": "Galates",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et elles glorifiaient Dieu à cause de moi.",
+          "chapter": "1",
+          "name": "Galates 1:1"
+        },
+        {
+          "verse": "2",
+          "text": "Et tous les frères qui sont avec moi, aux églises de Galatie.",
+          "chapter": "1",
+          "name": "Galates 1:2"
+        },
+        {
+          "verse": "3",
+          "text": "Grâce soit à vous et paix, |[de la part]| de Dieu le Père et de notre Seigneur Jésus Christ,",
+          "chapter": "1",
+          "name": "Galates 1:3"
+        },
+        {
+          "verse": "4",
+          "text": "Qui s'est donné lui-même pour nos péchés, afin qu'il puisse nous délivrer du présent monde mauvais, selon la volonté de Dieu et notre Père,",
+          "chapter": "1",
+          "name": "Galates 1:4"
+        },
+        {
+          "verse": "5",
+          "text": "À lui soit |[la]| gloire pour toujours et toujours. Amen.",
+          "chapter": "1",
+          "name": "Galates 1:5"
+        },
+        {
+          "verse": "6",
+          "text": "Je n'en reviens pas que vous abandonniez si rapidement celui qui vous a appelés en la grâce de Christ, |[pour passer]| à un autre évangile;",
+          "chapter": "1",
+          "name": "Galates 1:6"
+        },
+        {
+          "verse": "7",
+          "text": "Qui n'en est pas un autre; mais il y en a certains qui vous troublent, et qui veulent pervertir l'évangile de Christ.",
+          "chapter": "1",
+          "name": "Galates 1:7"
+        },
+        {
+          "verse": "8",
+          "text": "Mais si nous, ou un ange |[venu]| du ciel, vous prêche un autre évangile que celui que nous vous avons prêché, qu'il soit maudit.",
+          "chapter": "1",
+          "name": "Galates 1:8"
+        },
+        {
+          "verse": "9",
+          "text": "Comme nous l'avons déjà dit, ainsi maintenant je le dis à nouveau: Si un homme vous prêche un autre évangile que celui vous avez reçu, qu'il soit maudit.",
+          "chapter": "1",
+          "name": "Galates 1:9"
+        },
+        {
+          "verse": "10",
+          "text": "Car maintenant, est-ce que je persuade les hommes, ou Dieu? ou est-ce que je cherche à plaire aux hommes? Car si je plaisais encore aux hommes, je ne serais pas serviteur de Christ.",
+          "chapter": "1",
+          "name": "Galates 1:10"
+        },
+        {
+          "verse": "11",
+          "text": "Mais je vous certifie, frères, que l'évangile qui a été prêché par moi n'est pas selon l'homme.",
+          "chapter": "1",
+          "name": "Galates 1:11"
+        },
+        {
+          "verse": "12",
+          "text": "Car je ne l'ai ni reçu de l’homme, ni ne l’ai appris, mais par la révélation de Jésus Christ.",
+          "chapter": "1",
+          "name": "Galates 1:12"
+        },
+        {
+          "verse": "13",
+          "text": "Car vous avez entendu quelle était autrefois ma conduite dans la religion des Juifs, comment je persécutais outre mesure l'église de Dieu et la dévastais,",
+          "chapter": "1",
+          "name": "Galates 1:13"
+        },
+        {
+          "verse": "14",
+          "text": "Et |[j’]avançais dans la religion des Juifs plus que beaucoup de mes pairs dans ma propre nation, étant le plus extrêmement zélé pour les traditions de mes pères.",
+          "chapter": "1",
+          "name": "Galates 1:14"
+        },
+        {
+          "verse": "15",
+          "text": "Mais quand il plut à Dieu, qui m'a mis à part dès l’utérus de ma mère et qui m'a appelé par sa grâce,",
+          "chapter": "1",
+          "name": "Galates 1:15"
+        },
+        {
+          "verse": "16",
+          "text": "Pour révéler son Fils en moi, afin que je puisse le prêcher parmi les païens, aussitôt, je ne consultai ni chair ni sang,",
+          "chapter": "1",
+          "name": "Galates 1:16"
+        },
+        {
+          "verse": "17",
+          "text": "Ni ne montai à Jérusalem vers ceux qui étaient apôtres avant moi, mais je m'en allai en Arabie, et je retournai de nouveau à Damas.",
+          "chapter": "1",
+          "name": "Galates 1:17"
+        },
+        {
+          "verse": "18",
+          "text": "Puis, après trois ans, je montai à Jérusalem pour voir Pierre et je demeurai chez lui quinze jours;",
+          "chapter": "1",
+          "name": "Galates 1:18"
+        },
+        {
+          "verse": "19",
+          "text": "Mais je ne vis aucun autre des apôtres, sinon Jacques le frère du Seigneur.",
+          "chapter": "1",
+          "name": "Galates 1:19"
+        },
+        {
+          "verse": "20",
+          "text": "Donc les choses que je vous écris, voici, devant Dieu, |[que]| je ne mens pas.",
+          "chapter": "1",
+          "name": "Galates 1:20"
+        },
+        {
+          "verse": "21",
+          "text": "Ensuite j'allai dans les régions de Syrie et de Cilicia (Cilicie).",
+          "chapter": "1",
+          "name": "Galates 1:21"
+        },
+        {
+          "verse": "22",
+          "text": "Et j'étais inconnu de visage aux églises de Judée qui étaient en Christ,",
+          "chapter": "1",
+          "name": "Galates 1:22"
+        },
+        {
+          "verse": "23",
+          "text": "Mais elles avaient seulement entendu dire: Celui qui autrefois nous persécutait, prêche maintenant la foi que jadis il détruisait;",
+          "chapter": "1",
+          "name": "Galates 1:23"
+        },
+        {
+          "verse": "24",
+          "text": "Et elles glorifiaient Dieu à cause de moi.",
+          "chapter": "1",
+          "name": "Galates 1:24"
+        }
+      ],
+      "name": "Galates 1"
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ensuite, quatorze ans plus tard, je montai de nouveau à Jérusalem avec Barnabas, et pris aussi Tite avec moi.",
+          "chapter": "2",
+          "name": "Galates 2:1"
+        },
+        {
+          "verse": "2",
+          "text": "Et j'y montai par révélation, et je leur communiquai l'évangile que je prêche parmi les Gentils, mais en privé à ceux qui étaient les plus estimés, afin qu’en quelque sorte je ne coure ou n’aie couru en vain.",
+          "chapter": "2",
+          "name": "Galates 2:2"
+        },
+        {
+          "verse": "3",
+          "text": "Cependant, même Tite qui était avec moi, bien que Grec, ne fut pas contraint à être circoncis,",
+          "chapter": "2",
+          "name": "Galates 2:3"
+        },
+        {
+          "verse": "4",
+          "text": "Et cela à cause de faux frères, subrepticement introduits, qui s’étaient glissés parmi nous pour épier notre liberté que nous avons en Christ Jésus, afin de nous ramener à la servitude;",
+          "chapter": "2",
+          "name": "Galates 2:4"
+        },
+        {
+          "verse": "5",
+          "text": "Nous n'avons pas cédé par soumission, non, non pas même une heure, afin que la vérité de l'évangile soit maintenue en vous.",
+          "chapter": "2",
+          "name": "Galates 2:5"
+        },
+        {
+          "verse": "6",
+          "text": "Mais de ceux qui semblaient être quelque chose (quels qu'ils aient pu être, cela ne m'importe pas: Dieu ne fait pas de distinction de personne); car ceux qui semblaient être quelque chose à cette conférence ne m'ont rien apporté de plus;",
+          "chapter": "2",
+          "name": "Galates 2:6"
+        },
+        {
+          "verse": "7",
+          "text": "Mais au contraire, quand ils virent que l'évangile de l'incirconcision m’avait été confié, comme l’évangile de la circoncision l'avait été à Pierre,",
+          "chapter": "2",
+          "name": "Galates 2:7"
+        },
+        {
+          "verse": "8",
+          "text": "(Car celui qui a procédé efficacement en Pierre pour l'apostolat de la circoncision, le même a procédé puissamment en moi envers les Gentils),",
+          "chapter": "2",
+          "name": "Galates 2:8"
+        },
+        {
+          "verse": "9",
+          "text": "Et lorsque Jacques, Céphas, et Jean qui semblaient être des piliers, reconnurent la grâce qui m'était octroyée, me donnèrent, à moi et à Barnabas, les mains droites d'association, afin que nous allions vers les païens, et eux vers la circoncision,",
+          "chapter": "2",
+          "name": "Galates 2:9"
+        },
+        {
+          "verse": "10",
+          "text": "Ils voulurent seulement que nous nous souvenions des pauvres, ce qu'aussi j’ai eu soin de faire.",
+          "chapter": "2",
+          "name": "Galates 2:10"
+        },
+        {
+          "verse": "11",
+          "text": "Mais lorsque Pierre vint à Antioche, je lui résistai en face, parce qu'il devait être repris.",
+          "chapter": "2",
+          "name": "Galates 2:11"
+        },
+        {
+          "verse": "12",
+          "text": "Car, avant que certains arrivent |[envoyés]| par Jacques, il mangeait avec les Gentils; mais quand ceux-là arrivèrent, il se retira et se sépara |[d’eux], craignant ceux qui étaient de la circoncision;",
+          "chapter": "2",
+          "name": "Galates 2:12"
+        },
+        {
+          "verse": "13",
+          "text": "Et les autres Juifs agirent comme lui, si bien que Barnabas même fut entraîné par leur hypocrisie.",
+          "chapter": "2",
+          "name": "Galates 2:13"
+        },
+        {
+          "verse": "14",
+          "text": "Mais quand je vis qu'ils ne marchaient pas intègrement selon la vérité de l'évangile, je dis à Pierre en présence de tous: Si toi qui es juif, tu vis de la même manière que les Gentils et non pas comme font les juifs, pourquoi contrains-tu les Gentils à vivre comme font les juifs?",
+          "chapter": "2",
+          "name": "Galates 2:14"
+        },
+        {
+          "verse": "15",
+          "text": "Nous qui sommes juifs de naissance et non pas pécheurs d'entre les Gentils,",
+          "chapter": "2",
+          "name": "Galates 2:15"
+        },
+        {
+          "verse": "16",
+          "text": "Sachant que l'homme n'est pas justifié par les œuvres de la loi, mais par la foi de Jésus Christ, c’est-à-dire nous avons cru en Jésus Christ, afin que nous puissions être justifiés par la foi de Christ et non pas par les œuvres de la loi car par les œuvres de la loi nulle chair ne sera justifiée.",
+          "chapter": "2",
+          "name": "Galates 2:16"
+        },
+        {
+          "verse": "17",
+          "text": "Mais si, tandis que nous cherchons à être justifiés par Christ, nous sommes nous-mêmes aussi trouvés pécheurs, Christ est-il donc ministre du péché? À Dieu ne plaise.",
+          "chapter": "2",
+          "name": "Galates 2:17"
+        },
+        {
+          "verse": "18",
+          "text": "Car si je rebâtis les choses que j'ai détruites, je fais de moi un transgresseur.",
+          "chapter": "2",
+          "name": "Galates 2:18"
+        },
+        {
+          "verse": "19",
+          "text": "Car moi, par la loi, je suis mort à la loi, afin que je puisse vivre à Dieu.",
+          "chapter": "2",
+          "name": "Galates 2:19"
+        },
+        {
+          "verse": "20",
+          "text": "Je suis crucifié avec Christ; cependant je vis; non pas moi-même, mais Christ vit en moi; et la vie que je vis maintenant dans la chair, je la vis par la foi du Fils de Dieu, qui m'a aimé et s'est donné lui-même pour moi.",
+          "chapter": "2",
+          "name": "Galates 2:20"
+        },
+        {
+          "verse": "21",
+          "text": "Je n'annule pas la grâce de Dieu; car si la droiture |[justice]| vient par la loi, alors Christ est mort en vain.",
+          "chapter": "2",
+          "name": "Galates 2:21"
+        }
+      ],
+      "name": "Galates 2"
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ô Galates insensés, qui vous a ensorcelés, pour que vous n’obéissiez plus à la vérité, vous, devant les yeux de qui Jésus Christ a été si manifestement dépeint, crucifié au milieu de vous?",
+          "chapter": "3",
+          "name": "Galates 3:1"
+        },
+        {
+          "verse": "2",
+          "text": "Je voudrais seulement apprendre ceci de vous: Avez-vous reçu l'Esprit par les œuvres de la loi, ou par l’audition de la foi?",
+          "chapter": "3",
+          "name": "Galates 3:2"
+        },
+        {
+          "verse": "3",
+          "text": "Êtes-vous si insensés? Ayant commencé en l'Esprit, parviendriez-vous maintenant à la perfection par la chair?",
+          "chapter": "3",
+          "name": "Galates 3:3"
+        },
+        {
+          "verse": "4",
+          "text": "Avez-vous souffert tant de choses en vain? Si toutefois c'est en vain.",
+          "chapter": "3",
+          "name": "Galates 3:4"
+        },
+        {
+          "verse": "5",
+          "text": "Celui donc qui vous procure l'Esprit, et qui produit des miracles parmi vous, le fait-il par les œuvres de la loi, ou par l’audition de la foi?",
+          "chapter": "3",
+          "name": "Galates 3:5"
+        },
+        {
+          "verse": "6",
+          "text": "De même comme Abraham crut Dieu, et cela lui fut compté comme droiture.",
+          "chapter": "3",
+          "name": "Galates 3:6"
+        },
+        {
+          "verse": "7",
+          "text": "Sachez donc que ceux qui sont ceux de la foi, ceux-là sont les enfants d'Abraham.",
+          "chapter": "3",
+          "name": "Galates 3:7"
+        },
+        {
+          "verse": "8",
+          "text": "Et l'écriture, prévoyant que Dieu justifierait les païens par la foi, a d'avance prêché l’évangile à Abraham, disant: En toi toutes les nations seront bénies.",
+          "chapter": "3",
+          "name": "Galates 3:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ainsi donc ceux qui |[sont sur le fondement]| de la foi sont bénis avec le fidèle Abraham.",
+          "chapter": "3",
+          "name": "Galates 3:9"
+        },
+        {
+          "verse": "10",
+          "text": "Car tous ceux qui sont |[sur le fondement]| des œuvres de la loi sont sous la malédiction; car il est écrit: Maudit est quiconque ne persévère pas dans toutes les choses qui sont écrites dans le livre de la loi pour les faire.",
+          "chapter": "3",
+          "name": "Galates 3:10"
+        },
+        {
+          "verse": "11",
+          "text": "Et que nul homme ne soit justifié par la loi devant Dieu, cela est évident, car: Le juste vivra par la foi.",
+          "chapter": "3",
+          "name": "Galates 3:11"
+        },
+        {
+          "verse": "12",
+          "text": "Et la loi ne procède pas de la foi, mais L’homme qui fait ces choses vivra par elles.",
+          "chapter": "3",
+          "name": "Galates 3:12"
+        },
+        {
+          "verse": "13",
+          "text": "Christ nous a rachetés de la malédiction de la loi, étant fait malédiction pour nous; (car il est écrit: Maudit est quiconque est pendu au bois).",
+          "chapter": "3",
+          "name": "Galates 3:13"
+        },
+        {
+          "verse": "14",
+          "text": "Afin que la bénédiction d’Abraham puisse venir sur les Gentils par Jésus Christ, afin que nous puissions recevoir la promesse de l'Esprit par la foi.",
+          "chapter": "3",
+          "name": "Galates 3:14"
+        },
+        {
+          "verse": "15",
+          "text": "Frères, je parle selon la manière des hommes. Bien qu’une alliance soit d’un homme, cependant si elle est confirmée, nul homme ne l’annule, ni n'y ajoute.",
+          "chapter": "3",
+          "name": "Galates 3:15"
+        },
+        {
+          "verse": "16",
+          "text": "Or c'est à Abraham et à sa semence que les promesses ont été faites. Il ne dit pas: Et aux semences, comme |[parlant]| de beaucoup; mais comme d'une |[seule]. Et à ta semence, qui est Christ.",
+          "chapter": "3",
+          "name": "Galates 3:16"
+        },
+        {
+          "verse": "17",
+          "text": "Et je dis ceci, que l’alliance, qui auparavant a été confirmée par Dieu en Christ; la loi, qui est venue quatre cent trente ans après, ne peut pas l'annuler, ce qui rendrait la promesse sans effet.",
+          "chapter": "3",
+          "name": "Galates 3:17"
+        },
+        {
+          "verse": "18",
+          "text": "Car si l'héritage vient de la loi, il n'est plus de la promesse; mais Dieu l’a donné à Abraham par promesse.",
+          "chapter": "3",
+          "name": "Galates 3:18"
+        },
+        {
+          "verse": "19",
+          "text": "À quoi donc sert la loi? Elle a été ajoutée à cause des transgressions, jusqu'à ce que vienne la semence à laquelle la promesse avait été faite, et elle a été ordonnée par des anges, par la main d'un médiateur.",
+          "chapter": "3",
+          "name": "Galates 3:19"
+        },
+        {
+          "verse": "20",
+          "text": "Or un médiateur n'est pas un médiateur d'un |[seul], mais Dieu est un |[seul].",
+          "chapter": "3",
+          "name": "Galates 3:20"
+        },
+        {
+          "verse": "21",
+          "text": "La loi est-elle donc contre les promesses de Dieu? À Dieu ne plaise; car s'il avait été donné une loi qui puisse donner la vie, la droiture viendrait véritablement par la loi.",
+          "chapter": "3",
+          "name": "Galates 3:21"
+        },
+        {
+          "verse": "22",
+          "text": "Mais l'écriture a estimé tous sous le péché, afin que la promesse, par la foi de Jésus Christ, puisse être donnée à ceux qui croient.",
+          "chapter": "3",
+          "name": "Galates 3:22"
+        },
+        {
+          "verse": "23",
+          "text": "Mais avant que la foi vienne, nous étions gardés sous la loi, enfermés jusqu’à la foi qui devait être révélée plus tard;",
+          "chapter": "3",
+          "name": "Galates 3:23"
+        },
+        {
+          "verse": "24",
+          "text": "C’est pourquoi la loi a été notre précepteur pour nous amener jusqu'à Christ, afin que nous puissions être justifiés par la foi;",
+          "chapter": "3",
+          "name": "Galates 3:24"
+        },
+        {
+          "verse": "25",
+          "text": "Mais la foi étant venue, nous ne sommes plus sous un précepteur,",
+          "chapter": "3",
+          "name": "Galates 3:25"
+        },
+        {
+          "verse": "26",
+          "text": "Car vous êtes tous enfants de Dieu par la foi en Christ Jésus.",
+          "chapter": "3",
+          "name": "Galates 3:26"
+        },
+        {
+          "verse": "27",
+          "text": "Car vous tous qui avez été baptisés en Christ, vous avez revêtu Christ.",
+          "chapter": "3",
+          "name": "Galates 3:27"
+        },
+        {
+          "verse": "28",
+          "text": "Il n'y a ni Juif, ni Grec; il n'y a ni |[homme]| asservi, ni |[homme]| libre; il n'y a ni mâle, ni femelle car vous êtes tous un en Christ Jésus.",
+          "chapter": "3",
+          "name": "Galates 3:28"
+        },
+        {
+          "verse": "29",
+          "text": "Or si vous êtes de Christ, vous êtes donc la semence d'Abraham, et héritiers selon la promesse.",
+          "chapter": "3",
+          "name": "Galates 3:29"
+        }
+      ],
+      "name": "Galates 3"
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Or je dis, que l'héritier, durant tout le temps qu’il est un enfant, ne diffère en rien d'un serviteur, bien qu'il soit seigneur de tout;",
+          "chapter": "4",
+          "name": "Galates 4:1"
+        },
+        {
+          "verse": "2",
+          "text": "Mais il est sous des tuteurs et des administrateurs jusqu'à l'époque déterminée par le père.",
+          "chapter": "4",
+          "name": "Galates 4:2"
+        },
+        {
+          "verse": "3",
+          "text": "Ainsi nous aussi, lorsque nous étions enfants, nous étions asservis aux éléments du monde;",
+          "chapter": "4",
+          "name": "Galates 4:3"
+        },
+        {
+          "verse": "4",
+          "text": "Mais, quand la plénitude du temps est venue, Dieu envoya son Fils né de femme, né sous la loi,",
+          "chapter": "4",
+          "name": "Galates 4:4"
+        },
+        {
+          "verse": "5",
+          "text": "Pour racheter ceux qui étaient sous la loi, afin que vous puissiez recevoir l'adoption de fils.",
+          "chapter": "4",
+          "name": "Galates 4:5"
+        },
+        {
+          "verse": "6",
+          "text": "Et, parce que vous êtes fils, Dieu a envoyé l'Esprit de son Fils dans vos cœurs, criant: Abba, Père.",
+          "chapter": "4",
+          "name": "Galates 4:6"
+        },
+        {
+          "verse": "7",
+          "text": "C’est pourquoi tu n'es plus un serviteur, mais un fils et, si |[tu es]| un fils, alors |[tu es]| un héritier de Dieu par Christ.",
+          "chapter": "4",
+          "name": "Galates 4:7"
+        },
+        {
+          "verse": "8",
+          "text": "Néanmoins, lorsque vous ne connaissiez pas Dieu, vous serviez ceux qui, par leur nature, ne sont pas des dieux.",
+          "chapter": "4",
+          "name": "Galates 4:8"
+        },
+        {
+          "verse": "9",
+          "text": "Mais maintenant, que vous avez connu Dieu, ou plutôt que vous êtes connus de Dieu, comment retournez-vous encore aux faibles et misérables éléments auxquels vous désirez vous asservir de nouveau?",
+          "chapter": "4",
+          "name": "Galates 4:9"
+        },
+        {
+          "verse": "10",
+          "text": "Vous observez des jours, des mois, et des saisons, et des années.",
+          "chapter": "4",
+          "name": "Galates 4:10"
+        },
+        {
+          "verse": "11",
+          "text": "Je crains quant à vous, que je n'aie travaillé en vain pour vous.",
+          "chapter": "4",
+          "name": "Galates 4:11"
+        },
+        {
+          "verse": "12",
+          "text": "Frères, je vous en supplie, soyez comme je suis, car moi aussi je suis comme vous; vous ne m'avez fait aucun tort;",
+          "chapter": "4",
+          "name": "Galates 4:12"
+        },
+        {
+          "verse": "13",
+          "text": "Vous savez comment dans l'infirmité de la chair je vous ai prêché l’évangile au commencement.",
+          "chapter": "4",
+          "name": "Galates 4:13"
+        },
+        {
+          "verse": "14",
+          "text": "Et malgré mon épreuve qui était en ma chair, vous ne m'avez ni méprisé, ni rejeté; mais vous m'avez reçu comme un ange de Dieu, comme Christ Jésus même.",
+          "chapter": "4",
+          "name": "Galates 4:14"
+        },
+        {
+          "verse": "15",
+          "text": "Où donc est la bénédiction dont vous parliez? Car je vous rends témoignage que, si cela avait été possible, vous auriez arraché vos propres yeux, et vous me les auriez donnés.",
+          "chapter": "4",
+          "name": "Galates 4:15"
+        },
+        {
+          "verse": "16",
+          "text": "Suis-je donc devenu votre ennemi parce que je vous dis la vérité?",
+          "chapter": "4",
+          "name": "Galates 4:16"
+        },
+        {
+          "verse": "17",
+          "text": "Ils vous émeuvent avec zèle, mais pas comme il le faut; oui, ils veulent même vous exclure, afin que vous puissiez les émouvoir.",
+          "chapter": "4",
+          "name": "Galates 4:17"
+        },
+        {
+          "verse": "18",
+          "text": "Mais il est bon d'être toujours ému avec zèle dans une bonne chose, et pas seulement quand je suis présent avec vous.",
+          "chapter": "4",
+          "name": "Galates 4:18"
+        },
+        {
+          "verse": "19",
+          "text": "Mes petits enfants, pour l'enfantement desquels je travaille de nouveau jusqu'à ce que Christ soit formé en vous,",
+          "chapter": "4",
+          "name": "Galates 4:19"
+        },
+        {
+          "verse": "20",
+          "text": "Je désire être maintenant auprès de vous et changer ma parole, car je suis dans le doute quant à vous.",
+          "chapter": "4",
+          "name": "Galates 4:20"
+        },
+        {
+          "verse": "21",
+          "text": "Dites-moi, vous qui voulez être sous la loi, n'entendez-vous pas la loi?",
+          "chapter": "4",
+          "name": "Galates 4:21"
+        },
+        {
+          "verse": "22",
+          "text": "Car il est écrit qu'Abraham a eu deux fils, l'un de la servante, et l'autre de la femme libre.",
+          "chapter": "4",
+          "name": "Galates 4:22"
+        },
+        {
+          "verse": "23",
+          "text": "Mais celui qui était de la servante naquit selon la chair, et celui de la femme libre était par la promesse.",
+          "chapter": "4",
+          "name": "Galates 4:23"
+        },
+        {
+          "verse": "24",
+          "text": "Lesquelles choses sont une allégorie car ce sont les deux alliances, l'une du mont Sinaï, qui engendre la servitude, qui est Agar.",
+          "chapter": "4",
+          "name": "Galates 4:24"
+        },
+        {
+          "verse": "25",
+          "text": "Car cette Agar est le mont Sinaï, en Arabie, et correspond à la Jérusalem de maintenant, et est dans la servitude avec ses enfants.",
+          "chapter": "4",
+          "name": "Galates 4:25"
+        },
+        {
+          "verse": "26",
+          "text": "Mais la Jérusalem qui est en haut est libre, laquelle est la mère de nous tous.",
+          "chapter": "4",
+          "name": "Galates 4:26"
+        },
+        {
+          "verse": "27",
+          "text": "Car il est écrit: Réjouis-toi, toi |[la]| stérile qui n'enfantes pas; éclate |[de joie]| et écris-toi, toi qui n'étais pas en travail; car la délaissée a beaucoup plus d’enfants que celle qui a un mari.",
+          "chapter": "4",
+          "name": "Galates 4:27"
+        },
+        {
+          "verse": "28",
+          "text": "Or nous, frères, comme Isaac |[l’]était, sommes enfants de la promesse.",
+          "chapter": "4",
+          "name": "Galates 4:28"
+        },
+        {
+          "verse": "29",
+          "text": "Mais, comme alors celui qui était né selon la chair persécutait celui qui était né selon l'Esprit, et il en est de même maintenant.",
+          "chapter": "4",
+          "name": "Galates 4:29"
+        },
+        {
+          "verse": "30",
+          "text": "Néanmoins que dit l'écriture? Chasse la servante et son fils, car le fils de la servante ne sera pas héritier avec le fils de la femme libre.",
+          "chapter": "4",
+          "name": "Galates 4:30"
+        },
+        {
+          "verse": "31",
+          "text": "Ainsi donc, frères, nous ne sommes pas enfants de la servante, mais de la |[femme]| libre.",
+          "chapter": "4",
+          "name": "Galates 4:31"
+        }
+      ],
+      "name": "Galates 4"
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Tenez-vous donc fermes dans la liberté avec laquelle Christ nous a rendus libre, et ne soyez pas de nouveau empêtrés sous le joug de servitude.",
+          "chapter": "5",
+          "name": "Galates 5:1"
+        },
+        {
+          "verse": "2",
+          "text": "Voici, moi Paul, je vous dis, que si vous êtes circoncis, Christ ne vous servira à rien;",
+          "chapter": "5",
+          "name": "Galates 5:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car je l’atteste de nouveau à tout homme qui est circoncis, qu'il est tenu d'accomplir toute la loi.",
+          "chapter": "5",
+          "name": "Galates 5:3"
+        },
+        {
+          "verse": "4",
+          "text": "Christ est devenu sans effet pour vous, vous tous êtes justifiés par la loi; vous êtes déchus de la grâce.",
+          "chapter": "5",
+          "name": "Galates 5:4"
+        },
+        {
+          "verse": "5",
+          "text": "Car nous, par l'Esprit, attendons l'espérance de la droiture par la foi.",
+          "chapter": "5",
+          "name": "Galates 5:5"
+        },
+        {
+          "verse": "6",
+          "text": "Car en Christ Jésus, ni circoncision, ni incirconcision, n'ont de valeur, mais la foi qui œuvre par amour.",
+          "chapter": "5",
+          "name": "Galates 5:6"
+        },
+        {
+          "verse": "7",
+          "text": "Vous couriez bien, qui est-ce qui vous a empêchés pour que vous n'obéissiez pas à la vérité?",
+          "chapter": "5",
+          "name": "Galates 5:7"
+        },
+        {
+          "verse": "8",
+          "text": "Cette persuasion ne vient pas de celui qui vous appelle.",
+          "chapter": "5",
+          "name": "Galates 5:8"
+        },
+        {
+          "verse": "9",
+          "text": "Un peu de levain fait lever la pâte tout entière.",
+          "chapter": "5",
+          "name": "Galates 5:9"
+        },
+        {
+          "verse": "10",
+          "text": "J'ai confiance à votre égard par le Seigneur, que vous n'aurez pas d'autre sentiment; mais celui qui vous trouble portera son jugement, quel qu'il soit.",
+          "chapter": "5",
+          "name": "Galates 5:10"
+        },
+        {
+          "verse": "11",
+          "text": "Mais moi, frères, si je prêche encore la circoncision, pourquoi est-ce que je souffre encore la persécution? L’offense de la croix a donc cessé.",
+          "chapter": "5",
+          "name": "Galates 5:11"
+        },
+        {
+          "verse": "12",
+          "text": "Je voudrais que soient retranchés ceux qui vous troublent.",
+          "chapter": "5",
+          "name": "Galates 5:12"
+        },
+        {
+          "verse": "13",
+          "text": "Car, frères, vous avez été appelés à la liberté; seulement n'usez pas de la liberté comme d'une occasion pour la chair, mais, par amour, servez-vous l'un l'autre;",
+          "chapter": "5",
+          "name": "Galates 5:13"
+        },
+        {
+          "verse": "14",
+          "text": "Car toute la loi est accomplie dans une seule parole, à savoir dans celle-ci: Tu aimeras ton voisin comme toi-même.",
+          "chapter": "5",
+          "name": "Galates 5:14"
+        },
+        {
+          "verse": "15",
+          "text": "Mais si vous vous mordez et vous dévorez l'un l'autre, prenez garde que vous ne soyez consumés l'un par l'autre.",
+          "chapter": "5",
+          "name": "Galates 5:15"
+        },
+        {
+          "verse": "16",
+          "text": "Mais je dis: Marchez par l'Esprit, et vous n'accomplirez pas la convoitise de la chair.",
+          "chapter": "5",
+          "name": "Galates 5:16"
+        },
+        {
+          "verse": "17",
+          "text": "Car la chair convoite contre l'Esprit, et l'Esprit contre la chair; et ces |[choses]| sont opposées l'une à l'autre, si bien que vous ne pouvez pas faire les choses que vous voudriez.",
+          "chapter": "5",
+          "name": "Galates 5:17"
+        },
+        {
+          "verse": "18",
+          "text": "Mais si vous êtes conduis par l'Esprit, vous n'êtes pas sous la loi.",
+          "chapter": "5",
+          "name": "Galates 5:18"
+        },
+        {
+          "verse": "19",
+          "text": "Or les œuvres de la chair sont manifestes, lesquelles sont adultère, fornication, impureté, impudicité,",
+          "chapter": "5",
+          "name": "Galates 5:19"
+        },
+        {
+          "verse": "20",
+          "text": "Idolâtrie, sorcellerie, haine, désaccord, jalousies, colère, querelles, divisions, hérésies,",
+          "chapter": "5",
+          "name": "Galates 5:20"
+        },
+        {
+          "verse": "21",
+          "text": "Envies, meurtres, ivrogneries, orgies, et choses semblables; au sujet desquelles je vous déclare d'avance, comme aussi je vous l'ai déjà dit, que ceux qui commettent de telles choses n'hériteront pas le royaume de Dieu.",
+          "chapter": "5",
+          "name": "Galates 5:21"
+        },
+        {
+          "verse": "22",
+          "text": "Mais le fruit de l'Esprit est amour, joie, paix, longanimité, bienveillance, bonté, foi",
+          "chapter": "5",
+          "name": "Galates 5:22"
+        },
+        {
+          "verse": "23",
+          "text": "Soumission, tempérance: contre de telles |[choses], il n'y a pas de loi.",
+          "chapter": "5",
+          "name": "Galates 5:23"
+        },
+        {
+          "verse": "24",
+          "text": "Et ceux qui sont à Christ ont crucifié la chair avec les passions et les convoitises.",
+          "chapter": "5",
+          "name": "Galates 5:24"
+        },
+        {
+          "verse": "25",
+          "text": "Si nous vivons par l'Esprit, marchons aussi par l'Esprit.",
+          "chapter": "5",
+          "name": "Galates 5:25"
+        },
+        {
+          "verse": "26",
+          "text": "Ne soyons pas désireux de vaine gloire, en nous provoquant l’un l’autre, en nous portant envie l’un à l’autre.",
+          "chapter": "5",
+          "name": "Galates 5:26"
+        }
+      ],
+      "name": "Galates 5"
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Frères, si un homme est surpris en quelque faute, vous qui êtes spirituels, ramenez un tel |[homme]| dans un esprit de soumission, t'examinant toi-même, de peur que toi aussi tu ne sois tenté.",
+          "chapter": "6",
+          "name": "Galates 6:1"
+        },
+        {
+          "verse": "2",
+          "text": "Portez les fardeaux les uns des autres, et ainsi accomplissez la loi de Christ;",
+          "chapter": "6",
+          "name": "Galates 6:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car si un homme pense être quelque chose, quand il n'est rien, il se trompe lui-même.",
+          "chapter": "6",
+          "name": "Galates 6:3"
+        },
+        {
+          "verse": "4",
+          "text": "Mais que chaque homme éprouve sa propre œuvre, et alors il aura de quoi se réjouir tout seul et non dans un autre.",
+          "chapter": "6",
+          "name": "Galates 6:4"
+        },
+        {
+          "verse": "5",
+          "text": "Car chaque homme portera son propre fardeau.",
+          "chapter": "6",
+          "name": "Galates 6:5"
+        },
+        {
+          "verse": "6",
+          "text": "Que celui qui est enseigné dans la parole partage toutes les bonnes choses avec celui qui enseigne.",
+          "chapter": "6",
+          "name": "Galates 6:6"
+        },
+        {
+          "verse": "7",
+          "text": "Ne soyez pas trompés; Dieu ne peut être moqué; car ce qu'un homme sème, cela aussi il le moissonnera.",
+          "chapter": "6",
+          "name": "Galates 6:7"
+        },
+        {
+          "verse": "8",
+          "text": "Car celui qui sème pour sa propre chair moissonnera de la chair la corruption; mais celui qui sème pour l'Esprit moissonnera de l'Esprit la vie éternelle.",
+          "chapter": "6",
+          "name": "Galates 6:8"
+        },
+        {
+          "verse": "9",
+          "text": "Et ne nous lassons pas en faisant le bien, car, au temps voulu, nous moissonnerons, si nous ne défaillons pas.",
+          "chapter": "6",
+          "name": "Galates 6:9"
+        },
+        {
+          "verse": "10",
+          "text": "Comme nous en avons donc l'opportunité, faisons du bien à tous les hommes, mais plus particulièrement à ceux de la maison de la foi.",
+          "chapter": "6",
+          "name": "Galates 6:10"
+        },
+        {
+          "verse": "11",
+          "text": "Vous voyez quelle grande lettre je vous ai écrite de ma propre main.",
+          "chapter": "6",
+          "name": "Galates 6:11"
+        },
+        {
+          "verse": "12",
+          "text": "Tous ceux qui désirent être bien considérés dans la chair, ceux-là vous contraignent à être circoncis, seulement afin qu'ils ne souffrent pas de persécution pour la croix de Christ.",
+          "chapter": "6",
+          "name": "Galates 6:12"
+        },
+        {
+          "verse": "13",
+          "text": "Car ceux-là même qui sont circoncis ne gardent pas la loi; mais ils veulent que vous soyez circoncis, afin qu’ils se glorifient dans votre chair.",
+          "chapter": "6",
+          "name": "Galates 6:13"
+        },
+        {
+          "verse": "14",
+          "text": "Mais que Dieu empêche que je me glorifie, sinon en la croix de notre Seigneur Jésus Christ, par laquelle le monde m'est crucifié, et moi au monde.",
+          "chapter": "6",
+          "name": "Galates 6:14"
+        },
+        {
+          "verse": "15",
+          "text": "Car en Christ Jésus la circoncision, n’a aucun avantage, ni l'incirconcision, mais une nouvelle créature.",
+          "chapter": "6",
+          "name": "Galates 6:15"
+        },
+        {
+          "verse": "16",
+          "text": "Et à l'égard de tous ceux qui marchent selon cette règle, |[que la]| paix soit sur eux ainsi que |[la]| miséricorde et sur l'Israël de Dieu.",
+          "chapter": "6",
+          "name": "Galates 6:16"
+        },
+        {
+          "verse": "17",
+          "text": "Désormais qu’aucun homme ne vienne me troubler, car je porte en mon corps les marques du Seigneur Jésus.",
+          "chapter": "6",
+          "name": "Galates 6:17"
+        },
+        {
+          "verse": "18",
+          "text": "Frères, que la grâce de notre Seigneur Jésus Christ soit avec votre esprit. Amen.",
+          "chapter": "6",
+          "name": "Galates 6:18"
+        }
+      ],
+      "name": "Galates 6"
+    }
+  ]
+}

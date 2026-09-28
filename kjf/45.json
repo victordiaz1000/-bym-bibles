@@ -1,0 +1,2706 @@
+{
+  "translation": "King James Française",
+  "abbreviation": "KJF",
+  "lang": "fr",
+  "language": "français",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 45,
+  "name": "Romains",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Paul, un serviteur de Jésus-Christ, appelé à être un apôtre, séparé pour l’évangile de Dieu,",
+          "chapter": "1",
+          "name": "Romains 1:1"
+        },
+        {
+          "verse": "2",
+          "text": "(Lequel il avait promis auparavant par ses prophètes dans les saintes écritures),",
+          "chapter": "1",
+          "name": "Romains 1:2"
+        },
+        {
+          "verse": "3",
+          "text": "Concernant son Fils Jésus-Christ notre Seigneur, qui a été fait de la semence de David selon la chair,",
+          "chapter": "1",
+          "name": "Romains 1:3"
+        },
+        {
+          "verse": "4",
+          "text": "Et déclaré être le Fils de Dieu avec puissance, selon l’esprit de sainteté, par la résurrection des morts,",
+          "chapter": "1",
+          "name": "Romains 1:4"
+        },
+        {
+          "verse": "5",
+          "text": "Par qui nous avons reçu grâce et apostolat, par obéissance à la foi parmi toutes les nations, pour son nom,",
+          "chapter": "1",
+          "name": "Romains 1:5"
+        },
+        {
+          "verse": "6",
+          "text": "Parmi lesquelles vous êtes aussi les appelés de Jésus-Christ;",
+          "chapter": "1",
+          "name": "Romains 1:6"
+        },
+        {
+          "verse": "7",
+          "text": "À tous ceux qui sont à Rome, bien-aimés de Dieu, appelés à être |[des]| saints: Grâce vous soit et paix |[de la part]| de Dieu notre Père, et du Seigneur Jésus-Christ.",
+          "chapter": "1",
+          "name": "Romains 1:7"
+        },
+        {
+          "verse": "8",
+          "text": "Premièrement, je remercie mon Dieu en Jésus-Christ pour vous tous, de ce que votre foi est connue dans le monde entier.",
+          "chapter": "1",
+          "name": "Romains 1:8"
+        },
+        {
+          "verse": "9",
+          "text": "Car Dieu est mon témoin, lequel je sers avec mon esprit dans l’évangile de son Fils, que sans cesse je fais toujours mention de vous dans mes prières,",
+          "chapter": "1",
+          "name": "Romains 1:9"
+        },
+        {
+          "verse": "10",
+          "text": "Faisant requête, si par quelque manière je puisse avoir enfin une occasion favorable, si c’est la volonté de Dieu, de venir vous voir.",
+          "chapter": "1",
+          "name": "Romains 1:10"
+        },
+        {
+          "verse": "11",
+          "text": "Car il me tarde de vous voir, afin que je puisse vous accorder quelque don spirituel, pour qu’à la fin vous puisiez être affermis,",
+          "chapter": "1",
+          "name": "Romains 1:11"
+        },
+        {
+          "verse": "12",
+          "text": "C’est-à-dire, afin que je puisse être réconforté, étant ensemble avec vous, par la foi mutuelle, la vôtre et la mienne.",
+          "chapter": "1",
+          "name": "Romains 1:12"
+        },
+        {
+          "verse": "13",
+          "text": "Or je ne veux pas que vous ignoriez, frères, que j’ai souvent formé le dessein d’aller vers vous, (mais j’en ai été empêché jusqu’à présent) afin que je puisse recueillir quelque fruit aussi parmi vous, comme parmi les autres Gentils.",
+          "chapter": "1",
+          "name": "Romains 1:13"
+        },
+        {
+          "verse": "14",
+          "text": "Je me dois aussi bien aux Grecs qu’aux Barbares, aussi bien aux sages qu’aux insensés.",
+          "chapter": "1",
+          "name": "Romains 1:14"
+        },
+        {
+          "verse": "15",
+          "text": "Ainsi, autant qu’il dépend de moi, je suis prêt à vous prêcher l’évangile, à vous aussi qui êtes à Rome.",
+          "chapter": "1",
+          "name": "Romains 1:15"
+        },
+        {
+          "verse": "16",
+          "text": "Car je n’ai pas honte de l’évangile de Christ, car c’est la puissance de Dieu pour le salut de quiconque croit, au Juif d’abord, et aussi au Grec.",
+          "chapter": "1",
+          "name": "Romains 1:16"
+        },
+        {
+          "verse": "17",
+          "text": "Car en lui la droiture de Dieu est révélée de foi en foi, selon qu’il est écrit: Le juste vivra par la foi.",
+          "chapter": "1",
+          "name": "Romains 1:17"
+        },
+        {
+          "verse": "18",
+          "text": "Car la colère de Dieu est révélée depuis le ciel contre toute impiété et méchanceté des hommes, qui maintiennent la vérité dans la méchanceté;",
+          "chapter": "1",
+          "name": "Romains 1:18"
+        },
+        {
+          "verse": "19",
+          "text": "Parce que ce qui peut être connu de Dieu est manifesté en eux, car Dieu le leur a montré.",
+          "chapter": "1",
+          "name": "Romains 1:19"
+        },
+        {
+          "verse": "20",
+          "text": "Car les choses invisibles de lui |[Dieu], depuis la création du monde se voient très clairement, étant comprises par les choses qui sont faites, c’est-à-dire sa puissance éternelle et |[sa]| Déité; de sorte qu’ils sont sans excuse,",
+          "chapter": "1",
+          "name": "Romains 1:20"
+        },
+        {
+          "verse": "21",
+          "text": "Parce qu’ayant connu Dieu, ils ne l’ont pas glorifié comme Dieu, ni ne lui ont été reconnaissants mais sont devenus vains dans leurs imaginations, et leur cœur insensé a été obscurci.",
+          "chapter": "1",
+          "name": "Romains 1:21"
+        },
+        {
+          "verse": "22",
+          "text": "Professant être sages, ils sont devenus insensés;",
+          "chapter": "1",
+          "name": "Romains 1:22"
+        },
+        {
+          "verse": "23",
+          "text": "Et ils ont changé la gloire du Dieu incorruptible en la ressemblance de l’image de l’homme corruptible, et d’oiseaux, et de quadrupèdes, et de choses rampantes.",
+          "chapter": "1",
+          "name": "Romains 1:23"
+        },
+        {
+          "verse": "24",
+          "text": "C’est pourquoi aussi, Dieu les a abandonnés à l’impureté à travers les convoitises de leurs cœurs, si bien qu’ils déshonorent leurs propres corps entre eux.",
+          "chapter": "1",
+          "name": "Romains 1:24"
+        },
+        {
+          "verse": "25",
+          "text": "[Eux]| qui ont changé la vérité de Dieu en un mensonge, et ont adoré et servi la créature, plus que le Créateur, qui est béni pour toujours. Amen.",
+          "chapter": "1",
+          "name": "Romains 1:25"
+        },
+        {
+          "verse": "26",
+          "text": "C’est pourquoi Dieu les a abandonnés à des affections honteuses; car même leurs femmes ont changé l’usage naturel en ce qui est contre nature.",
+          "chapter": "1",
+          "name": "Romains 1:26"
+        },
+        {
+          "verse": "27",
+          "text": "De même aussi les hommes, laissant l’usage naturel de la femme, se sont embrasés dans leur convoitise l’un envers l’autre, commettant homme avec homme ce qui est infâme, et recevant en eux-mêmes la récompense de leur erreur, laquelle convenait.",
+          "chapter": "1",
+          "name": "Romains 1:27"
+        },
+        {
+          "verse": "28",
+          "text": "Et comme ils n’ont même pas aimé retenir Dieu dans leur connaissance, Dieu les a abandonnés à une intelligence dépravée, pour faire ces choses qui ne sont pas convenables.",
+          "chapter": "1",
+          "name": "Romains 1:28"
+        },
+        {
+          "verse": "29",
+          "text": "Étant remplis de toute injustice, de fornication, de méchanceté, de convoitise, de malice; pleins d’envie, de meurtres, de querelles, de tromperies, de malignité; rapporteurs,",
+          "chapter": "1",
+          "name": "Romains 1:29"
+        },
+        {
+          "verse": "30",
+          "text": "Médisants, haïssant Dieu, sans pitié, orgueilleux, vantards, inventeurs de choses mauvaises, désobéissants à leurs parents,",
+          "chapter": "1",
+          "name": "Romains 1:30"
+        },
+        {
+          "verse": "31",
+          "text": "Sans intelligence, rompant leurs alliances, sans affection naturelle, implacables, sans compassion;",
+          "chapter": "1",
+          "name": "Romains 1:31"
+        },
+        {
+          "verse": "32",
+          "text": "Qui, connaissant le jugement de Dieu, que ceux qui commettent de telles choses sont dignes de mort, non seulement font de même, mais prennent plaisir en ceux qui les font.",
+          "chapter": "1",
+          "name": "Romains 1:32"
+        }
+      ],
+      "name": "Romains 1"
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "C’est pourquoi tu es inexcusable, ô homme, qui que tu sois, qui juges, car en ce que tu juges un autre, tu te condamnes toi-même, puisque, toi qui juges, tu fais les mêmes choses.",
+          "chapter": "2",
+          "name": "Romains 2:1"
+        },
+        {
+          "verse": "2",
+          "text": "Mais nous sommes certains que le jugement de Dieu est selon la vérité contre ceux qui commettent de telles choses.",
+          "chapter": "2",
+          "name": "Romains 2:2"
+        },
+        {
+          "verse": "3",
+          "text": "Et penses-tu, ô homme, qui juges ceux qui commettent de telles choses, et fait les mêmes, que tu échapperas au jugement de Dieu?",
+          "chapter": "2",
+          "name": "Romains 2:3"
+        },
+        {
+          "verse": "4",
+          "text": "Ou méprises-tu les richesses de sa bonté, de sa patience et de sa longanimité, ne sachant pas que la bonté de Dieu te conduit à la repentance?",
+          "chapter": "2",
+          "name": "Romains 2:4"
+        },
+        {
+          "verse": "5",
+          "text": "Mais par ton endurcissement et ton cœur impénitent, tu t’amasses la colère pour le jour de la colère et de la révélation du jugement intègre de Dieu,",
+          "chapter": "2",
+          "name": "Romains 2:5"
+        },
+        {
+          "verse": "6",
+          "text": "Qui rendra à chacun selon ses œuvres,",
+          "chapter": "2",
+          "name": "Romains 2:6"
+        },
+        {
+          "verse": "7",
+          "text": "La vie éternelle, à ceux qui continuant patiemment à bien faire cherchent gloire, honneur et immortalité;",
+          "chapter": "2",
+          "name": "Romains 2:7"
+        },
+        {
+          "verse": "8",
+          "text": "Mais à ceux qui sont disputeurs et qui n’obéissent pas à la vérité, mais qui obéissent à l’iniquité, l’indignation et la colère,",
+          "chapter": "2",
+          "name": "Romains 2:8"
+        },
+        {
+          "verse": "9",
+          "text": "Tribulation et angoisse sur toute âme d’homme qui fait le mal; au Juif d’abord, puis au Gentil;",
+          "chapter": "2",
+          "name": "Romains 2:9"
+        },
+        {
+          "verse": "10",
+          "text": "Mais gloire, honneur et paix à tout homme qui fait le bien; au Juif d’abord, et aussi au Gentil;",
+          "chapter": "2",
+          "name": "Romains 2:10"
+        },
+        {
+          "verse": "11",
+          "text": "Car Dieu ne fait pas de distinction de personnes.",
+          "chapter": "2",
+          "name": "Romains 2:11"
+        },
+        {
+          "verse": "12",
+          "text": "Car tous ceux qui ont péché sans la loi, périront aussi sans la loi; et tous ceux qui ont péché, ayant la loi, seront jugés par la loi;",
+          "chapter": "2",
+          "name": "Romains 2:12"
+        },
+        {
+          "verse": "13",
+          "text": "(Car ce ne sont pas ceux qui entendent la loi, qui sont justes devant Dieu; mais ce sont ceux qui accomplissent la loi, qui seront justifiés.",
+          "chapter": "2",
+          "name": "Romains 2:13"
+        },
+        {
+          "verse": "14",
+          "text": "Car quand les Gentils, qui n’ont pas la loi, font naturellement les choses contenues dans la loi, ceux-la n’ayant pas la loi, ils sont loi à eux-mêmes;",
+          "chapter": "2",
+          "name": "Romains 2:14"
+        },
+        {
+          "verse": "15",
+          "text": "Qui démontrent l’œuvre de la loi écrite dans leurs cœurs, leur conscience rendant aussi témoignage, et leurs pensées pendant ce temps les accusent ou les défendent);",
+          "chapter": "2",
+          "name": "Romains 2:15"
+        },
+        {
+          "verse": "16",
+          "text": "Ceci paraîtra au jour auquel Dieu jugera les actions secrètes des hommes, par Jésus-Christ, selon mon évangile.",
+          "chapter": "2",
+          "name": "Romains 2:16"
+        },
+        {
+          "verse": "17",
+          "text": "Voici, tu es appelé Juif, et tu te reposes sur la loi, et te glorifies en Dieu;",
+          "chapter": "2",
+          "name": "Romains 2:17"
+        },
+        {
+          "verse": "18",
+          "text": "Et tu connais sa volonté, et tu approuves les choses qui sont plus excellentes, étant instruit par la loi;",
+          "chapter": "2",
+          "name": "Romains 2:18"
+        },
+        {
+          "verse": "19",
+          "text": "Et tu es sûr de toi pour être le conducteur des aveugles, une lumière de ceux qui sont dans les ténèbres,",
+          "chapter": "2",
+          "name": "Romains 2:19"
+        },
+        {
+          "verse": "20",
+          "text": "Un instructeur des insensés, l’instituteur des bébés, qui a le modèle de la connaissance et de la vérité dans la loi.",
+          "chapter": "2",
+          "name": "Romains 2:20"
+        },
+        {
+          "verse": "21",
+          "text": "Toi donc, qui enseignes les autres, ne t’enseignes-tu pas toi-même? Toi qui prêches de ne pas dérober, dérobes-tu?",
+          "chapter": "2",
+          "name": "Romains 2:21"
+        },
+        {
+          "verse": "22",
+          "text": "Toi qui dis qu’on ne doit pas commettre d’adultère, commets-tu adultère? Toi qui as en abomination les idoles, commets-tu des sacrilèges?",
+          "chapter": "2",
+          "name": "Romains 2:22"
+        },
+        {
+          "verse": "23",
+          "text": "Toi, qui te glorifies de la loi, en transgressant la loi déshonores-tu Dieu?",
+          "chapter": "2",
+          "name": "Romains 2:23"
+        },
+        {
+          "verse": "24",
+          "text": "Car le nom de Dieu est blasphémé à cause de vous parmi les Gentils, comme il est écrit.",
+          "chapter": "2",
+          "name": "Romains 2:24"
+        },
+        {
+          "verse": "25",
+          "text": "Car il est vrai que la circoncision est utile, si tu observes la loi; mais si tu es transgresseur de la loi, ta circoncision est devenue incirconcision.",
+          "chapter": "2",
+          "name": "Romains 2:25"
+        },
+        {
+          "verse": "26",
+          "text": "C’est pourquoi si l’incirconcision garde l’intégrité de la loi, son incirconcision ne sera-t-elle pas comptée pour circoncision?",
+          "chapter": "2",
+          "name": "Romains 2:26"
+        },
+        {
+          "verse": "27",
+          "text": "Et si l’incirconcision qui l’est par nature, accomplit la loi, ne te jugera-t-elle pas, toi qui, par la lettre et la circoncision, transgresse la loi?",
+          "chapter": "2",
+          "name": "Romains 2:27"
+        },
+        {
+          "verse": "28",
+          "text": "Car n’est pas Juif celui qui l’est extérieurement, et n’est pas non plus la circoncision qui est extérieure en la chair;",
+          "chapter": "2",
+          "name": "Romains 2:28"
+        },
+        {
+          "verse": "29",
+          "text": "Mais est Juif celui qui l’est au-dedans, et la circoncision est celle du cœur, en l’esprit, et non dans la lettre; duquel |[Juif]| la louange ne vient pas des hommes, mais de Dieu.",
+          "chapter": "2",
+          "name": "Romains 2:29"
+        }
+      ],
+      "name": "Romains 2"
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Quel est donc l’avantage du Juif? Ou quel est le profit de la circoncision?",
+          "chapter": "3",
+          "name": "Romains 3:1"
+        },
+        {
+          "verse": "2",
+          "text": "Grand en toute manière, principalement parce ce que les oracles de Dieu leur ont été confiés.",
+          "chapter": "3",
+          "name": "Romains 3:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car qu’est-ce, si quelques-uns n’ont pas cru? Leur incrédulité rendra-t-elle la foi de Dieu sans effet?",
+          "chapter": "3",
+          "name": "Romains 3:3"
+        },
+        {
+          "verse": "4",
+          "text": "À Dieu ne plaise que Dieu soit vrai, mais tout homme menteur, comme il est écrit: Afin que tu sois justifié dans tes paroles, et que tu aies gain de cause lorsque tu es jugé.",
+          "chapter": "3",
+          "name": "Romains 3:4"
+        },
+        {
+          "verse": "5",
+          "text": "Mais si notre iniquité approuve la droiture de Dieu, que dirons-nous? Dieu est-il injuste en punissant? (Je parle comme un homme).",
+          "chapter": "3",
+          "name": "Romains 3:5"
+        },
+        {
+          "verse": "6",
+          "text": "À Dieu ne plaise car alors comment Dieu jugera-t-il le monde?",
+          "chapter": "3",
+          "name": "Romains 3:6"
+        },
+        {
+          "verse": "7",
+          "text": "Car si la vérité de Dieu a abondé davantage par mon mensonge pour sa gloire, pourquoi suis-je encore aussi jugé comme pécheur?",
+          "chapter": "3",
+          "name": "Romains 3:7"
+        },
+        {
+          "verse": "8",
+          "text": "Et pas plutôt, (comme nous sommes calomnieusement accusés, et comme certains affirment que nous disons): faisons-du mal, afin qu’arrive le bien? Desquels la condamnation est juste.",
+          "chapter": "3",
+          "name": "Romains 3:8"
+        },
+        {
+          "verse": "9",
+          "text": "Quoi alors? Sommes-nous meilleurs qu’eux? Nullement; car nous avons déjà prouvé que tous, Juifs et Gentils, sont tous sous l’emprise du péché,",
+          "chapter": "3",
+          "name": "Romains 3:9"
+        },
+        {
+          "verse": "10",
+          "text": "Comme il est écrit: il n’y a pas d’[homme]| droit, non pas même un seul.",
+          "chapter": "3",
+          "name": "Romains 3:10"
+        },
+        {
+          "verse": "11",
+          "text": "Il n’y en a personne qui comprenne; il n’y en a aucun qui cherche Dieu.",
+          "chapter": "3",
+          "name": "Romains 3:11"
+        },
+        {
+          "verse": "12",
+          "text": "Tous se sont détournés du chemin, et sont tous ensemble devenus inutiles; il n’y en a aucun qui fasse le bien, non pas même un seul.",
+          "chapter": "3",
+          "name": "Romains 3:12"
+        },
+        {
+          "verse": "13",
+          "text": "Leur gosier est un sépulcre ouvert; ils se sont servis de leurs langues pour tromper; le venin d’aspic est sous leurs lèvres.",
+          "chapter": "3",
+          "name": "Romains 3:13"
+        },
+        {
+          "verse": "14",
+          "text": "Leur bouche est pleine de malédiction et d’amertume.",
+          "chapter": "3",
+          "name": "Romains 3:14"
+        },
+        {
+          "verse": "15",
+          "text": "Leurs pieds sont rapides pour verser le sang.",
+          "chapter": "3",
+          "name": "Romains 3:15"
+        },
+        {
+          "verse": "16",
+          "text": "La destruction et la misère sont dans leurs chemins.",
+          "chapter": "3",
+          "name": "Romains 3:16"
+        },
+        {
+          "verse": "17",
+          "text": "Et ils n’ont pas connu le chemin de la paix.",
+          "chapter": "3",
+          "name": "Romains 3:17"
+        },
+        {
+          "verse": "18",
+          "text": "La crainte de Dieu n’est pas devant leurs yeux.",
+          "chapter": "3",
+          "name": "Romains 3:18"
+        },
+        {
+          "verse": "19",
+          "text": "Or nous savons que tout ce que la loi dit, elle le dit à ceux qui sont sous la loi, afin que toute bouche soit fermée, et que tout le monde devienne coupable devant Dieu.",
+          "chapter": "3",
+          "name": "Romains 3:19"
+        },
+        {
+          "verse": "20",
+          "text": "C’est pourquoi nulle chair ne sera justifiée devant lui par les œuvres de la loi; car par la loi est donnée la connaissance du péché.",
+          "chapter": "3",
+          "name": "Romains 3:20"
+        },
+        {
+          "verse": "21",
+          "text": "Mais maintenant, la droiture de Dieu sans la loi est manifestée, la loi et les prophètes lui rendant témoignage;",
+          "chapter": "3",
+          "name": "Romains 3:21"
+        },
+        {
+          "verse": "22",
+          "text": "La droiture de Dieu, dis-je, qui est par la foi de Jésus-Christ pour tous ceux et sur tous ceux qui croient; car il n’y a pas de différence.",
+          "chapter": "3",
+          "name": "Romains 3:22"
+        },
+        {
+          "verse": "23",
+          "text": "Car tous ont péché, et n’atteignent pas la gloire de Dieu,",
+          "chapter": "3",
+          "name": "Romains 3:23"
+        },
+        {
+          "verse": "24",
+          "text": "Étant justifiés gratuitement par sa grâce, par la rédemption qui est en Christ Jésus,",
+          "chapter": "3",
+          "name": "Romains 3:24"
+        },
+        {
+          "verse": "25",
+          "text": "Lequel Dieu a établi pour être une propitiation par la foi en son sang, afin de déclarer sa droiture pour la rémission des péchés, commis auparavant, selon la patience de Dieu;",
+          "chapter": "3",
+          "name": "Romains 3:25"
+        },
+        {
+          "verse": "26",
+          "text": "Pour déclarer, dis-je, maintenant sa droiture, afin qu’il soit reconnu juste, et justifiant celui qui croit en Jésus.",
+          "chapter": "3",
+          "name": "Romains 3:26"
+        },
+        {
+          "verse": "27",
+          "text": "Où est donc la vantardise? Elle est exclue. Par quelle loi? Celle des œuvres? Non, mais par la loi de la foi.",
+          "chapter": "3",
+          "name": "Romains 3:27"
+        },
+        {
+          "verse": "28",
+          "text": "C’est pourquoi nous concluons qu’un homme est justifié par la foi, sans les œuvres de la loi.",
+          "chapter": "3",
+          "name": "Romains 3:28"
+        },
+        {
+          "verse": "29",
+          "text": "Dieu est-il seulement le Dieu des Juifs? Ne l’est-il pas aussi des Gentils? Oui, des Gentils aussi;",
+          "chapter": "3",
+          "name": "Romains 3:29"
+        },
+        {
+          "verse": "30",
+          "text": "Car il y a un seul Dieu, qui justifiera la circoncision par la foi, et l’incirconcision par la foi.",
+          "chapter": "3",
+          "name": "Romains 3:30"
+        },
+        {
+          "verse": "31",
+          "text": "Annulons-nous donc la loi par la foi? À Dieu ne plaise oui, nous établissons la loi.",
+          "chapter": "3",
+          "name": "Romains 3:31"
+        }
+      ],
+      "name": "Romains 3"
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Que dirons-nous donc qu’Abraham, notre père, a trouvé selon la chair?",
+          "chapter": "4",
+          "name": "Romains 4:1"
+        },
+        {
+          "verse": "2",
+          "text": "Car si Abraham a été justifié par les œuvres, il a de quoi se glorifier, mais pas devant Dieu.",
+          "chapter": "4",
+          "name": "Romains 4:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car que dit l’écriture? Abraham crut Dieu, et cela lui fut compté comme droiture.",
+          "chapter": "4",
+          "name": "Romains 4:3"
+        },
+        {
+          "verse": "4",
+          "text": "Or à celui qui fait des œuvres, la récompense n’est pas comptée comme une grâce, mais comme une dette.",
+          "chapter": "4",
+          "name": "Romains 4:4"
+        },
+        {
+          "verse": "5",
+          "text": "Mais à celui qui ne travaille pas, mais qui croit en celui qui justifie l’impie, sa foi lui est comptée pour droiture.",
+          "chapter": "4",
+          "name": "Romains 4:5"
+        },
+        {
+          "verse": "6",
+          "text": "Comme aussi David décrit la béatitude de l’homme à qui Dieu impute la droiture sans les œuvres.",
+          "chapter": "4",
+          "name": "Romains 4:6"
+        },
+        {
+          "verse": "7",
+          "text": "Disant: heureux ceux dont les iniquités sont pardonnées, et dont les péchés sont couverts.",
+          "chapter": "4",
+          "name": "Romains 4:7"
+        },
+        {
+          "verse": "8",
+          "text": "Heureux l’homme à qui le Seigneur n’imputera pas le péché.",
+          "chapter": "4",
+          "name": "Romains 4:8"
+        },
+        {
+          "verse": "9",
+          "text": "Ce bonheur donc, vient-il seulement sur la circoncision? Ou sur l’incirconcision aussi? Car nous disons que la foi fut comptée à Abraham pour droiture.",
+          "chapter": "4",
+          "name": "Romains 4:9"
+        },
+        {
+          "verse": "10",
+          "text": "Comment donc a-t-elle été comptée? Lorsqu’il était dans la circoncision, ou dans l’incirconcision? Non dans la circoncision, mais dans l’incirconcision.",
+          "chapter": "4",
+          "name": "Romains 4:10"
+        },
+        {
+          "verse": "11",
+          "text": "Et il reçut le signe de la circoncision, comme un sceau de la droiture de la foi qu’il avait eue, bien qu’étant incirconcis; afin qu’il puisse être le père de tous ceux qui croient bien qu’ils ne soient pas circoncis; afin que la droiture puisse leur être aussi imputée;",
+          "chapter": "4",
+          "name": "Romains 4:11"
+        },
+        {
+          "verse": "12",
+          "text": "Et qu’il soit le père de circoncision pour ceux qui ne sont pas seulement de la circoncision mais qui aussi marchent sur les traces de la foi notre père Abraham, laquelle il a eue étant encore incirconcis.",
+          "chapter": "4",
+          "name": "Romains 4:12"
+        },
+        {
+          "verse": "13",
+          "text": "Car la promesse d’être héritier du monde, n’a pas |[été faite]| à Abraham ou à sa semence, par la loi, mais par la droiture de |[la]| foi;",
+          "chapter": "4",
+          "name": "Romains 4:13"
+        },
+        {
+          "verse": "14",
+          "text": "Car si ceux qui sont de la loi sont les héritiers, la foi est annulée, et la promesse est sans effet.",
+          "chapter": "4",
+          "name": "Romains 4:14"
+        },
+        {
+          "verse": "15",
+          "text": "Car la loi produit la colère; car où il n’y a pas de loi, il n’y a pas de transgression.",
+          "chapter": "4",
+          "name": "Romains 4:15"
+        },
+        {
+          "verse": "16",
+          "text": "C’est donc de la foi, afin que ce soit par grâce, que la promesse soit assurée à toute la semence, non seulement à celle qui est de la loi, mais aussi à celle qui est de la foi d’Abraham, qui est le père de nous tous,",
+          "chapter": "4",
+          "name": "Romains 4:16"
+        },
+        {
+          "verse": "17",
+          "text": "(Comme il est écrit: Je t’ai établi pour être père de beaucoup de nations), devant celui auquel il a cru, Dieu lui-même, qui vivifie les morts, et appelle les choses qui ne sont pas, comme si elles étaient.",
+          "chapter": "4",
+          "name": "Romains 4:17"
+        },
+        {
+          "verse": "18",
+          "text": "Qui contre toute espérance, crut avec espérance qu’il deviendrait le père de beaucoup de nations, selon ce qui avait été dit: ainsi sera ta semence.",
+          "chapter": "4",
+          "name": "Romains 4:18"
+        },
+        {
+          "verse": "19",
+          "text": "Et n’étant pas faible dans la foi, il ne considéra pas |[que]| son corps |[était]| déjà mort, vu qu’il avait environ cent ans; ni à l’état de mort de l’utérus de Sara",
+          "chapter": "4",
+          "name": "Romains 4:19"
+        },
+        {
+          "verse": "20",
+          "text": "Il n’hésita pas à |[l’égard de]| la promesse de Dieu par incrédulité, mais il fut fortifié dans la foi, donnant gloire à Dieu,",
+          "chapter": "4",
+          "name": "Romains 4:20"
+        },
+        {
+          "verse": "21",
+          "text": "Et étant pleinement persuadé que ce qu’il avait promis, il était aussi capable de l’accomplir.",
+          "chapter": "4",
+          "name": "Romains 4:21"
+        },
+        {
+          "verse": "22",
+          "text": "Et c’est pourquoi cela lui fut imputé pour droiture.",
+          "chapter": "4",
+          "name": "Romains 4:22"
+        },
+        {
+          "verse": "23",
+          "text": "Or ce n’était pas écrit seulement pour lui, que cela lui fut imputé;",
+          "chapter": "4",
+          "name": "Romains 4:23"
+        },
+        {
+          "verse": "24",
+          "text": "Mais pour nous aussi, à qui cela sera imputé, si nous croyons en celui qui a ressuscité des morts Jésus notre Seigneur,",
+          "chapter": "4",
+          "name": "Romains 4:24"
+        },
+        {
+          "verse": "25",
+          "text": "Lequel a été livré pour nos offenses, et a été ressuscité pour notre justification.",
+          "chapter": "4",
+          "name": "Romains 4:25"
+        }
+      ],
+      "name": "Romains 4"
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "C’est pourquoi étant justifiés par la foi, nous avons la paix avec Dieu, par notre Seigneur Jésus-Christ,",
+          "chapter": "5",
+          "name": "Romains 5:1"
+        },
+        {
+          "verse": "2",
+          "text": "Par lequel nous avons aussi accès par la foi à cette grâce dans laquelle nous nous tenons |[fermes], et nous nous réjouissons dans l’espérance de la gloire de Dieu.",
+          "chapter": "5",
+          "name": "Romains 5:2"
+        },
+        {
+          "verse": "3",
+          "text": "Et non seulement en cela, mais nous nous glorifions aussi dans les tribulations, sachant que la tribulation produit la patience,",
+          "chapter": "5",
+          "name": "Romains 5:3"
+        },
+        {
+          "verse": "4",
+          "text": "Et la patience, l’expérience, et l’expérience, l’espérance.",
+          "chapter": "5",
+          "name": "Romains 5:4"
+        },
+        {
+          "verse": "5",
+          "text": "Et l’espérance ne rend pas honteux, parce que l’amour de Dieu est versé dans nos cœurs par l’Esprit-Saint qui nous est donné.",
+          "chapter": "5",
+          "name": "Romains 5:5"
+        },
+        {
+          "verse": "6",
+          "text": "Car lorsque nous étions encore sans force, au temps marqué, Christ est mort pour des impies.",
+          "chapter": "5",
+          "name": "Romains 5:6"
+        },
+        {
+          "verse": "7",
+          "text": "Car à peine quelqu’un mourra-t-il pour un homme droit; néanmoins peut-être quelqu’un aurait le courage de mourir pour un homme de bien.",
+          "chapter": "5",
+          "name": "Romains 5:7"
+        },
+        {
+          "verse": "8",
+          "text": "Mais Dieu fait valoir son amour envers nous, en ce que, lorsque nous étions encore pécheurs, Christ est mort pour nous.",
+          "chapter": "5",
+          "name": "Romains 5:8"
+        },
+        {
+          "verse": "9",
+          "text": "Combien plus donc, étant maintenant justifiés par son sang, serons-nous sauvés de la colère par lui.",
+          "chapter": "5",
+          "name": "Romains 5:9"
+        },
+        {
+          "verse": "10",
+          "text": "Car si, lorsque nous étions ennemis, nous avons été réconciliés avec Dieu par la mort de son Fils, à plus forte raison, étant réconciliés, serons-nous sauvés par sa vie.",
+          "chapter": "5",
+          "name": "Romains 5:10"
+        },
+        {
+          "verse": "11",
+          "text": "Et non seulement cela, mais nous nous glorifions aussi en Dieu par notre Seigneur Jésus-Christ, par lequel nous avons maintenant reçu l’expiation.",
+          "chapter": "5",
+          "name": "Romains 5:11"
+        },
+        {
+          "verse": "12",
+          "text": "C’est pourquoi, comme par un seul homme le péché est entré dans le monde, et la mort par le péché, et ainsi la mort a passé sur tous les hommes, parce que tous ont péché.",
+          "chapter": "5",
+          "name": "Romains 5:12"
+        },
+        {
+          "verse": "13",
+          "text": "(Car jusqu’à la loi le péché était dans le monde; mais le péché n’est pas imputé quand il n’y a pas de loi.",
+          "chapter": "5",
+          "name": "Romains 5:13"
+        },
+        {
+          "verse": "14",
+          "text": "Néanmoins la mort a régné depuis Adam jusqu’à Moïse, même sur ceux qui n’avaient pas péché par une transgression semblable à celle d’Adam, qui est la figure de celui qui devait venir.",
+          "chapter": "5",
+          "name": "Romains 5:14"
+        },
+        {
+          "verse": "15",
+          "text": "Mais il n’en est pas du don gratuit comme de l’offense. Car si par l’offense d’un seul beaucoup sont morts, à plus forte raison la grâce de Dieu, et le don par grâce qui est d’un seul homme, Jésus-Christ, a abondé sur beaucoup.",
+          "chapter": "5",
+          "name": "Romains 5:15"
+        },
+        {
+          "verse": "16",
+          "text": "Et le don n’était pas comme par un seul qui a péché, car le jugement d’un seul amenait à la condamnation; mais le don gratuit après beaucoup d’offenses conduit à la justification.",
+          "chapter": "5",
+          "name": "Romains 5:16"
+        },
+        {
+          "verse": "17",
+          "text": "Car, si par l’offense d’un seul la mort a régné par un seul homme, à plus forte raison ceux qui reçoivent l’abondance de la grâce et du don de droiture, régneront-ils dans la vie par un seul, Jésus-Christ).",
+          "chapter": "5",
+          "name": "Romains 5:17"
+        },
+        {
+          "verse": "18",
+          "text": "C’est pourquoi comme par l’offense d’un seul le jugement à la condamnation est venu sur tous les hommes, de même par la droiture d’un seul le don gratuit est venu sur tous les hommes en justification de vie.",
+          "chapter": "5",
+          "name": "Romains 5:18"
+        },
+        {
+          "verse": "19",
+          "text": "Car comme par la désobéissance d’un seul homme beaucoup ont été rendus pécheurs, ainsi par l’obéissance d’un seul beaucoup seront rendus droits.",
+          "chapter": "5",
+          "name": "Romains 5:19"
+        },
+        {
+          "verse": "20",
+          "text": "De plus la loi est intervenue pour que l’offense abonde. Mais où le péché a abondé, la grâce a encore plus abondé,",
+          "chapter": "5",
+          "name": "Romains 5:20"
+        },
+        {
+          "verse": "21",
+          "text": "Afin que, comme le péché a régné par la mort, ainsi la grâce puisse régner par la droiture jusqu’à la vie éternelle, par Jésus-Christ notre Seigneur.",
+          "chapter": "5",
+          "name": "Romains 5:21"
+        }
+      ],
+      "name": "Romains 5"
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Que dirons-nous donc? Continuerons-nous dans le péché, afin que la grâce puisse abonder?",
+          "chapter": "6",
+          "name": "Romains 6:1"
+        },
+        {
+          "verse": "2",
+          "text": "À Dieu ne plaise. Nous qui sommes morts au péché, comment vivrions-nous encore en lui?",
+          "chapter": "6",
+          "name": "Romains 6:2"
+        },
+        {
+          "verse": "3",
+          "text": "Ne savez-vous pas que nous tous qui avons été baptisés en Jésus-Christ, nous avons été baptisés en sa mort?",
+          "chapter": "6",
+          "name": "Romains 6:3"
+        },
+        {
+          "verse": "4",
+          "text": "C’est pourquoi nous sommes ensevelis avec lui par le baptême en la mort, afin que, comme Christ a été ressuscité des morts par la gloire du Père, de même nous devrions marcher, nous aussi, en nouveauté de vie.",
+          "chapter": "6",
+          "name": "Romains 6:4"
+        },
+        {
+          "verse": "5",
+          "text": "Car si nous avons été faits une même plante avec lui dans la ressemblance de sa mort, nous le serons aussi dans la ressemblance de sa résurrection;",
+          "chapter": "6",
+          "name": "Romains 6:5"
+        },
+        {
+          "verse": "6",
+          "text": "Sachant que notre vieil homme est crucifié avec lui, afin que le corps du péché puisse être détruit, pour qu’à l’avenir nous ne servions plus le péché.",
+          "chapter": "6",
+          "name": "Romains 6:6"
+        },
+        {
+          "verse": "7",
+          "text": "Car celui qui est mort, est libéré du péché.",
+          "chapter": "6",
+          "name": "Romains 6:7"
+        },
+        {
+          "verse": "8",
+          "text": "Or si nous sommes morts avec Christ, nous croyons que nous vivrons aussi avec lui,",
+          "chapter": "6",
+          "name": "Romains 6:8"
+        },
+        {
+          "verse": "9",
+          "text": "Sachant que Christ étant ressuscité des morts ne meurt plus, la mort ne domine plus sur lui.",
+          "chapter": "6",
+          "name": "Romains 6:9"
+        },
+        {
+          "verse": "10",
+          "text": "Car puisqu’il est mort, il est mort une fois pour toutes au péché; mais puisqu’il vit, il vit pour Dieu.",
+          "chapter": "6",
+          "name": "Romains 6:10"
+        },
+        {
+          "verse": "11",
+          "text": "De même considérez-vous, vous aussi, comme vraiment morts au péché, mais vivants à Dieu en Jésus-Christ notre Seigneur.",
+          "chapter": "6",
+          "name": "Romains 6:11"
+        },
+        {
+          "verse": "12",
+          "text": "C’est pourquoi ne laissez pas le péché régner dans votre corps mortel, afin que vous obéissiez à ses convoitises;",
+          "chapter": "6",
+          "name": "Romains 6:12"
+        },
+        {
+          "verse": "13",
+          "text": "Ne cédez pas non plus vos membres au péché, pour être des instruments d’iniquité; mais soumettez-vous à Dieu, comme des vivants ressuscités des morts, et vos membres, comme instruments de droiture à Dieu.",
+          "chapter": "6",
+          "name": "Romains 6:13"
+        },
+        {
+          "verse": "14",
+          "text": "Car le péché ne dominera pas sur vous, parce que vous n’êtes pas sous la loi, mais sous la grâce.",
+          "chapter": "6",
+          "name": "Romains 6:14"
+        },
+        {
+          "verse": "15",
+          "text": "Quoi donc, pécherons-nous, parce que nous ne sommes pas sous la loi, mais sous la grâce? À Dieu ne plaise.",
+          "chapter": "6",
+          "name": "Romains 6:15"
+        },
+        {
+          "verse": "16",
+          "text": "Ne savez-vous pas que si vous vous asservissez à quelqu’un pour lui obéir, vous êtes asservi à celui à qui vous obéissez; soit du péché pour la mort, soit de l’obéissance pour la droiture?",
+          "chapter": "6",
+          "name": "Romains 6:16"
+        },
+        {
+          "verse": "17",
+          "text": "Mais grâces à Dieu, de ce que vous étiez asservis au péché, mais vous avez obéi de cœur à la forme de doctrine qui vous a été donnée.",
+          "chapter": "6",
+          "name": "Romains 6:17"
+        },
+        {
+          "verse": "18",
+          "text": "Étant donc libérés du péché, vous êtes devenus asservis à la droiture.",
+          "chapter": "6",
+          "name": "Romains 6:18"
+        },
+        {
+          "verse": "19",
+          "text": "Je parle à la manière des hommes, à cause de l’infirmité de votre chair. De même vous avez soumis vos membres à l’impureté et à l’iniquité pour l’iniquité, donc maintenant soumettez vos membres pour servir la droiture en sainteté.",
+          "chapter": "6",
+          "name": "Romains 6:19"
+        },
+        {
+          "verse": "20",
+          "text": "Car lorsque vous étiez les serviteurs du péché, vous étiez libres à l’égard de la droiture.",
+          "chapter": "6",
+          "name": "Romains 6:20"
+        },
+        {
+          "verse": "21",
+          "text": "Quel fruit retiriez-vous donc alors des choses dont vous avez maintenant honte? Car la fin de ces choses est la mort.",
+          "chapter": "6",
+          "name": "Romains 6:21"
+        },
+        {
+          "verse": "22",
+          "text": "Mais maintenant étant libérés du péché et devenus serviteurs de Dieu, vous en retirez pour fruit la sainteté, et pour fin la vie éternelle.",
+          "chapter": "6",
+          "name": "Romains 6:22"
+        },
+        {
+          "verse": "23",
+          "text": "Car le salaire du péché, c’est la mort; mais le don de Dieu, c’est la vie éternelle en Jésus-Christ notre Seigneur.",
+          "chapter": "6",
+          "name": "Romains 6:23"
+        }
+      ],
+      "name": "Romains 6"
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ne savez-vous pas, frères, (car je parle à des personnes qui connaissent la loi), que la loi n’a de pouvoir sur l’homme que pendant qu’il est en vie?",
+          "chapter": "7",
+          "name": "Romains 7:1"
+        },
+        {
+          "verse": "2",
+          "text": "Car la femme qui est mariée, est liée par la loi à son mari, tant qu’il est vivant; mais si le mari meurt, elle est dégagée de la loi du mari.",
+          "chapter": "7",
+          "name": "Romains 7:2"
+        },
+        {
+          "verse": "3",
+          "text": "Si donc, durant la vie de son mari, elle épouse un autre homme, elle sera appelée adultère; mais si son mari meurt, elle est libérée de la loi, de sorte qu’elle n’est pas adultère, si elle épouse un autre homme.",
+          "chapter": "7",
+          "name": "Romains 7:3"
+        },
+        {
+          "verse": "4",
+          "text": "C’est pourquoi, vous aussi, mes frères, vous devenez morts à la loi par le corps de Christ, pour être marié à un autre, savoir, à celui qui est ressuscité des morts, afin que nous portions du fruit pour Dieu.",
+          "chapter": "7",
+          "name": "Romains 7:4"
+        },
+        {
+          "verse": "5",
+          "text": "Car lorsque nous étions dans la chair, les passions des péchés, lesquelles étaient par la loi, agissaient dans nos membres, de manière à produire du fruit pour la mort.",
+          "chapter": "7",
+          "name": "Romains 7:5"
+        },
+        {
+          "verse": "6",
+          "text": "Mais maintenant nous sommes délivrés de la loi, |[la loi]| par quelle nous étions retenus étant morte, afin que nous servons Dieu en nouveauté d’esprit, et non selon l’ancienneté de la lettre.",
+          "chapter": "7",
+          "name": "Romains 7:6"
+        },
+        {
+          "verse": "7",
+          "text": "Que dirons-nous donc? La loi est-elle péché? À Dieu ne plaise. Non, je n’ai connu le péché que par la loi; car je n’aurais pas connu la convoitise, si la loi ne disait: tu ne convoiteras pas.",
+          "chapter": "7",
+          "name": "Romains 7:7"
+        },
+        {
+          "verse": "8",
+          "text": "Mais le péché, prenant occasion du commandement, a produit en moi toute sorte de convoitises. Car sans loi, le péché est mort.",
+          "chapter": "7",
+          "name": "Romains 7:8"
+        },
+        {
+          "verse": "9",
+          "text": "Car autrefois sans loi, je vivais; mais quand le commandement est venu, le péché a repris vie, et je suis mort.",
+          "chapter": "7",
+          "name": "Romains 7:9"
+        },
+        {
+          "verse": "10",
+          "text": "Et il s’est trouvé que le commandement, qui devait me donner la vie, m’a donné la mort.",
+          "chapter": "7",
+          "name": "Romains 7:10"
+        },
+        {
+          "verse": "11",
+          "text": "Car le péché, trouvant occasion par le commandement m’a trompé, et par lui me tua.",
+          "chapter": "7",
+          "name": "Romains 7:11"
+        },
+        {
+          "verse": "12",
+          "text": "C’est pourquoi la loi est sainte, et le commandement est saint, juste et bon.",
+          "chapter": "7",
+          "name": "Romains 7:12"
+        },
+        {
+          "verse": "13",
+          "text": "Ce qui est bon m’a-t-il donc donné la mort? À Dieu ne plaise. Mais le péché, afin qu’il puisse paraître péché, en me donnant la mort par ce qui est bon, afin que le péché devînt excessivement pécheur par le commandement.",
+          "chapter": "7",
+          "name": "Romains 7:13"
+        },
+        {
+          "verse": "14",
+          "text": "Car nous savons que la loi est spirituelle; mais moi je suis charnel, vendu au péché.",
+          "chapter": "7",
+          "name": "Romains 7:14"
+        },
+        {
+          "verse": "15",
+          "text": "Car ce que je fais je n’approuve pas, ce que je veux, je ne |[le]| fais pas, mais ce que je hais, je |[le]fais.",
+          "chapter": "7",
+          "name": "Romains 7:15"
+        },
+        {
+          "verse": "16",
+          "text": "Si donc je fais ce que je ne veux pas, je reconnais par là que la loi est bonne.",
+          "chapter": "7",
+          "name": "Romains 7:16"
+        },
+        {
+          "verse": "17",
+          "text": "Et maintenant ce n’est plus moi qui le fais, mais c’est le péché qui habite en moi.",
+          "chapter": "7",
+          "name": "Romains 7:17"
+        },
+        {
+          "verse": "18",
+          "text": "Car je sais qu’en moi (c’est-à-dire, dans ma chair), n’habite rien de bien car le vouloir est présent en moi, mais je ne trouve pas comment accomplir ce qui est bien.",
+          "chapter": "7",
+          "name": "Romains 7:18"
+        },
+        {
+          "verse": "19",
+          "text": "Car le bien que je veux |[faire]| je ne fais pas; mais le mal que je ne veux pas faire, je |[le]| fais.",
+          "chapter": "7",
+          "name": "Romains 7:19"
+        },
+        {
+          "verse": "20",
+          "text": "Or si je fais ce que je ne veux pas, ce n’est plus moi qui le fais, mais c’est le péché qui habite en moi.",
+          "chapter": "7",
+          "name": "Romains 7:20"
+        },
+        {
+          "verse": "21",
+          "text": "Je trouve alors une loi qui lorsque je veux faire le bien, le mal est présent en moi.",
+          "chapter": "7",
+          "name": "Romains 7:21"
+        },
+        {
+          "verse": "22",
+          "text": "Car je prends plaisir à la loi de Dieu, selon l’homme intérieur;",
+          "chapter": "7",
+          "name": "Romains 7:22"
+        },
+        {
+          "verse": "23",
+          "text": "Mais je vois une autre loi dans mes membres, qui combat contre la loi de mon intelligence et qui me rend captif sous la loi du péché, qui est dans mes membres.",
+          "chapter": "7",
+          "name": "Romains 7:23"
+        },
+        {
+          "verse": "24",
+          "text": "Ô misérable homme que je suis! qui me délivrera du corps de cette mort?",
+          "chapter": "7",
+          "name": "Romains 7:24"
+        },
+        {
+          "verse": "25",
+          "text": "Je rends grâces à Dieu par Jésus-Christ notre Seigneur. Ainsi donc avec intelligence je sers la loi de Dieu, mais avec la chair la loi du péché.",
+          "chapter": "7",
+          "name": "Romains 7:25"
+        }
+      ],
+      "name": "Romains 7"
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Il n’y a donc maintenant aucune condamnation pour ceux qui sont en Christ Jésus, qui marchent, non selon la chair, mais selon l’Esprit;",
+          "chapter": "8",
+          "name": "Romains 8:1"
+        },
+        {
+          "verse": "2",
+          "text": "Car la loi de l’Esprit de vie en Christ Jésus, m’a libéré de la loi du péché et de la mort.",
+          "chapter": "8",
+          "name": "Romains 8:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car ce que la loi ne pouvait faire, en ce qu’elle était affaiblie par la chair, Dieu l’a fait envoyant son propre Fils dans une chair ressemblant à la chair de péché, et pour le péché, il a condamné le péché dans la chair;",
+          "chapter": "8",
+          "name": "Romains 8:3"
+        },
+        {
+          "verse": "4",
+          "text": "Afin que la droiture de la loi soit accomplie en nous, qui ne marchons pas, selon la chair, mais selon l’Esprit.",
+          "chapter": "8",
+          "name": "Romains 8:4"
+        },
+        {
+          "verse": "5",
+          "text": "Car ceux qui sont selon la chair obéissent aux choses de la chair; mais ceux qui sont selon l’Esprit, obéissent aux choses de l’Esprit.",
+          "chapter": "8",
+          "name": "Romains 8:5"
+        },
+        {
+          "verse": "6",
+          "text": "Car la manière de penser de la chair c’est la mort; mais la manière de penser spirituellement c’est vie et paix;",
+          "chapter": "8",
+          "name": "Romains 8:6"
+        },
+        {
+          "verse": "7",
+          "text": "Parce que la pensée de la chair est inimitié contre Dieu; car elle ne se soumet pas à la loi de Dieu; et en effet, elle ne le peut.",
+          "chapter": "8",
+          "name": "Romains 8:7"
+        },
+        {
+          "verse": "8",
+          "text": "Alors ceux qui sont dans la chair ne peuvent plaire à Dieu.",
+          "chapter": "8",
+          "name": "Romains 8:8"
+        },
+        {
+          "verse": "9",
+          "text": "Mais vous n’êtes pas dans la chair, mais dans l’Esprit, s’il est vrai que l’Esprit de Dieu habite en vous. Mais si quelqu’un n’a pas l’Esprit de Christ, il ne lui appartient pas.",
+          "chapter": "8",
+          "name": "Romains 8:9"
+        },
+        {
+          "verse": "10",
+          "text": "Mais si Christ est en vous, le corps est bien mort à cause du péché, mais l’Esprit est vie à cause de la droiture.",
+          "chapter": "8",
+          "name": "Romains 8:10"
+        },
+        {
+          "verse": "11",
+          "text": "Mais si l’Esprit de celui qui a ressuscité Jésus des morts habite en vous, celui qui a ressuscité Christ d’entre les morts vivifiera aussi vos corps mortels, par son Esprit qui habite en vous.",
+          "chapter": "8",
+          "name": "Romains 8:11"
+        },
+        {
+          "verse": "12",
+          "text": "Ainsi donc, frères, nous sommes redevables non à la chair, pour vivre selon la chair.",
+          "chapter": "8",
+          "name": "Romains 8:12"
+        },
+        {
+          "verse": "13",
+          "text": "Car si vous vivez selon la chair, vous mourrez; mais si, par l’Esprit, vous faites mourir les œuvres du corps, vous vivrez.",
+          "chapter": "8",
+          "name": "Romains 8:13"
+        },
+        {
+          "verse": "14",
+          "text": "Car tous ceux qui sont conduits par l’Esprit de Dieu, sont fils de Dieu.",
+          "chapter": "8",
+          "name": "Romains 8:14"
+        },
+        {
+          "verse": "15",
+          "text": "Car vous n’avez pas reçu l’esprit de servitude, pour être encore dans la crainte; mais vous avez reçu l’Esprit d’adoption, par lequel nous crions: Abba, Père.",
+          "chapter": "8",
+          "name": "Romains 8:15"
+        },
+        {
+          "verse": "16",
+          "text": "L’Esprit lui-même rend témoignage à notre esprit, que nous sommes les enfants de Dieu.",
+          "chapter": "8",
+          "name": "Romains 8:16"
+        },
+        {
+          "verse": "17",
+          "text": "Et si nous sommes enfants, alors nous sommes héritiers de Dieu, et cohéritiers avec Christ; si toutefois nous souffrons avec lui, afin que nous soyons aussi glorifiés ensemble.",
+          "chapter": "8",
+          "name": "Romains 8:17"
+        },
+        {
+          "verse": "18",
+          "text": "Car j’estime que les souffrances du temps présent ne sont pas dignes d’être comparées avec la gloire qui sera manifestée en nous.",
+          "chapter": "8",
+          "name": "Romains 8:18"
+        },
+        {
+          "verse": "19",
+          "text": "Car la fervente espérance de la créature attend pour la révélation des fils de Dieu.",
+          "chapter": "8",
+          "name": "Romains 8:19"
+        },
+        {
+          "verse": "20",
+          "text": "Car la créature a été assujettie à la vanité, non pas volontairement, mais à cause de celui qui l’a assujettie dans l’espérance,",
+          "chapter": "8",
+          "name": "Romains 8:20"
+        },
+        {
+          "verse": "21",
+          "text": "Parce que la créature elle-même sera aussi délivrée de la servitude de la corruption, pour être dans la liberté glorieuse des enfants de Dieu.",
+          "chapter": "8",
+          "name": "Romains 8:21"
+        },
+        {
+          "verse": "22",
+          "text": "Car nous savons que toute la création ensemble soupire et travaille en douleur jusqu’à maintenant.",
+          "chapter": "8",
+          "name": "Romains 8:22"
+        },
+        {
+          "verse": "23",
+          "text": "Et non seulement elle, mais nous aussi qui avons les prémices de l’Esprit, nous soupirons en nous-mêmes, en attendant l’adoption, c’est-à-dire, la rédemption de notre corps.",
+          "chapter": "8",
+          "name": "Romains 8:23"
+        },
+        {
+          "verse": "24",
+          "text": "Car nous sommes sauvés par l’espérance mais l’espérance que l’on voit n’est plus espérance; car ce que quelqu’un voit, pourquoi l’espère-t-il encore?",
+          "chapter": "8",
+          "name": "Romains 8:24"
+        },
+        {
+          "verse": "25",
+          "text": "Mais si nous espérons ce que nous ne voyons pas, alors nous l’attendons avec patience.",
+          "chapter": "8",
+          "name": "Romains 8:25"
+        },
+        {
+          "verse": "26",
+          "text": "De même l’Esprit aussi nous aide dans nos faiblesses; car nous ne savons pas comme il faut ce que nous devrions prier; mais l’Esprit lui-même intercède pour nous par des soupirs qui ne peuvent être exprimés.",
+          "chapter": "8",
+          "name": "Romains 8:26"
+        },
+        {
+          "verse": "27",
+          "text": "Et celui qui sonde les cœurs connaît quelle est la pensée de l’Esprit, parce qu’il intercède pour les saints selon la volonté de Dieu.",
+          "chapter": "8",
+          "name": "Romains 8:27"
+        },
+        {
+          "verse": "28",
+          "text": "Et nous savons que toutes choses travaillent ensemble au bien de ceux qui aiment Dieu, de ceux qui sont appelés selon son dessein.",
+          "chapter": "8",
+          "name": "Romains 8:28"
+        },
+        {
+          "verse": "29",
+          "text": "Car ceux qu’il a connus d’avance, il les a aussi prédestinés à être conformes à l’image de son Fils, afin que celui-ci soit le premier-né parmi beaucoup de frères.",
+          "chapter": "8",
+          "name": "Romains 8:29"
+        },
+        {
+          "verse": "30",
+          "text": "Parmi ceux qu’il a prédestinés, il les a aussi appelés; et ceux qu’il a appelés, il les a aussi justifiés; et ceux qu’il a justifiés, il les a aussi glorifiés.",
+          "chapter": "8",
+          "name": "Romains 8:30"
+        },
+        {
+          "verse": "31",
+          "text": "Que dirons-nous donc à ces choses? Si Dieu est pour nous, qui peut-être contre nous?",
+          "chapter": "8",
+          "name": "Romains 8:31"
+        },
+        {
+          "verse": "32",
+          "text": "Lui, qui n’a pas épargné son propre Fils, mais qui l’a livré pour nous tous, comment ne nous donnera-t-il pas avec lui aussi toutes choses librement?",
+          "chapter": "8",
+          "name": "Romains 8:32"
+        },
+        {
+          "verse": "33",
+          "text": "Qui portera une quelconque accusation contre les élus de Dieu? C’est Dieu qui justifie.",
+          "chapter": "8",
+          "name": "Romains 8:33"
+        },
+        {
+          "verse": "34",
+          "text": "Qui est celui qui condamne? C’est Christ qui est mort, oui plutôt qui est ressuscité, qui est même à la droite de Dieu, et qui aussi intercède pour nous.",
+          "chapter": "8",
+          "name": "Romains 8:34"
+        },
+        {
+          "verse": "35",
+          "text": "Qui nous séparera de l’amour de Christ? Sera-ce la tribulation, ou la détresse, ou la persécution, ou la famine, ou la nudité, ou le péril, ou l’épée?",
+          "chapter": "8",
+          "name": "Romains 8:35"
+        },
+        {
+          "verse": "36",
+          "text": "Selon qu’il est écrit: pour l’amour de toi nous sommes tués tous les jours; nous sommes regardés comme des brebis |[destinées]| à la boucherie.",
+          "chapter": "8",
+          "name": "Romains 8:36"
+        },
+        {
+          "verse": "37",
+          "text": "Au contraire, dans toutes ces choses nous sommes plus que vainqueurs par celui qui nous a aimés.",
+          "chapter": "8",
+          "name": "Romains 8:37"
+        },
+        {
+          "verse": "38",
+          "text": "Car je suis persuadé que ni mort, ni vie, ni anges, ni principautés, ni puissances, ni choses présentes, ni choses à venir,",
+          "chapter": "8",
+          "name": "Romains 8:38"
+        },
+        {
+          "verse": "39",
+          "text": "Ni hauteur, ni profondeur, ni aucune autre créature, ne pourra nous séparer de l’amour de Dieu qui est en Christ Jésus notre Seigneur.",
+          "chapter": "8",
+          "name": "Romains 8:39"
+        }
+      ],
+      "name": "Romains 8"
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Je dis la vérité en Christ, je ne mens pas, ma conscience aussi me rendant témoignage en l’Esprit Saint,",
+          "chapter": "9",
+          "name": "Romains 9:1"
+        },
+        {
+          "verse": "2",
+          "text": "Que j’ai une grande tristesse, et une continuelle peine dans mon cœur.",
+          "chapter": "9",
+          "name": "Romains 9:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car je souhaiterais moi-même d’être maudit loin de Christ, pour mes frères, mes parents selon la chair;",
+          "chapter": "9",
+          "name": "Romains 9:3"
+        },
+        {
+          "verse": "4",
+          "text": "Qui sont Israélites, à qui appartiennent l’adoption, et la gloire, et les alliances, l’ordonnance de la loi, le service de Dieu et les promesses;",
+          "chapter": "9",
+          "name": "Romains 9:4"
+        },
+        {
+          "verse": "5",
+          "text": "Desquels sont les pères, et de qui est venu, selon la chair, Christ, qui est au-dessus de tout, Dieu béni éternellement. Amen.",
+          "chapter": "9",
+          "name": "Romains 9:5"
+        },
+        {
+          "verse": "6",
+          "text": "Ce n’est pas comme si la parole de Dieu a été sans effet. Car ils ne sont pas tous Israël, ceux qui sont d’Israël;",
+          "chapter": "9",
+          "name": "Romains 9:6"
+        },
+        {
+          "verse": "7",
+          "text": "Parce qu’ils sont la semence d’Abraham, sont-ils tous |[ses]| enfants: mais: En Isaac ta semence sera appelée,",
+          "chapter": "9",
+          "name": "Romains 9:7"
+        },
+        {
+          "verse": "8",
+          "text": "C’est-à-dire, ceux qui sont les enfants de la chair, ceux-là ne sont pas les enfants de Dieu; mais les enfants de la promesse sont comptés pour semence.",
+          "chapter": "9",
+          "name": "Romains 9:8"
+        },
+        {
+          "verse": "9",
+          "text": "Car voici la parole de promesse Je reviendrai en cette saison, et Sara aura un fils.",
+          "chapter": "9",
+          "name": "Romains 9:9"
+        },
+        {
+          "verse": "10",
+          "text": "Et non seulement cela; mais aussi lorsque Rébecca conçut par un, c’est-à-dire par notre père Isaac;",
+          "chapter": "9",
+          "name": "Romains 9:10"
+        },
+        {
+          "verse": "11",
+          "text": "(Car les enfants n’étaient pas encore nés, et n’avaient fait ni bien ni mal, et afin que le dessein de Dieu selon l’élection demeure ferme, non à cause des œuvres, mais à cause de celui qui appelle),",
+          "chapter": "9",
+          "name": "Romains 9:11"
+        },
+        {
+          "verse": "12",
+          "text": "Il lui fut dit: L’aîné servira le plus jeune.",
+          "chapter": "9",
+          "name": "Romains 9:12"
+        },
+        {
+          "verse": "13",
+          "text": "Selon qu’il est écrit: J’ai aimé Jacob, mais j’ai haï Esau (Esaü).",
+          "chapter": "9",
+          "name": "Romains 9:13"
+        },
+        {
+          "verse": "14",
+          "text": "Que dirons-nous donc? Y a-t-il iniquité avec Dieu? À Dieu ne plaise.",
+          "chapter": "9",
+          "name": "Romains 9:14"
+        },
+        {
+          "verse": "15",
+          "text": "Car il dit à Moïse: Je ferai miséricorde à celui à qui je ferai miséricorde, et j’aurai compassion à celui à qui j’aurai compassion.",
+          "chapter": "9",
+          "name": "Romains 9:15"
+        },
+        {
+          "verse": "16",
+          "text": "Cela ne vient donc ni de celui qui veut, ni de celui qui court; mais de Dieu qui démontre la miséricorde.",
+          "chapter": "9",
+          "name": "Romains 9:16"
+        },
+        {
+          "verse": "17",
+          "text": "Car l’écriture dit à Pharaon: c’est pour cette chose précise que je t’ai suscité, pour que je puisse montrer en toi ma puissance, et pour que mon nom soit proclamé à travers toute la terre.",
+          "chapter": "9",
+          "name": "Romains 9:17"
+        },
+        {
+          "verse": "18",
+          "text": "C’est pourquoi il a miséricorde sur celui à qui il aura miséricorde, et il endurcit celui qu’il veut.",
+          "chapter": "9",
+          "name": "Romains 9:18"
+        },
+        {
+          "verse": "19",
+          "text": "Alors tu me diras: Pourquoi il |[Dieu]| trouve-t-il encore à redire? Car qui a résisté à sa volonté?",
+          "chapter": "9",
+          "name": "Romains 9:19"
+        },
+        {
+          "verse": "20",
+          "text": "Mais plutôt, ô homme, qui es-tu, toi qui contestes contre Dieu? La chose formée dira-t-elle à celui qui l’a formée: Pourquoi m’as-tu faite ainsi?",
+          "chapter": "9",
+          "name": "Romains 9:20"
+        },
+        {
+          "verse": "21",
+          "text": "Le potier n’a-t-il pas le contrôle sur l’argile, pour pouvoir d’une même masse faire un vase |[destiné]| à l’honneur, et un autre |[destiné]| au déshonneur?",
+          "chapter": "9",
+          "name": "Romains 9:21"
+        },
+        {
+          "verse": "22",
+          "text": "Qu’[est-ce]| si Dieu, voulant montrer sa colère et faire connaître sa puissance, a supporté avec beaucoup de longanimité les vases de colère, préparés pour la destruction;",
+          "chapter": "9",
+          "name": "Romains 9:22"
+        },
+        {
+          "verse": "23",
+          "text": "Et qu’il puisse faire connaître les richesses de sa gloire sur les vases de miséricorde, qu’il a préparés d’avance pour la gloire,",
+          "chapter": "9",
+          "name": "Romains 9:23"
+        },
+        {
+          "verse": "24",
+          "text": "C’est-à-dire nous, qu’il a appelés, non seulement d’entre les Juifs, mais aussi d’entre les Gentils?",
+          "chapter": "9",
+          "name": "Romains 9:24"
+        },
+        {
+          "verse": "25",
+          "text": "Selon qu’il dit en Osee (Osée): Je les appellerai mon peuple, celui qui n’était pas mon peuple, et sa bien-aimée, celle qui n’était pas bien-aimée.",
+          "chapter": "9",
+          "name": "Romains 9:25"
+        },
+        {
+          "verse": "26",
+          "text": "Et il arrivera que dans le lieu où il leur a été dit: vous n’êtes pas mon peuple, là ils seront appelés les enfants du Dieu vivant.",
+          "chapter": "9",
+          "name": "Romains 9:26"
+        },
+        {
+          "verse": "27",
+          "text": "Esaias (Ésaïe) aussi s’écrie au sujet d’Israël: Quand le nombre des enfants d’Israël serait comme le sable de la mer, un reste sera sauvé.",
+          "chapter": "9",
+          "name": "Romains 9:27"
+        },
+        {
+          "verse": "28",
+          "text": "Car il |[le Seigneur]| mettra fin à l’ouvrage, et l’abrégera avec intégrité; parce que le Seigneur accomplira un ouvrage écourté sur la terre.",
+          "chapter": "9",
+          "name": "Romains 9:28"
+        },
+        {
+          "verse": "29",
+          "text": "Et comme Esaias (Ésaïe) avait dit auparavant: si le Seigneur des Sabaoth ne nous avait laissé une semence, nous serions devenus comme Sodome, et nous aurions été semblables à Gomorrhe.",
+          "chapter": "9",
+          "name": "Romains 9:29"
+        },
+        {
+          "verse": "30",
+          "text": "Que dirons-nous donc? Que les Gentils, qui ne poursuivaient pas la droiture, sont parvenus à la droiture, la droiture, dis-je qui est de la foi.",
+          "chapter": "9",
+          "name": "Romains 9:30"
+        },
+        {
+          "verse": "31",
+          "text": "Mais Israël, qui poursuivait la loi de droiture, n’est pas parvenu à cette loi de droiture.",
+          "chapter": "9",
+          "name": "Romains 9:31"
+        },
+        {
+          "verse": "32",
+          "text": "Pourquoi? Parce qu’ils ne l’ont pas cherchée par la foi, mais par les œuvres de la loi en effet, ils se sont heurtés contre cette pierre d’achoppement;",
+          "chapter": "9",
+          "name": "Romains 9:32"
+        },
+        {
+          "verse": "33",
+          "text": "Selon qu’il est écrit: voici, je mets en Sion une pierre d’achoppement et un rocher de scandale; et quiconque croit en lui, ne sera pas honteux.",
+          "chapter": "9",
+          "name": "Romains 9:33"
+        }
+      ],
+      "name": "Romains 9"
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Frères, le souhait de mon cœur, et ma prière à Dieu pour Israël, c’est qu’ils soient sauvés.",
+          "chapter": "10",
+          "name": "Romains 10:1"
+        },
+        {
+          "verse": "2",
+          "text": "Car je leur rends ce témoignage, qu’ils ont du zèle pour Dieu; mais pas selon la connaissance;",
+          "chapter": "10",
+          "name": "Romains 10:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car étant ignorants de la droiture de Dieu, et cherchant à établir leur propre droiture, ils ne se sont pas soumis à la droiture de Dieu.",
+          "chapter": "10",
+          "name": "Romains 10:3"
+        },
+        {
+          "verse": "4",
+          "text": "Car Christ est la fin de la loi, pour droiture à quiconque croit.",
+          "chapter": "10",
+          "name": "Romains 10:4"
+        },
+        {
+          "verse": "5",
+          "text": "Car Moïse décrit la droiture qui vient de la loi: l’homme qui fait ces choses vivra par elles.",
+          "chapter": "10",
+          "name": "Romains 10:5"
+        },
+        {
+          "verse": "6",
+          "text": "Mais la droiture qui vient de la foi parle ainsi: ne dis pas en ton cœur: qui montera au ciel? (C’est vouloir en faire descendre Christ).",
+          "chapter": "10",
+          "name": "Romains 10:6"
+        },
+        {
+          "verse": "7",
+          "text": "Ou, Qui descendra dans l’abîme? (C’est faire remonter Christ d’entre les morts).",
+          "chapter": "10",
+          "name": "Romains 10:7"
+        },
+        {
+          "verse": "8",
+          "text": "Mais que dit-elle? La parole est près de toi, même dans ta bouche et dans ton cœur: c’est-à-dire, la parole de la foi que nous prêchons.",
+          "chapter": "10",
+          "name": "Romains 10:8"
+        },
+        {
+          "verse": "9",
+          "text": "Que si tu confesses de ta bouche le Seigneur Jésus, et que tu croies dans ton cœur que Dieu l’a ressuscité des morts, tu seras sauvé.",
+          "chapter": "10",
+          "name": "Romains 10:9"
+        },
+        {
+          "verse": "10",
+          "text": "Car |[c’est]| avec le cœur que l’homme croit et parvient à la droiture, et en confessant avec la bouche on parvient au salut.",
+          "chapter": "10",
+          "name": "Romains 10:10"
+        },
+        {
+          "verse": "11",
+          "text": "Car l’écriture dit: quiconque croit en lui, ne sera pas honteux.",
+          "chapter": "10",
+          "name": "Romains 10:11"
+        },
+        {
+          "verse": "12",
+          "text": "Car il n’y a pas de différence entre le Juif et le Grec, car le même Seigneur de tous est riche envers tous ceux qui font appel à lui.",
+          "chapter": "10",
+          "name": "Romains 10:12"
+        },
+        {
+          "verse": "13",
+          "text": "Car quiconque fait appel au nom du Seigneur, sera sauvé.",
+          "chapter": "10",
+          "name": "Romains 10:13"
+        },
+        {
+          "verse": "14",
+          "text": "Comment donc feront-ils appel à celui auquel ils n’ont pas cru? Et comment croiront-ils en celui dont ils n’ont pas entendu |[parler]? Et comment entendront-ils sans un prédicateur?",
+          "chapter": "10",
+          "name": "Romains 10:14"
+        },
+        {
+          "verse": "15",
+          "text": "Et comment prêcheront-ils, à moins qu’ils ne soient envoyés? Selon qu’il est écrit: Combien sont beaux les pieds de ceux qui prêchent l’évangile de paix, et apportent de bonnes nouvelles de bonnes choses!",
+          "chapter": "10",
+          "name": "Romains 10:15"
+        },
+        {
+          "verse": "16",
+          "text": "Mais ils n’ont pas tous obéi à l’évangile. Car Esaias (Ésaïe) dit: Seigneur, qui a cru à notre rapport?",
+          "chapter": "10",
+          "name": "Romains 10:16"
+        },
+        {
+          "verse": "17",
+          "text": "Ainsi la foi vient de ce qu’on entend; et ce qu’on entend par la parole de Dieu.",
+          "chapter": "10",
+          "name": "Romains 10:17"
+        },
+        {
+          "verse": "18",
+          "text": "Mais je dis:n’ont-ils pas entendu? Oui en vérité, leur son est allé par toute la terre, et leurs paroles jusqu’aux extrémités du monde.",
+          "chapter": "10",
+          "name": "Romains 10:18"
+        },
+        {
+          "verse": "19",
+          "text": "Mais je dis: Israël n’en a-t-il pas eu connaissance? Moïse le premier dit: je vous provoquerai à la jalousie par ce qui n’est pas un peuple; je vous exciterai à la colère par une nation insensée.",
+          "chapter": "10",
+          "name": "Romains 10:19"
+        },
+        {
+          "verse": "20",
+          "text": "Mais Esaias (Ésaïe) est très téméraire et dit: j’ai été trouvé par ceux qui ne me cherchaient pas, et j’ai été manifesté à ceux qui ne s’enquéraient pas de moi.",
+          "chapter": "10",
+          "name": "Romains 10:20"
+        },
+        {
+          "verse": "21",
+          "text": "Mais à Israël il dit: tout le jour j’ai étendu mes mains vers un peuple désobéissant et contredisant.",
+          "chapter": "10",
+          "name": "Romains 10:21"
+        }
+      ],
+      "name": "Romains 10"
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Je dis donc: Dieu a-t-il rejeté son peuple? À Dieu ne plaise, car je suis aussi Israélite, de la semence d’Abraham, de la tribu de Benjamin.",
+          "chapter": "11",
+          "name": "Romains 11:1"
+        },
+        {
+          "verse": "2",
+          "text": "Dieu n’a pas rejeté son peuple qu’il a connu d’avance. Ne savez-vous pas ce que l’écriture dit: d’Elias (Élie)? comment il intercède auprès de Dieu contre Israël, disant:",
+          "chapter": "11",
+          "name": "Romains 11:2"
+        },
+        {
+          "verse": "3",
+          "text": "Seigneur, ils ont tué tes prophètes, et démoli tes autels; et je suis seul, et ils cherchent à ôter ma vie?",
+          "chapter": "11",
+          "name": "Romains 11:3"
+        },
+        {
+          "verse": "4",
+          "text": "Mais que lui dit la réponse de Dieu? Je me suis réservé sept mille hommes, qui n’ont pas fléchi le genou devant Baal.",
+          "chapter": "11",
+          "name": "Romains 11:4"
+        },
+        {
+          "verse": "5",
+          "text": "De même aussi en ce temps présent il y a un reste selon l’élection de la grâce.",
+          "chapter": "11",
+          "name": "Romains 11:5"
+        },
+        {
+          "verse": "6",
+          "text": "Et si c’est par grâce, alors ce n’est plus par les œuvres; autrement la grâce n’est plus grâce. Mais si c’est par les œuvres, alors ce n’est plus par grâce; autrement les œuvres ne sont plus des œuvres.",
+          "chapter": "11",
+          "name": "Romains 11:6"
+        },
+        {
+          "verse": "7",
+          "text": "Quoi donc? Israël n‘a pas obtenu ce qu’elle recherche; mais les élus l’ont obtenu, et les autres ont été aveuglés,",
+          "chapter": "11",
+          "name": "Romains 11:7"
+        },
+        {
+          "verse": "8",
+          "text": "(Selon qu’il est écrit: Dieu leur a donné un esprit de sommeil, des yeux afin qu’ils ne voient pas, et des oreilles afin qu’ils n’entendent pas), jusqu’à ce jour.",
+          "chapter": "11",
+          "name": "Romains 11:8"
+        },
+        {
+          "verse": "9",
+          "text": "Et David dit: que leur table leur soit un filet, et un piège, une occasion de chute, et cela pour récompense;",
+          "chapter": "11",
+          "name": "Romains 11:9"
+        },
+        {
+          "verse": "10",
+          "text": "Que leurs yeux soient obscurcis pour ne pas voir, et que leur dos soit continuellement courbé.",
+          "chapter": "11",
+          "name": "Romains 11:10"
+        },
+        {
+          "verse": "11",
+          "text": "Je dis donc: ont-ils trébuché afin de tomber? À Dieu ne plaise mais plutôt par leur chute, le salut est venu aux Gentils, afin de les provoquer à la jalousie.",
+          "chapter": "11",
+          "name": "Romains 11:11"
+        },
+        {
+          "verse": "12",
+          "text": "Or si leur chute est la richesse du monde, et leur diminution la richesse des Gentils, combien plus leur plénitude?",
+          "chapter": "11",
+          "name": "Romains 11:12"
+        },
+        {
+          "verse": "13",
+          "text": "Car je vous parle à vous Gentils dans la mesure où je suis l’apôtre des Gentils, je magnifie mon ministère,",
+          "chapter": "11",
+          "name": "Romains 11:13"
+        },
+        {
+          "verse": "14",
+          "text": "Si par quelque moyen je puis provoquer à la jalousie ceux de ma chair, et à en sauver quelques-uns.",
+          "chapter": "11",
+          "name": "Romains 11:14"
+        },
+        {
+          "verse": "15",
+          "text": "Car si leur réjection est la réconciliation du monde, que sera leur réception, sinon une vie d’entre les morts?",
+          "chapter": "11",
+          "name": "Romains 11:15"
+        },
+        {
+          "verse": "16",
+          "text": "Car si les prémices sont saintes, la masse l’est aussi; et si la racine est sainte, les branches le sont également.",
+          "chapter": "11",
+          "name": "Romains 11:16"
+        },
+        {
+          "verse": "17",
+          "text": "Mais si quelques-unes des branches ont été retranchées, et toi, étant un olivier sauvage, as été greffé parmi elles, et tu es fait participant avec elles de la racine et du suc de l’olivier,",
+          "chapter": "11",
+          "name": "Romains 11:17"
+        },
+        {
+          "verse": "18",
+          "text": "Ne te glorifie pas aux dépens des branches. Mais si tu te glorifies, ce n’est pas toi qui portes la racine, mais la racine qui te porte.",
+          "chapter": "11",
+          "name": "Romains 11:18"
+        },
+        {
+          "verse": "19",
+          "text": "Tu diras alors: Les branches ont été retranchées, afin que je puisse y être greffé.",
+          "chapter": "11",
+          "name": "Romains 11:19"
+        },
+        {
+          "verse": "20",
+          "text": "Fort bien; elles ont été retranchées à cause d’incrédulité, et toi, tu es debout par la foi. ne t’enorgueillis pas, mais crains.",
+          "chapter": "11",
+          "name": "Romains 11:20"
+        },
+        {
+          "verse": "21",
+          "text": "Car si Dieu n’a pas épargné les branches naturelles, prends garde qu’il ne t’épargne pas non plus.",
+          "chapter": "11",
+          "name": "Romains 11:21"
+        },
+        {
+          "verse": "22",
+          "text": "Considère donc la bonté et la sévérité de Dieu; sévérité à l’égard de ceux qui sont tombés, mais sa bonté envers toi, si tu continues dans sa bonté; autrement, toi aussi tu seras coupé.",
+          "chapter": "11",
+          "name": "Romains 11:22"
+        },
+        {
+          "verse": "23",
+          "text": "Et eux aussi, s’ils ne demeurent pas dans l’incrédulité, ils seront greffés, car Dieu a le pouvoir de les greffer de nouveau.",
+          "chapter": "11",
+          "name": "Romains 11:23"
+        },
+        {
+          "verse": "24",
+          "text": "Car si tu as été coupé de l’olivier qui est sauvage de nature, et tu as été greffé contre nature sur un olivier franc, combien plus ceux qui le sont par nature seront-ils greffés sur leur propre olivier?",
+          "chapter": "11",
+          "name": "Romains 11:24"
+        },
+        {
+          "verse": "25",
+          "text": "Car je ne veux pas, frères, que vous soyez ignorants de ce mystère, à moins que vous soyez sages à votre propre suffisance; cet aveuglement est arrivé en partie à Israël jusqu’à ce que la plénitude des Gentils soit entrée.",
+          "chapter": "11",
+          "name": "Romains 11:25"
+        },
+        {
+          "verse": "26",
+          "text": "Et ainsi tout Israël sera sauvé, comme il est écrit: Le Libérateur viendra de Sion, et il éloignera l’impiété de Jacob.",
+          "chapter": "11",
+          "name": "Romains 11:26"
+        },
+        {
+          "verse": "27",
+          "text": "Car ceci est mon alliance avec eux, lorsque j’ôterai leurs péchés.",
+          "chapter": "11",
+          "name": "Romains 11:27"
+        },
+        {
+          "verse": "28",
+          "text": "En ce qui concerne l’évangile ils sont ennemis à cause de vous; mais à l’égard de l’élection, ils sont bien-aimés à cause de leurs pères,",
+          "chapter": "11",
+          "name": "Romains 11:28"
+        },
+        {
+          "verse": "29",
+          "text": "Car les dons et l’appel de Dieu sont sans repentance.",
+          "chapter": "11",
+          "name": "Romains 11:29"
+        },
+        {
+          "verse": "30",
+          "text": "Car comme vous autrefois n’avez pas cru Dieu, malgré tout vous avez maintenant obtenu miséricorde par leur incrédulité;",
+          "chapter": "11",
+          "name": "Romains 11:30"
+        },
+        {
+          "verse": "31",
+          "text": "De même ceux-ci aussi n’ont maintenant pas cru, afin que par votre miséricorde ils obtiennent aussi miséricorde.",
+          "chapter": "11",
+          "name": "Romains 11:31"
+        },
+        {
+          "verse": "32",
+          "text": "Car Dieu les a tous renfermé dans l’incrédulité, afin qu’il puisse avoir miséricorde sur tous.",
+          "chapter": "11",
+          "name": "Romains 11:32"
+        },
+        {
+          "verse": "33",
+          "text": "Ô profondeur des richesses et de la sagesse et de la connaissance de Dieu! Combien ses jugements sont impénétrables, et ses chemins introuvables!",
+          "chapter": "11",
+          "name": "Romains 11:33"
+        },
+        {
+          "verse": "34",
+          "text": "Car qui a connu la pensée du Seigneur, ou, qui a été son conseiller?",
+          "chapter": "11",
+          "name": "Romains 11:34"
+        },
+        {
+          "verse": "35",
+          "text": "Ou, qui lui a donné le premier, et en sera récompensé en retour?",
+          "chapter": "11",
+          "name": "Romains 11:35"
+        },
+        {
+          "verse": "36",
+          "text": "Car de lui, et par lui, et pour lui sont toutes choses: À lui soit la gloire pour toujours. Amen.",
+          "chapter": "11",
+          "name": "Romains 11:36"
+        }
+      ],
+      "name": "Romains 11"
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Je vous supplie donc, frères, par les compassions de Dieu, à présenter vos corps en un sacrifice vivant, saint, agréable à Dieu, c’est votre service raisonnable.",
+          "chapter": "12",
+          "name": "Romains 12:1"
+        },
+        {
+          "verse": "2",
+          "text": "Et ne soyez pas conformés à ce monde, mais soyez transformés par le renouvellement de votre intelligence, afin que vous puissiez discerner qu’elle est la bonne, agréable et parfaite volonté de Dieu",
+          "chapter": "12",
+          "name": "Romains 12:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car par la grâce qui m’a été donnée, je dis à chaque homme qui est parmi vous, de ne pas penser de lui-même avoir une plus haute opinion qu’il pense avoir, mais de penser sobrement, selon la mesure de foi que Dieu a départie à chacun.",
+          "chapter": "12",
+          "name": "Romains 12:3"
+        },
+        {
+          "verse": "4",
+          "text": "Car, comme nous avons beaucoup de membres dans un seul corps, et que tous les membres n’ont pas la même fonction;",
+          "chapter": "12",
+          "name": "Romains 12:4"
+        },
+        {
+          "verse": "5",
+          "text": "Ainsi nous, qui sommes nombreux, sommes un seul corps en Christ; et chacun individuellement membre l’un de l’autre.",
+          "chapter": "12",
+          "name": "Romains 12:5"
+        },
+        {
+          "verse": "6",
+          "text": "Ayant donc des dons différents, selon la grâce qui nous est donnée, soit la prophétie, prophétisons selon la proportion de la foi;",
+          "chapter": "12",
+          "name": "Romains 12:6"
+        },
+        {
+          "verse": "7",
+          "text": "Soit le ministère, appliquons-nous à notre ministère; ou celui qui enseigne, à enseigner;",
+          "chapter": "12",
+          "name": "Romains 12:7"
+        },
+        {
+          "verse": "8",
+          "text": "Soit celui qui exhorte, à exhorter. Celui qui donne, qu’il le fasse avec simplicité; celui qui préside, qu’il préside avec soin; celui qui exerce les œuvres de miséricorde, qu’il le fasse avec joie.",
+          "chapter": "12",
+          "name": "Romains 12:8"
+        },
+        {
+          "verse": "9",
+          "text": "Que l’amour soit sans hypocrisie. Ayez le mal en horreur, attachez-vous à ce qui est bon.",
+          "chapter": "12",
+          "name": "Romains 12:9"
+        },
+        {
+          "verse": "10",
+          "text": "Soyez pleins d’affection les uns pour les autres avec un amour fraternel. Quant à l’honneur, préférez le rendre aux autres,",
+          "chapter": "12",
+          "name": "Romains 12:10"
+        },
+        {
+          "verse": "11",
+          "text": "Ne soyez pas paresseux au travail; fervents en esprit; servant le Seigneur;",
+          "chapter": "12",
+          "name": "Romains 12:11"
+        },
+        {
+          "verse": "12",
+          "text": "Vous réjouissant dans l’espérance, patients dans la tribulation, persévérants dans la prière.",
+          "chapter": "12",
+          "name": "Romains 12:12"
+        },
+        {
+          "verse": "13",
+          "text": "Subvenant aux nécessités des saints; exercez l’hospitalité.",
+          "chapter": "12",
+          "name": "Romains 12:13"
+        },
+        {
+          "verse": "14",
+          "text": "Bénissez ceux qui vous persécutent; bénissez, et ne maudissez pas.",
+          "chapter": "12",
+          "name": "Romains 12:14"
+        },
+        {
+          "verse": "15",
+          "text": "Réjouissez-vous avec ceux qui se réjouissent, et pleurez avec ceux qui pleurent.",
+          "chapter": "12",
+          "name": "Romains 12:15"
+        },
+        {
+          "verse": "16",
+          "text": "Ayez les mêmes pensées entre vous; ne pensez pas aux choses élevées, mais daignez-vous associer aux humbles; ne soyez pas sages à votre propre vanité.",
+          "chapter": "12",
+          "name": "Romains 12:16"
+        },
+        {
+          "verse": "17",
+          "text": "Ne rendez à personne le mal pour le mal. Recherchez les choses honnêtes devant tous les hommes.",
+          "chapter": "12",
+          "name": "Romains 12:17"
+        },
+        {
+          "verse": "18",
+          "text": "S’il est possible, autant qu’il dépend de vous, vivez en paix avec tous les hommes.",
+          "chapter": "12",
+          "name": "Romains 12:18"
+        },
+        {
+          "verse": "19",
+          "text": "Bien-aimés, ne vous vengez pas vous-mêmes, mais donnez plutôt place à la colère divine; car il est écrit: À moi la vengeance; c’est moi qui rétribuerai, dit le Seigneur.",
+          "chapter": "12",
+          "name": "Romains 12:19"
+        },
+        {
+          "verse": "20",
+          "text": "C’est pourquoi si ton ennemi a faim, donne-lui à manger; s’il a soif, donne-lui à boire; car en faisant cela, tu lui amasseras des charbons de feu sur la tête.",
+          "chapter": "12",
+          "name": "Romains 12:20"
+        },
+        {
+          "verse": "21",
+          "text": "Ne sois pas surmonté par le mal; mais surmonte le mal par le bien.",
+          "chapter": "12",
+          "name": "Romains 12:21"
+        }
+      ],
+      "name": "Romains 12"
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Que toute âme soit soumise aux autorités supérieures. Car il n’y a pas d’autorité |[qui ne vienne]| de Dieu; |[et]| les autorités qui existent, sont établies de Dieu.",
+          "chapter": "13",
+          "name": "Romains 13:1"
+        },
+        {
+          "verse": "2",
+          "text": "C’est pourquoi, quiconque résiste à l’autorité résiste à l’ordre de Dieu et ceux qui résistent, recevront la condamnation sur eux-mêmes.",
+          "chapter": "13",
+          "name": "Romains 13:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car les dirigeants ne sont pas à craindre |[lorsqu’on fait]| de bonnes actions mais pour de mauvaises. Veux-tu donc ne pas craindre l’autorité? Fais ce qui est bien, et tu recevras d’elle la louange.",
+          "chapter": "13",
+          "name": "Romains 13:3"
+        },
+        {
+          "verse": "4",
+          "text": "Car il est le ministre de Dieu pour ton bien. Mais si tu fais le mal, crains, car il ne porte pas l’épée en vain; car il est le ministre de Dieu, un vengeur pour exécuter la colère sur celui qui fait le mal.",
+          "chapter": "13",
+          "name": "Romains 13:4"
+        },
+        {
+          "verse": "5",
+          "text": "C’est pourquoi il faut être soumis, non seulement à cause de la colère, mais aussi à cause de la conscience.",
+          "chapter": "13",
+          "name": "Romains 13:5"
+        },
+        {
+          "verse": "6",
+          "text": "Car c’est aussi pour cela que vous payez des impôts, car ils sont ministres de Dieu, s’employant sans cesse à cette chose précise.",
+          "chapter": "13",
+          "name": "Romains 13:6"
+        },
+        {
+          "verse": "7",
+          "text": "Rendez donc à tous ce qui leur est dû le tribut, à qui tribut est dû; l’impôt, à qui l’impôt; la crainte, à qui la crainte; l’honneur, à qui l’honneur.",
+          "chapter": "13",
+          "name": "Romains 13:7"
+        },
+        {
+          "verse": "8",
+          "text": "Ne devez rien à personne, sinon que vous vous aimiez l’un l’autre car celui qui aime l’autre, a accompli la loi.",
+          "chapter": "13",
+          "name": "Romains 13:8"
+        },
+        {
+          "verse": "9",
+          "text": "Car ceci, Tu ne commettras pas d’adultère, tu ne tueras pas, tu ne voleras pas, tu ne diras pas de faux témoignage, tu ne convoiteras pas; et si il y a tout autre commandement, tout est sommairement compris dans cette parole Tu aimeras ton prochain comme toi-même.",
+          "chapter": "13",
+          "name": "Romains 13:9"
+        },
+        {
+          "verse": "10",
+          "text": "L’amour ne fait pas de mal au prochain; c’est pourquoi l’amour est l’accomplissement de la loi.",
+          "chapter": "13",
+          "name": "Romains 13:10"
+        },
+        {
+          "verse": "11",
+          "text": "Et ceci, connaissant le temps, car il est grand temps de nous réveiller du sommeil, car maintenant est notre salut plus près que lorsque nous avons cru.",
+          "chapter": "13",
+          "name": "Romains 13:11"
+        },
+        {
+          "verse": "12",
+          "text": "La nuit est fort avancée, et le jour approche; dépouillons-nous donc des œuvres de ténèbres, et revêtons-nous de l’armure de lumière.",
+          "chapter": "13",
+          "name": "Romains 13:12"
+        },
+        {
+          "verse": "13",
+          "text": "Conduisons-nous honnêtement, comme en plein jour, et non dans les émeutes, et dans l’ivrognerie, dans la luxure, dans les impudicités, dans les querelles et dans l’envie.",
+          "chapter": "13",
+          "name": "Romains 13:13"
+        },
+        {
+          "verse": "14",
+          "text": "Mais revêtez-vous du Seigneur Jésus-Christ, et ne flattez pas la chair pour satisfaire à ses convoitises.",
+          "chapter": "13",
+          "name": "Romains 13:14"
+        }
+      ],
+      "name": "Romains 13"
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Quant à celui qui est faible dans la foi, accueillez-le avec bonté, mais pas en vue de discussion.",
+          "chapter": "14",
+          "name": "Romains 14:1"
+        },
+        {
+          "verse": "2",
+          "text": "Car l’un croit pouvoir manger de tout; l’autre qui est faible, ne mange que des herbes.",
+          "chapter": "14",
+          "name": "Romains 14:2"
+        },
+        {
+          "verse": "3",
+          "text": "Que celui qui mange de tout, ne méprise pas celui qui ne mange pas de tout; et que celui qui ne mange pas de tout, ne juge pas celui qui mange de tout; car Dieu l’a reçu.",
+          "chapter": "14",
+          "name": "Romains 14:3"
+        },
+        {
+          "verse": "4",
+          "text": "Qui es-tu, toi qui juges le serviteur d’autrui? S’il se tient ferme, ou s’il tombe, c’est à son maître de le juger; oui il sera affermi, car Dieu est capable de le tenir debout.",
+          "chapter": "14",
+          "name": "Romains 14:4"
+        },
+        {
+          "verse": "5",
+          "text": "Celui-ci estime un jour supérieur à un autre; celui-là estime tous les jours égaux. Que chacun soit pleinement persuadé dans sa propre tête.",
+          "chapter": "14",
+          "name": "Romains 14:5"
+        },
+        {
+          "verse": "6",
+          "text": "Celui qui a égard au jour, y a égard à cause du Seigneur; et celui qui n’a pas égard au jour, n’y a pas égard à cause du Seigneur. Celui qui mange, mange à cause du Seigneur, car il rend grâces à Dieu; et celui qui ne mange pas, ne mange pas à cause du Seigneur, et il rend grâces à Dieu.",
+          "chapter": "14",
+          "name": "Romains 14:6"
+        },
+        {
+          "verse": "7",
+          "text": "Car aucun de nous ne vit pour lui-même, et aucun de nous ne meurt pour lui-même.",
+          "chapter": "14",
+          "name": "Romains 14:7"
+        },
+        {
+          "verse": "8",
+          "text": "Car soit nous vivons, nous vivons pour le Seigneur; et soit nous mourons, nous mourons pour le Seigneur; soit donc que nous vivions, ou que nous mourions, nous sommes au Seigneur.",
+          "chapter": "14",
+          "name": "Romains 14:8"
+        },
+        {
+          "verse": "9",
+          "text": "Car c’est pour cela que Christ est mort, et qu’il est ressuscité, et qu’il est revenu à la vie, afin qu’il soit Seigneur sur les morts et sur les vivants.",
+          "chapter": "14",
+          "name": "Romains 14:9"
+        },
+        {
+          "verse": "10",
+          "text": "Mais pourquoi juges-tu ton frère? Ou pourquoi méprises-tu ton frère? Puisque nous comparaîtrons tous devant le siège de jugement de Christ.",
+          "chapter": "14",
+          "name": "Romains 14:10"
+        },
+        {
+          "verse": "11",
+          "text": "Car il est écrit: Je suis vivant, dit le Seigneur, tout genou fléchira devant moi, et toute langue confessera Dieu.",
+          "chapter": "14",
+          "name": "Romains 14:11"
+        },
+        {
+          "verse": "12",
+          "text": "Ainsi donc chacun de nous rendra compte pour lui-même à Dieu.",
+          "chapter": "14",
+          "name": "Romains 14:12"
+        },
+        {
+          "verse": "13",
+          "text": "Ne nous jugeons donc plus l’un l’autre mais jugez plutôt ceci qu’aucun homme mette une pierre d’achoppement ou une occasion de chute devant son frère.",
+          "chapter": "14",
+          "name": "Romains 14:13"
+        },
+        {
+          "verse": "14",
+          "text": "Je sais, et je suis persuadé par le Seigneur Jésus, qu’il n’y a rien de souillé en soi; mais à celui qui estime qu’une chose est souillée, elle est souillée pour lui.",
+          "chapter": "14",
+          "name": "Romains 14:14"
+        },
+        {
+          "verse": "15",
+          "text": "Mais si ton frère est affligé au sujet ta nourriture, tu ne te conduis plus charitablement. Ne détruis pas par ta nourriture, celui pour lequel Christ est mort.",
+          "chapter": "14",
+          "name": "Romains 14:15"
+        },
+        {
+          "verse": "16",
+          "text": "Que ce que vous faites de bon ne soit donc pas calomnié.",
+          "chapter": "14",
+          "name": "Romains 14:16"
+        },
+        {
+          "verse": "17",
+          "text": "Car le royaume de Dieu n’est pas manger et boire, mais droiture, et paix, et joie dans l’Esprit Saint.",
+          "chapter": "14",
+          "name": "Romains 14:17"
+        },
+        {
+          "verse": "18",
+          "text": "Car celui qui sert Christ de cette manière, est agréable à Dieu, et approuvé des hommes.",
+          "chapter": "14",
+          "name": "Romains 14:18"
+        },
+        {
+          "verse": "19",
+          "text": "Poursuivons donc les choses qui tendent à la paix, et les choses par lesquelles on s’édifie l’un l’autre.",
+          "chapter": "14",
+          "name": "Romains 14:19"
+        },
+        {
+          "verse": "20",
+          "text": "Ne détruis pas l’œuvre de Dieu pour de la nourriture. Toutes choses, il est vrai, sont pures, mais c’est mal pour celui qui offense en mangeant.",
+          "chapter": "14",
+          "name": "Romains 14:20"
+        },
+        {
+          "verse": "21",
+          "text": "Il est bon de ne pas manger de viande, ni boire de vin, ou quoi que ce soit qui peut faire trébucher ton frère, ou l’offenser, ou l’affaiblir.",
+          "chapter": "14",
+          "name": "Romains 14:21"
+        },
+        {
+          "verse": "22",
+          "text": "As-tu la foi? Aie-la en toi-même devant Dieu. Heureux celui qui ne se condamne pas lui-même dans ce qu’il approuve.",
+          "chapter": "14",
+          "name": "Romains 14:22"
+        },
+        {
+          "verse": "23",
+          "text": "Et celui qui doute est condamné s’il mange, parce qu’il n’agit pas avec foi; car tout ce que l’on ne fait pas avec foi, est un péché.",
+          "chapter": "14",
+          "name": "Romains 14:23"
+        }
+      ],
+      "name": "Romains 14"
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Nous devons donc, nous qui sommes forts, porter les infirmités des faibles, et non pas plaire à nous-mêmes.",
+          "chapter": "15",
+          "name": "Romains 15:1"
+        },
+        {
+          "verse": "2",
+          "text": "Que chacun de nous cherche à plaire à son prochain, pour son bien, pour l’édification;",
+          "chapter": "15",
+          "name": "Romains 15:2"
+        },
+        {
+          "verse": "3",
+          "text": "Car aussi Christ n’a pas cherché ce qui lui plaisait; mais selon qu’il est écrit: les outrages de ceux qui t’outragent, sont tombés sur moi.",
+          "chapter": "15",
+          "name": "Romains 15:3"
+        },
+        {
+          "verse": "4",
+          "text": "Car toutes les choses qui ont été écrites autrefois, ont été écrites pour notre instruction, afin que, par la patience et la consolation que donnent les écritures, nous puissions avoir l’espérance.",
+          "chapter": "15",
+          "name": "Romains 15:4"
+        },
+        {
+          "verse": "5",
+          "text": "Que le Dieu de patience et de consolation vous donne la même façon de penser entre vous selon Christ Jésus,",
+          "chapter": "15",
+          "name": "Romains 15:5"
+        },
+        {
+          "verse": "6",
+          "text": "Afin que, d’une même pensée et d’une même bouche vous glorifiiez Dieu, c’est-à-dire le Père de notre Seigneur Jésus-Christ.",
+          "chapter": "15",
+          "name": "Romains 15:6"
+        },
+        {
+          "verse": "7",
+          "text": "C’est pourquoi accueillez-vous les uns les autres, comme Christ nous a accueillis pour la gloire de Dieu.",
+          "chapter": "15",
+          "name": "Romains 15:7"
+        },
+        {
+          "verse": "8",
+          "text": "Je dis donc que Jésus-Christ a été ministre de la circoncision, pour |[montrer]| la vérité de Dieu, pour confirmer les promesses faites aux pères;",
+          "chapter": "15",
+          "name": "Romains 15:8"
+        },
+        {
+          "verse": "9",
+          "text": "Et afin que les Gentils puissent glorifier Dieu pour sa miséricorde, selon qu’il est écrit: à cause de cela je te confesserai parmi les Gentils, et je chanterai à ton nom.",
+          "chapter": "15",
+          "name": "Romains 15:9"
+        },
+        {
+          "verse": "10",
+          "text": "Et il dit encore: Gentils, réjouissez-vous avec son peuple.",
+          "chapter": "15",
+          "name": "Romains 15:10"
+        },
+        {
+          "verse": "11",
+          "text": "Et encore: louez le Seigneur, vous tous Gentils, et célébrez-le vous tous les peuples.",
+          "chapter": "15",
+          "name": "Romains 15:11"
+        },
+        {
+          "verse": "12",
+          "text": "Et encore, Esaias (Ésaïe) dit: il y aura une racine de Jesse, et celui qui s’élèvera pour régner sur les Gentils; les Gentils se confieront en lui.",
+          "chapter": "15",
+          "name": "Romains 15:12"
+        },
+        {
+          "verse": "13",
+          "text": "Que le Dieu d’espérance vous remplisse de toute joie et paix en croyant, afin que vous abondiez en espérance, par la puissance de l’Esprit Saint.",
+          "chapter": "15",
+          "name": "Romains 15:13"
+        },
+        {
+          "verse": "14",
+          "text": "Or mes frères, je suis aussi moi-même persuadé que vous êtes pleins de bonté, remplis de toute connaissance, capables de vous admonester les uns les autres.",
+          "chapter": "15",
+          "name": "Romains 15:14"
+        },
+        {
+          "verse": "15",
+          "text": "Cependant, frères, je vous ai écrit en quelque sorte plus hardiment, comme réveillant vos souvenirs, à cause de la grâce qui m’a été donnée de Dieu,",
+          "chapter": "15",
+          "name": "Romains 15:15"
+        },
+        {
+          "verse": "16",
+          "text": "Que je dois être le ministre de Jésus-Christ auprès des Gentils, administrant l’évangile de Dieu, afin que l’offrande des Gentils lui soit agréable, étant sanctifiée par l’Esprit Saint.",
+          "chapter": "15",
+          "name": "Romains 15:16"
+        },
+        {
+          "verse": "17",
+          "text": "J’ai donc de quoi me glorifier par Jésus-Christ, dans ces choses qui regardent Dieu.",
+          "chapter": "15",
+          "name": "Romains 15:17"
+        },
+        {
+          "verse": "18",
+          "text": "Car je n’oserais parler d’aucune des choses que Christ n’ait fait par moi, pour rendre les Gentils obéissants, en parole et en œuvre;",
+          "chapter": "15",
+          "name": "Romains 15:18"
+        },
+        {
+          "verse": "19",
+          "text": "Par de puissants signes et prodiges; par la puissance de l’Esprit de Dieu; de sorte que depuis Jérusalem et alentour jusqu’à l’Illyrie, j’ai pleinement prêché l’évangile de Christ.",
+          "chapter": "15",
+          "name": "Romains 15:19"
+        },
+        {
+          "verse": "20",
+          "text": "Ainsi je me suis efforcé de prêcher l’évangile, non pas là où Christ avait été nommé, afin de ne pas bâtir sur le fondement d’un autre",
+          "chapter": "15",
+          "name": "Romains 15:20"
+        },
+        {
+          "verse": "21",
+          "text": "Selon qu’il est écrit: ceux à qui il n’avait pas été annoncé, verront, et ceux qui n’ avaient pas entendu, comprendront.",
+          "chapter": "15",
+          "name": "Romains 15:21"
+        },
+        {
+          "verse": "22",
+          "text": "C’est aussi pourquoi j’ai été souvent empêché d’aller à vous.",
+          "chapter": "15",
+          "name": "Romains 15:22"
+        },
+        {
+          "verse": "23",
+          "text": "Mais maintenant n’ayant plus affaire dans ces régions, et ayant depuis plusieurs années un grand désir d’aller à vous,",
+          "chapter": "15",
+          "name": "Romains 15:23"
+        },
+        {
+          "verse": "24",
+          "text": "Quand je me rendrai en Espagne, j’irai à vous; car j’espère vous voir à mon passage, et que vous m’y ferez conduire, après que j’aurai satisfait en partie mon désir d’être avec vous.",
+          "chapter": "15",
+          "name": "Romains 15:24"
+        },
+        {
+          "verse": "25",
+          "text": "Mais maintenant je vais à Jérusalem, pour assister les saints.",
+          "chapter": "15",
+          "name": "Romains 15:25"
+        },
+        {
+          "verse": "26",
+          "text": "Car il a plu à ceux de Macédoine et d’Achaïe d’apporter une certaine contribution pour les pauvres qui sont parmi les saints à Jérusalem.",
+          "chapter": "15",
+          "name": "Romains 15:26"
+        },
+        {
+          "verse": "27",
+          "text": "Il leur a plu, en effet, et ils le leur devaient. Car si les Gentils ont eu part à leurs biens spirituels, leur devoir est aussi de les aider dans les choses temporelles.",
+          "chapter": "15",
+          "name": "Romains 15:27"
+        },
+        {
+          "verse": "28",
+          "text": "Après donc que j’aurai achevé cela, et que je leur aurai remis ce fruit, je partirai pour l’Espagne, en passant par chez vous.",
+          "chapter": "15",
+          "name": "Romains 15:28"
+        },
+        {
+          "verse": "29",
+          "text": "Et je sais qu’en me rendant auprès de vous, je viendrai dans la plénitude de la bénédiction de l’évangile de Christ.",
+          "chapter": "15",
+          "name": "Romains 15:29"
+        },
+        {
+          "verse": "30",
+          "text": "Je vous supplie donc, frères, pour l’amour de notre Seigneur Jésus-Christ, et pour l’amour de l’Esprit, de combattre avec moi dans vos prières à Dieu pour moi;",
+          "chapter": "15",
+          "name": "Romains 15:30"
+        },
+        {
+          "verse": "31",
+          "text": "Afin que je sois délivré de ceux qui ne croient pas en Judée; et que mon service que j’ai à faire à Jérusalem soit acceptée des saints;",
+          "chapter": "15",
+          "name": "Romains 15:31"
+        },
+        {
+          "verse": "32",
+          "text": "En sorte que, par la volonté de Dieu, je vienne à vous avec joie, et que je me repose avec vous.",
+          "chapter": "15",
+          "name": "Romains 15:32"
+        },
+        {
+          "verse": "33",
+          "text": "Que le Dieu de paix soit avec vous tous. Amen.",
+          "chapter": "15",
+          "name": "Romains 15:33"
+        }
+      ],
+      "name": "Romains 15"
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Je vous recommande Phébé, notre sœur, qui est servante de l’église qui est à Cenchrée;",
+          "chapter": "16",
+          "name": "Romains 16:1"
+        },
+        {
+          "verse": "2",
+          "text": "Afin que vous la receviez dans le Seigneur, d’une manière digne des saints; et que vous l’assistiez dans toute affaire où elle aurait besoin de vous; car elle a aidé beaucoup de personnes, et moi en particulier.",
+          "chapter": "16",
+          "name": "Romains 16:2"
+        },
+        {
+          "verse": "3",
+          "text": "Saluez Priscilla et Aquila, mes compagnons d’œuvre en Christ Jésus",
+          "chapter": "16",
+          "name": "Romains 16:3"
+        },
+        {
+          "verse": "4",
+          "text": "Qui pour ma vie ont risqué leur cou auxquels je ne suis pas seul à les remercier, mais aussi toutes les églises des Gentils.",
+          "chapter": "16",
+          "name": "Romains 16:4"
+        },
+        {
+          "verse": "5",
+          "text": "Saluez aussi l’église qui est dans leur maison. Saluez Epanète, mon bien-aimé, qui est les prémices de l’Achaïe pour Christ.",
+          "chapter": "16",
+          "name": "Romains 16:5"
+        },
+        {
+          "verse": "6",
+          "text": "Saluez Marie, qui a pris beaucoup de peine pour nous.",
+          "chapter": "16",
+          "name": "Romains 16:6"
+        },
+        {
+          "verse": "7",
+          "text": "Saluez Andronicus et Junia, mes parents, et mes compagnons de captivité qui valent la peine d’être reconnus parmi les apôtres, qui même ont été en Christ avant moi.",
+          "chapter": "16",
+          "name": "Romains 16:7"
+        },
+        {
+          "verse": "8",
+          "text": "Saluez Amplias, mon bien-aimé dans le Seigneur.",
+          "chapter": "16",
+          "name": "Romains 16:8"
+        },
+        {
+          "verse": "9",
+          "text": "Saluez Urbain, notre compagnon d’œuvre en Christ; et Stachys, mon bien-aimé.",
+          "chapter": "16",
+          "name": "Romains 16:9"
+        },
+        {
+          "verse": "10",
+          "text": "Saluez Apelles approuvé en Christ. Saluez ceux de la maison d’Aristobule.",
+          "chapter": "16",
+          "name": "Romains 16:10"
+        },
+        {
+          "verse": "11",
+          "text": "Saluez Hérodion, mon parent. Saluez ceux de la maison de Narcisse, qui sont dans le Seigneur.",
+          "chapter": "16",
+          "name": "Romains 16:11"
+        },
+        {
+          "verse": "12",
+          "text": "Saluez Tryphène et Tryphose, qui ont travaillé dans le Seigneur. Saluez Persis (Perside), la bien-aimée, qui a beaucoup travaillé dans le Seigneur.",
+          "chapter": "16",
+          "name": "Romains 16:12"
+        },
+        {
+          "verse": "13",
+          "text": "Saluez Rufus, choisi dans le Seigneur, et sa mère, qui est aussi la mienne.",
+          "chapter": "16",
+          "name": "Romains 16:13"
+        },
+        {
+          "verse": "14",
+          "text": "Saluez Asyncrite, Phlegon, Hermas, Patrobas, Hermes, et les frères qui sont avec eux.",
+          "chapter": "16",
+          "name": "Romains 16:14"
+        },
+        {
+          "verse": "15",
+          "text": "Saluez Philologue et Julia, Nereus (Nérée) et sa sœur, et Olympas, et tous les saints qui sont avec eux.",
+          "chapter": "16",
+          "name": "Romains 16:15"
+        },
+        {
+          "verse": "16",
+          "text": "Saluez vous les uns les autres par un saint baiser. Les églises de Christ vous saluent.",
+          "chapter": "16",
+          "name": "Romains 16:16"
+        },
+        {
+          "verse": "17",
+          "text": "Maintenant je vous supplie, frères, à prendre garde à ceux qui causent des divisions et des scandales contraires à la doctrine que vous avez apprise, évitez-les.",
+          "chapter": "16",
+          "name": "Romains 16:17"
+        },
+        {
+          "verse": "18",
+          "text": "Car de telles gens ne servent pas notre Seigneur Jésus-Christ, mais leur propre ventre; et par de bonnes paroles et des discours flatteurs ils séduisent le cœur des simples.",
+          "chapter": "16",
+          "name": "Romains 16:18"
+        },
+        {
+          "verse": "19",
+          "text": "Votre obéissance est connue de tous; je me réjouis donc à votre sujet cependant je souhaite que vous soyez prudents à l’égard du bien, et purs à l’égard du mal.",
+          "chapter": "16",
+          "name": "Romains 16:19"
+        },
+        {
+          "verse": "20",
+          "text": "Or le Dieu de paix écrasera bientôt Satan sous vos pieds. La grâce de notre Seigneur Jésus-Christ soit avec vous. Amen.",
+          "chapter": "16",
+          "name": "Romains 16:20"
+        },
+        {
+          "verse": "21",
+          "text": "Timothée, mon compagnon d’œuvre, et Lucius, et Jason, et Sosipater, mes parents, vous saluent.",
+          "chapter": "16",
+          "name": "Romains 16:21"
+        },
+        {
+          "verse": "22",
+          "text": "Je vous salue dans le Seigneur, moi Tertius, qui ai écrit cette épître.",
+          "chapter": "16",
+          "name": "Romains 16:22"
+        },
+        {
+          "verse": "23",
+          "text": "Gaïus, mon hôte, et celui de toute l’église, vous salue. Éraste, le chambellan de la ville, et Quartus, un frère, vous saluent.",
+          "chapter": "16",
+          "name": "Romains 16:23"
+        },
+        {
+          "verse": "24",
+          "text": "La grâce de notre Seigneur Jésus-Christ soit avec vous tous. Amen.",
+          "chapter": "16",
+          "name": "Romains 16:24"
+        },
+        {
+          "verse": "25",
+          "text": "À celui qui est puissant pour vous affermir selon mon évangile et la prédication de Jésus-Christ, selon la révélation du mystère, qui a été tenu secret depuis le commencement du monde,",
+          "chapter": "16",
+          "name": "Romains 16:25"
+        },
+        {
+          "verse": "26",
+          "text": "Mais est maintenant manifesté par les écrits des prophètes, selon le commandement du Dieu éternel, et donné à connaître à toutes les nations, pour l’obéissance de la foi;",
+          "chapter": "16",
+          "name": "Romains 16:26"
+        },
+        {
+          "verse": "27",
+          "text": "À Dieu seul sage soit la gloire par Jésus-Christ pour toujours. Amen.",
+          "chapter": "16",
+          "name": "Romains 16:27"
+        }
+      ],
+      "name": "Romains 16"
+    }
+  ]
+}

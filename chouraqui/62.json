@@ -1,0 +1,672 @@
+{
+  "translation": "Chouraqui",
+  "abbreviation": "CHO",
+  "lang": "fr",
+  "language": "français",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 62,
+  "name": "1 Jean",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ce qui était dès l’entête, ce que nous avons entendu, ce que nous avons vu de nos yeux, ce que nous avons contemplé et que nos mains ont palpé du logos de la vie;",
+          "chapter": "1",
+          "name": "1 Jean 1:1"
+        },
+        {
+          "verse": "2",
+          "text": "la vie s’est manifestée; nous avons vu, nous attestons, nous vous annonçons la vie, celle de la pérennité, qui est vers le père et s’est manifestée à nous.",
+          "chapter": "1",
+          "name": "1 Jean 1:2"
+        },
+        {
+          "verse": "3",
+          "text": "Ce que nous avons vu et entendu, nous vous l’annonçons, à vous aussi, pour que vous soyez aussi en communion avec nous. Notre communion est avec le père et avec son fils Iéshoua‘, le messie.",
+          "chapter": "1",
+          "name": "1 Jean 1:3"
+        },
+        {
+          "verse": "4",
+          "text": "Nous vous écrivons cela pour que notre joie soit pleine.",
+          "chapter": "1",
+          "name": "1 Jean 1:4"
+        },
+        {
+          "verse": "5",
+          "text": "Voici le message que nous avons entendu de lui; nous vous l’annonçons: Elohîms est lumière, la ténèbre n’est aucunement en lui.",
+          "chapter": "1",
+          "name": "1 Jean 1:5"
+        },
+        {
+          "verse": "6",
+          "text": "Si nous disons: «Nous sommes en communion avec lui», tout en marchant dans la ténèbre, nous mentons, nous ne pratiquons pas la vérité.",
+          "chapter": "1",
+          "name": "1 Jean 1:6"
+        },
+        {
+          "verse": "7",
+          "text": "Si nous marchons dans la lumière comme il est lui-même dans la lumière, nous sommes en communion les uns avec les autres, et le sang de Iéshoua‘, son fils, nous purifie de toute faute.",
+          "chapter": "1",
+          "name": "1 Jean 1:7"
+        },
+        {
+          "verse": "8",
+          "text": "Si nous disons: «De faute, nous n’en avons pas», nous nous égarons nous-mêmes, la vérité n’est pas en nous.",
+          "chapter": "1",
+          "name": "1 Jean 1:8"
+        },
+        {
+          "verse": "9",
+          "text": "Si nous avouons nos fautes, il est fidèle et juste pour éloigner de nous les fautes et nous purifier de toute injustice.",
+          "chapter": "1",
+          "name": "1 Jean 1:9"
+        },
+        {
+          "verse": "10",
+          "text": "Si nous disons que nous n’avons pas fauté, nous faisons de lui un menteur: sa parole n’est pas en nous.",
+          "chapter": "1",
+          "name": "1 Jean 1:10"
+        }
+      ],
+      "name": "1 Jean 1"
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Mes petits enfants, je vous écris ceci pour que vous ne fautiez pas. Si quelqu’un faute, nous avons un réconfort auprès du père, Iéshoua‘, le messie, le juste.",
+          "chapter": "2",
+          "name": "1 Jean 2:1"
+        },
+        {
+          "verse": "2",
+          "text": "Il est l’absolution de nos fautes, non seulement les nôtres mais celles de tout l’univers.",
+          "chapter": "2",
+          "name": "1 Jean 2:2"
+        },
+        {
+          "verse": "3",
+          "text": "Et en ceci nous pénétrons que nous l’avons pénétré, si nous gardons ses misvot.",
+          "chapter": "2",
+          "name": "1 Jean 2:3"
+        },
+        {
+          "verse": "4",
+          "text": "Celui qui dit: «Je l’ai pénétré», et ne garde pas ses misvot est un menteur; la vérité n’est pas en lui.",
+          "chapter": "2",
+          "name": "1 Jean 2:4"
+        },
+        {
+          "verse": "5",
+          "text": "Mais celui qui garde sa parole en vérité, en cet homme l’amour d’Elohîms est parfait. En ceci nous pénétrons que nous sommes en lui.",
+          "chapter": "2",
+          "name": "1 Jean 2:5"
+        },
+        {
+          "verse": "6",
+          "text": "Celui qui dit demeurer en lui doit marcher comme lui-même a marché.",
+          "chapter": "2",
+          "name": "1 Jean 2:6"
+        },
+        {
+          "verse": "7",
+          "text": "Aimés, ce n’est pas une nouvelle misva que je vous écris, mais une misva ancienne, que vous avez dès l’entête. Cette misva ancienne, c’est la parole que vous avez entendue.",
+          "chapter": "2",
+          "name": "1 Jean 2:7"
+        },
+        {
+          "verse": "8",
+          "text": "Néanmoins c’est une misva nouvelle que je vous écris, qui était vraie pour lui comme pour vous, puisque la ténèbre passe et que la vraie lumière déjà brille.",
+          "chapter": "2",
+          "name": "1 Jean 2:8"
+        },
+        {
+          "verse": "9",
+          "text": "Celui qui dit être dans la lumière tout en haïssant son frère est encore dans la ténèbre.",
+          "chapter": "2",
+          "name": "1 Jean 2:9"
+        },
+        {
+          "verse": "10",
+          "text": "Qui aime son frère demeure dans la lumière; il n’est pas d’achoppement en lui.",
+          "chapter": "2",
+          "name": "1 Jean 2:10"
+        },
+        {
+          "verse": "11",
+          "text": "Mais qui hait son frère est dans la ténèbre et marche dans la ténèbre et ne sait pas où il va, parce que la ténèbre a aveuglé ses yeux.",
+          "chapter": "2",
+          "name": "1 Jean 2:11"
+        },
+        {
+          "verse": "12",
+          "text": "Je vous écris, petits enfants, parce que les fautes vous ont été remises à cause de son nom.",
+          "chapter": "2",
+          "name": "1 Jean 2:12"
+        },
+        {
+          "verse": "13",
+          "text": "Je vous écris, pères, parce que vous l’avez pénétré, celui qui est dès l’entête. Je vous écris, jeunes, parce que vous avez vaincu le criminel.",
+          "chapter": "2",
+          "name": "1 Jean 2:13"
+        },
+        {
+          "verse": "14",
+          "text": "Je vous ai écrit, petits enfants, parce que vous avez pénétré le père. Je vous écris, pères, parce que vous l’avez pénétré, celui qui est dès l’entête. Je vous écris, jeunes, parce que vous êtes forts; la parole d’Elohîms demeure en vous; vous avez vaincu le criminel.",
+          "chapter": "2",
+          "name": "1 Jean 2:14"
+        },
+        {
+          "verse": "15",
+          "text": "N’aimez pas l’univers, ni ce qui est en l’univers. Si quelqu’un aime l’univers, l’amour du père n’est pas en lui,",
+          "chapter": "2",
+          "name": "1 Jean 2:15"
+        },
+        {
+          "verse": "16",
+          "text": "parce que tout ce qui est dans l’univers: la convoitise de la chair, la convoitise des yeux, la fanfaronnade de la vie, ne vient pas du père, mais de l’univers.",
+          "chapter": "2",
+          "name": "1 Jean 2:16"
+        },
+        {
+          "verse": "17",
+          "text": "Or l’univers passe, lui et sa convoitise; mais qui fait le vouloir d’Elohîms demeure en pérennité.",
+          "chapter": "2",
+          "name": "1 Jean 2:17"
+        },
+        {
+          "verse": "18",
+          "text": "Petits enfants, c’est la dernière heure. Vous l’avez entendu: l’anti-messie vient. Déjà, même, de nombreux anti-messies ont surgi. Nous pénétrons donc que c’est la dernière heure.",
+          "chapter": "2",
+          "name": "1 Jean 2:18"
+        },
+        {
+          "verse": "19",
+          "text": "Ils sont sortis de chez nous, mais ils n’étaient pas des nôtres. Oui, s’ils avaient été des nôtres, ils seraient demeurés avec nous. Mais il fallait manifester qu’ils ne sont pas tous des nôtres.",
+          "chapter": "2",
+          "name": "1 Jean 2:19"
+        },
+        {
+          "verse": "20",
+          "text": "Vous-mêmes vous avez une huile venant du consacré, et vous le pénétrez, tous.",
+          "chapter": "2",
+          "name": "1 Jean 2:20"
+        },
+        {
+          "verse": "21",
+          "text": "Je vous écris, non parce que vous ne connaissez pas la vérité, mais parce que vous la pénétrez, et parce qu’aucun mensonge n’est de la vérité.",
+          "chapter": "2",
+          "name": "1 Jean 2:21"
+        },
+        {
+          "verse": "22",
+          "text": "Qui est menteur, sinon celui qui nie que Iéshoua‘ est le messie? Voilà l’anti-messie, celui qui nie le père et le fils.",
+          "chapter": "2",
+          "name": "1 Jean 2:22"
+        },
+        {
+          "verse": "23",
+          "text": "Qui nie le fils n’a pas non plus le père; qui atteste le fils a le père aussi.",
+          "chapter": "2",
+          "name": "1 Jean 2:23"
+        },
+        {
+          "verse": "24",
+          "text": "Ce que vous avez entendu dès l’entête, que cela demeure en vous! Si ce que vous avez entendu depuis l’entête demeure en vous, vous aussi, vous demeurerez dans le fils et dans le père.",
+          "chapter": "2",
+          "name": "1 Jean 2:24"
+        },
+        {
+          "verse": "25",
+          "text": "Voici la promesse qu’il nous a promise: la vie, celle de la pérennité.",
+          "chapter": "2",
+          "name": "1 Jean 2:25"
+        },
+        {
+          "verse": "26",
+          "text": "Cela, je vous l’ai écrit à propos de ceux qui vous égarent;",
+          "chapter": "2",
+          "name": "1 Jean 2:26"
+        },
+        {
+          "verse": "27",
+          "text": "mais vous, l’huile que vous avez reçue de lui, qu’elle demeure en vous! Vous n’avez nul besoin de quiconque pour vous enseigner, puisque son huile vous instruit en tout. Elle est vraie, et non pas un mensonge. Comme elle vous l’enseigne, demeurez en lui.",
+          "chapter": "2",
+          "name": "1 Jean 2:27"
+        },
+        {
+          "verse": "28",
+          "text": "Et maintenant, petits enfants, demeurez en lui, pour que nous ayons confiance quand il se manifestera, et que nous ne soyons pas confus, loin de lui, à son avènement.",
+          "chapter": "2",
+          "name": "1 Jean 2:28"
+        },
+        {
+          "verse": "29",
+          "text": "Puisque vous savez qu’il est juste, pénétrez que celui qui pratique aussi la justice est né de lui.",
+          "chapter": "2",
+          "name": "1 Jean 2:29"
+        }
+      ],
+      "name": "1 Jean 2"
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Voyez de quel amour le père nous fait don, pour que nous soyons appelés enfants d’Elohîms; et nous le sommes! Pour cela l’univers ne nous a pas pénétrés, parce qu’il ne l’a pas pénétré.",
+          "chapter": "3",
+          "name": "1 Jean 3:1"
+        },
+        {
+          "verse": "2",
+          "text": "Aimés, maintenant nous sommes enfants d’Elohîms, mais ce que nous serons n’est pas encore apparu. Nous le savons: lorsqu’il apparaîtra, nous serons semblables à lui, parce que nous le verrons tel qu’il est.",
+          "chapter": "3",
+          "name": "1 Jean 3:2"
+        },
+        {
+          "verse": "3",
+          "text": "Et quiconque a cet espoir en lui se purifie, comme est pur celui-là.",
+          "chapter": "3",
+          "name": "1 Jean 3:3"
+        },
+        {
+          "verse": "4",
+          "text": "Quiconque fait une faute agit aussi sans la tora, et la faute est sans la tora.",
+          "chapter": "3",
+          "name": "1 Jean 3:4"
+        },
+        {
+          "verse": "5",
+          "text": "Vous le savez: celui-là s’est manifesté pour enlever les fautes, et la faute en lui n’est pas.",
+          "chapter": "3",
+          "name": "1 Jean 3:5"
+        },
+        {
+          "verse": "6",
+          "text": "Quiconque demeure en lui ne faute pas. Quiconque faute ne l’a pas vu, ni pénétré.",
+          "chapter": "3",
+          "name": "1 Jean 3:6"
+        },
+        {
+          "verse": "7",
+          "text": "Petits enfants, que nul ne vous égare: celui qui pratique la justice est juste, comme est juste celui-là.",
+          "chapter": "3",
+          "name": "1 Jean 3:7"
+        },
+        {
+          "verse": "8",
+          "text": "Qui fait la faute est du diable, parce que le diable faute dès l’entête. Pour cela Bèn Elohîms s’est manifesté, pour que soient détruites les œuvres du diable.",
+          "chapter": "3",
+          "name": "1 Jean 3:8"
+        },
+        {
+          "verse": "9",
+          "text": "Quiconque naît d’Elohîms ne fait pas de faute, parce que sa semence demeure en lui. Il ne peut fauter, parce qu’il est né d’Elohîms.",
+          "chapter": "3",
+          "name": "1 Jean 3:9"
+        },
+        {
+          "verse": "10",
+          "text": "Les enfants d’Elohîms et les enfants du diable se manifestent en ceci: qui ne pratique pas la justice n’est pas d’Elohîms, ni qui n’aime pas son frère.",
+          "chapter": "3",
+          "name": "1 Jean 3:10"
+        },
+        {
+          "verse": "11",
+          "text": "Tel est le message que vous avez entendu dès l’entête: que nous nous aimions les uns les autres.",
+          "chapter": "3",
+          "name": "1 Jean 3:11"
+        },
+        {
+          "verse": "12",
+          "text": "Non comme Caïn; il était du criminel et il égorgea son frère. Pourquoi l’a-t-il égorgé? Parce que ses œuvres étaient criminelles, et celles de son frère justes.",
+          "chapter": "3",
+          "name": "1 Jean 3:12"
+        },
+        {
+          "verse": "13",
+          "text": "Ne vous étonnez pas, frères, si l’univers vous hait.",
+          "chapter": "3",
+          "name": "1 Jean 3:13"
+        },
+        {
+          "verse": "14",
+          "text": "Nous savons que nous sommes passés de la mort à la vie parce que nous aimons les frères. Celui qui n’aime pas demeure dans la mort.",
+          "chapter": "3",
+          "name": "1 Jean 3:14"
+        },
+        {
+          "verse": "15",
+          "text": "Qui hait son frère est un tueur d’homme, et, vous le savez, aucun tueur d’homme n’a la vie de la pérennité qui demeure en lui.",
+          "chapter": "3",
+          "name": "1 Jean 3:15"
+        },
+        {
+          "verse": "16",
+          "text": "En ceci nous avons pénétré l’amour, parce que celui-là a donné son être pour nous aussi, et nous aussi, nous devons donner nos êtres pour les frères.",
+          "chapter": "3",
+          "name": "1 Jean 3:16"
+        },
+        {
+          "verse": "17",
+          "text": "Qui a la vie de l’univers voit son frère dans le besoin et lui ferme ses entrailles, comment l’amour d’Elohîms demeurerait-il en lui?",
+          "chapter": "3",
+          "name": "1 Jean 3:17"
+        },
+        {
+          "verse": "18",
+          "text": "Petits enfants, n’aimons ni en paroles ni par la langue, mais en œuvre et vérité.",
+          "chapter": "3",
+          "name": "1 Jean 3:18"
+        },
+        {
+          "verse": "19",
+          "text": "Par cela nous pénétrerons que nous sommes de la vérité et, devant lui, nous apaiserons notre cœur.",
+          "chapter": "3",
+          "name": "1 Jean 3:19"
+        },
+        {
+          "verse": "20",
+          "text": "Si notre cœur nous condamne, Elohîms est plus grand que notre cœur; il pénètre tout.",
+          "chapter": "3",
+          "name": "1 Jean 3:20"
+        },
+        {
+          "verse": "21",
+          "text": "Aimés, si notre cœur ne nous condamne pas, ayons confiance en Elohîms.",
+          "chapter": "3",
+          "name": "1 Jean 3:21"
+        },
+        {
+          "verse": "22",
+          "text": "Quoi que nous lui demandions, nous le recevrons de lui, parce que nous gardons ses misvot et faisons ce qui lui est agréable.",
+          "chapter": "3",
+          "name": "1 Jean 3:22"
+        },
+        {
+          "verse": "23",
+          "text": "Et voici son commandement: adhérer au nom de son fils Iéshoua‘, le messie, et nous aimer les uns les autres comme il nous en a donné la misva.",
+          "chapter": "3",
+          "name": "1 Jean 3:23"
+        },
+        {
+          "verse": "24",
+          "text": "Celui qui garde ses commandements demeure en lui, et celui-ci en lui-même. Par là nous pénétrons qu’il demeure en nous: par le souffle qu’il nous a donné.",
+          "chapter": "3",
+          "name": "1 Jean 3:24"
+        }
+      ],
+      "name": "1 Jean 3"
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Aimés, n’adhérez pas à tout souffle, mais éprouvez si les souffles sont d’Elohîms, car beaucoup de pseudo-inspirés sont venus dans l’univers.",
+          "chapter": "4",
+          "name": "1 Jean 4:1"
+        },
+        {
+          "verse": "2",
+          "text": "En ceci vous pénétrez le souffle d’Elohîms: tout souffle qui atteste Iéshoua‘, le messie, venu dans la chair, est d’Elohîms.",
+          "chapter": "4",
+          "name": "1 Jean 4:2"
+        },
+        {
+          "verse": "3",
+          "text": "Et tout souffle qui n’atteste pas Iéshoua‘ n’est pas d’Elohîms; il est de l’anti-messie, dont vous avez entendu qu’il vient et qu’il est déjà dans l’univers.",
+          "chapter": "4",
+          "name": "1 Jean 4:3"
+        },
+        {
+          "verse": "4",
+          "text": "Vous, vous êtes d’Elohîms, petits enfants; vous les avez vaincus, parce que celui qui est en vous est plus grand que celui qui est dans l’univers.",
+          "chapter": "4",
+          "name": "1 Jean 4:4"
+        },
+        {
+          "verse": "5",
+          "text": "Eux-mêmes sont de l’univers; alors ils parlent de l’univers, et l’univers les entend.",
+          "chapter": "4",
+          "name": "1 Jean 4:5"
+        },
+        {
+          "verse": "6",
+          "text": "Nous sommes d’Elohîms. Celui qui pénètre Elohîms nous entend; celui qui n’est pas d’Elohîms ne nous entend pas. À cela nous pénétrons le souffle de vérité et le souffle de l’erreur.",
+          "chapter": "4",
+          "name": "1 Jean 4:6"
+        },
+        {
+          "verse": "7",
+          "text": "Aimés, aimons-nous les uns les autres, parce que l’amour est d’Elohîms; tout être aimant est d’Elohîms et pénètre Elohîms.",
+          "chapter": "4",
+          "name": "1 Jean 4:7"
+        },
+        {
+          "verse": "8",
+          "text": "Ceux qui n’aiment pas ne pénètrent pas Elohîms, parce qu’Elohîms est amour.",
+          "chapter": "4",
+          "name": "1 Jean 4:8"
+        },
+        {
+          "verse": "9",
+          "text": "L’amour d’Elohîms s’est manifesté pour nous en ceci: Elohîms a envoyé son fils unique dans l’univers, afin que nous vivions par lui.",
+          "chapter": "4",
+          "name": "1 Jean 4:9"
+        },
+        {
+          "verse": "10",
+          "text": "L’amour est en ceci: non que nous nous ayons aimé Elohîms, mais lui, il nous a aimés et a envoyé son fils pour absoudre nos fautes.",
+          "chapter": "4",
+          "name": "1 Jean 4:10"
+        },
+        {
+          "verse": "11",
+          "text": "Aimés, si Elohîms nous a aimés ainsi, nous aussi, nous devons nous aimer les uns les autres.",
+          "chapter": "4",
+          "name": "1 Jean 4:11"
+        },
+        {
+          "verse": "12",
+          "text": "Elohîms, nul ne l’a jamais contemplé. Si nous nous aimons les uns les autres, Elohîms demeure en nous, et son amour est parfait en nous.",
+          "chapter": "4",
+          "name": "1 Jean 4:12"
+        },
+        {
+          "verse": "13",
+          "text": "En ceci nous pénétrons que nous demeurons en lui et lui en nous, parce qu’il nous a donné de son souffle.",
+          "chapter": "4",
+          "name": "1 Jean 4:13"
+        },
+        {
+          "verse": "14",
+          "text": "Et nous, nous avons contemplé, et nous en témoignons: le père a envoyé le fils en sauveur de l’univers.",
+          "chapter": "4",
+          "name": "1 Jean 4:14"
+        },
+        {
+          "verse": "15",
+          "text": "Qui peut attester que Iéshoua‘ est le fils d’Elohîms, Elohîms demeure en lui, et lui en Elohîms.",
+          "chapter": "4",
+          "name": "1 Jean 4:15"
+        },
+        {
+          "verse": "16",
+          "text": "Et nous, nous avons pénétré l’amour, nous avons adhéré à l’amour qu’Elohîms a pour nous. Elohîms est amour. Qui demeure dans l’amour demeure en Elohîms; Elohîms demeure en lui.",
+          "chapter": "4",
+          "name": "1 Jean 4:16"
+        },
+        {
+          "verse": "17",
+          "text": "En ceci l’amour est parfait avec nous pour que nous ayons confiance, le jour du jugement. Ce qu’est celui-là, nous le sommes aussi en cet univers.",
+          "chapter": "4",
+          "name": "1 Jean 4:17"
+        },
+        {
+          "verse": "18",
+          "text": "La crainte n’est pas dans l’amour, mais l’amour parfait jette dehors la crainte, parce que la crainte suppose un châtiment. Celui qui craint n’est pas parfait dans l’amour.",
+          "chapter": "4",
+          "name": "1 Jean 4:18"
+        },
+        {
+          "verse": "19",
+          "text": "Nous, nous aimons, parce que lui, le premier, nous a aimés.",
+          "chapter": "4",
+          "name": "1 Jean 4:19"
+        },
+        {
+          "verse": "20",
+          "text": "Si quelqu’un dit: «J’aime Elohîms», et qu’il haïsse son frère, c’est un menteur. Oui, qui n’aime pas son frère qu’il voit ne peut aimer Elohîms qu’il ne voit pas.",
+          "chapter": "4",
+          "name": "1 Jean 4:20"
+        },
+        {
+          "verse": "21",
+          "text": "Voici, la misva, nous l’avons de lui: celui qui aime Elohîms aime aussi son frère.",
+          "chapter": "4",
+          "name": "1 Jean 4:21"
+        }
+      ],
+      "name": "1 Jean 4"
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Quiconque adhère à: «Iéshoua‘ est le messie» est né d’Elohîms. Quiconque aime l’engendreur aime aussi celui qu’il a engendré.",
+          "chapter": "5",
+          "name": "1 Jean 5:1"
+        },
+        {
+          "verse": "2",
+          "text": "En ceci nous pénétrons que nous aimons les enfants d’Elohîms, quand nous aimons Elohîms et que nous faisons ses misvot.",
+          "chapter": "5",
+          "name": "1 Jean 5:2"
+        },
+        {
+          "verse": "3",
+          "text": "Oui, tel est l’amour d’Elohîms: garder ses misvot. Et ses misvot ne sont pas pesantes,",
+          "chapter": "5",
+          "name": "1 Jean 5:3"
+        },
+        {
+          "verse": "4",
+          "text": "puisque tout ce qui naît d’Elohîms triomphe de l’univers. Et voici la victoire qui a vaincu l’univers: notre adhérence.",
+          "chapter": "5",
+          "name": "1 Jean 5:4"
+        },
+        {
+          "verse": "5",
+          "text": "Qui est le vainqueur de l’univers, sinon celui qui a adhéré à ce que Iéshoua‘ est le fils d’Elohîms?",
+          "chapter": "5",
+          "name": "1 Jean 5:5"
+        },
+        {
+          "verse": "6",
+          "text": "Le voici, il est venu par l’eau et le sang, Iéshoua‘, le messie; non dans l’eau seulement, mais dans l’eau et dans le sang. Et le souffle rend témoignage, parce que le souffle est la vérité.",
+          "chapter": "5",
+          "name": "1 Jean 5:6"
+        },
+        {
+          "verse": "7",
+          "text": "Parce qu’il y a trois témoins:",
+          "chapter": "5",
+          "name": "1 Jean 5:7"
+        },
+        {
+          "verse": "8",
+          "text": "le souffle, l’eau et le sang; et les trois sont en l’unique.",
+          "chapter": "5",
+          "name": "1 Jean 5:8"
+        },
+        {
+          "verse": "9",
+          "text": "Si nous recevons le témoignage des hommes, le témoignage d’Elohîms est plus grand, parce que tel est le témoignage d’Elohîms: il a porté témoignage pour son fils.",
+          "chapter": "5",
+          "name": "1 Jean 5:9"
+        },
+        {
+          "verse": "10",
+          "text": "Celui qui adhère au fils d’Elohîms a le témoignage en lui-même. Celui qui n’adhère pas à Elohîms a fait de lui un menteur, parce qu’il n’a pas adhéré au témoignage d’Elohîms, qui a témoigné pour son fils.",
+          "chapter": "5",
+          "name": "1 Jean 5:10"
+        },
+        {
+          "verse": "11",
+          "text": "Et voici le témoignage: Elohîms nous a donné la vie de pérennité, et cette vie est en son fils.",
+          "chapter": "5",
+          "name": "1 Jean 5:11"
+        },
+        {
+          "verse": "12",
+          "text": "Qui a le fils a la vie; qui n’a pas le fils d’Elohîms n’a pas la vie.",
+          "chapter": "5",
+          "name": "1 Jean 5:12"
+        },
+        {
+          "verse": "13",
+          "text": "Je vous ai écrit ceci pour que vous le sachiez: vous avez la vie de pérennité, vous qui adhérez au nom du fils d’Elohîms.",
+          "chapter": "5",
+          "name": "1 Jean 5:13"
+        },
+        {
+          "verse": "14",
+          "text": "Et voici la certitude que nous avons en lui: quoi que nous lui demandions selon son vouloir, il nous entend.",
+          "chapter": "5",
+          "name": "1 Jean 5:14"
+        },
+        {
+          "verse": "15",
+          "text": "Et si nous savons qu’il nous entend, quoi que nous lui demandions, nous savons que nous avons les demandes que nous lui avons demandées.",
+          "chapter": "5",
+          "name": "1 Jean 5:15"
+        },
+        {
+          "verse": "16",
+          "text": "Si quelqu’un voit son frère fauter d’une faute qui ne conduit pas à la mort, qu’il demande, et il lui donnera la vie. Cela pour les fautes ne conduisant pas à la mort. Mais il est une faute qui conduit à la mort, ce n’est pas pour celle-là que j’ai dit d’intercéder.",
+          "chapter": "5",
+          "name": "1 Jean 5:16"
+        },
+        {
+          "verse": "17",
+          "text": "Toute injustice est une faute; mais il est une faute qui ne conduit pas à la mort.",
+          "chapter": "5",
+          "name": "1 Jean 5:17"
+        },
+        {
+          "verse": "18",
+          "text": "Nous savons que quiconque est né d’Elohîms ne faute pas, mais qui est né d’Elohîms le garde, et le criminel ne le touche pas.",
+          "chapter": "5",
+          "name": "1 Jean 5:18"
+        },
+        {
+          "verse": "19",
+          "text": "Nous savons que nous sommes d’Elohîms; mais l’univers entier nuite dans le crime.",
+          "chapter": "5",
+          "name": "1 Jean 5:19"
+        },
+        {
+          "verse": "20",
+          "text": "Nous savons que le fils d’Elohîms est venu. Il nous a donné l’intelligence de pénétrer le vrai. Et nous sommes dans le vrai, en son fils Iéshoua‘, le messie. Celui-là est le vrai Elohîms, la vie de pérennité.",
+          "chapter": "5",
+          "name": "1 Jean 5:20"
+        },
+        {
+          "verse": "21",
+          "text": "Petits enfants, gardez-vous des idoles.",
+          "chapter": "5",
+          "name": "1 Jean 5:21"
+        }
+      ],
+      "name": "1 Jean 5"
+    }
+  ]
+}
