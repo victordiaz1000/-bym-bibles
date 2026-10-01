@@ -1,0 +1,2032 @@
+{
+  "translation": "Septuaginta (Rahlfs) — traductions françaises de Giguet et d'Alexandrie",
+  "abbreviation": "SEF",
+  "lang": "fr",
+  "language": "français (avec le grec de la Septante)",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 15,
+  "name": "Esdras",
+  "chapters": [
+    {
+      "chapter": 1,
+      "name": "Esdras 1",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "La première année de la domination de Cyrus, roi des Perses, la parole du Seigneur qu'avait proférée la bouche de Jérémie le prophète, devait s'accomplir ; le Seigneur excita l'esprit de Cyrus, roi des Perses, et il envoya en tout son royaume une proclamation par écrit, disant :",
+          "grec": "καὶ ἐν τῷ πρώτῳ ἔτει Κύρου τοῦ βασιλέως Περσῶν τοῦ τελεσθῆναι λόγον κυρίου ἀπὸ στόματος Ιερεμιου ἐξήγειρεν κύριος τὸ πνεῦμα Κύρου βασιλέως Περσῶν καὶ παρήγγειλεν φωνὴν ἐν πάσῃ βασιλείᾳ αὐτοῦ καί γε ἐν γραπτῷ λέγων.",
+          "name": "Esdras 1:1",
+          "chapter": "1"
+        },
+        {
+          "verse": "2",
+          "text": "Voici ce qu'a dit Cyrus, roi des Perses : Le Seigneur Dieu du ciel m'a donné tous les royaumes de la terre, et lui-même a jeté les yeux sur moi pour que je lui bâtisse un temple à Jérusalem en Judée.",
+          "grec": "οὕτως εἶπεν Κῦρος βασιλεὺς Περσῶν πάσας τὰς βασιλείας τῆς γῆς ἔδωκέν μοι κύριος ὁ θεὸς τοῦ οὐρανοῦ καὶ αὐτὸς ἐπεσκέψατο ἐπ' ἐμὲ τοῦ οἰκοδομῆσαι αὐτῷ οἶκον ἐν Ιερουσαλημ τῇ ἐν τῇ Ιουδαίᾳ.",
+          "name": "Esdras 1:2",
+          "chapter": "1"
+        },
+        {
+          "verse": "3",
+          "text": "Qui donc, parmi vous tous, est de son peuple ? Son Dieu sera avec lui, et il partira pour Jérusalem en Judée ; qu'il y bâtisse le temple du Dieu d'Israël ; le seul Dieu est celui qui réside à Jérusalem.",
+          "grec": "τίς ἐν ὑμῖν ἀπὸ παντὸς τοῦ λαοῦ αὐτοῦ καὶ ἔσται ὁ θεὸς αὐτοῦ μετ' αὐτοῦ καὶ ἀναβήσεται εἰς Ιερουσαλημ τὴν ἐν τῇ Ιουδαίᾳ καὶ οἰκοδομησάτω τὸν οἶκον θεοῦ Ισραηλ αὐτὸς ὁ θεὸς ὁ ἐν Ιερουσαλημ.",
+          "name": "Esdras 1:3",
+          "chapter": "1"
+        },
+        {
+          "verse": "4",
+          "text": "Tous ceux de ce peuple qui vivent encore, en quelque lieu qu'ils habitent, les hommes de ce lieu les aideront de dons en argent, en or, en meubles, ou en bestiaux, outre ce qu'ils offriront volontairement pour le temple de Dieu à Jérusalem.",
+          "grec": "καὶ πᾶς ὁ καταλειπόμενος ἀπὸ πάντων τῶν τόπων οὗ αὐτὸς παροικεῖ ἐκεῖ καὶ λήμψονται αὐτὸν ἄνδρες τοῦ τόπου αὐτοῦ ἐν ἀργυρίῳ καὶ χρυσίῳ καὶ ἀποσκευῇ καὶ κτήνεσιν μετὰ τοῦ ἑκουσίου εἰς οἶκον τοῦ θεοῦ τοῦ ἐν Ιερουσαλημ.",
+          "name": "Esdras 1:4",
+          "chapter": "1"
+        },
+        {
+          "verse": "5",
+          "text": "Alors, se levèrent les chefs de famille de Juda et de Benjamin, et les prêtres et les lévites, tous ceux que l'Esprit de Dieu excita à partir et à relever le temple du Seigneur à Jérusalem.",
+          "grec": "καὶ ἀνέστησαν ἄρχοντες τῶν πατριῶν τῷ Ιουδα καὶ Βενιαμιν καὶ οἱ ἱερεῖς καὶ οἱ Λευῖται πάντων ὧν ἐξήγειρεν ὁ θεὸς τὸ πνεῦμα αὐτῶν τοῦ ἀναβῆναι οἰκοδομῆσαι τὸν οἶκον κυρίου τὸν ἐν Ιερουσαλημ.",
+          "name": "Esdras 1:5",
+          "chapter": "1"
+        },
+        {
+          "verse": "6",
+          "text": "Et tous ceux qui les entouraient leur fortifièrent les mains avec des vases d'argent, de l'or, des meubles, des bestiaux et des présents, outre les dons volontaires pour le temple.",
+          "grec": "καὶ πάντες οἱ κυκλόθεν ἐνίσχυσαν ἐν χερσὶν αὐτῶν ἐν σκεύεσιν ἀργυρίου ἐν χρυσῷ ἐν ἀποσκευῇ καὶ ἐν κτήνεσιν καὶ ἐν ξενίοις πάρεξ τῶν ἐν ἑκουσίοις.",
+          "name": "Esdras 1:6",
+          "chapter": "1"
+        },
+        {
+          "verse": "7",
+          "text": "Et le roi Cyrus offrit les vases du temple du Seigneur que Nabuchodonosor avait enlevés de Jérusalem, et qu'il avait dédiés au temple de son Dieu.",
+          "grec": "καὶ ὁ βασιλεὺς Κῦρος ἐξήνεγκεν τὰ σκεύη οἴκου κυρίου ἃ ἔλαβεν Ναβουχοδονοσορ ἀπὸ Ιερουσαλημ καὶ ἔδωκεν αὐτὰ ἐν οἴκῳ θεοῦ αὐτοῦ.",
+          "name": "Esdras 1:7",
+          "chapter": "1"
+        },
+        {
+          "verse": "8",
+          "text": "Cyrus, roi des Perses, les donna par la main de Mithradate le trésorier, et celui-ci les compta avec Sasabasar, chef de Juda.",
+          "grec": "καὶ ἐξήνεγκεν αὐτὰ Κῦρος βασιλεὺς Περσῶν ἐπὶ χεῖρα Μιθραδάτου γασβαρηνου καὶ ἠρίθμησεν αὐτὰ τῷ Σασαβασαρ ἄρχοντι τοῦ Ιουδα.",
+          "name": "Esdras 1:8",
+          "chapter": "1"
+        },
+        {
+          "verse": "9",
+          "text": "En voici le nombre : trente coupes d'or, mille d'argent, vingt-neuf de divers genres, trente coupes d'or,",
+          "grec": "καὶ οὗτος ὁ ἀριθμὸς αὐτῶν ψυκτῆρες χρυσοῖ τριάκοντα καὶ ψυκτῆρες ἀργυροῖ χίλιοι παρηλλαγμένα ἐννέα καὶ εἴκοσι.",
+          "name": "Esdras 1:9",
+          "chapter": "1"
+        },
+        {
+          "verse": "10",
+          "text": "Quatre cent dix doubles coupes d'argent, et mille autres vases.",
+          "grec": "κεφφουρη χρυσοῖ τριάκοντα καὶ ἀργυροῖ διακόσιοι καὶ σκεύη ἕτερα χίλια.",
+          "name": "Esdras 1:10",
+          "chapter": "1"
+        },
+        {
+          "verse": "11",
+          "text": "Il y avait en tout cinq mille quatre cents vases d'or et d'argent qui furent emportés par Sasabasar, du lieu d'exil de Babylone, à Jérusalem.",
+          "grec": "πάντα τὰ σκεύη τῷ χρυσῷ καὶ τῷ ἀργύρῳ πεντακισχίλια καὶ τετρακόσια τὰ πάντα ἀναβαίνοντα μετὰ Σασαβασαρ ἀπὸ τῆς ἀποικίας ἐκ Βαβυλῶνος εἰς Ιερουσαλημ.",
+          "name": "Esdras 1:11",
+          "chapter": "1"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "name": "Esdras 2",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et voici les fils de la terre promise qui partirent de la captivité et du lieu d'exil où les avait transportés Nabuchodonosor, roi de Babylone, pour retourner à Jérusalem et en Juda, chacun en sa ville.",
+          "grec": "καὶ οὗτοι οἱ υἱοὶ τῆς χώρας οἱ ἀναβαίνοντες ἀπὸ τῆς αἰχμαλωσίας τῆς ἀποικίας ἧς ἀπῴκισεν Ναβουχοδονοσορ βασιλεὺς Βαβυλῶνος εἰς Βαβυλῶνα καὶ ἐπέστρεψαν εἰς Ιερουσαλημ καὶ Ιουδα ἀνὴρ εἰς πόλιν αὐτοῦ.",
+          "name": "Esdras 2:1",
+          "chapter": "2"
+        },
+        {
+          "verse": "2",
+          "text": "Ceux qui partirent avec Zorobabel furent : Josué, Néhémias, Saraïas, Réhétias, Mardochée, Balasan, Masphar, Bachué, Rehum, Baana. Voici le dénombrement du peuple d'Israël",
+          "grec": "οἳ ἦλθον μετὰ Ζοροβαβελ Ἰησοῦς Νεεμιας Σαραιας Ρεελιας Μαρδοχαιος Βαλασαν Μασφαρ Βαγουι Ρεουμ Βαανα ἀνδρῶν ἀριθμὸς λαοῦ Ισραηλ.",
+          "name": "Esdras 2:2",
+          "chapter": "2"
+        },
+        {
+          "verse": "3",
+          "text": "Fils de Pharès : deux mille cent soixante-douze.",
+          "grec": "υἱοὶ Φορος δισχίλιοι ἑκατὸν ἑβδομήκοντα δύο.",
+          "name": "Esdras 2:3",
+          "chapter": "2"
+        },
+        {
+          "verse": "4",
+          "text": "Fils de Saphatia : trois cent soixante-douze.",
+          "grec": "υἱοὶ Σαφατια τριακόσιοι ἑβδομήκοντα δύο.",
+          "name": "Esdras 2:4",
+          "chapter": "2"
+        },
+        {
+          "verse": "5",
+          "text": "Fils d'Arès : sept cent soixante-quinze.",
+          "grec": "υἱοὶ Ηρα ἑπτακόσιοι ἑβδομήκοντα πέντε.",
+          "name": "Esdras 2:5",
+          "chapter": "2"
+        },
+        {
+          "verse": "6",
+          "text": "Fils de Phaath -Moab, issus des fils de Josué et de Joab : deux mille huit cent douze.",
+          "grec": "υἱοὶ Φααθμωαβ τοῖς υἱοῖς Ιησουε Ιωαβ δισχίλιοι ὀκτακόσιοι δέκα δύο.",
+          "name": "Esdras 2:6",
+          "chapter": "2"
+        },
+        {
+          "verse": "7",
+          "text": "Fils d'Elam : mille deux cent cinquante-quatre.",
+          "grec": "υἱοὶ Αιλαμ χίλιοι διακόσιοι πεντήκοντα τέσσαρες.",
+          "name": "Esdras 2:7",
+          "chapter": "2"
+        },
+        {
+          "verse": "8",
+          "text": "Fils de Zatthua : neuf cent quarante-cinq.",
+          "grec": "υἱοὶ Ζαθουα ἐννακόσιοι τεσσαράκοντα πέντε.",
+          "name": "Esdras 2:8",
+          "chapter": "2"
+        },
+        {
+          "verse": "9",
+          "text": "Fils de Zacchu : sept cent soixante.",
+          "grec": "υἱοὶ Ζακχου ἑπτακόσιοι ἑξήκοντα.",
+          "name": "Esdras 2:9",
+          "chapter": "2"
+        },
+        {
+          "verse": "10",
+          "text": "Fils de Banui : six cent quarante-deux.",
+          "grec": "υἱοὶ Βανουι ἑξακόσιοι τεσσαράκοντα δύο.",
+          "name": "Esdras 2:10",
+          "chapter": "2"
+        },
+        {
+          "verse": "11",
+          "text": "Fils de Balai : six cent vingt-trois.",
+          "grec": "υἱοὶ Βαβι ἑξακόσιοι εἴκοσι τρεῖς.",
+          "name": "Esdras 2:11",
+          "chapter": "2"
+        },
+        {
+          "verse": "12",
+          "text": "Fils d'Asgad : mille deux cent vingt-deux.",
+          "grec": "υἱοὶ Ασγαδ τρισχίλιοι διακόσιοι εἴκοσι δύο.",
+          "name": "Esdras 2:12",
+          "chapter": "2"
+        },
+        {
+          "verse": "13",
+          "text": "Fils d'Adonicam : six cent soixante-six.",
+          "grec": "υἱοὶ Αδωνικαμ ἑξακόσιοι ἑξήκοντα ἕξ.",
+          "name": "Esdras 2:13",
+          "chapter": "2"
+        },
+        {
+          "verse": "14",
+          "text": "Fils de Bagué : deux mille cinquante-six.",
+          "grec": "υἱοὶ Βαγοι δισχίλιοι πεντήκοντα ἕξ.",
+          "name": "Esdras 2:14",
+          "chapter": "2"
+        },
+        {
+          "verse": "15",
+          "text": "Fils d'Addin : quatre cent cinquante-quatre.",
+          "grec": "υἱοὶ Αδιν τετρακόσιοι πεντήκοντα τέσσαρες.",
+          "name": "Esdras 2:15",
+          "chapter": "2"
+        },
+        {
+          "verse": "16",
+          "text": "Fils d'Ater, issu d'Ezéchias : neuf cent huit.",
+          "grec": "υἱοὶ Ατηρ τῷ Εζεκια ἐνενήκοντα ὀκτώ.",
+          "name": "Esdras 2:16",
+          "chapter": "2"
+        },
+        {
+          "verse": "17",
+          "text": "Fils de Bassu : trois cent vingt-trois.",
+          "grec": "υἱοὶ Βασου τριακόσιοι εἴκοσι τρεῖς.",
+          "name": "Esdras 2:17",
+          "chapter": "2"
+        },
+        {
+          "verse": "18",
+          "text": "Fils de Jora : cent douze.",
+          "grec": "υἱοὶ Ιωρα ἑκατὸν δέκα δύο.",
+          "name": "Esdras 2:18",
+          "chapter": "2"
+        },
+        {
+          "verse": "19",
+          "text": "Fils d'Asum : deux cent vingt-trois.",
+          "grec": "υἱοὶ Ασεμ διακόσιοι εἴκοσι τρεῖς.",
+          "name": "Esdras 2:19",
+          "chapter": "2"
+        },
+        {
+          "verse": "20",
+          "text": "Fils de Gaber : quatre-vingt-quinze.",
+          "grec": "υἱοὶ Γαβερ ἐνενήκοντα πέντε.",
+          "name": "Esdras 2:20",
+          "chapter": "2"
+        },
+        {
+          "verse": "21",
+          "text": "Fils de Bethléem : cent vingt-trois.",
+          "grec": "υἱοὶ Βαιθλεεμ ἑκατὸν εἴκοσι τρεῖς.",
+          "name": "Esdras 2:21",
+          "chapter": "2"
+        },
+        {
+          "verse": "22",
+          "text": "Fils de Netopha : cinquante-six.",
+          "grec": "υἱοὶ Νετωφα πεντήκοντα ἕξ.",
+          "name": "Esdras 2:22",
+          "chapter": "2"
+        },
+        {
+          "verse": "23",
+          "text": "Fils d'Anathoth : cent vingt-huit.",
+          "grec": "υἱοὶ Αναθωθ ἑκατὸν εἴκοσι ὀκτώ.",
+          "name": "Esdras 2:23",
+          "chapter": "2"
+        },
+        {
+          "verse": "24",
+          "text": "Fils d'Asmoth : quarante-trois.",
+          "grec": "υἱοὶ Ασμωθ τεσσαράκοντα δύο.",
+          "name": "Esdras 2:24",
+          "chapter": "2"
+        },
+        {
+          "verse": "25",
+          "text": "Fils de Cariathiarim, Haphira et Beroth : sept cent quarante-trois.",
+          "grec": "υἱοὶ Καριαθιαριμ Καφιρα καὶ Βηρωθ ἑπτακόσιοι τεσσαράκοντα τρεῖς.",
+          "name": "Esdras 2:25",
+          "chapter": "2"
+        },
+        {
+          "verse": "26",
+          "text": "Fils de Rhama et de Gabaa : six cent vingt et un.",
+          "grec": "υἱοὶ Αραμα καὶ Γαβαα ἑξακόσιοι εἴκοσι εἷς.",
+          "name": "Esdras 2:26",
+          "chapter": "2"
+        },
+        {
+          "verse": "27",
+          "text": "Hommes de Machmas : cent vingt-deux.",
+          "grec": "ἄνδρες Μαχμας ἑκατὸν εἴκοσι δύο.",
+          "name": "Esdras 2:27",
+          "chapter": "2"
+        },
+        {
+          "verse": "28",
+          "text": "Hommes de Béthel et d'Aia : quatre cent vingt-trois.",
+          "grec": "ἄνδρες Βαιθηλ καὶ Αια τετρακόσιοι εἴκοσι τρεῖς.",
+          "name": "Esdras 2:28",
+          "chapter": "2"
+        },
+        {
+          "verse": "29",
+          "text": "Fils de Nabu : cinquante-deux.",
+          "grec": "υἱοὶ Ναβου πεντήκοντα δύο.",
+          "name": "Esdras 2:29",
+          "chapter": "2"
+        },
+        {
+          "verse": "30",
+          "text": "Fils de Magebis : cent cinquante-six.",
+          "grec": "υἱοὶ Μαγεβως ἑκατὸν πεντήκοντα ἕξ.",
+          "name": "Esdras 2:30",
+          "chapter": "2"
+        },
+        {
+          "verse": "31",
+          "text": "Fils d'Elamar : douze cent cinquante-quatre.",
+          "grec": "υἱοὶ Ηλαμ-αρ χίλιοι διακόσιοι πεντήκοντα τέσσαρες.",
+          "name": "Esdras 2:31",
+          "chapter": "2"
+        },
+        {
+          "verse": "32",
+          "text": "Fils d'Elam : trois cent vingt.",
+          "grec": "υἱοὶ Ηραμ τριακόσιοι εἴκοσι.",
+          "name": "Esdras 2:32",
+          "chapter": "2"
+        },
+        {
+          "verse": "33",
+          "text": "Fils de Lodadi et d'Ono, sept cent vingt-cinq.",
+          "grec": "υἱοὶ Λοδ Αρωθ καὶ Ωνω ἑπτακόσιοι εἴκοσι πέντε.",
+          "name": "Esdras 2:33",
+          "chapter": "2"
+        },
+        {
+          "verse": "34",
+          "text": "Fils de Jéricho : trois cent quarante-cinq.",
+          "grec": "υἱοὶ Ιεριχω τριακόσιοι τεσσαράκοντα πέντε.",
+          "name": "Esdras 2:34",
+          "chapter": "2"
+        },
+        {
+          "verse": "35",
+          "text": "Fils de Senaa : trois mille six cent trente.",
+          "grec": "υἱοὶ Σαναα τρισχίλιοι ἑξακόσιοι τριάκοντα.",
+          "name": "Esdras 2:35",
+          "chapter": "2"
+        },
+        {
+          "verse": "36",
+          "text": "Prêtres, fils de Jedua, de la maison de Josué : neuf cent soixante-treize.",
+          "grec": "καὶ οἱ ἱερεῖς υἱοὶ Ιεδουα τῷ οἴκῳ Ἰησοῦ ἐννακόσιοι ἑβδομήκοντα τρεῖς.",
+          "name": "Esdras 2:36",
+          "chapter": "2"
+        },
+        {
+          "verse": "37",
+          "text": "Fils d'Emmer : mille cinquante-deux.",
+          "grec": "υἱοὶ Εμμηρ χίλιοι πεντήκοντα δύο.",
+          "name": "Esdras 2:37",
+          "chapter": "2"
+        },
+        {
+          "verse": "38",
+          "text": "Fils de Phassur : douze cent quarante-sept.",
+          "grec": "υἱοὶ Φασσουρ χίλιοι διακόσιοι τεσσαράκοντα ἑπτά.",
+          "name": "Esdras 2:38",
+          "chapter": "2"
+        },
+        {
+          "verse": "39",
+          "text": "Fils d'Erem : mille sept.",
+          "grec": "υἱοὶ Ηρεμ χίλιοι ἑπτά.",
+          "name": "Esdras 2:39",
+          "chapter": "2"
+        },
+        {
+          "verse": "40",
+          "text": "Lévites, fils de Josué et de Cadmie], des fils d'Oduia : soixante-quatorze",
+          "grec": "καὶ οἱ Λευῖται υἱοὶ Ἰησοῦ καὶ Καδμιηλ τοῖς υἱοῖς Ωδουια ἑβδομήκοντα τέσσαρες.",
+          "name": "Esdras 2:40",
+          "chapter": "2"
+        },
+        {
+          "verse": "41",
+          "text": "Chantres, fils d'Asaph : cent vingt-huit.",
+          "grec": "οἱ ᾄδοντες υἱοὶ Ασαφ ἑκατὸν εἴκοσι ὀκτώ.",
+          "name": "Esdras 2:41",
+          "chapter": "2"
+        },
+        {
+          "verse": "42",
+          "text": "Fils des portiers : fils de Sellom, fils d'Atér, fils de Telmon, fils d'Acub, fils d'Alita, fils de Sobaï : en tout, cent trente-neuf.",
+          "grec": "υἱοὶ τῶν πυλωρῶν υἱοὶ Σαλουμ υἱοὶ Ατηρ υἱοὶ Τελμων υἱοὶ Ακουβ υἱοὶ Ατιτα υἱοὶ Σαβαου οἱ πάντες ἑκατὸν τριάκοντα ἐννέα.",
+          "name": "Esdras 2:42",
+          "chapter": "2"
+        },
+        {
+          "verse": "43",
+          "text": "Les Nathinéens : fils de Suthia, fils d'Asupha, fils de Tabaoth",
+          "grec": "οἱ ναθιναῖοι υἱοὶ Σουια υἱοὶ Ασουφε υἱοὶ Ταβαωθ.",
+          "name": "Esdras 2:43",
+          "chapter": "2"
+        },
+        {
+          "verse": "44",
+          "text": "Fils de Cades, fils de Siaa, fils de Phadon,",
+          "grec": "υἱοὶ Κηραος υἱοὶ Σωηα υἱοὶ Φαδων.",
+          "name": "Esdras 2:44",
+          "chapter": "2"
+        },
+        {
+          "verse": "45",
+          "text": "Fils de Laban, fils d'Agaba, fils d'Acub,",
+          "grec": "υἱοὶ Λαβανω υἱοὶ Αγαβα υἱοὶ Ακαβωθ.",
+          "name": "Esdras 2:45",
+          "chapter": "2"
+        },
+        {
+          "verse": "46",
+          "text": "Fils d'Agab, fils de Selam, fils d'Anan,",
+          "grec": "υἱοὶ Αγαβ υἱοὶ Σαμαλαι υἱοὶ Αναν.",
+          "name": "Esdras 2:46",
+          "chapter": "2"
+        },
+        {
+          "verse": "47",
+          "text": "Fils de Geddel, fils de Gaar, fils de Rhaïa,",
+          "grec": "υἱοὶ Κεδελ υἱοὶ Γαερ υἱοὶ Ρεηα.",
+          "name": "Esdras 2:47",
+          "chapter": "2"
+        },
+        {
+          "verse": "48",
+          "text": "Fils de Rason, fils de Necoda, fils de Gazena,",
+          "grec": "υἱοὶ Ρασων υἱοὶ Νεκωδα υἱοὶ Γαζεμ.",
+          "name": "Esdras 2:48",
+          "chapter": "2"
+        },
+        {
+          "verse": "49",
+          "text": "Fils d'Azo, fils dg Phasé, fils de Basi,",
+          "grec": "υἱοὶ Ουσα υἱοὶ Φαση υἱοὶ Βασι.",
+          "name": "Esdras 2:49",
+          "chapter": "2"
+        },
+        {
+          "verse": "50",
+          "text": "Fils d'Asena, fils de Mounim, fils de Nephusim,",
+          "grec": "υἱοὶ Ασενα υἱοὶ Μαωνιμ υἱοὶ Ναφισων.",
+          "name": "Esdras 2:50",
+          "chapter": "2"
+        },
+        {
+          "verse": "51",
+          "text": "Fils de Bacbuc, fils d'Acupha, fils d'Azur,",
+          "grec": "υἱοὶ Βακβουκ υἱοὶ Ακιφα υἱοὶ Αρουρ.",
+          "name": "Esdras 2:51",
+          "chapter": "2"
+        },
+        {
+          "verse": "52",
+          "text": "Fils de Basaloth, fils de Maiida, fils d'Arsa,",
+          "grec": "υἱοὶ Βασαλωθ υἱοὶ Μαουδα υἱοὶ Αρησα.",
+          "name": "Esdras 2:52",
+          "chapter": "2"
+        },
+        {
+          "verse": "53",
+          "text": "Fils de Barcos, fils de Sisara, fils de Théma,",
+          "grec": "υἱοὶ Βαρκους υἱοὶ Σισαρα υἱοὶ Θεμα.",
+          "name": "Esdras 2:53",
+          "chapter": "2"
+        },
+        {
+          "verse": "54",
+          "text": "Fils de Nasthié, fils d'Atupha,",
+          "grec": "υἱοὶ Νασουε υἱοὶ Ατουφα.",
+          "name": "Esdras 2:54",
+          "chapter": "2"
+        },
+        {
+          "verse": "55",
+          "text": "Fils de serviteurs de Salomon, fils de Sotaï, fils de Sephèra, fils de Phadura,",
+          "grec": "υἱοὶ Αβδησελμα υἱοὶ Σατι υἱοὶ Ασεφηραθ υἱοὶ Φαδουρα.",
+          "name": "Esdras 2:55",
+          "chapter": "2"
+        },
+        {
+          "verse": "56",
+          "text": "Fils de Jeligla, fils de Darcon, fils de Gedel,",
+          "grec": "υἱοὶ Ιεηλα υἱοὶ Δαρκων υἱοὶ Γεδηλ.",
+          "name": "Esdras 2:56",
+          "chapter": "2"
+        },
+        {
+          "verse": "57",
+          "text": "Fils de Saphatia, fils d'Atil, fils de Phacherath, fils d'Aseboïm, fils d'Emeï ;",
+          "grec": "υἱοὶ Σαφατια υἱοὶ Ατιλ υἱοὶ Φαχεραθ-ασεβωιν υἱοὶ Ημι.",
+          "name": "Esdras 2:57",
+          "chapter": "2"
+        },
+        {
+          "verse": "58",
+          "text": "Total des Nathinéens et des fils d'Abdeselma : trois cent quatre vingt-douze.",
+          "grec": "πάντες οἱ ναθινιν καὶ υἱοὶ Αβδησελμα τριακόσιοι ἐνενήκοντα δύο.",
+          "name": "Esdras 2:58",
+          "chapter": "2"
+        },
+        {
+          "verse": "59",
+          "text": "Et voici tous ceux qui partirent de Thelmelech Thelaresa, Cherub, Hédan, Emmer ; et ils n'étaient point capables de déclarer leurs familles paternelles ni leur race ; car ils étaient nés hors d'Israël.",
+          "grec": "καὶ οὗτοι οἱ ἀναβάντες ἀπὸ Θελμελεθ Θελαρησα Χαρουβ Ηδαν Εμμηρ καὶ οὐκ ἠδυνάσθησαν τοῦ ἀναγγεῖλαι οἶκον πατριᾶς αὐτῶν καὶ σπέρμα αὐτῶν εἰ ἐξ Ισραηλ εἰσίν.",
+          "name": "Esdras 2:59",
+          "chapter": "2"
+        },
+        {
+          "verse": "60",
+          "text": "Fils de Daldia, fils de Rua, fils de Tobias, fils de Necoda : six cent cinquante-deux.",
+          "grec": "υἱοὶ Δαλαια υἱοὶ Βουα υἱοὶ Τωβια υἱοὶ Νεκωδα ἑξακόσιοι πεντήκοντα δύο.",
+          "name": "Esdras 2:60",
+          "chapter": "2"
+        },
+        {
+          "verse": "61",
+          "text": "Et parmi les fils des prêtres, les fils de Labia, les fils d'Accus, les fils de Berzellaï, qui épousa l'une des filles de Berzellaï le Galaadite, et qui prit son nom ;",
+          "grec": "καὶ ἀπὸ τῶν υἱῶν τῶν ἱερέων υἱοὶ Χαβια υἱοὶ Ακους υἱοὶ Βερζελλαι ὃς ἔλαβεν ἀπὸ θυγατέρων Βερζελλαι τοῦ Γαλααδίτου γυναῖκα καὶ ἐκλήθη ἐπὶ τῷ ὀνόματι αὐτῶν.",
+          "name": "Esdras 2:61",
+          "chapter": "2"
+        },
+        {
+          "verse": "62",
+          "text": "Ceux-là cherchèrent leur généalogie, mais ils ne la trouvèrent pas, et ils furent rejetés du sacerdoce.",
+          "grec": "οὗτοι ἐζήτησαν γραφὴν αὐτῶν οἱ μεθωεσιμ καὶ οὐχ εὑρέθησαν καὶ ἠγχιστεύθησαν ἀπὸ τῆς ἱερατείας.",
+          "name": "Esdras 2:62",
+          "chapter": "2"
+        },
+        {
+          "verse": "63",
+          "text": "Et l'athersastha leur dit de ne point manger des choses les plus saintes jusqu'à ce qu'un prêtre fût suscité, portant lumières et perfections.",
+          "grec": "καὶ εἶπεν Αθερσαθα αὐτοῖς τοῦ μὴ φαγεῖν ἀπὸ τοῦ ἁγίου τῶν ἁγίων ἕως ἀναστῇ ἱερεὺς τοῖς φωτίζουσιν καὶ τοῖς τελείοις.",
+          "name": "Esdras 2:63",
+          "chapter": "2"
+        },
+        {
+          "verse": "64",
+          "text": "Or, toute l'Église réunie montait à environ quarante-deux mille trois cent soixante cimes.",
+          "grec": "πᾶσα δὲ ἡ ἐκκλησία ὡς εἷς τέσσαρες μυριάδες δισχίλιοι τριακόσιοι ἑξήκοντα.",
+          "name": "Esdras 2:64",
+          "chapter": "2"
+        },
+        {
+          "verse": "65",
+          "text": "Sans compter leurs serviteurs et leurs servantes au nombre de sept mille trois cent trente-sept, parmi lesquels il y avait deux cents chantres et chanteuses.",
+          "grec": "χωρὶς δούλων αὐτῶν καὶ παιδισκῶν αὐτῶν οὗτοι ἑπτακισχίλιοι τριακόσιοι τριάκοντα ἑπτά καὶ οὗτοι ᾄδοντες καὶ ᾄδουσαι διακόσιοι.",
+          "name": "Esdras 2:65",
+          "chapter": "2"
+        },
+        {
+          "verse": "66",
+          "text": "Ils avaient sept mille trente-six chevaux, deux cent quarante-cinq mulets,",
+          "grec": "ἵπποι αὐτῶν ἑπτακόσιοι τριάκοντα ἕξ ἡμίονοι αὐτῶν διακόσιοι τεσσαράκοντα πέντε.",
+          "name": "Esdras 2:66",
+          "chapter": "2"
+        },
+        {
+          "verse": "67",
+          "text": "Quatre cent trente-cinq chameaux, six mille sept cent vingt ânes.",
+          "grec": "κάμηλοι αὐτῶν τετρακόσιοι τριάκοντα πέντε ὄνοι αὐτῶν ἑξακισχίλιοι ἑπτακόσιοι εἴκοσι.",
+          "name": "Esdras 2:67",
+          "chapter": "2"
+        },
+        {
+          "verse": "68",
+          "text": "Et quelques-uns des chefs de famille, lorsqu'ils entrèrent dans le temple du Seigneur à Jérusalem, offrirent volontairement de le relever au lieu qui était préparé,",
+          "grec": "καὶ ἀπὸ ἀρχόντων πατριῶν ἐν τῷ ἐλθεῖν αὐτοὺς εἰς οἶκον κυρίου τὸν ἐν Ιερουσαλημ ἡκουσιάσαντο εἰς οἶκον τοῦ θεοῦ τοῦ στῆσαι αὐτὸν ἐπὶ τὴν ἑτοιμασίαν αὐτοῦ.",
+          "name": "Esdras 2:68",
+          "chapter": "2"
+        },
+        {
+          "verse": "69",
+          "text": "Autant que le comportaient leurs richesses ; ils donnèrent donc, au trésor des travaux, soixante et un mille mines d'or pur, cinq mille mines d'argent, et cent costumes sacerdotaux.",
+          "grec": "ὡς ἡ δύναμις αὐτῶν ἔδωκαν εἰς θησαυρὸν τοῦ ἔργου χρυσίον καθαρόν μναῖ ἓξ μυριάδες καὶ χίλιαι καὶ ἀργύριον μναῖ πεντακισχίλιαι καὶ κοθωνοι τῶν ἱερέων ἑκατόν.",
+          "name": "Esdras 2:69",
+          "chapter": "2"
+        },
+        {
+          "verse": "70",
+          "text": "Et les prêtres, et les lévites, et ceux du peuple, et les chantres, et les portiers, et les Nathinéens, et tout Israël, s'établirent dans leurs villes.",
+          "grec": "καὶ ἐκάθισαν οἱ ἱερεῖς καὶ οἱ Λευῖται καὶ οἱ ἀπὸ τοῦ λαοῦ καὶ οἱ ᾄδοντες καὶ οἱ πυλωροὶ καὶ οἱ ναθινιμ ἐν πόλεσιν αὐτῶν καὶ πᾶς Ισραηλ ἐν πόλεσιν αὐτῶν.",
+          "name": "Esdras 2:70",
+          "chapter": "2"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "name": "Esdras 3",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et le septième mois arriva, et les fils d'Israël étaient dans leurs villes, et le peuple se rassembla comme un seul homme à Jérusalem.",
+          "grec": "καὶ ἔφθασεν ὁ μὴν ὁ ἕβδομος καὶ οἱ υἱοὶ Ισραηλ ἐν πόλεσιν αὐτῶν καὶ συνήχθη ὁ λαὸς ὡς ἀνὴρ εἷς εἰς Ιερουσαλημ.",
+          "name": "Esdras 3:1",
+          "chapter": "3"
+        },
+        {
+          "verse": "2",
+          "text": "Et Josué, fils de Josédec, et les prêtres, ses frères, et Zorobabel, fils de Salathiel, et ses frères, s'étant mis en avant, bâtirent l'autel du Seigneur leur Dieu pour y offrir des holocaustes, comme il est écrit en la loi de Moise, homme de Dieu.",
+          "grec": "καὶ ἀνέστη Ἰησοῦς ὁ τοῦ Ιωσεδεκ καὶ οἱ ἀδελφοὶ αὐτοῦ ἱερεῖς καὶ Ζοροβαβελ ὁ τοῦ Σαλαθιηλ καὶ οἱ ἀδελφοὶ αὐτοῦ καὶ ᾠκοδόμησαν τὸ θυσιαστήριον θεοῦ Ισραηλ τοῦ ἀνενέγκαι ἐπ' αὐτὸ ὁλοκαυτώσεις κατὰ τὰ γεγραμμένα ἐν νόμῳ Μωυσῆ ἀνθρώπου τοῦ θεοῦ.",
+          "name": "Esdras 3:2",
+          "chapter": "3"
+        },
+        {
+          "verse": "3",
+          "text": "Ils le relevèrent d'abord où il était autrefois, car ils avaient crainte des peuples d'alentour ; ils rétablirent l'holocauste du Seigneur, le matin et le soir.",
+          "grec": "καὶ ἡτοίμασαν τὸ θυσιαστήριον ἐπὶ τὴν ἑτοιμασίαν αὐτοῦ ὅτι ἐν καταπλήξει ἐπ' αὐτοὺς ἀπὸ τῶν λαῶν τῶν γαιῶν καὶ ἀνέβη ἐπ' αὐτὸ ὁλοκαύτωσις τῷ κυρίῳ τὸ πρωὶ καὶ εἰς ἑσπέραν.",
+          "name": "Esdras 3:3",
+          "chapter": "3"
+        },
+        {
+          "verse": "4",
+          "text": "Et ils célébrèrent la fête des tabernacles, ainsi qu'il est écrit, faisant les holocaustes quotidiens, selon le nombre déterminé jour par jour.",
+          "grec": "καὶ ἐποίησαν τὴν ἑορτὴν τῶν σκηνῶν κατὰ τὸ γεγραμμένον καὶ ὁλοκαυτώσεις ἡμέραν ἐν ἡμέρᾳ ἐν ἀριθμῷ ὡς ἡ κρίσις λόγον ἡμέρας ἐν ἡμέρᾳ αὐτοῦ.",
+          "name": "Esdras 3:4",
+          "chapter": "3"
+        },
+        {
+          "verse": "5",
+          "text": "Puis, après la fête, ils offrirent l'holocauste perpétuel, les sacrifices des nouvelles lunes, et de toutes les fêtes consacrées au Seigneur, et ceux que l'on offrait volontairement.",
+          "grec": "καὶ μετὰ τοῦτο ὁλοκαυτώσεις ἐνδελεχισμοῦ καὶ εἰς τὰς νουμηνίας καὶ εἰς πάσας ἑορτὰς τὰς ἡγιασμένας καὶ παντὶ ἑκουσιαζομένῳ ἑκούσιον τῷ κυρίῳ.",
+          "name": "Esdras 3:5",
+          "chapter": "3"
+        },
+        {
+          "verse": "6",
+          "text": "Le premier jour du septième mois, ils commencèrent à offrir des holocaustes au Seigneur, et les fondations du temple n'étaient pas encore jetées.",
+          "grec": "ἐν ἡμέρᾳ μιᾷ τοῦ μηνὸς τοῦ ἑβδόμου ἤρξαντο ἀναφέρειν ὁλοκαυτώσεις τῷ κυρίῳ καὶ ὁ οἶκος κυρίου οὐκ ἐθεμελιώθη.",
+          "name": "Esdras 3:6",
+          "chapter": "3"
+        },
+        {
+          "verse": "7",
+          "text": "Et ils donnèrent de l'argent aux tailleurs de pierres, aux charpentiers ; quant aux Sidoniens et aux Tyriens qui leur amenèrent jusqu'au port de Joppé des cèdres du Liban, selon la permission que Cyrus, roi des Perses, leur avait accordée, ils leur donnèrent le manger et le boire, et de l'huile.",
+          "grec": "καὶ ἔδωκαν ἀργύριον τοῖς λατόμοις καὶ τοῖς τέκτοσιν καὶ βρώματα καὶ ποτὰ καὶ ἔλαιον τοῖς Σηδανιν καὶ τοῖς Σωριν ἐνέγκαι ξύλα κέδρινα ἀπὸ τοῦ Λιβάνου πρὸς θάλασσαν Ιόππης κατ' ἐπιχώρησιν Κύρου βασιλέως Περσῶν ἐπ' αὐτούς.",
+          "name": "Esdras 3:7",
+          "chapter": "3"
+        },
+        {
+          "verse": "8",
+          "text": "Et la seconde année de leur retour dans le temple du Seigneur à Jérusalem, le second mois, Zorobabel, fils de Salathiel ; Josué, fils de Josedec, ce qui restait de leurs frères les prêtres et les lévites, tous ceux qui étaient sortis de captivité, commencèrent les travaux, et ils chargèrent de la surveillance des ouvriers les lévites de vingt ans et au-dessus.",
+          "grec": "καὶ ἐν τῷ ἔτει τῷ δευτέρῳ τοῦ ἐλθεῖν αὐτοὺς εἰς οἶκον τοῦ θεοῦ εἰς Ιερουσαλημ ἐν μηνὶ τῷ δευτέρῳ ἤρξατο Ζοροβαβελ ὁ τοῦ Σαλαθιηλ καὶ Ἰησοῦς ὁ τοῦ Ιωσεδεκ καὶ οἱ κατάλοιποι τῶν ἀδελφῶν αὐτῶν οἱ ἱερεῖς καὶ οἱ Λευῖται καὶ πάντες οἱ ἐρχόμενοι ἀπὸ τῆς αἰχμαλωσίας εἰς Ιερουσαλημ καὶ ἔστησαν τοὺς Λευίτας ἀπὸ εἰκοσαετοῦς καὶ ἐπάνω ἐπὶ τοὺς ποιοῦντας τὰ ἔργα ἐν οἴκῳ κυρίου.",
+          "name": "Esdras 3:8",
+          "chapter": "3"
+        },
+        {
+          "verse": "9",
+          "text": "Josué, ses fils et ses frères ; Cadmiel, de la maison de Juda, et ses fils, prirent la direction des travaux qui se faisaient dans le temple, secondés par les lévites, fils d'Henadad, et leurs fils et leurs frères.",
+          "grec": "καὶ ἔστη Ἰησοῦς καὶ οἱ υἱοὶ αὐτοῦ καὶ οἱ ἀδελφοὶ αὐτοῦ Καδμιηλ καὶ οἱ υἱοὶ αὐτοῦ υἱοὶ Ιουδα ἐπὶ τοὺς ποιοῦντας τὰ ἔργα ἐν οἴκῳ τοῦ θεοῦ υἱοὶ Ηναδαδ υἱοὶ αὐτῶν καὶ ἀδελφοὶ αὐτῶν οἱ Λευῖται.",
+          "name": "Esdras 3:9",
+          "chapter": "3"
+        },
+        {
+          "verse": "10",
+          "text": "Ils jetèrent les fondations pour y asseoir le temple du Seigneur ; cependant, les prêtres, revêtus de leurs robes, sonnèrent de la trompette, et les lévites, fils d'Asaph, au bruit des cymbales, chantaient les louanges du Seigneur, comme l'avait prescrit David.",
+          "grec": "καὶ ἐθεμελίωσαν τοῦ οἰκοδομῆσαι τὸν οἶκον κυρίου καὶ ἔστησαν οἱ ἱερεῖς ἐστολισμένοι ἐν σάλπιγξιν καὶ οἱ Λευῖται υἱοὶ Ασαφ ἐν κυμβάλοις τοῦ αἰνεῖν τὸν κύριον ἐπὶ χεῖρας Δαυιδ βασιλέως Ισραηλ.",
+          "name": "Esdras 3:10",
+          "chapter": "3"
+        },
+        {
+          "verse": "11",
+          "text": "Ils louaient le Seigneur et lui rendaient grâces tour à tour, parce qu'il est bon, parce que sa miséricorde envers Israël doit durer toujours. Et dans sa joie, tout le peuple, à grands cris, louait le Seigneur, à cause de la fondation du temple.",
+          "grec": "καὶ ἀπεκρίθησαν ἐν αἴνῳ καὶ ἀνθομολογήσει τῷ κυρίῳ ὅτι ἀγαθόν ὅτι εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ ἐπὶ Ισραηλ καὶ πᾶς ὁ λαὸς ἐσήμαινον φωνὴν μεγάλην αἰνεῖν τῷ κυρίῳ ἐπὶ θεμελιώσει οἴκου κυρίου.",
+          "name": "Esdras 3:11",
+          "chapter": "3"
+        },
+        {
+          "verse": "12",
+          "text": "Et un grand nombre de prêtres, de lévites, de chefs de famille, avancés en âge, qui avaient vu le temple dans son premier état, et qui revoyaient de leurs yeux ce temple, élevaient la voix et pleuraient, tandis que la foule, en signe de joie, élevait encore plus haut le chant.",
+          "grec": "καὶ πολλοὶ ἀπὸ τῶν ἱερέων καὶ τῶν Λευιτῶν καὶ ἄρχοντες τῶν πατριῶν οἱ πρεσβύτεροι οἳ εἴδοσαν τὸν οἶκον τὸν πρῶτον ἐν θεμελιώσει αὐτοῦ καὶ τοῦτον τὸν οἶκον ἐν ὀφθαλμοῖς αὐτῶν ἔκλαιον φωνῇ μεγάλῃ καὶ ὄχλος ἐν σημασίᾳ μετ' εὐφροσύνης τοῦ ὑψῶσαι ᾠδήν.",
+          "name": "Esdras 3:12",
+          "chapter": "3"
+        },
+        {
+          "verse": "13",
+          "text": "Et nul ne pouvait distinguer les marques d'allégresse de la voix de ceux qui pleuraient, parce que le peuple jetait de grands cris, et que la rumeur en retentissait au loin.",
+          "grec": "καὶ οὐκ ἦν ὁ λαὸς ἐπιγινώσκων φωνὴν σημασίας τῆς εὐφροσύνης ἀπὸ τῆς φωνῆς τοῦ κλαυθμοῦ τοῦ λαοῦ ὅτι ὁ λαὸς ἐκραύγασεν φωνῇ μεγάλῃ καὶ ἡ φωνὴ ἠκούετο ἕως ἀπὸ μακρόθεν.",
+          "name": "Esdras 3:13",
+          "chapter": "3"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "name": "Esdras 4",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et ceux qui opprimaient Juda et Benjamin ouïrent que les enfants de la captivité bâtissaient un temple au Seigneur Dieu d'Israël.",
+          "grec": "καὶ ἤκουσαν οἱ θλίβοντες Ιουδα καὶ Βενιαμιν ὅτι οἱ υἱοὶ τῆς ἀποικίας οἰκοδομοῦσιν οἶκον τῷ κυρίῳ θεῷ Ισραηλ.",
+          "name": "Esdras 4:1",
+          "chapter": "4"
+        },
+        {
+          "verse": "2",
+          "text": "Et ils s'approchèrent de Zorobabel et des chefs de famille, et ils leur dirent : Nous bâtirons avec vous, parce que, comme vous, nous cherchons notre Dieu, et que nous lui sacrifions, depuis le temps d'Asaradan, roi des Assyriens, qui nous a transportés ici.",
+          "grec": "καὶ ἤγγισαν πρὸς Ζοροβαβελ καὶ πρὸς τοὺς ἄρχοντας τῶν πατριῶν καὶ εἶπαν αὐτοῖς οἰκοδομήσομεν μεθ' ὑμῶν ὅτι ὡς ὑμεῖς ἐκζητοῦμεν τῷ θεῷ ὑμῶν καὶ αὐτῷ ἡμεῖς θυσιάζομεν ἀπὸ ἡμερῶν Ασαραδδων βασιλέως Ασσουρ τοῦ ἐνέγκαντος ἡμᾶς ὧδε.",
+          "name": "Esdras 4:2",
+          "chapter": "4"
+        },
+        {
+          "verse": "3",
+          "text": "Et Zorobabel, et Josué, et le reste des chefs de famille d'Israël, leur répondirent : Ce n'est pas avec vous que nous bâtirons un temple à notre Dieu ; car, nous seuls, tous ensemble, nous bâtirons au Seigneur notre Dieu, comme nous l'a prescrit Cyrus, roi des Perses.",
+          "grec": "καὶ εἶπεν πρὸς αὐτοὺς Ζοροβαβελ καὶ Ἰησοῦς καὶ οἱ κατάλοιποι τῶν ἀρχόντων τῶν πατριῶν τοῦ Ισραηλ οὐχ ἡμῖν καὶ ὑμῖν τοῦ οἰκοδομῆσαι οἶκον τῷ θεῷ ἡμῶν ὅτι ἡμεῖς αὐτοὶ ἐπὶ τὸ αὐτὸ οἰκοδομήσομεν τῷ κυρίῳ θεῷ ἡμῶν ὡς ἐνετείλατο ἡμῖν Κῦρος ὁ βασιλεὺς Περσῶν.",
+          "name": "Esdras 4:3",
+          "chapter": "4"
+        },
+        {
+          "verse": "4",
+          "text": "Et le peuple de la terre affaiblissait les mains de Juda, et il l'empêchait de bâtir.",
+          "grec": "καὶ ἦν ὁ λαὸς τῆς γῆς ἐκλύων τὰς χεῖρας τοῦ λαοῦ Ιουδα καὶ ἐνεπόδιζον αὐτοὺς τοῦ οἰκοδομεῖν.",
+          "name": "Esdras 4:4",
+          "chapter": "4"
+        },
+        {
+          "verse": "5",
+          "text": "Et des gens, salariés pour nuire aux fils de Juda, complotèrent pour ruiner leurs desseins, tant que vécut Cyrus, jusqu'au règne de Darius, roi des Perses.",
+          "grec": "καὶ μισθούμενοι ἐπ' αὐτοὺς βουλευόμενοι τοῦ διασκεδάσαι βουλὴν αὐτῶν πάσας τὰς ἡμέρας Κύρου βασιλέως Περσῶν καὶ ἕως βασιλείας Δαρείου βασιλέως Περσῶν.",
+          "name": "Esdras 4:5",
+          "chapter": "4"
+        },
+        {
+          "verse": "6",
+          "text": "Au commencement du règne d'Assuérus, ils écrivirent une lettre contre ceux qui habitaient Jérusalem et Juda.",
+          "grec": "καὶ ἐν βασιλείᾳ Ασουηρου ἐν ἀρχῇ βασιλείας αὐτοῦ ἔγραψαν ἐπιστολὴν ἐπὶ οἰκοῦντας Ιουδα καὶ Ιερουσαλημ.",
+          "name": "Esdras 4:6",
+          "chapter": "4"
+        },
+        {
+          "verse": "7",
+          "text": "Et, durant les jours d'Arthasastha, Tabéel écrivit une lettre bienveillante à Mithradate et aux autres serviteurs ; le collecteur des impôts écrivit à Arthasastha, roi des Perses, une lettre en syriaque avec la traduction.",
+          "grec": "καὶ ἐν ἡμέραις Αρθασασθα ἔγραψεν ἐν εἰρήνῃ Μιθραδάτῃ Ταβεηλ σὺν καὶ τοῖς λοιποῖς συνδούλοις αὐτοῦ πρὸς Αρθασασθα βασιλέα Περσῶν ἔγραψεν ὁ φορολόγος γραφὴν Συριστὶ καὶ ἡρμηνευμένην.",
+          "name": "Esdras 4:7",
+          "chapter": "4"
+        },
+        {
+          "verse": "8",
+          "text": "Rheum le chancelier, et Samsa le scribe, écrivirent aussi une lettre contre Jérusalem au roi Arthasastha.",
+          "grec": "Ραουμ βααλταμ καὶ Σαμσαι ὁ γραμματεὺς ἔγραψαν ἐπιστολὴν μίαν κατὰ Ιερουσαλημ τῷ Αρθασασθα βασιλεῖ.",
+          "name": "Esdras 4:8",
+          "chapter": "4"
+        },
+        {
+          "verse": "9",
+          "text": "Voici ce que jugent Rhéum le chancelier, Samsa le scribe, et le reste de ceux qui, avec nous, sont tes serviteurs : les Dinéens, les Apharsathachéens, les Tharphaléens, les Apharséens, les Arechyéens, les Babyloniens, les Susanachéens, les Davéens,",
+          "grec": "τάδε ἔκρινεν Ραουμ βααλταμ καὶ Σαμσαι ὁ γραμματεὺς καὶ οἱ κατάλοιποι σύνδουλοι ἡμῶν Διναῖοι Αφαρσαθαχαῖοι Ταρφαλλαῖοι Αφαρσαῖοι Αρχυαῖοι Βαβυλώνιοι Σουσαναχαῖοι οἵ εἰσιν Ηλαμαῖοι.",
+          "name": "Esdras 4:9",
+          "chapter": "4"
+        },
+        {
+          "verse": "10",
+          "text": "Et les autres nations que le grand et vénérable Assenaphar a transportées dans les villes de Samarie ; celles qui résident sur le territoire en deçà du fleuve.",
+          "grec": "καὶ οἱ κατάλοιποι ἐθνῶν ὧν ἀπῴκισεν Ασενναφαρ ὁ μέγας καὶ ὁ τίμιος καὶ κατῴκισεν αὐτοὺς ἐν πόλεσιν τῆς Σομορων καὶ τὸ κατάλοιπον πέραν τοῦ ποταμοῦ.",
+          "name": "Esdras 4:10",
+          "chapter": "4"
+        },
+        {
+          "verse": "11",
+          "text": "Suit la teneur de la lettre qu'ils envoyèrent : A Arthasastha, roi, ses serviteurs, en deçà du fleuve :",
+          "grec": "αὕτη ἡ διαταγὴ τῆς ἐπιστολῆς ἧς ἀπέστειλαν πρὸς αὐτόν πρὸς Αρθασασθα βασιλέα παῖδές σου ἄνδρες πέραν τοῦ ποταμοῦ.",
+          "name": "Esdras 4:11",
+          "chapter": "4"
+        },
+        {
+          "verse": "12",
+          "text": "Que le roi sache que les Juifs qui sont partis de son territoire pour cette terre sont arrivés à Jérusalem, ville rebelle et méchante, qu'ils la rebâtissent, qu'ils en ont restauré les remparts, et qu'ils les ont élevés au-dessus des fondations.",
+          "grec": "γνωστὸν ἔστω τῷ βασιλεῖ ὅτι οἱ Ιουδαῖοι ἀναβάντες ἀπὸ σοῦ ἐφ' ἡμᾶς ἤλθοσαν εἰς Ιερουσαλημ τὴν πόλιν τὴν ἀποστάτιν καὶ πονηρὰν οἰκοδομοῦσιν καὶ τὰ τείχη αὐτῆς κατηρτισμένοι εἰσίν καὶ θεμελίους αὐτῆς ἀνύψωσαν.",
+          "name": "Esdras 4:12",
+          "chapter": "4"
+        },
+        {
+          "verse": "13",
+          "text": "Que le roi sache bien qu'aussitôt leur ville reconstruite et leurs murs réparés, ils cesseront d'être tes tributaires, ils ne donneront rien ; et ainsi, ils feront tort aux rois ;",
+          "grec": "νῦν οὖν γνωστὸν ἔστω τῷ βασιλεῖ ὅτι ἐὰν ἡ πόλις ἐκείνη ἀνοικοδομηθῇ καὶ τὰ τείχη αὐτῆς καταρτισθῶσιν φόροι οὐκ ἔσονταί σοι οὐδὲ δώσουσιν καὶ τοῦτο βασιλεῖς κακοποιεῖ.",
+          "name": "Esdras 4:13",
+          "chapter": "4"
+        },
+        {
+          "verse": "14",
+          "text": "Et il ne nous est point possible de voir le roi outragé ; c'est pourquoi nous avons envoyé un message pour instruire le roi,",
+          "grec": "καὶ ἀσχημοσύνην βασιλέως οὐκ ἔξεστιν ἡμῖν ἰδεῖν διὰ τοῦτο ἐπέμψαμεν καὶ ἐγνωρίσαμεν τῷ βασιλεῖ.",
+          "name": "Esdras 4:14",
+          "chapter": "4"
+        },
+        {
+          "verse": "15",
+          "text": "Afin que l'on regarde dans le livre des archives de tes pères, où tu trouveras et tu apprendras que cette ville est une ville rebelle, qu'elle fait tort aux rois et aux royaumes, qu'il y a toujours eu chez elle des esclaves fugitifs, et que c'est pour cela qu'elle a été dépeuplée.",
+          "grec": "ἵνα ἐπισκέψηται ἐν βιβλίῳ ὑπομνηματισμοῦ τῶν πατέρων σου καὶ εὑρήσεις καὶ γνώσῃ ὅτι ἡ πόλις ἐκείνη πόλις ἀποστάτις καὶ κακοποιοῦσα βασιλεῖς καὶ χώρας καὶ φυγάδια δούλων ἐν μέσῳ αὐτῆς ἀπὸ χρόνων αἰῶνος διὰ ταῦτα ἡ πόλις αὕτη ἠρημώθη.",
+          "name": "Esdras 4:15",
+          "chapter": "4"
+        },
+        {
+          "verse": "16",
+          "text": "Nous déclarons donc au roi que, si cette ville est rebâtie, si ses remparts sont relevés, il n'y aura plus de paix pour toi.",
+          "grec": "γνωρίζομεν οὖν ἡμεῖς τῷ βασιλεῖ ὅτι ἐὰν ἡ πόλις ἐκείνη οἰκοδομηθῇ καὶ τὰ τείχη αὐτῆς καταρτισθῇ οὐκ ἔστιν σοι εἰρήνη.",
+          "name": "Esdras 4:16",
+          "chapter": "4"
+        },
+        {
+          "verse": "17",
+          "text": "Et le roi envoya dire à Rhéum le chancelier, à Samsa le scribe, et à ses serviteurs qui habitaient en Samarie et en deçà du fleuve : La paix ;",
+          "grec": "καὶ ἀπέστειλεν ὁ βασιλεὺς πρὸς Ραουμ βααλταμ καὶ Σαμσαι γραμματέα καὶ τοὺς καταλοίπους συνδούλους αὐτῶν τοὺς οἰκοῦντας ἐν Σαμαρείᾳ καὶ τοὺς καταλοίπους πέραν τοῦ ποταμοῦ εἰρήνην καί φησιν.",
+          "name": "Esdras 4:17",
+          "chapter": "4"
+        },
+        {
+          "verse": "18",
+          "text": "Le collecteur des impôts que sous nous avez envoyé a été appelé devant moi.",
+          "grec": "ὁ φορολόγος ὃν ἀπεστείλατε πρὸς ἡμᾶς ἐκλήθη ἔμπροσθεν ἐμοῦ.",
+          "name": "Esdras 4:18",
+          "chapter": "4"
+        },
+        {
+          "verse": "19",
+          "text": "Et j'ai fait un édit ; puis, nous avons examiné, et nous avons trouvé que cette ville de tout temps s'est soulevée contre les rois ; que la rébellion, que la désertion y résident.",
+          "grec": "καὶ παρ' ἐμοῦ ἐτέθη γνώμη καὶ ἐπεσκεψάμεθα καὶ εὕραμεν ὅτι ἡ πόλις ἐκείνη ἀφ' ἡμερῶν αἰῶνος ἐπὶ βασιλεῖς ἐπαίρεται καὶ ἀποστάσεις καὶ φυγάδια γίνονται ἐν αὐτῇ.",
+          "name": "Esdras 4:19",
+          "chapter": "4"
+        },
+        {
+          "verse": "20",
+          "text": "Or, il y a eu en Jérusalem des rois puissants ; ils ont maîtrisé toute la contrée au delà de l'Euphrate ; d'abondants revenus et des impôts leur ont été payés.",
+          "grec": "καὶ βασιλεῖς ἰσχυροὶ γίνονται ἐπὶ Ιερουσαλημ καὶ ἐπικρατοῦντες ὅλης τῆς ἑσπέρας τοῦ ποταμοῦ καὶ φόροι πλήρεις καὶ μέρος δίδοται αὐτοῖς.",
+          "name": "Esdras 4:20",
+          "chapter": "4"
+        },
+        {
+          "verse": "21",
+          "text": "Maintenant donc, faites un édit pour suspendre le travail de ces hommes ; cette ville ne sera plus rebâtie.",
+          "grec": "καὶ νῦν θέτε γνώμην καταργῆσαι τοὺς ἄνδρας ἐκείνους καὶ ἡ πόλις ἐκείνη οὐκ οἰκοδομηθήσεται ἔτι ὅπως ἀπὸ τῆς γνώμης.",
+          "name": "Esdras 4:21",
+          "chapter": "4"
+        },
+        {
+          "verse": "22",
+          "text": "Soyez attentifs à maintenir cet édit ; ne vous en relâchez point, de peur qu'un jour le mal ne s'y aggrave au détriment du roi.",
+          "grec": "πεφυλαγμένοι ἦτε ἄνεσιν ποιῆσαι περὶ τούτου μήποτε πληθυνθῇ ἀφανισμὸς εἰς κακοποίησιν βασιλεῦσιν.",
+          "name": "Esdras 4:22",
+          "chapter": "4"
+        },
+        {
+          "verse": "23",
+          "text": "Le collecteur des impôts d'Arthasastha, roi, lut donc cette lettre devant Rhéuni le chancelier, Samsa le scribe, et les autres serviteurs du roi, et ils allèrent en toute hâte à Jérusalem et en Juda avec des troupes et de la cavalerie, et ils arrêtèrent les travaux du peuple.",
+          "grec": "τότε ὁ φορολόγος τοῦ Αρθασασθα βασιλέως ἀνέγνω ἐνώπιον Ραουμ καὶ Σαμσαι γραμματέως καὶ συνδούλων αὐτῶν καὶ ἐπορεύθησαν σπουδῇ εἰς Ιερουσαλημ καὶ ἐν Ιουδα καὶ κατήργησαν αὐτοὺς ἐν ἵπποις καὶ δυνάμει.",
+          "name": "Esdras 4:23",
+          "chapter": "4"
+        },
+        {
+          "verse": "24",
+          "text": "Ainsi, la reconstruction du temple de Dieu fut suspendue à Jérusalem, et on ne la reprit qu'à la seconde année du règne de Darius.",
+          "grec": "τότε ἤργησεν τὸ ἔργον οἴκου τοῦ θεοῦ τοῦ ἐν Ιερουσαλημ καὶ ἦν ἀργοῦν ἕως δευτέρου ἔτους τῆς βασιλείας Δαρείου τοῦ βασιλέως Περσῶν.",
+          "name": "Esdras 4:24",
+          "chapter": "4"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "name": "Esdras 5",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Or, Aggée le prophète, et Zacharie, fils d'Addo, firent, devant les Juifs qui se trouvaient en Juda et à Jérusalem, au nom du Dieu d'Israël, une prophétie qui les concernait.",
+          "grec": "καὶ ἐπροφήτευσεν Αγγαιος ὁ προφήτης καὶ Ζαχαριας ὁ τοῦ Αδδω προφητείαν ἐπὶ τοὺς Ιουδαίους τοὺς ἐν Ιουδα καὶ Ιερουσαλημ ἐν ὀνόματι θεοῦ Ισραηλ ἐπ' αὐτούς.",
+          "name": "Esdras 5:1",
+          "chapter": "5"
+        },
+        {
+          "verse": "2",
+          "text": "Alors, Zorobabel, fils de Salathiel, et Josué, fils de Josedec, se mirent en avant, et ils commencèrent à bâtir le temple de Dieu à Jérusalem, et les prophètes de Dieu étaient avec eux, leur prêtant secours.",
+          "grec": "τότε ἀνέστησαν Ζοροβαβελ ὁ τοῦ Σαλαθιηλ καὶ Ἰησοῦς ὁ υἱὸς Ιωσεδεκ καὶ ἤρξαντο οἰκοδομῆσαι τὸν οἶκον τοῦ θεοῦ τὸν ἐν Ιερουσαλημ καὶ μετ' αὐτῶν οἱ προφῆται τοῦ θεοῦ βοηθοῦντες αὐτοῖς.",
+          "name": "Esdras 5:2",
+          "chapter": "5"
+        },
+        {
+          "verse": "3",
+          "text": "En ce temps-là, Thanthanaï, gouverneur de ce côté de l'Euphrate, et Satharbuzanaï, et les autres serviteurs du roi, vinrent à eux, et leur dirent : Qui a fait en votre faveur un édit pour que vous bâtissiez ce temple et que vous fassiez ces apprêts ?",
+          "grec": "ἐν αὐτῷ τῷ καιρῷ ἦλθεν ἐπ' αὐτοὺς Θανθαναι ἔπαρχος πέραν τοῦ ποταμοῦ καὶ Σαθαρβουζανα καὶ οἱ σύνδουλοι αὐτῶν καὶ τοῖα εἶπαν αὐτοῖς τίς ἔθηκεν ὑμῖν γνώμην τοῦ οἰκοδομῆσαι τὸν οἶκον τοῦτον καὶ τὴν χορηγίαν ταύτην καταρτίσασθαι.",
+          "name": "Esdras 5:3",
+          "chapter": "5"
+        },
+        {
+          "verse": "4",
+          "text": "Et ils ajoutèrent : Quels sont les noms des hommes qui bâtissent cette ville ?",
+          "grec": "τότε ταῦτα εἴποσαν αὐτοῖς τίνα ἐστὶν τὰ ὀνόματα τῶν ἀνδρῶν τῶν οἰκοδομούντων τὴν πόλιν ταύτην.",
+          "name": "Esdras 5:4",
+          "chapter": "5"
+        },
+        {
+          "verse": "5",
+          "text": "Mais les yeux de Dieu étaient ouverts sur la captivité de Juda, et ces hommes ne suspendirent pas les travaux jusqu'à ce qu'un édit fût fait par Darius. Et alors, à ce sujet, le collecteur des impôts envoya",
+          "grec": "καὶ οἱ ὀφθαλμοὶ τοῦ θεοῦ ἐπὶ τὴν αἰχμαλωσίαν Ιουδα καὶ οὐ κατήργησαν αὐτούς ἕως γνώμη τῷ Δαρείῳ ἀπηνέχθη καὶ τότε ἀπεστάλη τῷ φορολόγῳ ὑπὲρ τούτου.",
+          "name": "Esdras 5:5",
+          "chapter": "5"
+        },
+        {
+          "verse": "6",
+          "text": "La traduction de la lettre qu'avaient écrite, pour le roi Darius, Thanthanaï, gouverneur de ce côté de l'Euphrate ; Satharbuzanaï et les autres Apharsachéens, serviteurs du roi, sur la rive droite de l'Euphrate.",
+          "grec": "διασάφησις ἐπιστολῆς ἧς ἀπέστειλεν Θανθαναι ὁ ἔπαρχος τοῦ πέραν τοῦ ποταμοῦ καὶ Σαθαρβουζανα καὶ οἱ σύνδουλοι αὐτῶν Αφαρσαχαῖοι οἱ ἐν τῷ πέραν τοῦ ποταμοῦ Δαρείῳ τῷ βασιλεῖ.",
+          "name": "Esdras 5:6",
+          "chapter": "5"
+        },
+        {
+          "verse": "7",
+          "text": "Ils avaient écrit pour lui un rapport, et voici en quels termes : Paix entière au roi Darius.",
+          "grec": "ῥῆσιν ἀπέστειλαν πρὸς αὐτόν καὶ τάδε γέγραπται ἐν αὐτῷ Δαρείῳ τῷ βασιλεῖ εἰρήνη πᾶσα.",
+          "name": "Esdras 5:7",
+          "chapter": "5"
+        },
+        {
+          "verse": "8",
+          "text": "Que le roi sache que nous sommes allés en Judée dans le temple du grand Dieu ; or, ce temple est rebâti en pierres de choix, et des bois sont placés sur les murs, et ce travail est bien exécuté, et il va bien entre leurs mains.",
+          "grec": "γνωστὸν ἔστω τῷ βασιλεῖ ὅτι ἐπορεύθημεν εἰς τὴν Ιουδαίαν χώραν εἰς οἶκον τοῦ θεοῦ τοῦ μεγάλου καὶ αὐτὸς οἰκοδομεῖται λίθοις ἐκλεκτοῖς καὶ ξύλα ἐντίθεται ἐν τοῖς τοίχοις καὶ τὸ ἔργον ἐκεῖνο ἐπιδέξιον γίνεται καὶ εὐοδοῦται ἐν ταῖς χερσὶν αὐτῶν.",
+          "name": "Esdras 5:8",
+          "chapter": "5"
+        },
+        {
+          "verse": "9",
+          "text": "Après l'avoir vu, nous avons interrogé les anciens, et nous leur avons ainsi parlé : Qui a fait en votre faveur un édit pour que vous bâtissiez ce temple, et que vous fassiez ces apprêts ?",
+          "grec": "τότε ἠρωτήσαμεν τοὺς πρεσβυτέρους ἐκείνους καὶ οὕτως εἴπαμεν αὐτοῖς τίς ἔθηκεν ὑμῖν γνώμην τὸν οἶκον τοῦτον οἰκοδομῆσαι καὶ τὴν χορηγίαν ταύτην καταρτίσασθαι.",
+          "name": "Esdras 5:9",
+          "chapter": "5"
+        },
+        {
+          "verse": "10",
+          "text": "Et nous leur avons demandé leurs noms, afin de te les faire connaître, et de prendre par écrit les noms de leurs chefs.",
+          "grec": "καὶ τὰ ὀνόματα αὐτῶν ἠρωτήσαμεν αὐτοὺς γνωρίσαι σοι ὥστε γράψαι σοι τὰ ὀνόματα τῶν ἀνδρῶν τῶν ἀρχόντων αὐτῶν.",
+          "name": "Esdras 5:10",
+          "chapter": "5"
+        },
+        {
+          "verse": "11",
+          "text": "Et voici ce qu'ils nous ont répondu : Nous sommes les serviteurs du Dieu du ciel et de la terre, et nous relevons ce temple qui avait été construit il y a bien des années ; un grand roi d'Israël l'avait bâti, et il l'avait établi pour son peuple.",
+          "grec": "καὶ τοιοῦτο ῥῆμα ἀπεκρίθησαν ἡμῖν λέγοντες ἡμεῖς ἐσμεν δοῦλοι τοῦ θεοῦ τοῦ οὐρανοῦ καὶ τῆς γῆς καὶ οἰκοδομοῦμεν τὸν οἶκον ὃς ἦν ᾠκοδομημένος πρὸ τούτου ἔτη πολλά καὶ βασιλεὺς τοῦ Ισραηλ μέγας ᾠκοδόμησεν αὐτὸν καὶ κατηρτίσατο αὐτὸν.",
+          "name": "Esdras 5:11",
+          "chapter": "5"
+        },
+        {
+          "verse": "12",
+          "text": "Mais, après cela, nos pères ont irrité le Dieu du ciel, qui les a livrés à Nabuchodonosor le Chaldéen, roi de Babylone ; celui-ci a détruit ce temple, et emmené le peuple captif à Babylone.",
+          "grec": "αὐτοῖς ἀφ' ὅτε δὲ παρώργισαν οἱ πατέρες ἡμῶν τὸν θεὸν τοῦ οὐρανοῦ ἔδωκεν αὐτοὺς εἰς χεῖρας Ναβουχοδονοσορ βασιλέως Βαβυλῶνος τοῦ Χαλδαίου καὶ τὸν οἶκον τοῦτον κατέλυσεν καὶ τὸν λαὸν ἀπῴκισεν εἰς Βαβυλῶνα.",
+          "name": "Esdras 5:12",
+          "chapter": "5"
+        },
+        {
+          "verse": "13",
+          "text": "Mais, dans la première année de sa domination, Cyrus, roi des Perses, a fait un édit pour que le temple de Dieu fût rebâti.",
+          "grec": "ἀλλ' ἐν ἔτει πρώτῳ Κύρου τοῦ βασιλέως Κῦρος ὁ βασιλεὺς ἔθετο γνώμην τὸν οἶκον τοῦ θεοῦ τοῦτον οἰκοδομηθῆναι.",
+          "name": "Esdras 5:13",
+          "chapter": "5"
+        },
+        {
+          "verse": "14",
+          "text": "Et il a retiré du temple du roi les vases d'or et d'argent du temple de Dieu, enlevés de Jérusalem par Nabuchodonosor, et placés dans le temple de Babylone, et il les a remis au trésorier Sabanasar ;",
+          "grec": "καὶ τὰ σκεύη τοῦ οἴκου τοῦ θεοῦ τὰ χρυσᾶ καὶ τὰ ἀργυρᾶ ἃ Ναβουχοδονοσορ ἐξήνεγκεν ἀπὸ οἴκου τοῦ ἐν Ιερουσαλημ καὶ ἀπήνεγκεν αὐτὰ εἰς ναὸν τοῦ βασιλέως ἐξήνεγκεν αὐτὰ Κῦρος ὁ βασιλεὺς ἀπὸ ναοῦ τοῦ βασιλέως καὶ ἔδωκεν τῷ Σασαβασαρ τῷ θησαυροφύλακι τῷ ἐπὶ τοῦ θησαυροῦ.",
+          "name": "Esdras 5:14",
+          "chapter": "5"
+        },
+        {
+          "verse": "15",
+          "text": "Et il lui a dit : Prends tous ces vases, pars, et remets-les à leur place dans le temple de Jérusalem.",
+          "grec": "καὶ εἶπεν αὐτῷ πάντα τὰ σκεύη λαβὲ καὶ πορεύου θὲς αὐτὰ ἐν τῷ οἴκῳ τῷ ἐν Ιερουσαλημ εἰς τὸν ἑαυτῶν τόπον.",
+          "name": "Esdras 5:15",
+          "chapter": "5"
+        },
+        {
+          "verse": "16",
+          "text": "Alors, ce Sabanasar est venu, et il a jeté les fondations du temple de Dieu à Jérusalem ; depuis ce temps ; jusqu'à cette heure, on a travaillé à le construire, et il n'est pas encore achevé.",
+          "grec": "τότε Σασαβασαρ ἐκεῖνος ἦλθεν καὶ ἔδωκεν θεμελίους τοῦ οἴκου τοῦ θεοῦ τοῦ ἐν Ιερουσαλημ καὶ ἀπὸ τότε ἕως τοῦ νῦν ᾠκοδομήθη καὶ οὐκ ἐτελέσθη.",
+          "name": "Esdras 5:16",
+          "chapter": "5"
+        },
+        {
+          "verse": "17",
+          "text": "Et maintenant, si le roi le trouve bon, qu'il fasse faire des recherches dans le palais du trésor du roi de Babylone, afin de s'assurer que le roi Cyrus a fait un édit pour que le temple de Dieu fût relevé en Jérusalem ; et, quand le roi s'en sera informé, qu'il envoie auprès de vous.",
+          "grec": "καὶ νῦν εἰ ἐπὶ τὸν βασιλέα ἀγαθόν ἐπισκεπήτω ἐν οἴκῳ τῆς γάζης τοῦ βασιλέως Βαβυλῶνος ὅπως γνῷς ὅτι ἀπὸ βασιλέως Κύρου ἐτέθη γνώμη οἰκοδομῆσαι τὸν οἶκον τοῦ θεοῦ ἐκεῖνον τὸν ἐν Ιερουσαλημ καὶ γνοὺς ὁ βασιλεὺς περὶ τούτου πεμψάτω πρὸς ἡμᾶς.",
+          "name": "Esdras 5:17",
+          "chapter": "5"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "name": "Esdras 6",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Alors, le roi Darius fit un édit pour que l'on cherchât dans les bibliothèques où est le trésor de Babylone.",
+          "grec": "τότε Δαρεῖος ὁ βασιλεὺς ἔθηκεν γνώμην καὶ ἐπεσκέψατο ἐν ταῖς βιβλιοθήκαις ὅπου ἡ γάζα κεῖται ἐν Βαβυλῶνι.",
+          "name": "Esdras 6:1",
+          "chapter": "6"
+        },
+        {
+          "verse": "2",
+          "text": "Et l'on trouva en cette ville, dans le palais, un chapitre où ce mémorial était écrit.",
+          "grec": "καὶ εὑρέθη ἐν πόλει ἐν τῇ βάρει τῆς Μήδων πόλεως κεφαλὶς μία καὶ τοῦτο ἦν γεγραμμένον ἐν αὐτῇ ὑπόμνημα.",
+          "name": "Esdras 6:2",
+          "chapter": "6"
+        },
+        {
+          "verse": "3",
+          "text": "En la première année de la domination du roi Cyrus, le roi Cyrus a fait cet édit, touchant le saint temple de Dieu à Jérusalem : Que le temple soit rebâti, ainsi que le lieu où l'on sacrifiait des victimes. Et il en a déterminé la hauteur et la largeur : soixante coudées des deux parts.",
+          "grec": "ἐν ἔτει πρώτῳ Κύρου βασιλέως Κῦρος ὁ βασιλεὺς ἔθηκεν γνώμην περὶ οἴκου τοῦ θεοῦ τοῦ ἐν Ιερουσαλημ οἶκος οἰκοδομηθήτω καὶ τόπος οὗ θυσιάζουσιν τὰ θυσιάσματα καὶ ἔθηκεν ἔπαρμα ὕψος πήχεις ἑξήκοντα πλάτος αὐτοῦ πήχεων ἑξήκοντα.",
+          "name": "Esdras 6:3",
+          "chapter": "6"
+        },
+        {
+          "verse": "4",
+          "text": "Et il a ajouté : Qu'il y ait trois étages en pierres dures et un en bois, et que la dépense soit supportée par le trésor royal.",
+          "grec": "καὶ δόμοι λίθινοι κραταιοὶ τρεῖς καὶ δόμος ξύλινος εἷς καὶ ἡ δαπάνη ἐξ οἴκου τοῦ βασιλέως δοθήσεται.",
+          "name": "Esdras 6:4",
+          "chapter": "6"
+        },
+        {
+          "verse": "5",
+          "text": "Que l'on rende les vases d'or et d'argent du temple de Dieu, apportés de Jérusalem par Nabuchodonosor, et mis à Babylone ; qu'ils retournent au temple de Jérusalem, à la place où ils étaient, dans le temple de Dieu.",
+          "grec": "καὶ τὰ σκεύη οἴκου τοῦ θεοῦ τὰ ἀργυρᾶ καὶ τὰ χρυσᾶ ἃ Ναβουχοδονοσορ ἐξήνεγκεν ἀπὸ οἴκου τοῦ ἐν Ιερουσαλημ καὶ ἐκόμισεν εἰς Βαβυλῶνα καὶ δοθήτω καὶ ἀπελθάτω εἰς τὸν ναὸν τὸν ἐν Ιερουσαλημ ἐπὶ τόπου οὗ ἐτέθη ἐν οἴκῳ τοῦ θεοῦ.",
+          "name": "Esdras 6:5",
+          "chapter": "6"
+        },
+        {
+          "verse": "6",
+          "text": "Maintenant, vous, gouverneurs au delà du fleuve, vous, Satharbuzanaï et Apharsachéens, mes serviteurs au delà du fleuve, donnez-leur ces choses, et tenez-vous loin d'eux.",
+          "grec": "νῦν δώσετε ἔπαρχοι πέραν τοῦ ποταμοῦ Σαθαρβουζανα καὶ οἱ σύνδουλοι αὐτῶν Αφαρσαχαῖοι οἱ ἐν πέρα τοῦ ποταμοῦ μακρὰν ὄντες ἐκεῖθεν.",
+          "name": "Esdras 6:6",
+          "chapter": "6"
+        },
+        {
+          "verse": "7",
+          "text": "Laissez faire les travaux du temple de Dieu : que les chefs des Juifs, que leurs anciens bâtissent le temple au lieu où il était.",
+          "grec": "ἄφετε τὸ ἔργον οἴκου τοῦ θεοῦ οἱ ἀφηγούμενοι τῶν Ιουδαίων καὶ οἱ πρεσβύτεροι τῶν Ιουδαίων οἶκον τοῦ θεοῦ ἐκεῖνον οἰκοδομείτωσαν ἐπὶ τοῦ τόπου αὐτοῦ.",
+          "name": "Esdras 6:7",
+          "chapter": "6"
+        },
+        {
+          "verse": "8",
+          "text": "Un édit est aussi rendu par moi pour que vous ne vous mêliez en rien de ce que feront les anciens des Juifs, pendant qu'ils bâtiront le temple de ce Dieu, et que, dans le but de ne point arrêter les travaux, on donne avec zèle à ces hommes, sur les impôts du roi, levés au delà de l'Euphrate, ce qu'il faudra pour la dépense.",
+          "grec": "καὶ ἀπ' ἐμοῦ ἐτέθη γνώμη μήποτέ τι ποιήσητε μετὰ τῶν πρεσβυτέρων τῶν Ιουδαίων τοῦ οἰκοδομῆσαι οἶκον τοῦ θεοῦ ἐκεῖνον καὶ ἀπὸ ὑπαρχόντων βασιλέως τῶν φόρων πέραν τοῦ ποταμοῦ ἐπιμελῶς δαπάνη ἔστω διδομένη τοῖς ἀνδράσιν ἐκείνοις τὸ μὴ καταργηθῆναι.",
+          "name": "Esdras 6:8",
+          "chapter": "6"
+        },
+        {
+          "verse": "9",
+          "text": "Et, ce qui viendrait à leur manquer, qu'on le leur donne jour par jour, à mesure qu'ils le demanderont, soit des bœufs, des béliers, des agneaux, pour les holocaustes du Dieu du ciel, soit du froment, du sel, du vin et de l'huile, selon le besoin des prêtres qui se trouvent à Jérusalem,",
+          "grec": "καὶ ὃ ἂν ὑστέρημα καὶ υἱοὺς βοῶν καὶ κριῶν καὶ ἀμνοὺς εἰς ὁλοκαυτώσεις τῷ θεῷ τοῦ οὐρανοῦ πυρούς ἅλας οἶνον ἔλαιον κατὰ τὸ ῥῆμα τῶν ἱερέων τῶν ἐν Ιερουσαλημ ἔστω διδόμενον αὐτοῖς ἡμέραν ἐν ἡμέρᾳ ὃ ἐὰν αἰτήσωσιν.",
+          "name": "Esdras 6:9",
+          "chapter": "6"
+        },
+        {
+          "verse": "10",
+          "text": "Afin qu'ils fassent aisément leurs offrandes d'odeur de suavité au Dieu du ciel, et qu'ils prient pour la vie du roi et de ses fils.",
+          "grec": "ἵνα ὦσιν προσφέροντες εὐωδίας τῷ θεῷ τοῦ οὐρανοῦ καὶ προσεύχωνται εἰς ζωὴν τοῦ βασιλέως καὶ τῶν υἱῶν αὐτοῦ.",
+          "name": "Esdras 6:10",
+          "chapter": "6"
+        },
+        {
+          "verse": "11",
+          "text": "Et j'ai fait un édit portant que quiconque s'écartera de mes ordres sera attaché à une poutre enlevée de sa maison, et mis à mort sur ce bois, et que sa maison sera confisquée.",
+          "grec": "καὶ ἀπ' ἐμοῦ ἐτέθη γνώμη ὅτι πᾶς ἄνθρωπος ὃς ἀλλάξει τὸ ῥῆμα τοῦτο καθαιρεθήσεται ξύλον ἐκ τῆς οἰκίας αὐτοῦ καὶ ὠρθωμένος παγήσεται ἐπ' αὐτοῦ καὶ ὁ οἶκος αὐτοῦ τὸ κατ' ἐμὲ ποιηθήσεται.",
+          "name": "Esdras 6:11",
+          "chapter": "6"
+        },
+        {
+          "verse": "12",
+          "text": "Puisse le Dieu, dont le nom résidera en ce temple, renverser tout roi ou peuple qui étendra la main pour endommager ou détruire le temple de Dieu à Jérusalem. Moi, Darius, j'ai fait cet édit ; qu'on soit attentif à s'y conformer.",
+          "grec": "καὶ ὁ θεός οὗ κατασκηνοῖ τὸ ὄνομα ἐκεῖ καταστρέψει πάντα βασιλέα καὶ λαόν ὃς ἐκτενεῖ τὴν χεῖρα αὐτοῦ ἀλλάξαι ἢ ἀφανίσαι τὸν οἶκον τοῦ θεοῦ ἐκεῖνον τὸν ἐν Ιερουσαλημ ἐγὼ Δαρεῖος ἔθηκα γνώμην ἐπιμελῶς ἔσται.",
+          "name": "Esdras 6:12",
+          "chapter": "6"
+        },
+        {
+          "verse": "13",
+          "text": "Alors, Tanthanaï, gouverneur en deçà de l'Euphrate ; Satharbuzanaï, et les autres serviteurs du roi à qui Darius avait écrit, lui obéirent avec zèle.",
+          "grec": "τότε Θανθαναι ἔπαρχος πέραν τοῦ ποταμοῦ Σαθαρβουζανα καὶ οἱ σύνδουλοι αὐτοῦ πρὸς ὃ ἀπέστειλεν Δαρεῖος ὁ βασιλεὺς οὕτως ἐποίησαν ἐπιμελῶς.",
+          "name": "Esdras 6:13",
+          "chapter": "6"
+        },
+        {
+          "verse": "14",
+          "text": "Et les anciens des Juifs et les lévites bâtirent, selon la prophétie d'Aggée le prophète, et de Zacharie, fils d'Addo ; et ils bâtirent, et ils achevèrent le temple suivant la volonté de Dieu, et grâce aux édits de Cyrus, de Darius et d'Arthasastha, rois des Perses.",
+          "grec": "καὶ οἱ πρεσβύτεροι τῶν Ιουδαίων ᾠκοδομοῦσαν καὶ οἱ Λευῖται ἐν προφητείᾳ Αγγαιου τοῦ προφήτου καὶ Ζαχαριου υἱοῦ Αδδω καὶ ἀνῳκοδόμησαν καὶ κατηρτίσαντο ἀπὸ γνώμης θεοῦ Ισραηλ καὶ ἀπὸ γνώμης Κύρου καὶ Δαρείου καὶ Αρθασασθα βασιλέων Περσῶν.",
+          "name": "Esdras 6:14",
+          "chapter": "6"
+        },
+        {
+          "verse": "15",
+          "text": "Et ils achevèrent le temple le troisième jour du mois d'adar, et la sixième année du règne de Darius.",
+          "grec": "καὶ ἐτέλεσαν τὸν οἶκον τοῦτον ἕως ἡμέρας τρίτης μηνὸς Αδαρ ὅ ἐστιν ἔτος ἕκτον τῇ βασιλείᾳ Δαρείου τοῦ βασιλέως.",
+          "name": "Esdras 6:15",
+          "chapter": "6"
+        },
+        {
+          "verse": "16",
+          "text": "Et les fils d'Israël, et les prêtres, et les lévites, et le reste des fils de l'exil, firent, avec allégresse, la dédicace du temple de Dieu.",
+          "grec": "καὶ ἐποίησαν οἱ υἱοὶ Ισραηλ οἱ ἱερεῖς καὶ οἱ Λευῖται καὶ οἱ κατάλοιποι υἱῶν ἀποικεσίας ἐγκαίνια τοῦ οἴκου τοῦ θεοῦ ἐν εὐφροσύνῃ.",
+          "name": "Esdras 6:16",
+          "chapter": "6"
+        },
+        {
+          "verse": "17",
+          "text": "Pour la dédicace du temple de Dieu, ils offrirent cent bœufs, deux cents béliers, quatre cents agneaux ; et l'offrande pour les péchés de tout Israël fut de douze boucs, nombre égal à celui des tribus d'Israël.",
+          "grec": "καὶ προσήνεγκαν εἰς τὰ ἐγκαίνια τοῦ οἴκου τοῦ θεοῦ μόσχους ἑκατόν κριοὺς διακοσίους ἀμνοὺς τετρακοσίους χιμάρους αἰγῶν περὶ ἁμαρτίας ὑπὲρ παντὸς Ισραηλ δώδεκα εἰς ἀριθμὸν φυλῶν Ισραηλ.",
+          "name": "Esdras 6:17",
+          "chapter": "6"
+        },
+        {
+          "verse": "18",
+          "text": "Ils rétablirent les prêtres selon leurs divisions, et les lévites selon leurs catégories, pour le service de Dieu à Jérusalem, comme il est écrit au livre de Moïse.",
+          "grec": "καὶ ἔστησαν τοὺς ἱερεῖς ἐν διαιρέσεσιν αὐτῶν καὶ τοὺς Λευίτας ἐν μερισμοῖς αὐτῶν ἐπὶ δουλείᾳ θεοῦ τοῦ ἐν Ιερουσαλημ κατὰ τὴν γραφὴν βιβλίου Μωυσῆ.",
+          "name": "Esdras 6:18",
+          "chapter": "6"
+        },
+        {
+          "verse": "19",
+          "text": "Et les fils de l'exil firent la Pâque le quatorzième jour du second mois.",
+          "grec": "καὶ ἐποίησαν οἱ υἱοὶ τῆς ἀποικεσίας τὸ πασχα τῇ τεσσαρεσκαιδεκάτῃ τοῦ μηνὸς τοῦ πρώτου.",
+          "name": "Esdras 6:19",
+          "chapter": "6"
+        },
+        {
+          "verse": "20",
+          "text": "Car les prêtres et les lévites s'étaient purifiés ; ils avaient tous été reconnus purs. Et ils immolèrent la pâque pour tous les fils de l'exil, et pour leurs frères les prêtres et les lévites.",
+          "grec": "ὅτι ἐκαθαρίσθησαν οἱ ἱερεῖς καὶ οἱ Λευῖται ἕως εἷς πάντες καθαροὶ καὶ ἔσφαξαν τὸ πασχα τοῖς πᾶσιν υἱοῖς τῆς ἀποικεσίας καὶ τοῖς ἀδελφοῖς αὐτῶν τοῖς ἱερεῦσιν καὶ ἑαυτοῖς.",
+          "name": "Esdras 6:20",
+          "chapter": "6"
+        },
+        {
+          "verse": "21",
+          "text": "Et les fils d'Israël mangèrent la pâque, tant ceux qui étaient revenus de l'exil que ceux qui s'étaient préservés de l'impureté des peuples de la contrée, leurs voisins, et qui avaient cherché le Seigneur Dieu d'Israël.",
+          "grec": "καὶ ἔφαγον οἱ υἱοὶ Ισραηλ τὸ πασχα οἱ ἀπὸ τῆς ἀποικεσίας καὶ πᾶς ὁ χωριζόμενος τῆς ἀκαθαρσίας ἐθνῶν τῆς γῆς πρὸς αὐτοὺς τοῦ ἐκζητῆσαι κύριον θεὸν Ισραηλ.",
+          "name": "Esdras 6:21",
+          "chapter": "6"
+        },
+        {
+          "verse": "22",
+          "text": "Et ils célébrèrent la fête des Azymes durant sept jours avec allégresse ; car le Seigneur les réjouit, et il avait incliné le cœur du roi d'Assyrie en leur faveur pour fortifier leurs mains dans les travaux du temple du Dieu d'Israël.",
+          "grec": "καὶ ἐποίησαν τὴν ἑορτὴν τῶν ἀζύμων ἑπτὰ ἡμέρας ἐν εὐφροσύνῃ ὅτι εὔφρανεν αὐτοὺς κύριος καὶ ἐπέστρεψεν καρδίαν βασιλέως Ασσουρ ἐπ' αὐτοὺς κραταιῶσαι τὰς χεῖρας αὐτῶν ἐν ἔργοις οἴκου τοῦ θεοῦ Ισραηλ.",
+          "name": "Esdras 6:22",
+          "chapter": "6"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "name": "Esdras 7",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et, après ces événements, sous le règne d'Arthasastha, roi des Perses, partit Esdras, fils de Saraïas, fils d'Azarias, fils d'Helcias,",
+          "grec": "καὶ μετὰ τὰ ῥήματα ταῦτα ἐν βασιλείᾳ Αρθασασθα βασιλέως Περσῶν ἀνέβη Εσδρας υἱὸς Σαραιου υἱοῦ Αζαριου υἱοῦ Ελκια.",
+          "name": "Esdras 7:1",
+          "chapter": "7"
+        },
+        {
+          "verse": "2",
+          "text": "Fils de Selum, fils de Saddoc, fils d'Achitob,",
+          "grec": "υἱοῦ Σαλουμ υἱοῦ Σαδδουκ υἱοῦ Αχιτωβ.",
+          "name": "Esdras 7:2",
+          "chapter": "7"
+        },
+        {
+          "verse": "3",
+          "text": "Fils de Samarias, fils d'Esrias, fils de Maréoth,",
+          "grec": "υἱοῦ Σαμαρια υἱοῦ Εσρια υἱοῦ Μαρερωθ.",
+          "name": "Esdras 7:3",
+          "chapter": "7"
+        },
+        {
+          "verse": "4",
+          "text": "Fils de Zaraïas, fils d'Ozias, fils de Bocci,",
+          "grec": "υἱοῦ Ζαραια υἱοῦ Σαουια υἱοῦ Βοκκι.",
+          "name": "Esdras 7:4",
+          "chapter": "7"
+        },
+        {
+          "verse": "5",
+          "text": "Fils d'Abisué, fils de Phinéès, fils d'Eléazar, fils d'Aaron le premier prêtre.",
+          "grec": "υἱοῦ Αβισουε υἱοῦ Φινεες υἱοῦ Ελεαζαρ υἱοῦ Ααρων τοῦ ἱερέως τοῦ πρώτου.",
+          "name": "Esdras 7:5",
+          "chapter": "7"
+        },
+        {
+          "verse": "6",
+          "text": "Cet Esdras partit de Babylone ; il était scribe et très instruit en la loi de Moïse donnée par le Seigneur Dieu d'Israël. Et le roi le lui permit, parce que la main du Seigneur son Dieu était près de lui en tout ce qu'il demandait.",
+          "grec": "αὐτὸς Εσδρας ἀνέβη ἐκ Βαβυλῶνος καὶ αὐτὸς γραμματεὺς ταχὺς ἐν νόμῳ Μωυσῆ ὃν ἔδωκεν κύριος ὁ θεὸς Ισραηλ καὶ ἔδωκεν αὐτῷ ὁ βασιλεύς ὅτι χεὶρ κυρίου θεοῦ αὐτοῦ ἐπ' αὐτὸν ἐν πᾶσιν οἷς ἐζήτει αὐτός.",
+          "name": "Esdras 7:6",
+          "chapter": "7"
+        },
+        {
+          "verse": "7",
+          "text": "Et des chantres, et des portiers, et des Nathinéens, parmi les fils d'Israël, prêtres ou lévites, partirent pour Jérusalem en la septième année du règne du roi Arthasastha.",
+          "grec": "καὶ ἀνέβησαν ἀπὸ υἱῶν Ισραηλ καὶ ἀπὸ τῶν ἱερέων καὶ ἀπὸ τῶν Λευιτῶν καὶ οἱ ᾄδοντες καὶ οἱ πυλωροὶ καὶ οἱ ναθινιμ εἰς Ιερουσαλημ ἐν ἔτει ἑβδόμῳ τῷ Αρθασασθα τῷ βασιλεῖ.",
+          "name": "Esdras 7:7",
+          "chapter": "7"
+        },
+        {
+          "verse": "8",
+          "text": "Et ils arrivèrent à Jérusalem le cinquième mois de cette même année ;",
+          "grec": "καὶ ἤλθοσαν εἰς Ιερουσαλημ τῷ μηνὶ τῷ πέμπτῳ τοῦτο ἔτος ἕβδομον τῷ βασιλεῖ.",
+          "name": "Esdras 7:8",
+          "chapter": "7"
+        },
+        {
+          "verse": "9",
+          "text": "Car, le premier jour du premier mois, ils commencèrent à partir de Babylone, et, le premier jour du cinquième mois, ils entrèrent à Jérusalem, parce que la main du Seigneur était favorable à Esdras.",
+          "grec": "ὅτι ἐν μιᾷ τοῦ μηνὸς τοῦ πρώτου αὐτὸς ἐθεμελίωσεν τὴν ἀνάβασιν τὴν ἀπὸ Βαβυλῶνος ἐν δὲ τῇ πρώτῃ τοῦ μηνὸς τοῦ πέμπτου ἤλθοσαν εἰς Ιερουσαλημ ὅτι χεὶρ θεοῦ αὐτοῦ ἦν ἀγαθὴ ἐπ' αὐτόν.",
+          "name": "Esdras 7:9",
+          "chapter": "7"
+        },
+        {
+          "verse": "10",
+          "text": "Esdras, en effet, s'était adonné de tout son cœur à étudier la loi, à la mettre en pratique, et à enseigner aux fils d'Israël les commandements et les préceptes.",
+          "grec": "ὅτι Εσδρας ἔδωκεν ἐν καρδίᾳ αὐτοῦ ζητῆσαι τὸν νόμον καὶ ποιεῖν καὶ διδάσκειν ἐν Ισραηλ προστάγματα καὶ κρίματα.",
+          "name": "Esdras 7:10",
+          "chapter": "7"
+        },
+        {
+          "verse": "11",
+          "text": "Et voici la traduction de l'ordre qu'Arthasastha donna à Esdras, scribe du livre des lois et commandements du Seigneur, plus de ses prescriptions concernant Israël :",
+          "grec": "καὶ αὕτη ἡ διασάφησις τοῦ διατάγματος οὗ ἔδωκεν Αρθασασθα τῷ Εσδρα τῷ ἱερεῖ τῷ γραμματεῖ βιβλίου λόγων ἐντολῶν κυρίου καὶ προσταγμάτων αὐτοῦ ἐπὶ τὸν Ισραηλ.",
+          "name": "Esdras 7:11",
+          "chapter": "7"
+        },
+        {
+          "verse": "12",
+          "text": "Arthasastha, roi des rois, à Esdras, scribe de la loi du Seigneur Dieu du ciel : Que ta demande et ma réponse s'accomplissent.",
+          "grec": "Αρθασασθα βασιλεὺς βασιλέων Εσδρα γραμματεῖ νόμου τοῦ θεοῦ τοῦ οὐρανοῦ τετέλεσται ὁ λόγος καὶ ἡ ἀπόκρισις.",
+          "name": "Esdras 7:12",
+          "chapter": "7"
+        },
+        {
+          "verse": "13",
+          "text": "J'ai fait un édit pour que, dans mon royaume, tout homme du peuple d'Israël, et des prêtres, et des lévites, qui le voudra, parte avec toi pour Jérusalem.",
+          "grec": "ἀπ' ἐμοῦ ἐτέθη γνώμη ὅτι πᾶς ὁ ἑκουσιαζόμενος ἐν βασιλείᾳ μου ἀπὸ λαοῦ Ισραηλ καὶ ἱερέων καὶ Λευιτῶν πορευθῆναι εἰς Ιερουσαλημ μετὰ σοῦ πορευθῆναι.",
+          "name": "Esdras 7:13",
+          "chapter": "7"
+        },
+        {
+          "verse": "14",
+          "text": "Esdras est envoyé par le roi et ses sept conseillers, pour visiter la Judée et Jérusalem, conformément à la loi de Dieu qui est en ta main.",
+          "grec": "ἀπὸ προσώπου τοῦ βασιλέως καὶ τῶν ἑπτὰ συμβούλων ἀπεστάλη ἐπισκέψασθαι ἐπὶ τὴν Ιουδαίαν καὶ εἰς Ιερουσαλημ νόμῳ θεοῦ αὐτῶν τῷ ἐν χειρί σου.",
+          "name": "Esdras 7:14",
+          "chapter": "7"
+        },
+        {
+          "verse": "15",
+          "text": "Et tu porteras l'or et l'argent que le roi et ses conseillers offrent volontairement, pour le temple du Seigneur, au Dieu d'Israël qui réside en Jérusalem,",
+          "grec": "καὶ εἰς οἶκον κυρίου ἀργύριον καὶ χρυσίον ὃ ὁ βασιλεὺς καὶ οἱ σύμβουλοι ἡκουσιάσθησαν τῷ θεῷ τοῦ Ισραηλ τῷ ἐν Ιερουσαλημ κατασκηνοῦντι.",
+          "name": "Esdras 7:15",
+          "chapter": "7"
+        },
+        {
+          "verse": "16",
+          "text": "Et tout l'argent et l'or que tu recueilleras en tout le royaume de Babylone, donné volontairement par le peuple et les prêtres, pour le temple de Dieu, à Jérusalem.",
+          "grec": "καὶ πᾶν ἀργύριον καὶ χρυσίον ὅ τι ἐὰν εὕρῃς ἐν πάσῃ χώρᾳ Βαβυλῶνος μετὰ ἑκουσιασμοῦ τοῦ λαοῦ καὶ ἱερέων τῶν ἑκουσιαζομένων εἰς οἶκον θεοῦ τὸν ἐν Ιερουσαλημ.",
+          "name": "Esdras 7:16",
+          "chapter": "7"
+        },
+        {
+          "verse": "17",
+          "text": "A tous ceux qui iront à ce temple, prescris équitablement, selon ta loi, d'amener des agneaux avec leurs oblations et leurs libations ; tu les offriras sur l'autel du temple du Seigneur votre Dieu à Jérusalem.",
+          "grec": "καὶ πᾶν προσπορευόμενον τοῦτον ἑτοίμως ἔνταξον ἐν βιβλίῳ τούτῳ μόσχους κριούς ἀμνοὺς καὶ θυσίας αὐτῶν καὶ σπονδὰς αὐτῶν καὶ προσοίσεις αὐτὰ ἐπὶ θυσιαστηρίου τοῦ οἴκου τοῦ θεοῦ ὑμῶν τοῦ ἐν Ιερουσαλημ.",
+          "name": "Esdras 7:17",
+          "chapter": "7"
+        },
+        {
+          "verse": "18",
+          "text": "Et si à toi et à tes frères il plaît, avec le reste de l'or et de l'argent, de faire quelque chose, faites-le comme il sera agréable à votre Dieu ;",
+          "grec": "καὶ εἴ τι ἐπὶ σὲ καὶ τοὺς ἀδελφούς σου ἀγαθυνθῇ ἐν καταλοίπῳ τοῦ ἀργυρίου καὶ τοῦ χρυσίου ποιῆσαι ὡς ἀρεστὸν τῷ θεῷ ὑμῶν ποιήσατε.",
+          "name": "Esdras 7:18",
+          "chapter": "7"
+        },
+        {
+          "verse": "19",
+          "text": "Et remettes en leur place, devant Dieu à Jérusalem, les vases qui te sont donnés pour le service du temple de Dieu.",
+          "grec": "καὶ τὰ σκεύη τὰ διδόμενά σοι εἰς λειτουργίαν οἴκου θεοῦ παράδος ἐνώπιον τοῦ θεοῦ ἐν Ιερουσαλημ.",
+          "name": "Esdras 7:19",
+          "chapter": "7"
+        },
+        {
+          "verse": "20",
+          "text": "S'il est en outre des choses nécessaires au temple de ton Dieu qu'il te semble bon de donner, tu les donneras aux frais du trésor royal",
+          "grec": "καὶ κατάλοιπον χρείας οἴκου θεοῦ σου ὃ ἂν φανῇ σοι δοῦναι δώσεις ἀπὸ οἴκων γάζης βασιλέως.",
+          "name": "Esdras 7:20",
+          "chapter": "7"
+        },
+        {
+          "verse": "21",
+          "text": "Et de mon domaine. Moi, Arthasastha, roi, j'ai fait un édit pour que l'on donne promptement à Esdras, prêtre et scribe du Dieu du ciel, tout ce qu'il vous demandera des trésors publics qui sont au delà de l'Euphrate,",
+          "grec": "καὶ ἀπ' ἐμοῦ ἐγὼ Αρθασασθα βασιλεύς ἔθηκα γνώμην πάσαις ταῖς γάζαις ταῖς ἐν πέρα τοῦ ποταμοῦ ὅτι πᾶν ὃ ἂν αἰτήσῃ ὑμᾶς Εσδρας ὁ ἱερεὺς καὶ γραμματεὺς τοῦ νόμου τοῦ θεοῦ τοῦ οὐρανοῦ ἑτοίμως γιγνέσθω.",
+          "name": "Esdras 7:21",
+          "chapter": "7"
+        },
+        {
+          "verse": "22",
+          "text": "Jusqu'à cent talents d'argent, cent mesures de froment, cent tonneaux de yin, cent tonnes d'huile ; outre le sel, dont la quantité n'est pas fixée.",
+          "grec": "ἕως ἀργυρίου ταλάντων ἑκατὸν καὶ ἕως πυροῦ κόρων ἑκατὸν καὶ ἕως οἴνου βάδων ἑκατὸν καὶ ἕως ἐλαίου βάδων ἑκατὸν καὶ ἅλας οὗ οὐκ ἔστιν γραφή.",
+          "name": "Esdras 7:22",
+          "chapter": "7"
+        },
+        {
+          "verse": "23",
+          "text": "Que tout ce qui est selon la volonté du Dieu du ciel soit exécuté. Et vous, mes serviteurs, veillez à ce que nul ne mette la main sur le temple du Dieu du ciel, de peur que sa colère ne s'allume contre le royaume du roi et de ses fils.",
+          "grec": "πᾶν ὅ ἐστιν ἐν γνώμῃ θεοῦ τοῦ οὐρανοῦ γιγνέσθω προσέχετε μή τις ἐπιχειρήσῃ εἰς οἶκον θεοῦ τοῦ οὐρανοῦ μήποτε γένηται ὀργὴ ἐπὶ τὴν βασιλείαν τοῦ βασιλέως καὶ τῶν υἱῶν αὐτοῦ.",
+          "name": "Esdras 7:23",
+          "chapter": "7"
+        },
+        {
+          "verse": "24",
+          "text": "Sachez aussi, pour ce qui regarde tous les prêtres, lévites, chantres, portiers, Nathinéens, employés au service de ce Dieu, qu'ils n'ont point à vous payer d'impôt, et que vous n'avez point le pouvoir de leur rien demander de servile.",
+          "grec": "καὶ ὑμῖν ἐγνώρισται ἐν πᾶσιν τοῖς ἱερεῦσιν καὶ τοῖς Λευίταις ᾄδουσιν πυλωροῖς ναθινιμ καὶ λειτουργοῖς οἴκου θεοῦ τούτου φόρος μὴ ἔστω σοι οὐκ ἐξουσιάσεις καταδουλοῦσθαι αὐτούς.",
+          "name": "Esdras 7:24",
+          "chapter": "7"
+        },
+        {
+          "verse": "25",
+          "text": "Et toi, Esdras, comme tu as en ta main la sagesse de Dieu, institue des scribes et des juges, afin qu'au delà du fleuve ils rendent la justice à tout le peuple, à tous ceux qui connaissent la loi de ton Dieu, et enseignez cette loi à ceux qui l'ignorent.",
+          "grec": "καὶ σύ Εσδρα ὡς ἡ σοφία τοῦ θεοῦ ἐν χειρί σου κατάστησον γραμματεῖς καὶ κριτάς ἵνα ὦσιν κρίνοντες παντὶ τῷ λαῷ τῷ ἐν πέρα τοῦ ποταμοῦ πᾶσιν τοῖς εἰδόσιν νόμον τοῦ θεοῦ σου καὶ τῷ μὴ εἰδότι γνωριεῖτε.",
+          "name": "Esdras 7:25",
+          "chapter": "7"
+        },
+        {
+          "verse": "26",
+          "text": "Et quiconque ne se conformera pas avec zèle à la loi de Dieu et à la loi royale, sera jugé et condamné à mort, ou à une correction, ou à l'amende sur son bien, ou à la prison.",
+          "grec": "καὶ πᾶς ὃς ἂν μὴ ᾖ ποιῶν νόμον τοῦ θεοῦ καὶ νόμον τοῦ βασιλέως ἑτοίμως τὸ κρίμα ἔσται γιγνόμενον ἐξ αὐτοῦ ἐάν τε εἰς θάνατον ἐάν τε εἰς παιδείαν ἐάν τε εἰς ζημίαν τοῦ βίου ἐάν τε εἰς δεσμά.",
+          "name": "Esdras 7:26",
+          "chapter": "7"
+        },
+        {
+          "verse": "27",
+          "text": "Béni soit le Seigneur Dieu de nos pères, qui a donné au roi un tel cœur, pour glorifier le temple du Seigneur à Jérusalem,",
+          "grec": "εὐλογητὸς κύριος ὁ θεὸς τῶν πατέρων ἡμῶν ὃς ἔδωκεν οὕτως ἐν καρδίᾳ τοῦ βασιλέως τοῦ δοξάσαι τὸν οἶκον κυρίου τὸν ἐν Ιερουσαλημ.",
+          "name": "Esdras 7:27",
+          "chapter": "7"
+        },
+        {
+          "verse": "28",
+          "text": "Et qui a fait tourner sur moi les yeux et la miséricorde du roi, de ses conseillers, des chefs du royaume et des grands. Et moi, j'ai été fortifié par la main bienveillante de Dieu qui s'est posée sur moi, et j'ai rassemblé les chefs d'Israël pour les emmener avec moi.",
+          "grec": "καὶ ἐπ' ἐμὲ ἔκλινεν ἔλεος ἐν ὀφθαλμοῖς τοῦ βασιλέως καὶ τῶν συμβούλων αὐτοῦ καὶ πάντων τῶν ἀρχόντων τοῦ βασιλέως τῶν ἐπηρμένων καὶ ἐγὼ ἐκραταιώθην ὡς χεὶρ θεοῦ ἡ ἀγαθὴ ἐπ' ἐμέ καὶ συνῆξα ἀπὸ Ισραηλ ἄρχοντας ἀναβῆναι μετ' ἐμοῦ.",
+          "name": "Esdras 7:28",
+          "chapter": "7"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "name": "Esdras 8",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et voici les noms des chefs de familles, qui sont venus avec moi sous le règne d'Arthasastha, roi de Babylone",
+          "grec": "καὶ οὗτοι οἱ ἄρχοντες πατριῶν αὐτῶν οἱ ὁδηγοὶ ἀναβαίνοντες μετ' ἐμοῦ ἐν βασιλείᾳ Αρθασασθα τοῦ βασιλέως Βαβυλῶνος.",
+          "name": "Esdras 8:1",
+          "chapter": "8"
+        },
+        {
+          "verse": "2",
+          "text": "Des fils de Phinéès, Gerson ; des fils d'Ithamar, Daniel ; des fils de David, Attus.",
+          "grec": "ἀπὸ υἱῶν Φινεες Γηρσωμ ἀπὸ υἱῶν Ιθαμαρ Δανιηλ ἀπὸ υἱῶν Δαυιδ Ατους.",
+          "name": "Esdras 8:2",
+          "chapter": "8"
+        },
+        {
+          "verse": "3",
+          "text": "Des fils de Sachanie et des fils de Phoros, Zacharie, et avec lui ses compagnons, cent cinquante hommes.",
+          "grec": "ἀπὸ υἱῶν Σαχανια ἀπὸ υἱῶν Φορος Ζαχαριας καὶ μετ' αὐτοῦ τὸ σύστρεμμα ἑκατὸν καὶ πεντήκοντα.",
+          "name": "Esdras 8:3",
+          "chapter": "8"
+        },
+        {
+          "verse": "4",
+          "text": "Des fils de Phaath-Moab, Eliana, fils de Saraïa, et avec lui deux cents hommes.",
+          "grec": "ἀπὸ υἱῶν Φααθμωαβ Ελιανα υἱὸς Ζαραια καὶ μετ' αὐτοῦ διακόσιοι τὰ ἀρσενικά.",
+          "name": "Esdras 8:4",
+          "chapter": "8"
+        },
+        {
+          "verse": "5",
+          "text": "Et des fils de Zathoé, Sechénias, fils d'Aziel, et avec lui trois cents hommes.",
+          "grec": "ἀπὸ υἱῶν Ζαθοης Σεχενιας υἱὸς Αζιηλ καὶ μετ' αὐτοῦ τριακόσιοι τὰ ἀρσενικά.",
+          "name": "Esdras 8:5",
+          "chapter": "8"
+        },
+        {
+          "verse": "6",
+          "text": "Et des fils d'Adin, Obed, fils de Jonathas, et avec lui cinquante hommes.",
+          "grec": "καὶ ἀπὸ υἱῶν Αδιν Ωβηθ υἱὸς Ιωναθαν καὶ μετ' αὐτοῦ πεντήκοντα τὰ ἀρσενικά.",
+          "name": "Esdras 8:6",
+          "chapter": "8"
+        },
+        {
+          "verse": "7",
+          "text": "Et des fils d'Elam, Isaïe, fils d'Athélie, et avec lui soixante-dix hommes.",
+          "grec": "καὶ ἀπὸ υἱῶν Ηλαμ Ιεσια υἱὸς Αθελια καὶ μετ' αὐτοῦ ἑβδομήκοντα τὰ ἀρσενικά.",
+          "name": "Esdras 8:7",
+          "chapter": "8"
+        },
+        {
+          "verse": "8",
+          "text": "Et des fils de Saphatie, Zabadie, fils de Michel, et avec lui quatre-vingts mâles.",
+          "grec": "καὶ ἀπὸ υἱῶν Σαφατια Ζαβδια υἱὸς Μιχαηλ καὶ μετ' αὐτοῦ ὀγδοήκοντα τὰ ἀρσενικά.",
+          "name": "Esdras 8:8",
+          "chapter": "8"
+        },
+        {
+          "verse": "9",
+          "text": "Et des fils de Joab, Abadie, fils de Iehiel, et avec lui deux cent dix-huit hommes.",
+          "grec": "καὶ ἀπὸ υἱῶν Ιωαβ Αβαδια υἱὸς Ιιηλ καὶ μετ' αὐτοῦ διακόσιοι δέκα ὀκτὼ τὰ ἀρσενικά.",
+          "name": "Esdras 8:9",
+          "chapter": "8"
+        },
+        {
+          "verse": "10",
+          "text": "Et des fils de Baani, Selimuth, fils de Joséphie, et avec lui cent soixante hommes.",
+          "grec": "καὶ ἀπὸ υἱῶν Βαανι Σαλιμουθ υἱὸς Ιωσεφια καὶ μετ' αὐτοῦ ἑκατὸν ἑξήκοντα τὰ ἀρσενικά.",
+          "name": "Esdras 8:10",
+          "chapter": "8"
+        },
+        {
+          "verse": "11",
+          "text": "Et des fils de Babi, Zacharie, fils de Babi, et avec lui vingt-huit mâles.",
+          "grec": "καὶ ἀπὸ υἱῶν Βαβι Ζαχαρια υἱὸς Βαβι καὶ μετ' αὐτοῦ ἑβδομήκοντα ὀκτὼ τὰ ἀρσενικά.",
+          "name": "Esdras 8:11",
+          "chapter": "8"
+        },
+        {
+          "verse": "12",
+          "text": "Et des fils d'Asgad, Johanan, fils d'Accatan, et avec lui cent dix mâles.",
+          "grec": "καὶ ἀπὸ υἱῶν Ασγαδ Ιωαναν υἱὸς Ακαταν καὶ μετ' αὐτοῦ ἑκατὸν δέκα τὰ ἀρσενικά.",
+          "name": "Esdras 8:12",
+          "chapter": "8"
+        },
+        {
+          "verse": "13",
+          "text": "Et des fils d'Adonicam, les derniers, et voici leurs noms : Eliphalat, Jehel et Samaia, et avec eux soixante mâles.",
+          "grec": "καὶ ἀπὸ υἱῶν Αδωνικαμ ἔσχατοι καὶ ταῦτα τὰ ὀνόματα αὐτῶν Αλιφαλατ Ιιηλ καὶ Σαμαια καὶ μετ' αὐτῶν ἑξήκοντα τὰ ἀρσενικά.",
+          "name": "Esdras 8:13",
+          "chapter": "8"
+        },
+        {
+          "verse": "14",
+          "text": "Et des fils de Baguai, Uthaï et Zabud, et avec eux soixante-dix mâles.",
+          "grec": "καὶ ἀπὸ υἱῶν Βαγο Ουθι καὶ μετ' αὐτοῦ ἑβδομήκοντα τὰ ἀρσενικά.",
+          "name": "Esdras 8:14",
+          "chapter": "8"
+        },
+        {
+          "verse": "15",
+          "text": "Je les réunis vers le fleuve qui se rend à Evi, et nous y restâmes campés trois jours ; et je m'informai du peuple et des prêtres, et je ne trouvai là pas un fils de Lévi.",
+          "grec": "καὶ συνῆξα αὐτοὺς πρὸς τὸν ποταμὸν τὸν ἐρχόμενον πρὸς τὸν Ευι καὶ παρενεβάλομεν ἐκεῖ ἡμέρας τρεῖς καὶ συνῆκα ἐν τῷ λαῷ καὶ ἐν τοῖς ἱερεῦσιν καὶ ἀπὸ υἱῶν Λευι οὐχ εὗρον ἐκεῖ.",
+          "name": "Esdras 8:15",
+          "chapter": "8"
+        },
+        {
+          "verse": "16",
+          "text": "Ensuite, je donnai mes ordres à Eléazar, à Ariel, à Sémeïas et à Alonam, à Jarib, à Elnatham, à Nathan, à Zacharie, à Mesollam, à Joarim et à Elthanan, hommes doués de sagesse.",
+          "grec": "καὶ ἀπέστειλα τῷ Ελεαζαρ τῷ Αριηλ τῷ Σαμαια καὶ τῷ Αλωναμ καὶ τῷ Ιαριβ καὶ τῷ Ελναθαν καὶ τῷ Ναθαν καὶ τῷ Ζαχαρια καὶ τῷ Μεσουλαμ ἄνδρας καὶ τῷ Ιωαριβ καὶ τῷ Ελναθαν συνίοντας.",
+          "name": "Esdras 8:16",
+          "chapter": "8"
+        },
+        {
+          "verse": "17",
+          "text": "Et je les envoyai aux chefs, avec l'argent recueilli dans la contrée, et je leur mis sur les lèvres les paroles qu'ils avaient à dire à leurs frères les Athinéens, en leur remettant l'argent recueilli dans la contrée, afin qu'ils nous amenassent des chantres pour le temple de notre Dieu.",
+          "grec": "καὶ ἐξήνεγκα αὐτοὺς ἐπὶ ἄρχοντος ἐν ἀργυρίῳ τοῦ τόπου καὶ ἔθηκα ἐν στόματι αὐτῶν λόγους λαλῆσαι πρὸς τοὺς ἀδελφοὺς αὐτῶν τοὺς ναθινιμ ἐν ἀργυρίῳ τοῦ τόπου τοῦ ἐνέγκαι ἡμῖν ᾄδοντας εἰς οἶκον θεοῦ ἡμῶν.",
+          "name": "Esdras 8:17",
+          "chapter": "8"
+        },
+        {
+          "verse": "18",
+          "text": "Et comme la main de Dieu nous était favorable, ils nous amenèrent un homme : Sachon, des fils de Mooli, fils de Lévi, fils d'Israël, et d'abord arrivèrent ses fils et ses frères, en tout dix-huit ;",
+          "grec": "καὶ ἤλθοσαν ἡμῖν ὡς χεὶρ θεοῦ ἡμῶν ἀγαθὴ ἐφ' ἡμᾶς ἀνὴρ σαχωλ ἀπὸ υἱῶν Μοολι υἱοῦ Λευι υἱοῦ Ισραηλ καὶ ἀρχὴν ἤλθοσαν υἱοὶ αὐτοῦ καὶ ἀδελφοὶ αὐτοῦ ὀκτωκαίδεκα.",
+          "name": "Esdras 8:18",
+          "chapter": "8"
+        },
+        {
+          "verse": "19",
+          "text": "Ils nous amenèrent aussi Asebie et Isaïe, des fils de Mérari, et ses frères et ses fils, vingt personnes.",
+          "grec": "καὶ τὸν Ασεβια καὶ τὸν Ωσαιαν ἀπὸ υἱῶν Μεραρι ἀδελφοὶ αὐτοῦ καὶ υἱοὶ αὐτῶν εἴκοσι.",
+          "name": "Esdras 8:19",
+          "chapter": "8"
+        },
+        {
+          "verse": "20",
+          "text": "Et des Nathinéens que David et les chefs avaient donnés pour serviteurs aux lévites, deux cent vingt, tous désignés par leurs noms.",
+          "grec": "καὶ ἀπὸ τῶν ναθινιμ ὧν ἔδωκεν Δαυιδ καὶ οἱ ἄρχοντες εἰς δουλείαν τῶν Λευιτῶν ναθινιμ διακόσιοι καὶ εἴκοσι πάντες συνήχθησαν ἐν ὀνόμασιν.",
+          "name": "Esdras 8:20",
+          "chapter": "8"
+        },
+        {
+          "verse": "21",
+          "text": "Et là, sur le fleuve Ahua je proclamai un jeûne, pour nous humilier devant notre Dieu, et chercher par lui le droit chemin, pour nous et nos enfants, et tout notre bétail.",
+          "grec": "καὶ ἐκάλεσα ἐκεῖ νηστείαν ἐπὶ τὸν ποταμὸν Αουε τοῦ ταπεινωθῆναι ἐνώπιον θεοῦ ἡμῶν ζητῆσαι παρ' αὐτοῦ ὁδὸν εὐθεῖαν ἡμῖν καὶ τοῖς τέκνοις ἡμῶν καὶ πάσῃ τῇ κτήσει ἡμῶν.",
+          "name": "Esdras 8:21",
+          "chapter": "8"
+        },
+        {
+          "verse": "22",
+          "text": "En effet, j'aurais eu honte de demander au roi des troupes et de la cavalerie, pour nous protéger en route contre tout ennemi, car nous avions dit au roi : La main de notre Dieu est sur tous ceux qui le cherchent pour le bien ; mais sa puissance et sa colère sont sur tous ceux qui l'abandonnent.",
+          "grec": "ὅτι ᾐσχύνθην αἰτήσασθαι παρὰ τοῦ βασιλέως δύναμιν καὶ ἱππεῖς σῶσαι ἡμᾶς ἀπὸ ἐχθροῦ ἐν τῇ ὁδῷ ὅτι εἴπαμεν τῷ βασιλεῖ λέγοντες χεὶρ τοῦ θεοῦ ἡμῶν ἐπὶ πάντας τοὺς ζητοῦντας αὐτὸν εἰς ἀγαθόν καὶ κράτος αὐτοῦ καὶ θυμὸς αὐτοῦ ἐπὶ πάντας ἐγκαταλείποντας αὐτόν.",
+          "name": "Esdras 8:22",
+          "chapter": "8"
+        },
+        {
+          "verse": "23",
+          "text": "Et nous jeûnâmes, nous fîmes à ce sujet notre prière au Seigneur, et il nous exauça.",
+          "grec": "καὶ ἐνηστεύσαμεν καὶ ἐζητήσαμεν παρὰ τοῦ θεοῦ ἡμῶν περὶ τούτου καὶ ἐπήκουσεν ἡμῖν.",
+          "name": "Esdras 8:23",
+          "chapter": "8"
+        },
+        {
+          "verse": "24",
+          "text": "Et je donnai mes ordres à douze des chefs des prêtres : à Sardias, Asabie, et dix de leurs frères.",
+          "grec": "καὶ διέστειλα ἀπὸ ἀρχόντων τῶν ἱερέων δώδεκα τῷ Σαραια Ασαβια καὶ μετ' αὐτῶν ἀπὸ ἀδελφῶν αὐτῶν δέκα.",
+          "name": "Esdras 8:24",
+          "chapter": "8"
+        },
+        {
+          "verse": "25",
+          "text": "Et je pesai pour eux l'argent, l'or et les vases des prémices consacrées dans le temple de notre Dieu, que le roi, ses conseillers, ses princes, et tous ceux d'Israël, qu'on avait trouvés, avaient offerts,",
+          "grec": "καὶ ἔστησα αὐτοῖς τὸ ἀργύριον καὶ τὸ χρυσίον καὶ τὰ σκεύη ἀπαρχῆς οἴκου θεοῦ ἡμῶν ἃ ὕψωσεν ὁ βασιλεὺς καὶ οἱ σύμβουλοι αὐτοῦ καὶ οἱ ἄρχοντες αὐτοῦ καὶ πᾶς Ισραηλ οἱ εὑρισκόμενοι.",
+          "name": "Esdras 8:25",
+          "chapter": "8"
+        },
+        {
+          "verse": "26",
+          "text": "Je pesai ainsi entre leurs mains six cent cinquante talents d'argent, cent vases d'argent et cent talents d'or ;",
+          "grec": "καὶ ἔστησα ἐπὶ χεῖρας αὐτῶν ἀργυρίου τάλαντα ἑξακόσια καὶ πεντήκοντα καὶ σκεύη ἀργυρᾶ ἑκατὸν καὶ τάλαντα χρυσίου ἑκατὸν.",
+          "name": "Esdras 8:26",
+          "chapter": "8"
+        },
+        {
+          "verse": "27",
+          "text": "Et vingt tasses d'or du poids d'environ mille drachmes, et des vases de grand prix, en bel airain brillant, aussi précieux que s'ils eussent été d'or.",
+          "grec": "καὶ καφουρη χρυσοῖ εἴκοσι εἰς τὴν ὁδὸν χαμανιμ χίλιοι καὶ σκεύη χαλκοῦ στίλβοντος ἀγαθοῦ διάφορα ἐπιθυμητὰ ἐν χρυσίῳ.",
+          "name": "Esdras 8:27",
+          "chapter": "8"
+        },
+        {
+          "verse": "28",
+          "text": "Puis, je leur dis : Vous êtes saints aux yeux du Seigneur ; les vases sont saints, l'argent et l'or ont été volontairement donnés pour le Seigneur Dieu de nos pères.",
+          "grec": "καὶ εἶπα πρὸς αὐτούς ὑμεῖς ἅγιοι τῷ κυρίῳ καὶ τὰ σκεύη ἅγια καὶ τὸ ἀργύριον καὶ τὸ χρυσίον ἑκούσια τῷ κυρίῳ θεῷ πατέρων ὑμῶν.",
+          "name": "Esdras 8:28",
+          "chapter": "8"
+        },
+        {
+          "verse": "29",
+          "text": "Veillez sur eux et gardez-les jusqu'à ce que vous les pesiez devant les princes des prêtres, devant les lévites et devant les chefs de familles de Jérusalem, dans le tabernacle du temple du Seigneur.",
+          "grec": "ἀγρυπνεῖτε καὶ τηρεῖτε ἕως στῆτε ἐνώπιον ἀρχόντων τῶν ἱερέων καὶ τῶν Λευιτῶν καὶ τῶν ἀρχόντων τῶν πατριῶν ἐν Ιερουσαλημ εἰς σκηνὰς οἴκου κυρίου.",
+          "name": "Esdras 8:29",
+          "chapter": "8"
+        },
+        {
+          "verse": "30",
+          "text": "Cet or et cet argent pesés de cette manière, les prêtres et les lévites les reçurent pour les porter à Jérusalem, dans le temple du Seigneur notre Dieu.",
+          "grec": "καὶ ἐδέξαντο οἱ ἱερεῖς καὶ οἱ Λευῖται σταθμὸν τοῦ ἀργυρίου καὶ τοῦ χρυσίου καὶ τῶν σκευῶν ἐνεγκεῖν εἰς Ιερουσαλημ εἰς οἶκον θεοῦ ἡμῶν.",
+          "name": "Esdras 8:30",
+          "chapter": "8"
+        },
+        {
+          "verse": "31",
+          "text": "Alors, je levai mon camp du fleuve Ahua, le douzième jour du premier mois, pour aller à Jérusalem. Et la main du Seigneur notre Dieu était sur nous, et il nous préserva en route de tout ennemi, de toute attaque ou de toute hostilité.",
+          "grec": "καὶ ἐξήραμεν ἀπὸ τοῦ ποταμοῦ Αουε ἐν τῇ δωδεκάτῃ τοῦ μηνὸς τοῦ πρώτου τοῦ ἐλθεῖν εἰς Ιερουσαλημ καὶ χεὶρ θεοῦ ἡμῶν ἦν ἐφ' ἡμῖν καὶ ἐρρύσατο ἡμᾶς ἀπὸ χειρὸς ἐχθροῦ καὶ πολεμίου ἐν τῇ ὁδῷ.",
+          "name": "Esdras 8:31",
+          "chapter": "8"
+        },
+        {
+          "verse": "32",
+          "text": "Nous arrivâmes à Jérusalem, et nous y demeurâmes trois jours.",
+          "grec": "καὶ ἤλθομεν εἰς Ιερουσαλημ καὶ ἐκαθίσαμεν ἐκεῖ ἡμέρας τρεῖς.",
+          "name": "Esdras 8:32",
+          "chapter": "8"
+        },
+        {
+          "verse": "33",
+          "text": "Le quatrième jour, nous pesâmes l'argent, l'or et les vases, dans le temple du Seigneur, entre les mains de Merimoth, fils d'Urie, le prêtre, en présence d'Eléazar, fils de Phinéès ; il y avait avec eux les lévites Josabad, fils de Josué, et Noadia, fils de Banaïa.",
+          "grec": "καὶ ἐγενήθη τῇ ἡμέρᾳ τῇ τετάρτῃ ἐστήσαμεν τὸ ἀργύριον καὶ τὸ χρυσίον καὶ τὰ σκεύη ἐν οἴκῳ θεοῦ ἡμῶν ἐπὶ χεῖρα Μεριμωθ υἱοῦ Ουρια τοῦ ἱερέως καὶ μετ' αὐτοῦ Ελεαζαρ υἱὸς Φινεες καὶ μετ' αὐτῶν Ιωζαβαδ υἱὸς Ἰησοῦ καὶ Νωαδια υἱὸς Βαναια οἱ Λευῖται.",
+          "name": "Esdras 8:33",
+          "chapter": "8"
+        },
+        {
+          "verse": "34",
+          "text": "On en fit le compte, on en prit le poids, et le poids total fut écrit. En ce temps-là,",
+          "grec": "ἐν ἀριθμῷ καὶ ἐν σταθμῷ τὰ πάντα καὶ ἐγράφη πᾶς ὁ σταθμός ἐν τῷ καιρῷ ἐκείνῳ.",
+          "name": "Esdras 8:34",
+          "chapter": "8"
+        },
+        {
+          "verse": "35",
+          "text": "Les fils de l'exil revenus de la captivité offrirent en holocauste, au Dieu d'Israël, douze bœufs pour tout Israël, quatre-vingt-onze béliers, soixante-dix-sept agneaux, et douze boucs pour le péché ; tout cela fut offert en holocauste au Seigneur.",
+          "grec": "οἱ ἐλθόντες ἀπὸ τῆς αἰχμαλωσίας υἱοὶ τῆς παροικίας προσήνεγκαν ὁλοκαυτώσεις τῷ θεῷ Ισραηλ μόσχους δώδεκα περὶ παντὸς Ισραηλ κριοὺς ἐνενήκοντα ἕξ ἀμνοὺς ἑβδομήκοντα καὶ ἑπτά χιμάρους περὶ ἁμαρτίας δώδεκα τὰ πάντα ὁλοκαυτώματα τῷ κυρίῳ.",
+          "name": "Esdras 8:35",
+          "chapter": "8"
+        },
+        {
+          "verse": "36",
+          "text": "Et les édits du roi furent donnés à ses intendants et à ses gouverneurs, d'en deçà du fleuve, qui glorifièrent le peuple et le temple de Dieu.",
+          "grec": "καὶ ἔδωκαν τὸ νόμισμα τοῦ βασιλέως τοῖς διοικηταῖς τοῦ βασιλέως καὶ ἐπάρχοις πέραν τοῦ ποταμοῦ καὶ ἐδόξασαν τὸν λαὸν καὶ τὸν οἶκον τοῦ θεοῦ.",
+          "name": "Esdras 8:36",
+          "chapter": "8"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "name": "Esdras 9",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Après cela, les chefs vinrent me trouver, et ils me dirent : Le peuple d'Israël, les prêtres, les lévites, ne sont plus séparés des peuples de la terre en leurs abominations ; du Chananéen, de l'Hettéen, du Phérézéen, du Jébuséen, de l'Ammonite, du Moabite, du Mosérite, de l'Amorrhéen.",
+          "grec": "καὶ ὡς ἐτελέσθη ταῦτα ἤγγισαν πρός με οἱ ἄρχοντες λέγοντες οὐκ ἐχωρίσθη ὁ λαὸς Ισραηλ καὶ οἱ ἱερεῖς καὶ οἱ Λευῖται ἀπὸ λαῶν τῶν γαιῶν ἐν μακρύμμασιν αὐτῶν τῷ Χανανι ὁ Εθι ὁ Φερεζι ὁ Ιεβουσι ὁ Αμμωνι ὁ Μωαβι ὁ Μοσερι καὶ ὁ Αμορι.",
+          "name": "Esdras 9:1",
+          "chapter": "9"
+        },
+        {
+          "verse": "2",
+          "text": "Ils se sont mariés, eux et leurs fils, parmi ces peuples, et la semence sainte s'est détournée dans les nations de la terre, et la main des princes a été la première, en cette infraction à la loi.",
+          "grec": "ὅτι ἐλάβοσαν ἀπὸ θυγατέρων αὐτῶν ἑαυτοῖς καὶ τοῖς υἱοῖς αὐτῶν καὶ παρήχθη σπέρμα τὸ ἅγιον ἐν λαοῖς τῶν γαιῶν καὶ χεὶρ τῶν ἀρχόντων ἐν τῇ ἀσυνθεσίᾳ ταύτῃ ἐν ἀρχῇ.",
+          "name": "Esdras 9:2",
+          "chapter": "9"
+        },
+        {
+          "verse": "3",
+          "text": "Or, quand j'ouïs ces paroles, je déchirai mes vêtements, je fus saisi de crainte ; je m'arrachai les cheveux et la barbe, et je m'assis tout contristé.",
+          "grec": "καὶ ὡς ἤκουσα τὸν λόγον τοῦτον διέρρηξα τὰ ἱμάτιά μου καὶ ἐπαλλόμην καὶ ἔτιλλον ἀπὸ τῶν τριχῶν τῆς κεφαλῆς μου καὶ ἀπὸ τοῦ πώγωνός μου καὶ ἐκαθήμην ἠρεμάζων.",
+          "name": "Esdras 9:3",
+          "chapter": "9"
+        },
+        {
+          "verse": "4",
+          "text": "Et tous ceux qui suivaient la loi du Dieu d'Israël s'assemblèrent auprès de moi, à cause de cette infraction aux préceptes ; et moi, toujours assis, je gardai un morne silence jusqu'au sacrifice du soir.",
+          "grec": "καὶ συνήχθησαν πρός με πᾶς ὁ διώκων λόγον θεοῦ Ισραηλ ἐπὶ ἀσυνθεσίᾳ τῆς ἀποικίας καὶ ἐγὼ καθήμενος ἠρεμάζων ἕως τῆς θυσίας τῆς ἑσπερινῆς.",
+          "name": "Esdras 9:4",
+          "chapter": "9"
+        },
+        {
+          "verse": "5",
+          "text": "Et pendant le sacrifice du soir, je sortis de mon abattement ; après avoir déchiré mes vêtements, saisi de crainte, je me mis à genoux, et j'étendis mes mains vers le Seigneur Dieu.",
+          "grec": "καὶ ἐν θυσίᾳ τῇ ἑσπερινῇ ἀνέστην ἀπὸ ταπεινώσεώς μου καὶ ἐν τῷ διαρρῆξαί με τὰ ἱμάτιά μου καὶ ἐπαλλόμην καὶ κλίνω ἐπὶ τὰ γόνατά μου καὶ ἐκπετάζω τὰς χεῖράς μου πρὸς κύριον τὸν θεὸν.",
+          "name": "Esdras 9:5",
+          "chapter": "9"
+        },
+        {
+          "verse": "6",
+          "text": "Et je dis : Seigneur, je suis plein de honte et de confusion, ô mon Dieu, en levant mon front devant vous ; car nos dérèglements se sont accumulés sur nos têtes, et nos péchés ont monté jusqu'au ciel.",
+          "grec": "καὶ εἶπα κύριε ᾐσχύνθην καὶ ἐνετράπην τοῦ ὑψῶσαι τὸ πρόσωπόν μου πρὸς σέ ὅτι αἱ ἀνομίαι ἡμῶν ἐπληθύνθησαν ὑπὲρ κεφαλῆς ἡμῶν καὶ αἱ πλημμέλειαι ἡμῶν ἐμεγαλύνθησαν ἕως εἰς οὐρανόν.",
+          "name": "Esdras 9:6",
+          "chapter": "9"
+        },
+        {
+          "verse": "7",
+          "text": "Depuis les jours de nos pères jusqu'à ce jour, nous avons vécu dans le péché, et à cause de nos transgressions, nous, nos rois, nos fils, nous avons été livrés aux rois des nations, par le glaive, la captivité, le pillage, et nous avons eu la honte au front comme nous l'avons encore.",
+          "grec": "ἀπὸ ἡμερῶν πατέρων ἡμῶν ἐσμεν ἐν πλημμελείᾳ μεγάλῃ ἕως τῆς ἡμέρας ταύτης καὶ ἐν ταῖς ἀνομίαις ἡμῶν παρεδόθημεν ἡμεῖς καὶ οἱ βασιλεῖς ἡμῶν καὶ οἱ υἱοὶ ἡμῶν ἐν χειρὶ βασιλέων τῶν ἐθνῶν ἐν ῥομφαίᾳ καὶ ἐν αἰχμαλωσίᾳ καὶ ἐν διαρπαγῇ καὶ ἐν αἰσχύνῃ προσώπου ἡμῶν ὡς ἡ ἡμέρα αὕτη.",
+          "name": "Esdras 9:7",
+          "chapter": "9"
+        },
+        {
+          "verse": "8",
+          "text": "Maintenant, notre Dieu a été bienveillant pour nous jusqu'à nous sauver, nous rétablir en ce lieu où est son sanctuaire, nous éclaircir les yeux, et nous accorder un peu de vie dans notre esclavage.",
+          "grec": "καὶ νῦν ἐπιεικεύσατο ἡμῖν κύριος ὁ θεὸς ἡμῶν τοῦ καταλιπεῖν ἡμῖν εἰς σωτηρίαν καὶ δοῦναι ἡμῖν στήριγμα ἐν τόπῳ ἁγιάσματος αὐτοῦ τοῦ φωτίσαι ὀφθαλμοὺς ἡμῶν καὶ δοῦναι ζωοποίησιν μικρὰν ἐν τῇ δουλείᾳ ἡμῶν.",
+          "name": "Esdras 9:8",
+          "chapter": "9"
+        },
+        {
+          "verse": "9",
+          "text": "Car nous sommes esclaves ; toutefois, en notre servitude, le Seigneur notre Dieu ne nous a pas abandonnés, et il nous a fait trouver miséricorde devant les rois de Perse, pour qu'ils nous accordassent un peu de vie, qu'ils relevassent le temple de notre Dieu, qu'ils le rétablissent en sa désolation, et qu'ils nous rendissent plus de sûreté en Juda et à Jérusalem.",
+          "grec": "ὅτι δοῦλοί ἐσμεν καὶ ἐν τῇ δουλείᾳ ἡμῶν οὐκ ἐγκατέλιπεν ἡμᾶς κύριος ὁ θεὸς ἡμῶν καὶ ἔκλινεν ἐφ' ἡμᾶς ἔλεος ἐνώπιον βασιλέων Περσῶν δοῦναι ἡμῖν ζωοποίησιν τοῦ ὑψῶσαι αὐτοὺς τὸν οἶκον τοῦ θεοῦ ἡμῶν καὶ ἀναστῆσαι τὰ ἔρημα αὐτῆς καὶ τοῦ δοῦναι ἡμῖν φραγμὸν ἐν Ιουδα καὶ ἐν Ιερουσαλημ.",
+          "name": "Esdras 9:9",
+          "chapter": "9"
+        },
+        {
+          "verse": "10",
+          "text": "Que dirons-nous après cela, ô notre Dieu ? Car nous avons abandonné vos commandements,",
+          "grec": "τί εἴπωμεν ὁ θεὸς ἡμῶν μετὰ τοῦτο ὅτι ἐγκατελίπομεν ἐντολάς σου.",
+          "name": "Esdras 9:10",
+          "chapter": "9"
+        },
+        {
+          "verse": "11",
+          "text": "Que vous nous aviez donnés par vos serviteurs les prophètes, disant : La terre où vous allez pour qu'elle soit votre héritage est une terre troublée de fond en comble par les abominations des peuples qui l'habitent, et qui l'ont remplie d'un bout à l'autre de leurs impuretés.",
+          "grec": "ἃς ἔδωκας ἡμῖν ἐν χειρὶ δούλων σου τῶν προφητῶν λέγων ἡ γῆ εἰς ἣν εἰσπορεύεσθε κληρονομῆσαι αὐτήν γῆ μετακινουμένη ἐστὶν ἐν μετακινήσει λαῶν τῶν ἐθνῶν ἐν μακρύμμασιν αὐτῶν ὧν ἔπλησαν αὐτὴν ἀπὸ στόματος ἐπὶ στόμα ἐν ἀκαθαρσίαις αὐτῶν.",
+          "name": "Esdras 9:11",
+          "chapter": "9"
+        },
+        {
+          "verse": "12",
+          "text": "Ne donnez donc pas vos filles à leurs fils, et ne prenez point pour vos fils leurs filles ; ne cherchez jamais leur pain ni leur bien-être, afin que vous vous affermissiez, que vous mangiez les biens de cette terre, et que vous les transmettiez en héritage à vos fils pour toujours.",
+          "grec": "καὶ νῦν τὰς θυγατέρας ὑμῶν μὴ δῶτε τοῖς υἱοῖς αὐτῶν καὶ ἀπὸ τῶν θυγατέρων αὐτῶν μὴ λάβητε τοῖς υἱοῖς ὑμῶν καὶ οὐκ ἐκζητήσετε εἰρήνην αὐτῶν καὶ ἀγαθὸν αὐτῶν ἕως αἰῶνος ὅπως ἐνισχύσητε καὶ φάγητε τὰ ἀγαθὰ τῆς γῆς καὶ κληροδοτήσητε τοῖς υἱοῖς ὑμῶν ἕως αἰῶνος.",
+          "name": "Esdras 9:12",
+          "chapter": "9"
+        },
+        {
+          "verse": "13",
+          "text": "Or, après tout ce qui nous est advenu à cause de nos mauvaises actions et de nos grands péchés, vous nous avez sauvés, parce qu'il n'est point de Dieu tel que vous, et que vous avez ôté nos iniquités.",
+          "grec": "καὶ μετὰ πᾶν τὸ ἐρχόμενον ἐφ' ἡμᾶς ἐν ποιήμασιν ἡμῶν τοῖς πονηροῖς καὶ ἐν πλημμελείᾳ ἡμῶν τῇ μεγάλῃ ὅτι οὐκ ἔστιν ὡς ὁ θεὸς ἡμῶν ὅτι ἐκούφισας ἡμῶν τὰς ἀνομίας καὶ ἔδωκας ἡμῖν σωτηρίαν.",
+          "name": "Esdras 9:13",
+          "chapter": "9"
+        },
+        {
+          "verse": "14",
+          "text": "Et nous avons recommencé à répudier vos commandements, à nous marier parmi ces peuples ; ô Seigneur, ne soyez pas irrité contre nous jusqu'à nous anéantir, sans que nul parmi nous échappe et soit épargné.",
+          "grec": "ὅτι ἐπεστρέψαμεν διασκεδάσαι ἐντολάς σου καὶ ἐπιγαμβρεῦσαι τοῖς λαοῖς τῶν γαιῶν μὴ παροξυνθῇς ἐν ἡμῖν ἕως συντελείας τοῦ μὴ εἶναι ἐγκατάλειμμα καὶ διασῳζόμενον.",
+          "name": "Esdras 9:14",
+          "chapter": "9"
+        },
+        {
+          "verse": "15",
+          "text": "Seigneur Dieu d'Israël, vous êtes juste, car nous voilà sains et saufs en ce jour ; voilà que nous sommes devant vous dans nos péchés, et après de tels excès on ne peut subsister devant vous.",
+          "grec": "κύριε ὁ θεὸς Ισραηλ δίκαιος σύ ὅτι κατελείφθημεν διασῳζόμενοι ὡς ἡ ἡμέρα αὕτη ἰδοὺ ἡμεῖς ἐναντίον σου ἐν πλημμελείαις ἡμῶν ὅτι οὐκ ἔστιν στῆναι ἐνώπιόν σου ἐπὶ τούτῳ.",
+          "name": "Esdras 9:15",
+          "chapter": "9"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "name": "Esdras 10",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et comme Esdras priait, et comme, en pleurant et priant, il élevait la voix devant le temple du Seigneur, la nombreuse Église d'Israël se rassembla auprès de lui, hommes, femmes et jeunes gens ; et le peuple pleura, et en pleurant il éleva la voix.",
+          "grec": "καὶ ὡς προσηύξατο Εσδρας καὶ ὡς ἐξηγόρευσεν κλαίων καὶ προσευχόμενος ἐνώπιον οἴκου τοῦ θεοῦ συνήχθησαν πρὸς αὐτὸν ἀπὸ Ισραηλ ἐκκλησία πολλὴ σφόδρα ἄνδρες καὶ γυναῖκες καὶ νεανίσκοι ὅτι ἔκλαυσεν ὁ λαὸς καὶ ὕψωσεν κλαίων.",
+          "name": "Esdras 10:1",
+          "chapter": "10"
+        },
+        {
+          "verse": "2",
+          "text": "Et Sechénias, fils de Jehel, des fils d'Elam, prit la parole, et il dit à Esdras : Nous avons violé la loi de notre Dieu, et nous avons épousé parmi les peuples de la terre promise des femmes étrangères ; et maintenant, après cela, Israël espère encore.",
+          "grec": "καὶ ἀπεκρίθη Σεχενιας υἱὸς Ιιηλ ἀπὸ υἱῶν Ηλαμ καὶ εἶπεν τῷ Εσδρα ἡμεῖς ἠσυνθετήσαμεν τῷ θεῷ ἡμῶν καὶ ἐκαθίσαμεν γυναῖκας ἀλλοτρίας ἀπὸ λαῶν τῆς γῆς καὶ νῦν ἔστιν ὑπομονὴ τῷ Ισραηλ ἐπὶ τούτῳ.",
+          "name": "Esdras 10:2",
+          "chapter": "10"
+        },
+        {
+          "verse": "3",
+          "text": "Faisons donc alliance avec notre Dieu ; et, s'il le veut, chassons toutes ces femmes et ceux qui sont nés d'elles. Lève-toi, inspire-leur la crainte des commandements de notre Dieu, et qu'il soit fait selon la loi.",
+          "grec": "καὶ νῦν διαθώμεθα διαθήκην τῷ θεῷ ἡμῶν ἐκβαλεῖν πάσας τὰς γυναῖκας καὶ τὰ γενόμενα ἐξ αὐτῶν ὡς ἂν βούλῃ ἀνάστηθι καὶ φοβέρισον αὐτοὺς ἐν ἐντολαῖς θεοῦ ἡμῶν καὶ ὡς ὁ νόμος γενηθήτω.",
+          "name": "Esdras 10:3",
+          "chapter": "10"
+        },
+        {
+          "verse": "4",
+          "text": "Lève-toi, car l'affaire te regarde, et nous sommes avec toi ; sois fort et agis.",
+          "grec": "ἀνάστα ὅτι ἐπὶ σὲ τὸ ῥῆμα καὶ ἡμεῖς μετὰ σοῦ κραταιοῦ καὶ ποίησον.",
+          "name": "Esdras 10:4",
+          "chapter": "10"
+        },
+        {
+          "verse": "5",
+          "text": "Et Esdras se leva, et il fit prêter serment aux chefs, aux prêtres, aux lévites, à tout Israël, d'exécuter ses ordres, et ils le jurèrent.",
+          "grec": "καὶ ἀνέστη Εσδρας καὶ ὥρκισεν τοὺς ἄρχοντας τοὺς ἱερεῖς καὶ Λευίτας καὶ πάντα Ισραηλ τοῦ ποιῆσαι κατὰ τὸ ῥῆμα τοῦτο καὶ ὤμοσαν.",
+          "name": "Esdras 10:5",
+          "chapter": "10"
+        },
+        {
+          "verse": "6",
+          "text": "Et Esdras se leva de devant le temple, et il alla au trésor gardé par Johanan, fils d'Elisub, et il y entra, et il ne mangea pas de pain, et il ne but point d'eau, car il pleurait sur l'infidélité des fils de l'exil.",
+          "grec": "καὶ ἀνέστη Εσδρας ἀπὸ προσώπου οἴκου τοῦ θεοῦ καὶ ἐπορεύθη εἰς γαζοφυλάκιον Ιωαναν υἱοῦ Ελισουβ καὶ ἐπορεύθη ἐκεῖ ἄρτον οὐκ ἔφαγεν καὶ ὕδωρ οὐκ ἔπιεν ὅτι ἐπένθει ἐπὶ τῇ ἀσυνθεσίᾳ τῆς ἀποικίας.",
+          "name": "Esdras 10:6",
+          "chapter": "10"
+        },
+        {
+          "verse": "7",
+          "text": "Et l'on fit dans Juda et à Jérusalem une proclamation qui disait : Tous les fils de l'exil se réuniront à Jérusalem.",
+          "grec": "καὶ παρήνεγκαν φωνὴν ἐν Ιουδα καὶ ἐν Ιερουσαλημ πᾶσιν τοῖς υἱοῖς τῆς ἀποικίας τοῦ συναθροισθῆναι εἰς Ιερουσαλημ.",
+          "name": "Esdras 10:7",
+          "chapter": "10"
+        },
+        {
+          "verse": "8",
+          "text": "Quiconque ne viendra pas dans trois jours, selon l'ordre des princes et des prêtres, tous ses biens seront anathématisés, et lui-même sera expulsé de l'Église des fils de l'exil.",
+          "grec": "καὶ πᾶς ὃς ἂν μὴ ἔλθῃ εἰς τρεῖς ἡμέρας ὡς ἡ βουλὴ τῶν ἀρχόντων καὶ τῶν πρεσβυτέρων ἀναθεματισθήσεται πᾶσα ἡ ὕπαρξις αὐτοῦ καὶ αὐτὸς διασταλήσεται ἀπὸ ἐκκλησίας τῆς ἀποικίας.",
+          "name": "Esdras 10:8",
+          "chapter": "10"
+        },
+        {
+          "verse": "9",
+          "text": "Tous les hommes de Juda et de Benjamin se rendirent donc à Jérusalem. On était au neuvième mois ; le vingtième jour du même mois, tout le peuple se tint sur la place du temple de Dieu, à cause du trouble né de cette affaire, et à cause d'une tempête.",
+          "grec": "καὶ συνήχθησαν πάντες ἄνδρες Ιουδα καὶ Βενιαμιν εἰς Ιερουσαλημ εἰς τὰς τρεῖς ἡμέρας οὗτος ὁ μὴν ὁ ἔνατος ἐν εἰκάδι τοῦ μηνὸς ἐκάθισεν πᾶς ὁ λαὸς ἐν πλατείᾳ οἴκου τοῦ θεοῦ ἀπὸ θορύβου αὐτῶν περὶ τοῦ ῥήματος καὶ ἀπὸ τοῦ χειμῶνος.",
+          "name": "Esdras 10:9",
+          "chapter": "10"
+        },
+        {
+          "verse": "10",
+          "text": "Et Esdras, le prêtre, se leva, et il leur dit : Vous avez violé l'alliance, et vous avez épousé des femmes étrangères, pour ajouter aux péchés d'Israël.",
+          "grec": "καὶ ἀνέστη Εσδρας ὁ ἱερεὺς καὶ εἶπεν πρὸς αὐτούς ὑμεῖς ἠσυνθετήκατε καὶ ἐκαθίσατε γυναῖκας ἀλλοτρίας τοῦ προσθεῖναι ἐπὶ πλημμέλειαν Ισραηλ.",
+          "name": "Esdras 10:10",
+          "chapter": "10"
+        },
+        {
+          "verse": "11",
+          "text": "Rendez maintenant gloire au Seigneur Dieu de vos pères, et faites ce qui est agréable à ses yeux ; séparez-vous des peuples de la terre promise, et des femmes des étrangers.",
+          "grec": "καὶ νῦν δότε αἴνεσιν κυρίῳ τῷ θεῷ τῶν πατέρων ὑμῶν καὶ ποιήσατε τὸ ἀρεστὸν ἐνώπιον αὐτοῦ καὶ διαστάλητε ἀπὸ λαῶν τῆς γῆς καὶ ἀπὸ τῶν γυναικῶν τῶν ἀλλοτρίων.",
+          "name": "Esdras 10:11",
+          "chapter": "10"
+        },
+        {
+          "verse": "12",
+          "text": "Et toute l'Église s'écria : Grande est pour nous cette parole de toi que nous devons accomplir.",
+          "grec": "καὶ ἀπεκρίθησαν πᾶσα ἡ ἐκκλησία καὶ εἶπαν μέγα τοῦτο τὸ ῥῆμά σου ἐφ' ἡμᾶς ποιῆσαι.",
+          "name": "Esdras 10:12",
+          "chapter": "10"
+        },
+        {
+          "verse": "13",
+          "text": "Mais le peuple est nombreux, le temps est à l'orage, et il n'est pas possible de se tenir dehors plus longtemps ; d'ailleurs, ce n'est point l'œuvre d'un ou de deux jours, car, à ce sujet, nous avons multiplié nos fautes.",
+          "grec": "ἀλλὰ ὁ λαὸς πολύς καὶ ὁ καιρὸς χειμερινός καὶ οὐκ ἔστιν δύναμις στῆναι ἔξω καὶ τὸ ἔργον οὐκ εἰς ἡμέραν μίαν καὶ οὐκ εἰς δύο ὅτι ἐπληθύναμεν τοῦ ἀδικῆσαι ἐν τῷ ῥήματι τούτῳ.",
+          "name": "Esdras 10:13",
+          "chapter": "10"
+        },
+        {
+          "verse": "14",
+          "text": "Que nos chefs restent, et qu'ils aillent, au temps prescrit, en toutes les villes, pour tous ceux qui ont épousé des femmes étrangères ; que dans chaque ville ils s'adjoignent les anciens et les juges, afin de détourner de nous la colère du Seigneur notre Dieu, au sujet de ce péché.",
+          "grec": "στήτωσαν δὴ οἱ ἄρχοντες ἡμῶν τῇ πάσῃ ἐκκλησίᾳ καὶ πάντες οἱ ἐν πόλεσιν ἡμῶν ὃς ἐκάθισεν γυναῖκας ἀλλοτρίας ἐλθέτωσαν εἰς καιροὺς ἀπὸ συνταγῶν καὶ μετ' αὐτῶν πρεσβύτεροι πόλεως καὶ πόλεως καὶ κριταὶ τοῦ ἀποστρέψαι ὀργὴν θυμοῦ θεοῦ ἡμῶν ἐξ ἡμῶν περὶ τοῦ ῥήματος τούτου.",
+          "name": "Esdras 10:14",
+          "chapter": "10"
+        },
+        {
+          "verse": "15",
+          "text": "Or, il n'y eut avec moi que Jonathas, fils d'Azaêl, et Jasias, fils de Thécoé, et ils eurent pour aides Mesollam, et Sabbathaï, le lévite.",
+          "grec": "πλὴν Ιωναθαν υἱὸς Ασαηλ καὶ Ιαζια υἱὸς Θεκουε μετ' ἐμοῦ περὶ τούτου καὶ Μεσουλαμ καὶ Σαβαθαι ὁ Λευίτης βοηθῶν αὐτοῖς.",
+          "name": "Esdras 10:15",
+          "chapter": "10"
+        },
+        {
+          "verse": "16",
+          "text": "Et voici ce que tirent les chefs de l'exil : le prêtre Esdras et les chefs de familles paternelles furent désignés tous nominativement, et ils partirent le premier jour du dixième mois pour faire des enquêtes sur cette affaire.",
+          "grec": "καὶ ἐποίησαν οὕτως υἱοὶ τῆς ἀποικίας καὶ διεστάλησαν Εσδρας ὁ ἱερεὺς καὶ ἄνδρες ἄρχοντες πατριῶν τῷ οἴκῳ καὶ πάντες ἐν ὀνόμασιν ὅτι ἐπέστρεψαν ἐν ἡμέρᾳ μιᾷ τοῦ μηνὸς τοῦ δεκάτου ἐκζητῆσαι τὸ ῥῆμα.",
+          "name": "Esdras 10:16",
+          "chapter": "10"
+        },
+        {
+          "verse": "17",
+          "text": "Et, le premier jour du premier mois, ils eurent fini, et connurent tous les hommes qui avaient épousé des femmes étrangères.",
+          "grec": "καὶ ἐτέλεσαν ἐν πᾶσιν ἀνδράσιν οἳ ἐκάθισαν γυναῖκας ἀλλοτρίας ἕως ἡμέρας μιᾶς τοῦ μηνὸς τοῦ πρώτου.",
+          "name": "Esdras 10:17",
+          "chapter": "10"
+        },
+        {
+          "verse": "18",
+          "text": "Et parmi eux furent trouvés des fils de prêtres nés de Josué, Cils de Josédec et ses frères, savoir : Maasia, et Eliézer, et Jarib, et Gadalie.",
+          "grec": "καὶ εὑρέθησαν ἀπὸ υἱῶν τῶν ἱερέων οἳ ἐκάθισαν γυναῖκας ἀλλοτρίας ἀπὸ υἱῶν Ἰησοῦ υἱοῦ Ιωσεδεκ καὶ ἀδελφοὶ αὐτοῦ Μαασηα καὶ Ελιεζερ καὶ Ιαριβ καὶ Γαδαλια.",
+          "name": "Esdras 10:18",
+          "chapter": "10"
+        },
+        {
+          "verse": "19",
+          "text": "Et ils s'engagèrent à répudier leurs femmes, et ils donnèrent chacun un bélier de son troupeau, pour le péché.",
+          "grec": "καὶ ἔδωκαν χεῖρα αὐτῶν τοῦ ἐξενέγκαι γυναῖκας αὐτῶν καὶ πλημμελείας κριὸν ἐκ προβάτων περὶ πλημμελήσεως αὐτῶν.",
+          "name": "Esdras 10:19",
+          "chapter": "10"
+        },
+        {
+          "verse": "20",
+          "text": "Il y eut des fils d'Emmer Anani et Zabdia ;",
+          "grec": "καὶ ἀπὸ υἱῶν Εμμηρ Ανανι καὶ Ζαβδια.",
+          "name": "Esdras 10:20",
+          "chapter": "10"
+        },
+        {
+          "verse": "21",
+          "text": "Et des fils d'Eram Masahel, Elia, Samaïa, et Ozias ;",
+          "grec": "καὶ ἀπὸ υἱῶν Ηραμ Μασαια καὶ Ελια καὶ Σαμαια καὶ Ιιηλ καὶ Οζια.",
+          "name": "Esdras 10:21",
+          "chapter": "10"
+        },
+        {
+          "verse": "22",
+          "text": "Et des fils de Phasur : Elionaï, Maasia, Ismaël, Nathanaël, Jozabad et Elasa ;",
+          "grec": "καὶ ἀπὸ υἱῶν Φασουρ Ελιωηναι Μαασαια καὶ Ισμαηλ καὶ Ναθαναηλ καὶ Ιωζαβαδ καὶ Ηλασα.",
+          "name": "Esdras 10:22",
+          "chapter": "10"
+        },
+        {
+          "verse": "23",
+          "text": "Et des lévites : Jozabad, Samu, Colia (le même que Colite), Phetheia, Judas et Eliézer ;",
+          "grec": "καὶ ἀπὸ τῶν Λευιτῶν Ιωζαβαδ καὶ Σαμου καὶ Κωλια αὐτὸς Κωλιτας καὶ Φαθαια καὶ Ιοδομ καὶ Ελιεζερ.",
+          "name": "Esdras 10:23",
+          "chapter": "10"
+        },
+        {
+          "verse": "24",
+          "text": "Et des chantres : Elisabadi ; et des portiers, Solmen, Telmen et Oduth ;",
+          "grec": "καὶ ἀπὸ τῶν ᾀδόντων Ελισαφ καὶ ἀπὸ τῶν πυλωρῶν Σελλημ καὶ Τελημ καὶ Ωδουε.",
+          "name": "Esdras 10:24",
+          "chapter": "10"
+        },
+        {
+          "verse": "25",
+          "text": "Et d'Israël, des fils de Phoros : Ramia, Azia, Melchia, Méamin, Eléazar, Asabie et Banaïa ;",
+          "grec": "καὶ ἀπὸ Ισραηλ ἀπὸ υἱῶν Φορος Ραμια καὶ Ιαζια καὶ Μελχια καὶ Μεαμιν καὶ Ελεαζαρ καὶ Ασαβια καὶ Βαναια.",
+          "name": "Esdras 10:25",
+          "chapter": "10"
+        },
+        {
+          "verse": "26",
+          "text": "Et des fils d'Hélam : Matthanias, Zacharie et Jahiel, Abdias, Jarimoth et Eue ;",
+          "grec": "καὶ ἀπὸ υἱῶν Ηλαμ Μαθανια καὶ Ζαχαρια καὶ Ιαϊηλ καὶ Αβδια καὶ Ιαριμωθ καὶ Ηλια.",
+          "name": "Esdras 10:26",
+          "chapter": "10"
+        },
+        {
+          "verse": "27",
+          "text": "Et des fils de Zathuca : Elionaï, Elisub, Matthanaï, Armoth, Zabad et Oziza ;",
+          "grec": "καὶ ἀπὸ υἱῶν Ζαθουα Ελιωηναι Ελισουβ Μαθανια καὶ Ιαρμωθ καὶ Ζαβαδ καὶ Οζιζα.",
+          "name": "Esdras 10:27",
+          "chapter": "10"
+        },
+        {
+          "verse": "28",
+          "text": "Et des fils de Bubeï. Johanan, Ananie, Zabu et Thali ;",
+          "grec": "καὶ ἀπὸ υἱῶν Βαβι Ιωαναν Ανανια καὶ Ζαβου Οθαλι.",
+          "name": "Esdras 10:28",
+          "chapter": "10"
+        },
+        {
+          "verse": "29",
+          "text": "Et des fils de Banuï : Mosollam, Maluch, Adaïas, Jasub, Saluïa et Remoth ;",
+          "grec": "καὶ ἀπὸ υἱῶν Βανουι Μεσουλαμ Μαλουχ Αδαιας Ιασουβ καὶ Σαλουια καὶ Ρημωθ.",
+          "name": "Esdras 10:29",
+          "chapter": "10"
+        },
+        {
+          "verse": "30",
+          "text": "Et des fils de Phaath-Moab Edné, Chalet, Banaïa, Maasia, Matthanias, Béséléel, Banuï et Manassé ;",
+          "grec": "καὶ ἀπὸ υἱῶν Φααθμωαβ Εδενε Χαληλ Βαναια Μασηα Μαθανια Βεσεληλ καὶ Βανουι καὶ Μανασση.",
+          "name": "Esdras 10:30",
+          "chapter": "10"
+        },
+        {
+          "verse": "31",
+          "text": "Et des fils d'Eram : Eliézer, Jésia, Melchia, Samaïas, Séméon,",
+          "grec": "καὶ ἀπὸ υἱῶν Ηραμ Ελιεζερ Ιεσσια Μελχια Σαμαια Σεμεων.",
+          "name": "Esdras 10:31",
+          "chapter": "10"
+        },
+        {
+          "verse": "32",
+          "text": "Benjamin, Baluch, Samaria ;",
+          "grec": "Βενιαμιν Μαλουχ Σαμαρια.",
+          "name": "Esdras 10:32",
+          "chapter": "10"
+        },
+        {
+          "verse": "33",
+          "text": "Et des fils d'Asem : Metthanie, Matthatha, Zadab, Eliphalet, Jerami, Manassé, Sémeï ;",
+          "grec": "καὶ ἀπὸ υἱῶν Ησαμ Μαθανι Μαθαθα Ζαβεδ Ελιφαλεθ Ιεραμι Μανασση Σεμεϊ.",
+          "name": "Esdras 10:33",
+          "chapter": "10"
+        },
+        {
+          "verse": "34",
+          "text": "Et des fils de Bani : Moodia, Amram, Uhel,",
+          "grec": "ἀπὸ υἱῶν Βανι Μοοδι Αμραμ Ουηλ.",
+          "name": "Esdras 10:34",
+          "chapter": "10"
+        },
+        {
+          "verse": "35",
+          "text": "Banaïas, Badaïas, Helcias,",
+          "grec": "Βαναια Βαδαια Χελια.",
+          "name": "Esdras 10:35",
+          "chapter": "10"
+        },
+        {
+          "verse": "36",
+          "text": "Vania, Marimoth, Eliasiph,",
+          "grec": "Ουιεχωα Ιεραμωθ Ελιασιβ.",
+          "name": "Esdras 10:36",
+          "chapter": "10"
+        },
+        {
+          "verse": "37",
+          "text": "Matthanias, Matthanaï ; et ainsi firent :",
+          "grec": "Μαθανια Μαθαναι καὶ ἐποίησαν.",
+          "name": "Esdras 10:37",
+          "chapter": "10"
+        },
+        {
+          "verse": "38",
+          "text": "Les fils de Banui, et les fils de Sémeï,",
+          "grec": "οἱ υἱοὶ Βανουι καὶ οἱ υἱοὶ Σεμεϊ.",
+          "name": "Esdras 10:38",
+          "chapter": "10"
+        },
+        {
+          "verse": "39",
+          "text": "Et Sélémia, et Nathan, et Adaïa,",
+          "grec": "καὶ Σελεμια καὶ Ναθαν καὶ Αδαια.",
+          "name": "Esdras 10:39",
+          "chapter": "10"
+        },
+        {
+          "verse": "40",
+          "text": "Machadnabu, Séseï, Sariu,",
+          "grec": "Μαχναδαβου Σεσι Σαρου.",
+          "name": "Esdras 10:40",
+          "chapter": "10"
+        },
+        {
+          "verse": "41",
+          "text": "Ezriel, et Sélémia, et Samaria,",
+          "grec": "Εζερηλ καὶ Σελεμια καὶ Σαμαρια.",
+          "name": "Esdras 10:41",
+          "chapter": "10"
+        },
+        {
+          "verse": "42",
+          "text": "Et Sellum, Amaria, Joseph ;",
+          "grec": "καὶ Σαλουμ Αμαρια Ιωσηφ.",
+          "name": "Esdras 10:42",
+          "chapter": "10"
+        },
+        {
+          "verse": "43",
+          "text": "Des fils de Nabu : Jahel, Matthanias, Zabad, Zebennas, Jadaï, Johel et Banaïa.",
+          "grec": "ἀπὸ υἱῶν Ναβου Ιιηλ Μαθαθια Σεδεμ Ζαμβινα Ιαδαι καὶ Ιωηλ καὶ Βαναια.",
+          "name": "Esdras 10:43",
+          "chapter": "10"
+        },
+        {
+          "verse": "44",
+          "text": "Tels furent ceux qui avaient épousé des femmes étrangères, et qui en avaient eu des enfants.",
+          "grec": "πάντες οὗτοι ἐλάβοσαν γυναῖκας ἀλλοτρίας καὶ ἐγέννησαν ἐξ αὐτῶν υἱούς.",
+          "name": "Esdras 10:44",
+          "chapter": "10"
+        }
+      ]
+    }
+  ]
+}

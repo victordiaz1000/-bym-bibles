@@ -1,0 +1,470 @@
+{
+  "translation": "Septuaginta (Rahlfs) — traductions françaises de Giguet et d'Alexandrie",
+  "abbreviation": "SEF",
+  "lang": "fr",
+  "language": "français (avec le grec de la Septante)",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 39,
+  "name": "Malachie",
+  "chapters": [
+    {
+      "chapter": 1,
+      "name": "Malachie 1",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Parole du Seigneur sur Israël transmise à son envoyé ; déposez-la maintenant dans vos cœurs.",
+          "grec": "λῆμμα λόγου κυρίου ἐπὶ τὸν Ισραηλ ἐν χειρὶ ἀγγέλου αὐτοῦ θέσθε δὴ ἐπὶ τὰς καρδίας ὑμῶν.",
+          "alexandrie": "Oracle de la parole du Seigneur contre Israël, confié à son ange. Mettez-le donc sur votre cœur !",
+          "name": "Malachie 1:1",
+          "chapter": "1"
+        },
+        {
+          "verse": "2",
+          "text": "Je vous ai aimés, dit le Seigneur, et vous avez dit : En quoi donc nous as-tu aimés ? Ésaü n'était-il pas le frère de Jacob ? dit le Seigneur ; n'ai-je point aimé Jacob,",
+          "grec": "ἠγάπησα ὑμᾶς λέγει κύριος καὶ εἴπατε ἐν τίνι ἠγάπησας ἡμᾶς οὐκ ἀδελφὸς ἦν Ησαυ τοῦ Ιακωβ λέγει κύριος καὶ ἠγάπησα τὸν Ιακωβ.",
+          "alexandrie": "Je vous ai aimés, dit le Seigneur : et vous avez dit : en quoi nous as-tu aimés ? Ésaü n’était-il pas le frère de Jacob ? dit le Seigneur. Et j’ai aimé Jacob,",
+          "name": "Malachie 1:2",
+          "chapter": "1"
+        },
+        {
+          "verse": "3",
+          "text": "Et pris en haine Ésaü ? j'ai voulu que ses confins fussent dévastés, et que son héritage devînt comme les maisons du désert.",
+          "grec": "τὸν δὲ Ησαυ ἐμίσησα καὶ ἔταξα τὰ ὅρια αὐτοῦ εἰς ἀφανισμὸν καὶ τὴν κληρονομίαν αὐτοῦ εἰς δόματα ἐρήμου.",
+          "alexandrie": "mais Ésaü, je l’ai pris en haine, et j’ai assigné son territoire à l’anéantissement, son héritage à des terrasses de désert.",
+          "name": "Malachie 1:3",
+          "chapter": "1"
+        },
+        {
+          "verse": "4",
+          "text": "Car l'Idumée dira : tout a été détruit ; revenons et repeuplons le désert, voici ce que dit le Seigneur : Ils rebâtiront, et je renverserai, et leur terre sera surnommée l'impiété, et ce sera un peuple à qui le Seigneur sera hostile pour jamais.",
+          "grec": "διότι ἐρεῖ ἡ Ιδουμαία κατέστραπται καὶ ἐπιστρέψωμεν καὶ ἀνοικοδομήσωμεν τὰς ἐρήμους τάδε λέγει κύριος παντοκράτωρ αὐτοὶ οἰκοδομήσουσιν καὶ ἐγὼ καταστρέψω καὶ ἐπικληθήσεται αὐτοῖς ὅρια ἀνομίας καὶ λαὸς ἐφ' ὃν παρατέτακται κύριος ἕως αἰῶνος.",
+          "alexandrie": "Parce qu’il dira : L’Idumée est ravagée : retournons, rebâtissons les lieux désertés, ainsi parle le Seigneur tout-puissant : eux bâtiront, et moi je ravagerai ; et on les appellera « territoire d’iniquité », et « peuple contre qui le Seigneur fait front jusqu’à l’éternité ».",
+          "name": "Malachie 1:4",
+          "chapter": "1"
+        },
+        {
+          "verse": "5",
+          "text": "Et vos yeux verront cela, et vous direz : Le Seigneur a montré sa puissance au delà des limites d'Israël.",
+          "grec": "καὶ οἱ ὀφθαλμοὶ ὑμῶν ὄψονται καὶ ὑμεῖς ἐρεῖτε ἐμεγαλύνθη κύριος ὑπεράνω τῶν ὁρίων τοῦ Ισραηλ.",
+          "alexandrie": "Et vos yeux verront, et vous direz : le Seigneur s’est montré grand par-delà le territoire d’Israël.",
+          "name": "Malachie 1:5",
+          "chapter": "1"
+        },
+        {
+          "verse": "6",
+          "text": "Le fils glorifie le père, et le serviteur son maître ; et si je suis père, où est ma gloire ? Et si je suis maître, où est la crainte que j'inspire ? dit le Seigneur tout-puissant. Et vous, prêtres, c'est vous qui méprisez mon nom, et qui dites : En quoi méprisons-nous ton nom ?",
+          "grec": "υἱὸς δοξάζει πατέρα καὶ δοῦλος τὸν κύριον αὐτοῦ καὶ εἰ πατήρ εἰμι ἐγώ ποῦ ἐστιν ἡ δόξα μου καὶ εἰ κύριός εἰμι ἐγώ ποῦ ἐστιν ὁ φόβος μου λέγει κύριος παντοκράτωρ ὑμεῖς οἱ ἱερεῖς οἱ φαυλίζοντες τὸ ὄνομά μου καὶ εἴπατε ἐν τίνι ἐφαυλίσαμεν τὸ ὄνομά σου.",
+          "alexandrie": "Un fils fait la gloire de son père et un serviteur celle de son seigneur. Et si je suis, moi, père, où est la gloire qui me revient ? Et si je suis, moi, Seigneur, où est la crainte qu’on me doit ? dit le Seigneur tout-puissant. C’est vous, les prêtres, qui faites bon marché de mon nom ! Et vous avez dit : En quoi avons-nous fait bon marché de ton nom ?",
+          "name": "Malachie 1:6",
+          "chapter": "1"
+        },
+        {
+          "verse": "7",
+          "text": "C'est vous qui présentez à l'autel des aliments souillés, et qui dites : En quoi les avons-nous souillés ? Vous les avez souillés en disant : La table du Seigneur est méprisée ; et ce qu'on y déposait a été méprisé.",
+          "grec": "προσάγοντες πρὸς τὸ θυσιαστήριόν μου ἄρτους ἠλισγημένους καὶ εἴπατε ἐν τίνι ἠλισγήσαμεν αὐτούς ἐν τῷ λέγειν ὑμᾶς τράπεζα κυρίου ἐξουδενωμένη ἐστὶν καὶ τὰ ἐπιτιθέμενα βρώματα ἐξουδενωμένα.",
+          "alexandrie": "- En présentant à mon autel des pains impurs ; et vous avez dit : En quoi les avons-nous rendus impurs ? - Du fait que vous dites : la table du Seigneur est méprisée, et ce qu’on y dépose, ce sont des aliments méprisés.",
+          "name": "Malachie 1:7",
+          "chapter": "1"
+        },
+        {
+          "verse": "8",
+          "text": "Si vous présentez pour le sacrifice une victime aveugle, n'est-ce point mal ? Si vous en présentez une boiteuse ou malade, n'est-ce point mal ? Offre-les à ton prince, et tu verras s'il te recevra, s'il accueillera ton visage, dit le Seigneur tout-puissant.",
+          "grec": "διότι ἐὰν προσαγάγητε τυφλὸν εἰς θυσίαν οὐ κακόν καὶ ἐὰν προσαγάγητε χωλὸν ἢ ἄρρωστον οὐ κακόν προσάγαγε δὴ αὐτὸ τῷ ἡγουμένῳ σου εἰ προσδέξεται αὐτό εἰ λήμψεται πρόσωπόν σου λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "Car si vous présentez une bête aveugle en offrande, n’est-ce pas mal ? Et si vous présentez une bête boiteuse ou souffreteuse, n’est-ce pas mal ? Présente-la donc à ton chef, pour voir s’il te recevra bien, ou s’il te prendra en faveur, dit le Seigneur tout-puissant.",
+          "name": "Malachie 1:8",
+          "chapter": "1"
+        },
+        {
+          "verse": "9",
+          "text": "Maintenant priez devant votre Dieu, et adressez-Lui votre oraison ; mais si de telles offrandes me sont faites par vos mains, pourrai-je bien accueillir vos visages ? dit le Seigneur tout-puissant.",
+          "grec": "καὶ νῦν ἐξιλάσκεσθε τὸ πρόσωπον τοῦ θεοῦ ὑμῶν καὶ δεήθητε αὐτοῦ ἐν χερσὶν ὑμῶν γέγονεν ταῦτα εἰ λήμψομαι ἐξ ὑμῶν πρόσωπα ὑμῶν λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "Et maintenant, apaisez le visage de votre Dieu et suppliez-le ; à l’instant vos mains ont fait cela : prendrai-je en faveur l’un d’entre vous ? dit le Seigneur tout-puissant.",
+          "name": "Malachie 1:9",
+          "chapter": "1"
+        },
+        {
+          "verse": "10",
+          "text": "Et cependant chez vous les portes sont fermées, et vous n'allumez pas pour rien le feu de l'autel. Aussi je ne me complais pas en vous, dit le Seigneur tout-puissant, et je n'accueillerai pas le sacrifice de vos mains.",
+          "grec": "διότι καὶ ἐν ὑμῖν συγκλεισθήσονται θύραι καὶ οὐκ ἀνάψετε τὸ θυσιαστήριόν μου δωρεάν οὐκ ἔστιν μου θέλημα ἐν ὑμῖν λέγει κύριος παντοκράτωρ καὶ θυσίαν οὐ προσδέξομαι ἐκ τῶν χειρῶν ὑμῶν.",
+          "alexandrie": "Car en votre présence même se refermeront les portes, et vous n’allumerez pas mon autel sans recevoir votre salaire : je n’ai pas de contentement en vous, dit le Seigneur tout-puissant, et je n’accepterai pas d’offrande de vos mains.",
+          "name": "Malachie 1:10",
+          "chapter": "1"
+        },
+        {
+          "verse": "11",
+          "text": "Du lever du soleil à son coucher, mon nom a été glorifié parmi les gentils ; en tout lieu on brûle en mon nom de l'encens et on offre une victime pure ; parce que mon nom est grand parmi les nations, dit le Seigneur, maître de toutes choses.",
+          "grec": "διότι ἀπ' ἀνατολῶν ἡλίου ἕως δυσμῶν τὸ ὄνομά μου δεδόξασται ἐν τοῖς ἔθνεσιν καὶ ἐν παντὶ τόπῳ θυμίαμα προσάγεται τῷ ὀνόματί μου καὶ θυσία καθαρά διότι μέγα τὸ ὄνομά μου ἐν τοῖς ἔθνεσιν λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "Car depuis le levant du soleil jusqu’au couchant, mon nom est glorifié parmi les nations, et en tout lieu on présente à mon nom de l’encens et une offrande pure, car mon nom est grand parmi les nations, dit le Seigneur tout-puissant.",
+          "name": "Malachie 1:11",
+          "chapter": "1"
+        },
+        {
+          "verse": "12",
+          "text": "Et ce nom vous le profanez quand vous dites : La table du Seigneur est souillée, et les chairs que l'on y dépose sont méprisables.",
+          "grec": "ὑμεῖς δὲ βεβηλοῦτε αὐτὸ ἐν τῷ λέγειν ὑμᾶς τράπεζα κυρίου ἠλισγημένη ἐστίν καὶ τὰ ἐπιτιθέμενα ἐξουδένωνται βρώματα αὐτοῦ.",
+          "alexandrie": "Mais vous, vous le profanez, du fait que vous dites : la table du Seigneur est impure, et ses aliments qu’on y dépose sont méprisés.",
+          "name": "Malachie 1:12",
+          "chapter": "1"
+        },
+        {
+          "verse": "13",
+          "text": "Vous avez dit encore : Ces offrandes sont le fruit de notre labeur ; c'est pourquoi je les ai rejetées avec mépris, dit le Seigneur tout-puissant ; car vous me présentez des victimes dérobées, ou boiteuses ou infirmes ; et si vous me les offrez en sacrifice, puis-je les accepter de vos mains ? dit le Seigneur tout-puissant.",
+          "grec": "καὶ εἴπατε ταῦτα ἐκ κακοπαθείας ἐστίν καὶ ἐξεφύσησα αὐτὰ λέγει κύριος παντοκράτωρ καὶ εἰσεφέρετε ἁρπάγματα καὶ τὰ χωλὰ καὶ τὰ ἐνοχλούμενα καὶ ἐὰν φέρητε τὴν θυσίαν εἰ προσδέξομαι αὐτὰ ἐκ τῶν χειρῶν ὑμῶν λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "Et vous avez dit : c’est le fruit d’un effort ; et je l’ai dispersé d’un souffle, dit le Seigneur tout-puissant. Et vous apportiez des bêtes volées, les boiteuses, les malades : même si vous portez l’offrande, les accepterai-je de vos mains ? dit le Seigneur tout-puissant.",
+          "name": "Malachie 1:13",
+          "chapter": "1"
+        },
+        {
+          "verse": "14",
+          "text": "Maudit soit le riche qui possédait en son bétail un bélier voué au sacrifice, et qui sacrifie au Seigneur une chose corrompue ; car moi je suis un grand roi, dit le Seigneur Dieu tout-puissant, et mon nom est éclatant parmi les nations.",
+          "grec": "καὶ ἐπικατάρατος ὃς ἦν δυνατὸς καὶ ὑπῆρχεν ἐν τῷ ποιμνίῳ αὐτοῦ ἄρσεν καὶ εὐχὴ αὐτοῦ ἐπ' αὐτῷ καὶ θύει διεφθαρμένον τῷ κυρίῳ διότι βασιλεὺς μέγας ἐγώ εἰμι λέγει κύριος παντοκράτωρ καὶ τὸ ὄνομά μου ἐπιφανὲς ἐν τοῖς ἔθνεσιν.",
+          "alexandrie": "Maudit celui qui en avait les moyens, celui dans le troupeau duquel il y avait un mâle et dont le vœu porte sur lui : et il sacrifie une bête gâtée au Seigneur ! Car je suis un grand roi, dit le Seigneur tout-puissant, et mon nom est éclatant parmi les nations.",
+          "name": "Malachie 1:14",
+          "chapter": "1"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "name": "Malachie 2",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et maintenant voici un ordre pour vous, ô prêtres",
+          "grec": "καὶ νῦν ἡ ἐντολὴ αὕτη πρὸς ὑμᾶς οἱ ἱερεῖς.",
+          "alexandrie": "Et maintenant le commandement est le suivant pour vous, les prêtres :",
+          "name": "Malachie 2:1",
+          "chapter": "2"
+        },
+        {
+          "verse": "2",
+          "text": "Si vous me désobéissez, et si vous ne mettez pas en vos cœurs qu'il faut glorifier mon nom, dit le Seigneur tout-puissant, je vous enverrai ma malédiction ; et votre bénédiction sera maudite, et je la maudirai, et je la rendrai vaine, et la mienne ne sera pas en vous, parce que vous n'aurez point déposé mes paroles en vos cœurs.",
+          "grec": "ἐὰν μὴ ἀκούσητε καὶ ἐὰν μὴ θῆσθε εἰς τὴν καρδίαν ὑμῶν τοῦ δοῦναι δόξαν τῷ ὀνόματί μου λέγει κύριος παντοκράτωρ καὶ ἐξαποστελῶ ἐφ' ὑμᾶς τὴν κατάραν καὶ ἐπικαταράσομαι τὴν εὐλογίαν ὑμῶν καὶ καταράσομαι αὐτήν καὶ διασκεδάσω τὴν εὐλογίαν ὑμῶν καὶ οὐκ ἔσται ἐν ὑμῖν ὅτι ὑμεῖς οὐ τίθεσθε εἰς τὴν καρδίαν ὑμῶν.",
+          "alexandrie": "Si vous n’écoutez pas, si vous ne mettez pas dans votre cœur de rendre gloire à mon nom, dit le Seigneur tout-puissant, j’enverrai contre vous la malédiction, je couvrirai de malédiction votre bénédiction, je la maudirai ; j’annulerai votre bénédiction, il n’y en aura pas chez vous, parce que vous ne mettez pas dans votre cœur.",
+          "name": "Malachie 2:2",
+          "chapter": "2"
+        },
+        {
+          "verse": "3",
+          "text": "Voilà que je vous prive de l'épaule de vos victimes, et je répandrai sur votre face leur fiente, la fiente de vos fêtes, et je vous prendrai en même temps à leur place.",
+          "grec": "ἰδοὺ ἐγὼ ἀφορίζω ὑμῖν τὸν ὦμον καὶ σκορπιῶ ἤνυστρον ἐπὶ τὰ πρόσωπα ὑμῶν ἤνυστρον ἑορτῶν ὑμῶν καὶ λήμψομαι ὑμᾶς εἰς τὸ αὐτό.",
+          "alexandrie": "Voici que moi, je vous consacre l’épaule : et je vous jetterai la caillette au visage, la caillette de vos fêtes, et je vous prendrai en même temps.",
+          "name": "Malachie 2:3",
+          "chapter": "2"
+        },
+        {
+          "verse": "4",
+          "text": "Et vous connaîtrez que c'est moi qui vous ai envoyé ce commandement, que mon alliance doit être avec les lévites, dit le Seigneur tout-puissant.",
+          "grec": "καὶ ἐπιγνώσεσθε διότι ἐγὼ ἐξαπέσταλκα πρὸς ὑμᾶς τὴν ἐντολὴν ταύτην τοῦ εἶναι τὴν διαθήκην μου πρὸς τοὺς Λευίτας λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "Et vous reconnaîtrez que c’est moi qui vous ai envoyé ce commandement pour que soit mon alliance avec les Lévites, dit le Seigneur tout-puissant.",
+          "name": "Malachie 2:4",
+          "chapter": "2"
+        },
+        {
+          "verse": "5",
+          "text": "Mon alliance était avec Lévi, une alliance de vie et de paix, et je lui avais donné ma crainte, de sorte qu'à mon nom il était frappé de crainte.",
+          "grec": "ἡ διαθήκη μου ἦν μετ' αὐτοῦ τῆς ζωῆς καὶ τῆς εἰρήνης καὶ ἔδωκα αὐτῷ ἐν φόβῳ φοβεῖσθαί με καὶ ἀπὸ προσώπου ὀνόματός μου στέλλεσθαι αὐτόν.",
+          "alexandrie": "Mon alliance l’accompagnait, une alliance de vie et de paix, et je lui ai donné de me craindre avec crainte et de venir lui-même de devant mon nom.",
+          "name": "Malachie 2:5",
+          "chapter": "2"
+        },
+        {
+          "verse": "6",
+          "text": "La loi de vérité était en sa bouche, et nulle iniquité n'eût été trouvée sur ses lèvres ; il marchait avec moi, dirigeant sa voie en paix, et il a détourné du mal nombre d'hommes.",
+          "grec": "νόμος ἀληθείας ἦν ἐν τῷ στόματι αὐτοῦ καὶ ἀδικία οὐχ εὑρέθη ἐν χείλεσιν αὐτοῦ ἐν εἰρήνῃ κατευθύνων ἐπορεύθη μετ' ἐμοῦ καὶ πολλοὺς ἐπέστρεψεν ἀπὸ ἀδικίας.",
+          "alexandrie": "Une loi de vérité était dans sa bouche, et on n’a pas trouvé de faute sur ses lèvres : marchant droit dans la paix, il a cheminé avec moi, et il en a détourné beaucoup de la faute.",
+          "name": "Malachie 2:6",
+          "chapter": "2"
+        },
+        {
+          "verse": "7",
+          "text": "Les lèvres du prêtre doivent garder la doctrine ; on cherchera la loi dans les paroles de sa bouche ; car il est l'envoyé du Seigneur tout-puissant.",
+          "grec": "ὅτι χείλη ἱερέως φυλάξεται γνῶσιν καὶ νόμον ἐκζητήσουσιν ἐκ στόματος αὐτοῦ διότι ἄγγελος κυρίου παντοκράτορός ἐστιν.",
+          "alexandrie": "Car les lèvres du prêtre préserveront la connaissance, et on sollicitera une loi de sa bouche, car il est un ange du Seigneur tout-puissant.",
+          "name": "Malachie 2:7",
+          "chapter": "2"
+        },
+        {
+          "verse": "8",
+          "text": "Mais vous vous êtes retirés de la voie, et vous avez détourné plusieurs de la loi, et vous avez profané l'alliance de Lévi, dit le Seigneur tout-puissant.",
+          "grec": "ὑμεῖς δὲ ἐξεκλίνατε ἐκ τῆς ὁδοῦ καὶ πολλοὺς ἠσθενήσατε ἐν νόμῳ διεφθείρατε τὴν διαθήκην τοῦ Λευι λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "Mais vous, vous avez dévié du chemin et vous avez affaibli beaucoup de gens dans les questions de loi, vous avez mis à mal l’alliance de Lévi, dit le Seigneur tout-puissant.",
+          "name": "Malachie 2:8",
+          "chapter": "2"
+        },
+        {
+          "verse": "9",
+          "text": "Aussi ai-je fait de vous le mépris et le rebut de toutes les nations, parce que vous n'avez point gardé mes voies, mais qu'en la loi vous avez fait acception des personnes.",
+          "grec": "κἀγὼ δέδωκα ὑμᾶς ἐξουδενωμένους καὶ παρειμένους εἰς πάντα τὰ ἔθνη ἀνθ' ὧν ὑμεῖς οὐκ ἐφυλάξασθε τὰς ὁδούς μου ἀλλὰ ἐλαμβάνετε πρόσωπα ἐν νόμῳ.",
+          "alexandrie": "Et moi j’ai fait de vous des méprisés et des laissés-pour-compte dans toutes les nations, parce que vous n’avez pas gardé mes chemins : au contraire vous accordiez des faveurs dans les questions de loi.",
+          "name": "Malachie 2:9",
+          "chapter": "2"
+        },
+        {
+          "verse": "10",
+          "text": "N'avez-vous pas tous un seul Père ? N'est-ce pas le Dieu unique qui vous a créés ? Pourquoi donc chacun de vous a-t-il abandonné son frère en souillant l'alliance de vos ancêtres ?",
+          "grec": "οὐχὶ θεὸς εἷς ἔκτισεν ὑμᾶς οὐχὶ πατὴρ εἷς πάντων ὑμῶν τί ὅτι ἐγκατελίπετε ἕκαστος τὸν ἀδελφὸν αὐτοῦ τοῦ βεβηλῶσαι τὴν διαθήκην τῶν πατέρων ὑμῶν.",
+          "alexandrie": "N’est-ce pas un seul Dieu qui vous a créés ? N’avez-vous pas tous un seul père ? Qu’avez-vous à abandonner chacun son frère pour qu’il profane l’alliance de vos pères ?",
+          "name": "Malachie 2:10",
+          "chapter": "2"
+        },
+        {
+          "verse": "11",
+          "text": "Juda a failli, et l'abomination a été en Israël et en Jérusalem, parce que Juda a profané les choses saintes du Seigneur, où Dieu se complaisait, et qu'il s'est attaché à des dieux étrangers.",
+          "grec": "ἐγκατελείφθη Ιουδας καὶ βδέλυγμα ἐγένετο ἐν τῷ Ισραηλ καὶ ἐν Ιερουσαλημ διότι ἐβεβήλωσεν Ιουδας τὰ ἅγια κυρίου ἐν οἷς ἠγάπησεν καὶ ἐπετήδευσεν εἰς θεοὺς ἀλλοτρίους.",
+          "alexandrie": "Juda a été abandonné, et une abomination a été commise en Israël et à Jérusalem, parce que Juda a profané le culte du Seigneur dans ce qu’il a affectionné, et il s’est commis avec des dieux étrangers.",
+          "name": "Malachie 2:11",
+          "chapter": "2"
+        },
+        {
+          "verse": "12",
+          "text": "Le Seigneur exterminera tout homme qui fera ainsi pour l'expulser des tentes de Jacob, et le séparer de ceux qui sacrifient au Seigneur tout-puissant.",
+          "grec": "ἐξολεθρεύσει κύριος τὸν ἄνθρωπον τὸν ποιοῦντα ταῦτα ἕως καὶ ταπεινωθῇ ἐκ σκηνωμάτων Ιακωβ καὶ ἐκ προσαγόντων θυσίαν τῷ κυρίῳ παντοκράτορι.",
+          "alexandrie": "Le Seigneur exterminera l’homme qui fait cela, jusqu’à ce qu’il s’humilie, des campements de Jacob et de ceux qui présentent une offrande au Seigneur tout-puissant.",
+          "name": "Malachie 2:12",
+          "chapter": "2"
+        },
+        {
+          "verse": "13",
+          "text": "Et vous avez fait ce que je déteste ; vous avez couvert de larmes l'autel du Seigneur : vous vous êtes frappé la poitrine au milieu des cris et des gémissements. Est-il convenable que je considère vos victimes, ou que j'agrée quelque chose de vos mains ?",
+          "grec": "καὶ ταῦτα ἃ ἐμίσουν ἐποιεῖτε ἐκαλύπτετε δάκρυσιν τὸ θυσιαστήριον κυρίου καὶ κλαυθμῷ καὶ στεναγμῷ ἐκ κόπων ἔτι ἄξιον ἐπιβλέψαι εἰς θυσίαν ἢ λαβεῖν δεκτὸν ἐκ τῶν χειρῶν ὑμῶν.",
+          "alexandrie": "Ceci aussi, que je haïssais, vous le faisiez : vous couvriez de larmes l’autel du Seigneur, de pleurs et de gémissements de fatigue. Vaut-il encore la peine de regarder vers une offrande, ou de prendre une offrande recevable de vos mains ?",
+          "name": "Malachie 2:13",
+          "chapter": "2"
+        },
+        {
+          "verse": "14",
+          "text": "Et vous avez dit : Pour quel motif ? C'est parce que le Seigneur a porté témoignage contre toi et la femme de ta jeunesse que tu as abandonnée : elle qui était ta compagne ; elle qui était la femme de ton alliance.",
+          "grec": "καὶ εἴπατε ἕνεκεν τίνος ὅτι κύριος διεμαρτύρατο ἀνὰ μέσον σοῦ καὶ ἀνὰ μέσον γυναικὸς νεότητός σου ἣν ἐγκατέλιπες καὶ αὐτὴ κοινωνός σου καὶ γυνὴ διαθήκης σου.",
+          "alexandrie": "Et vous avez dit : Pour quelle raison ? Parce que le Seigneur a lancé une mise en garde entre toi et la femme de ta jeunesse, que tu as abandonnée : et c’est elle ton associée, la femme de ton alliance.",
+          "name": "Malachie 2:14",
+          "chapter": "2"
+        },
+        {
+          "verse": "15",
+          "text": "Et un autre ne l'a-t-il pas fait ? et son esprit est resté. Et tu as dit : Que demande Dieu, sinon des enfants issus de moi ? Or garde cette parole en ton esprit : N'abandonne pas la femme de ta jeunesse.",
+          "grec": "καὶ οὐκ ἄλλος ἐποίησεν καὶ ὑπόλειμμα πνεύματος αὐτοῦ καὶ εἴπατε τί ἄλλο ἀλλ' ἢ σπέρμα ζητεῖ ὁ θεός καὶ φυλάξασθε ἐν τῷ πνεύματι ὑμῶν καὶ γυναῖκα νεότητός σου μὴ ἐγκαταλίπῃς.",
+          "alexandrie": "Pas un autre n’a fait cela et conservé le souffle. Et vous avez dit : Que recherche Dieu, sinon une semence ? Prenez garde en votre esprit, et n’abandonne pas la femme de ta jeunesse.",
+          "name": "Malachie 2:15",
+          "chapter": "2"
+        },
+        {
+          "verse": "16",
+          "text": "Mais si, l'ayant haïe, tu la répudies, dit le Seigneur Dieu d'Israël, l'impiété couvrira toutes tes pensées, dit le Seigneur tout-puissant ; gardez ceci dans vos esprits, et ne répudiez pas.",
+          "grec": "ἀλλὰ ἐὰν μισήσας ἐξαποστείλῃς λέγει κύριος ὁ θεὸς τοῦ Ισραηλ καὶ καλύψει ἀσέβεια ἐπὶ τὰ ἐνθυμήματά σου λέγει κύριος παντοκράτωρ καὶ φυλάξασθε ἐν τῷ πνεύματι ὑμῶν καὶ οὐ μὴ ἐγκαταλίπητε.",
+          "alexandrie": "Mais si tu l’as prise en haine et que tu la renvoies, dit le Seigneur, Dieu d’Israël, l’impiété couvrira tes vêtements, dit le Seigneur tout-puissant. Prenez garde en votre esprit : vous ne l’abandonnerez pas.",
+          "name": "Malachie 2:16",
+          "chapter": "2"
+        },
+        {
+          "verse": "17",
+          "text": "Ô vous qui, par vos paroles, provoquez Dieu, et qui dites : En quoi l'avons-nous provoqué ? C'est en disant : Quiconque fait le mal est bien vu du Seigneur ; Il se complaît en ceux-là ; où donc est le Dieu de la justice ?",
+          "grec": "οἱ παροξύνοντες τὸν θεὸν ἐν τοῖς λόγοις ὑμῶν καὶ εἴπατε ἐν τίνι παρωξύναμεν αὐτόν ἐν τῷ λέγειν ὑμᾶς πᾶς ποιῶν πονηρόν καλὸν ἐνώπιον κυρίου καὶ ἐν αὐτοῖς αὐτὸς εὐδόκησεν καί ποῦ ἐστιν ὁ θεὸς τῆς δικαιοσύνης.",
+          "alexandrie": "Vous qui exaspérez Dieu dans vos discours ! et vous avez dit : « En quoi l’avons-nous exaspéré ? » En disant : « Tout homme qui fait le mal, c’est bien aux yeux du Seigneur, il les approuve », et « Où est le Dieu de la justice ? »",
+          "name": "Malachie 2:17",
+          "chapter": "2"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "name": "Malachie 3",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Voilà que j'envoie mon ange, et il surveillera la voie devant moi, et le Seigneur que vous cherchez viendra soudain dans son temple, avec l'ange de l'alliance que vous avez désiré ; le voici, Il vient, dit le Seigneur tout-puissant.",
+          "grec": "ἰδοὺ ἐγὼ ἐξαποστέλλω τὸν ἄγγελόν μου καὶ ἐπιβλέψεται ὁδὸν πρὸ προσώπου μου καὶ ἐξαίφνης ἥξει εἰς τὸν ναὸν ἑαυτοῦ κύριος ὃν ὑμεῖς ζητεῖτε καὶ ὁ ἄγγελος τῆς διαθήκης ὃν ὑμεῖς θέλετε ἰδοὺ ἔρχεται λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "Voici que moi j’envoie mon ange, et il surveillera le chemin devant ma face ; et soudain viendra dans le sanctuaire le Seigneur, lui que vous recherchez, et l’ange de l’alliance, lui que vous souhaitez : le voici qui vient, dit le Seigneur tout-puissant.",
+          "name": "Malachie 3:1",
+          "chapter": "3"
+        },
+        {
+          "verse": "2",
+          "text": "Et qui donc aura le pied ferme le jour de sa venue ? Qui supportera sa présence ? Il vient comme le feu d'une fournaise, ou comme l'herbe à foulons.",
+          "grec": "καὶ τίς ὑπομενεῖ ἡμέραν εἰσόδου αὐτοῦ ἢ τίς ὑποστήσεται ἐν τῇ ὀπτασίᾳ αὐτοῦ διότι αὐτὸς εἰσπορεύεται ὡς πῦρ χωνευτηρίου καὶ ὡς πόα πλυνόντων.",
+          "alexandrie": "Et qui soutiendra le jour de son entrée ? Ou qui tiendra bon à son apparition ? Car il entre en personne, comme le feu d un creuset et comme l’herbe des blanchisseurs.",
+          "name": "Malachie 3:2",
+          "chapter": "3"
+        },
+        {
+          "verse": "3",
+          "text": "Il siégera pour fondre et purifier, comme on purifie l'argent et l'or, et Il purifiera les fils de Lévi, et Il les coulera comme l'or et l'argent. Et ils offriront des victimes au Seigneur selon la justice.",
+          "grec": "καὶ καθιεῖται χωνεύων καὶ καθαρίζων ὡς τὸ ἀργύριον καὶ ὡς τὸ χρυσίον καὶ καθαρίσει τοὺς υἱοὺς Λευι καὶ χεεῖ αὐτοὺς ὡς τὸ χρυσίον καὶ ὡς τὸ ἀργύριον καὶ ἔσονται τῷ κυρίῳ προσάγοντες θυσίαν ἐν δικαιοσύνῃ.",
+          "alexandrie": "Et il siégera, fondant au creuset et purifiant comme l’argent et comme l’or ; il purifiera les fils de Lévi, il les coulera comme l’or et comme l’argent ; et ils seront au Seigneur, et ils présenteront une offrande dans la justice.",
+          "name": "Malachie 3:3",
+          "chapter": "3"
+        },
+        {
+          "verse": "4",
+          "text": "Et les sacrifices de Juda et de Jérusalem seront agréables au Seigneur, comme durant les jours anciens, comme durant les années d'autrefois.",
+          "grec": "καὶ ἀρέσει τῷ κυρίῳ θυσία Ιουδα καὶ Ιερουσαλημ καθὼς αἱ ἡμέραι τοῦ αἰῶνος καὶ καθὼς τὰ ἔτη τὰ ἔμπροσθεν.",
+          "alexandrie": "Et l’offrande de Juda et de Jérusalem plaira au Seigneur comme les jours de l’éternité et comme les années de jadis.",
+          "name": "Malachie 3:4",
+          "chapter": "3"
+        },
+        {
+          "verse": "5",
+          "text": "Et je m'approcherai de vous en jugement, et je serai un témoin empressé contre les magiciens, contre les femmes adultères, contre ceux qui prennent en vain mon nom, contre ceux qui retiennent le salaire du journalier, contre ceux qui oppriment la veuve, contre ceux qui maltraitent l'orphelin, contre ceux qui faussent le jugement envers l'étranger et n'ont pas la crainte de moi, dit le Seigneur tout-puissant.",
+          "grec": "καὶ προσάξω πρὸς ὑμᾶς ἐν κρίσει καὶ ἔσομαι μάρτυς ταχὺς ἐπὶ τὰς φαρμακοὺς καὶ ἐπὶ τὰς μοιχαλίδας καὶ ἐπὶ τοὺς ὀμνύοντας τῷ ὀνόματί μου ἐπὶ ψεύδει καὶ ἐπὶ τοὺς ἀποστεροῦντας μισθὸν μισθωτοῦ καὶ τοὺς καταδυναστεύοντας χήραν καὶ τοὺς κονδυλίζοντας ὀρφανοὺς καὶ τοὺς ἐκκλίνοντας κρίσιν προσηλύτου καὶ τοὺς μὴ φοβουμένους με λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "Et je m’approcherai de vous en jugement, et je serai un prompt témoin contre les sorcières, contre les femmes adultères, contre ceux qui jurent par mon nom de façon mensongère, contre ceux qui refusent de payer le salaire du salarié, qui oppriment une veuve, qui frappent du poing des orphelins, qui gauchissent le procès d’un immigrant et qui ne me craignent pas, dit le Seigneur tout-puissant.",
+          "name": "Malachie 3:5",
+          "chapter": "3"
+        },
+        {
+          "verse": "6",
+          "text": "Car je suis le Seigneur votre Dieu, et je ne change pas.",
+          "grec": "διότι ἐγὼ κύριος ὁ θεὸς ὑμῶν καὶ οὐκ ἠλλοίωμαι καὶ ὑμεῖς υἱοὶ Ιακωβ οὐκ ἀπέχεσθε.",
+          "alexandrie": "Car je suis, moi, le Seigneur votre Dieu, et je n’ai pas changé,",
+          "name": "Malachie 3:6",
+          "chapter": "3"
+        },
+        {
+          "verse": "7",
+          "text": "Et vous, fils de Jacob, vous ne vous êtes point abstenus des iniquités de vos pères ; vous vous êtes retirés de ma loi, et vous ne l'avez point gardée. Convertissez-vous à moi, et je reviendrai à vous, dit le Seigneur tout-puissant. Et vous avez dit : En quoi nous convertirons-nous ?",
+          "grec": "ἀπὸ τῶν ἀδικιῶν τῶν πατέρων ὑμῶν ἐξεκλίνατε νόμιμά μου καὶ οὐκ ἐφυλάξασθε ἐπιστρέψατε πρός με καὶ ἐπιστραφήσομαι πρὸς ὑμᾶς λέγει κύριος παντοκράτωρ καὶ εἴπατε ἐν τίνι ἐπιστρέψωμεν.",
+          "alexandrie": "et vous, vous êtes fils de Jacob : vous ne vous écartez pas des fautes de vos pères, vous avez gauchi mes règles et ne les avez pas gardées intactes. Retournez-vous vers moi, et je me retournerai vers vous, dit le Seigneur tout-puissant. Et vous avez dit : en quoi nous faut-il nous retourner ?",
+          "name": "Malachie 3:7",
+          "chapter": "3"
+        },
+        {
+          "verse": "8",
+          "text": "Est-ce que l'homme fera tomber Dieu dans ses pièges ? Car vous cherchez à me tromper ; et vous direz : En quoi cherchons-nous à te tromper ? C'est en retenant pour vous les dîmes et les prémices.",
+          "grec": "εἰ πτερνιεῖ ἄνθρωπος θεόν διότι ὑμεῖς πτερνίζετέ με καὶ ἐρεῖτε ἐν τίνι ἐπτερνίκαμέν σε ὅτι τὰ ἐπιδέκατα καὶ αἱ ἀπαρχαὶ μεθ' ὑμῶν εἰσιν.",
+          "alexandrie": "Un homme va-t-il spolier un dieu ? Car vous me spoliez. Et vous allez dire : en quoi t’avons-nous spolié ? Parce que les dîmes et les prémices sont avec vous,",
+          "name": "Malachie 3:8",
+          "chapter": "3"
+        },
+        {
+          "verse": "9",
+          "text": "Vous m'avez regardé avec mépris, et vous avez cherché à me tromper. l'année est révolue,",
+          "grec": "καὶ ἀποβλέποντες ὑμεῖς ἀποβλέπετε καὶ ἐμὲ ὑμεῖς πτερνίζετε τὸ ἔθνος συνετελέσθη.",
+          "alexandrie": "et de vos regards vous regardez, et c’est moi que vous escroquez : la nation est à sa fin.",
+          "name": "Malachie 3:9",
+          "chapter": "3"
+        },
+        {
+          "verse": "10",
+          "text": "Et vous avez porté toutes les récoltes dans vos greniers ; mais elles seront mises au pillage en chaque maison. Convertissez-vous sur ce point, dit le Seigneur tout-puissant. Et vous verrez alors si je n'ouvrirai pas pour vous les cataractes du ciel, et si je ne répandrai pas sur vous ma bénédiction, jusqu'à ce que vous soyez satisfaits.",
+          "grec": "καὶ εἰσηνέγκατε πάντα τὰ ἐκφόρια εἰς τοὺς θησαυρούς καὶ ἐν τῷ οἴκῳ αὐτοῦ ἔσται ἡ διαρπαγὴ αὐτοῦ ἐπισκέψασθε δὴ ἐν τούτῳ λέγει κύριος παντοκράτωρ ἐὰν μὴ ἀνοίξω ὑμῖν τοὺς καταρράκτας τοῦ οὐρανοῦ καὶ ἐκχεῶ ὑμῖν τὴν εὐλογίαν μου ἕως τοῦ ἱκανωθῆναι.",
+          "alexandrie": "Vous avez rentré toute la récolte dans les dépôts, et dans sa maison il y aura ce qu’il a volé. Réfléchissez donc dans cette affaire, dit le Seigneur tout-puissant : si je ne vous ouvre pas les vannes du ciel ! Et je verserai sur vous ma bénédiction jusqu’à satiété,",
+          "name": "Malachie 3:10",
+          "chapter": "3"
+        },
+        {
+          "verse": "11",
+          "text": "Et je vous distribuerai votre nourriture, et je n'endommagerai pas les fruits de votre champ, et votre vigne ne souffrira d'aucune maladie dans votre terre, dit le Seigneur tout-puissant.",
+          "grec": "καὶ διαστελῶ ὑμῖν εἰς βρῶσιν καὶ οὐ μὴ διαφθείρω ὑμῶν τὸν καρπὸν τῆς γῆς καὶ οὐ μὴ ἀσθενήσῃ ὑμῶν ἡ ἄμπελος ἡ ἐν τῷ ἀγρῷ λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "je vous impartirai de la nourriture ; en aucun cas je ne ferai gâter pour vous le fruit de la terre ; pour vous la vigne n’aura pas de maladie dans le champ, dit le Seigneur tout-puissant.",
+          "name": "Malachie 3:11",
+          "chapter": "3"
+        },
+        {
+          "verse": "12",
+          "text": "Et toutes les nations vous estimeront heureux, parce que vous serez une terre bien-aimée, dit le Seigneur tout-puissant.",
+          "grec": "καὶ μακαριοῦσιν ὑμᾶς πάντα τὰ ἔθνη διότι ἔσεσθε ὑμεῖς γῆ θελητή λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "Et toutes les nations admireront votre bonheur, car vous serez, vous, un pays de contentement, dit le Seigneur tout-puissant.",
+          "name": "Malachie 3:12",
+          "chapter": "3"
+        },
+        {
+          "verse": "13",
+          "text": "Vous avez tenu contre moi des discours injurieux, dit le Seigneur, et vous avez dit : En quoi avons-nous parlé contre toi ?",
+          "grec": "ἐβαρύνατε ἐπ' ἐμὲ τοὺς λόγους ὑμῶν λέγει κύριος καὶ εἴπατε ἐν τίνι κατελαλήσαμεν κατὰ σοῦ.",
+          "alexandrie": "Vous avez eu pour moi des mots sévères, dit le Seigneur tout-puissant, et vous avez dit : « En quoi avons-nous médit de toi ? »",
+          "name": "Malachie 3:13",
+          "chapter": "3"
+        },
+        {
+          "verse": "14",
+          "text": "Et vous avez dit : Bien fou qui sert le Seigneur ; qu'avons-nous de plus pour avoir gardé ses commandements, et avoir paru comme suppliants devant sa face ?",
+          "grec": "εἴπατε μάταιος ὁ δουλεύων θεῷ καὶ τί πλέον ὅτι ἐφυλάξαμεν τὰ φυλάγματα αὐτοῦ καὶ διότι ἐπορεύθημεν ἱκέται πρὸ προσώπου κυρίου παντοκράτορος.",
+          "alexandrie": "Vous avez dit : « Il perd son temps, celui qui sert Dieu : qu’avons-nous gagné à observer ses observances et à marcher en suppliants devant la face du Seigneur tout-puissant ?",
+          "name": "Malachie 3:14",
+          "chapter": "3"
+        },
+        {
+          "verse": "15",
+          "text": "Et maintenant nous estimons heureux les étrangers, ils se sont enrichis à mal faire ; ils ont résisté à Dieu et ils ont été sauvés.",
+          "grec": "καὶ νῦν ἡμεῖς μακαρίζομεν ἀλλοτρίους καὶ ἀνοικοδομοῦνται πάντες ποιοῦντες ἄνομα καὶ ἀντέστησαν θεῷ καὶ ἐσώθησαν.",
+          "alexandrie": "Et maintenant c’est nous qui admirons le bonheur d'étrangers : des gens qui commettent des iniquités se rétablissent : ils se sont opposés à Dieu et ils en ont réchappé. »",
+          "name": "Malachie 3:15",
+          "chapter": "3"
+        },
+        {
+          "verse": "16",
+          "text": "Mais bien autrement ont parlé les hommes craignant Dieu. Et le Seigneur a été attentif, et Il a écouté, et Il a écrit un livre, un mémorial devant Lui, pour ceux qui craignent le Seigneur et vénèrent son nom.",
+          "grec": "ταῦτα κατελάλησαν οἱ φοβούμενοι τὸν κύριον ἕκαστος πρὸς τὸν πλησίον αὐτοῦ καὶ προσέσχεν κύριος καὶ εἰσήκουσεν καὶ ἔγραψεν βιβλίον μνημοσύνου ἐνώπιον αὐτοῦ τοῖς φοβουμένοις τὸν κύριον καὶ εὐλαβουμένοις τὸ ὄνομα αὐτοῦ.",
+          "alexandrie": "Ainsi ont médit ceux qui craignent le Seigneur, chacun à l'adresse de son prochain. Et le Seigneur a prêté attention, il a exaucé, et il a fait écrire un mémoire sous ses yeux, pour ceux qui craignent le Seigneur et qui révèrent son nom.",
+          "name": "Malachie 3:16",
+          "chapter": "3"
+        },
+        {
+          "verse": "17",
+          "text": "Et ils seront à moi, dit le Seigneur Dieu tout-puissant, le jour que je ferai naître, pour me les réserver, et je les aimerai comme un homme aime son fils qui le sert.",
+          "grec": "καὶ ἔσονταί μοι λέγει κύριος παντοκράτωρ εἰς ἡμέραν ἣν ἐγὼ ποιῶ εἰς περιποίησιν καὶ αἱρετιῶ αὐτοὺς ὃν τρόπον αἱρετίζει ἄνθρωπος τὸν υἱὸν αὐτοῦ τὸν δουλεύοντα αὐτῷ.",
+          "alexandrie": "Ils seront à moi, dit le Seigneur tout-puissant, en vue d’un jour que je fais, moi, pour leur sauvegarde, et je les préférerai comme un homme préfère son fils qui le sert.",
+          "name": "Malachie 3:17",
+          "chapter": "3"
+        },
+        {
+          "verse": "18",
+          "text": "Et vous vous convertirez, et vous distinguerez le juste du méchant ; le serviteur de Dieu, de celui qui refuse de le servir.",
+          "grec": "καὶ ἐπιστραφήσεσθε καὶ ὄψεσθε ἀνὰ μέσον δικαίου καὶ ἀνὰ μέσον ἀνόμου καὶ ἀνὰ μέσον τοῦ δουλεύοντος θεῷ καὶ τοῦ μὴ δουλεύοντος.",
+          "alexandrie": "Et vous vous retournerez, et vous verrez la différence entre le juste et l’inique, et entre qui sert Dieu et qui ne le sert pas.",
+          "name": "Malachie 3:18",
+          "chapter": "3"
+        },
+        {
+          "verse": "19",
+          "text": "Voilà que le jour approche, brûlant comme une fournaise, et il les consumera ; et tous les étrangers et tous ceux qui font le mal seront comme de la paille ; et le jour qui approche les dévorera, dit le Seigneur tout-puissant ; et il ne restera d'eux ni branche ni racine.",
+          "grec": "διότι ἰδοὺ ἡμέρα κυρίου ἔρχεται καιομένη ὡς κλίβανος καὶ φλέξει αὐτούς καὶ ἔσονται πάντες οἱ ἀλλογενεῖς καὶ πάντες οἱ ποιοῦντες ἄνομα καλάμη καὶ ἀνάψει αὐτοὺς ἡ ἡμέρα ἡ ἐρχομένη λέγει κύριος παντοκράτωρ καὶ οὐ μὴ ὑπολειφθῇ ἐξ αὐτῶν ῥίζα οὐδὲ κλῆμα.",
+          "alexandrie": "Car voici que vient un jour brûlant comme un four, et il les enflammera. Tous les étrangers et tous ceux qui commettent l’iniquité seront de la paille : le jour qui vient leur mettra le feu, dit le Seigneur tout-puissant, et il ne restera d’eux ni racine ni rejet.",
+          "name": "Malachie 3:19",
+          "chapter": "3"
+        },
+        {
+          "verse": "20",
+          "text": "Et le Soleil de justice se lèvera pour vous qui craignez mon nom ; et sur ses ailes Il portera le salut ; et vous sortirez, et vous bondirez comme de jeunes bœufs délivrés de leurs liens.",
+          "grec": "καὶ ἀνατελεῖ ὑμῖν τοῖς φοβουμένοις τὸ ὄνομά μου ἥλιος δικαιοσύνης καὶ ἴασις ἐν ταῖς πτέρυξιν αὐτοῦ καὶ ἐξελεύσεσθε καὶ σκιρτήσετε ὡς μοσχάρια ἐκ δεσμῶν ἀνειμένα.",
+          "alexandrie": "Se lèvera pour vous qui craignez mon nom un soleil de justice : la guérison est dans ses ailes ; vous sortirez, et vous bondirez comme des taurillons relâchés de leurs liens.",
+          "name": "Malachie 3:20",
+          "chapter": "3"
+        },
+        {
+          "verse": "21",
+          "text": "Et vous foulerez les impies ; car ils seront sous vos pieds comme de la cendre, le jour que je ferai naître, dit le Seigneur tout-puissant.",
+          "grec": "καὶ καταπατήσετε ἀνόμους διότι ἔσονται σποδὸς ὑποκάτω τῶν ποδῶν ὑμῶν ἐν τῇ ἡμέρᾳ ᾗ ἐγὼ ποιῶ λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "Et vous piétinerez des iniques, car ils seront de la cendre sous vos pieds au jour que je fais, dit le Seigneur tout-puissant.",
+          "name": "Malachie 3:21",
+          "chapter": "3"
+        },
+        {
+          "verse": "22",
+          "text": "Et voilà que je vous enverrai Élie le Thesbite, avant que vienne ce jour du Seigneur, jour grand et éclatant,",
+          "grec": "καὶ ἰδοὺ ἐγὼ ἀποστέλλω ὑμῖν Ηλιαν τὸν Θεσβίτην πρὶν ἐλθεῖν ἡμέραν κυρίου τὴν μεγάλην καὶ ἐπιφανῆ.",
+          "alexandrie": "Et voici que moi, je vous envoie Elie, l’homme de Thesbaï, avant que vienne le jour du Seigneur, le jour grand et éclatant :",
+          "name": "Malachie 3:22",
+          "chapter": "3"
+        },
+        {
+          "verse": "23",
+          "text": "Qui réunira au fils le cœur de son père, à l'homme le cœur de son prochain, de peur que je ne survienne et que je n'anéantisse la terre.",
+          "grec": "ὃς ἀποκαταστήσει καρδίαν πατρὸς πρὸς υἱὸν καὶ καρδίαν ἀνθρώπου πρὸς τὸν πλησίον αὐτοῦ μὴ ἔλθω καὶ πατάξω τὴν γῆν ἄρδην.",
+          "alexandrie": "il restaurera le cœur d’un père à l’égard d’un fils et le cœur d’un homme à l’égard de son prochain, pour éviter que je ne vienne frapper la terre sans rien épargner.",
+          "name": "Malachie 3:23",
+          "chapter": "3"
+        },
+        {
+          "verse": "24",
+          "text": "Souvenez-vous de la loi de Moïse, mon serviteur, telle que je la lui ai intimée, en Horeb, devant tout Israël, dans ses commandements et ses préceptes.",
+          "grec": "μνήσθητε νόμου Μωυσῆ τοῦ δούλου μου καθότι ἐνετειλάμην αὐτῷ ἐν Χωρηβ πρὸς πάντα τὸν Ισραηλ προστάγματα καὶ δικαιώματα.",
+          "alexandrie": "Souvenez-vous de la loi de Moïse mon serviteur, selon ce que je lui ai prescrit sur l’Horeb à l’adresse de tout Israël, ordonnances et règles de droit.",
+          "name": "Malachie 3:24",
+          "chapter": "3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2827 @@
+{
+  "translation": "Septuaginta (Rahlfs) — traductions françaises de Giguet et d'Alexandrie",
+  "abbreviation": "SEF",
+  "lang": "fr",
+  "language": "français (avec le grec de la Septante)",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 16,
+  "name": "Néhémie",
+  "chapters": [
+    {
+      "chapter": 1,
+      "name": "Néhémie 1",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Récits de Néhémias, fils d'Helcias. Au mois de chaseleu, en la vingtième année, j'étais à Suse, résidence royale.",
+          "grec": "[λόγοι Νεεμια υἱοῦ Αχαλια] καὶ ἐγένετο ἐν μηνὶ Χασεηλου ἔτους εἰκοστοῦ καὶ ἐγὼ ἤμην ἐν Σουσαν αβιρα.",
+          "name": "Néhémie 1:1",
+          "chapter": "1"
+        },
+        {
+          "verse": "2",
+          "text": "Et Anani, l'un de mes frères, vint, lui et des hommes de Juda, et je les questionnai, tant sur ceux qui étaient demeurés de la captivité et vivaient encore, que sur Jérusalem.",
+          "grec": "καὶ ἦλθεν Ανανι εἷς ἀπὸ ἀδελφῶν μου αὐτὸς καὶ ἄνδρες Ιουδα καὶ ἠρώτησα αὐτοὺς περὶ τῶν σωθέντων οἳ κατελείφθησαν ἀπὸ τῆς αἰχμαλωσίας καὶ περὶ Ιερουσαλημ.",
+          "name": "Néhémie 1:2",
+          "chapter": "1"
+        },
+        {
+          "verse": "3",
+          "text": "Et ils me dirent : Ceux qui sont demeurés, et qui ont été laissés de la captivité, sont dans la terre promise en grande détresse et opprobre ; les murs de Jérusalem ont été abattus, et ses portes brûlées par le feu.",
+          "grec": "καὶ εἴποσαν πρός με οἱ καταλειπόμενοι οἱ καταλειφθέντες ἀπὸ τῆς αἰχμαλωσίας ἐκεῖ ἐν τῇ χώρᾳ ἐν πονηρίᾳ μεγάλῃ καὶ ἐν ὀνειδισμῷ καὶ τείχη Ιερουσαλημ καθῃρημένα καὶ αἱ πύλαι αὐτῆς ἐνεπρήσθησαν ἐν πυρί.",
+          "name": "Néhémie 1:3",
+          "chapter": "1"
+        },
+        {
+          "verse": "4",
+          "text": "Or, quand j'eus ouï de telles paroles, je m'assis et pleurai, et, pendant plusieurs jours, me lamentai, et j'étais jeûnant et priant devant le Dieu du ciel.",
+          "grec": "καὶ ἐγένετο ἐν τῷ ἀκοῦσαί με τοὺς λόγους τούτους ἐκάθισα καὶ ἔκλαυσα καὶ ἐπένθησα ἡμέρας καὶ ἤμην νηστεύων καὶ προσευχόμενος ἐνώπιον θεοῦ τοῦ οὐρανοῦ.",
+          "name": "Néhémie 1:4",
+          "chapter": "1"
+        },
+        {
+          "verse": "5",
+          "text": "Et je dis : Que cela ne soit, je vous prie, Seigneur Dieu du ciel, Dieu fort, grand et redoutable qui gardez votre alliance et votre miséricorde à ceux qui vous aiment et observent vos commandements.",
+          "grec": "καὶ εἶπα μὴ δή κύριε ὁ θεὸς τοῦ οὐρανοῦ ὁ ἰσχυρὸς ὁ μέγας καὶ ὁ φοβερός φυλάσσων τὴν διαθήκην καὶ τὸ ἔλεος τοῖς ἀγαπῶσιν αὐτὸν καὶ τοῖς φυλάσσουσιν τὰς ἐντολὰς αὐτοῦ.",
+          "name": "Néhémie 1:5",
+          "chapter": "1"
+        },
+        {
+          "verse": "6",
+          "text": "Que votre oreille soit attentive, que vos yeux s'ouvrent, afin d'ouïr l'oraison de votre serviteur que je fais maintenant devant vous, nuit et jour, pour vos serviteurs les enfants d'Israël ; et je me confesse pour les péchés des enfants d'Israël, en lesquels nous avons péché contre vous. Moi et la maison de mon père avons péché.",
+          "grec": "ἔστω δὴ τὸ οὖς σου προσέχον καὶ οἱ ὀφθαλμοί σου ἀνεῳγμένοι τοῦ ἀκοῦσαι προσευχὴν δούλου σου ἣν ἐγὼ προσεύχομαι ἐνώπιόν σου σήμερον ἡμέραν καὶ νύκτα περὶ υἱῶν Ισραηλ δούλων σου καὶ ἐξαγορεύω ἐπὶ ἁμαρτίαις υἱῶν Ισραηλ ἃς ἡμάρτομέν σοι καὶ ἐγὼ καὶ ὁ οἶκος πατρός μου ἡμάρτομεν.",
+          "name": "Néhémie 1:6",
+          "chapter": "1"
+        },
+        {
+          "verse": "7",
+          "text": "Nous avons rompu l'alliance ; nous n'avons point gardé les commandements, les jugements et les ordonnances que vous avez intimés à Moïse, votre serviteur.",
+          "grec": "διαλύσει διελύσαμεν πρὸς σὲ καὶ οὐκ ἐφυλάξαμεν τὰς ἐντολὰς καὶ τὰ προστάγματα καὶ τὰ κρίματα ἃ ἐνετείλω τῷ Μωυσῇ παιδί σου.",
+          "name": "Néhémie 1:7",
+          "chapter": "1"
+        },
+        {
+          "verse": "8",
+          "text": "Souvenez-vous de la parole que vous avez intimée à Moïse, votre serviteur, disant : Si vous manquez à notre alliance, je vous disperserai parmi les nations.",
+          "grec": "μνήσθητι δὴ τὸν λόγον ὃν ἐνετείλω τῷ Μωυσῇ παιδί σου λέγων ὑμεῖς ἐὰν ἀσυνθετήσητε ἐγὼ διασκορπιῶ ὑμᾶς ἐν τοῖς λαοῖς.",
+          "name": "Néhémie 1:8",
+          "chapter": "1"
+        },
+        {
+          "verse": "9",
+          "text": "Et si vous revenez à moi, si vous gardez mes commandements, si vous les pratiquez, quand vous seriez disséminés jusqu'aux lieux où la terre touche le ciel, je vous en ramènerai, je vous réunirai en la terre que j'ai choisie pour que mon nom y réside.",
+          "grec": "καὶ ἐὰν ἐπιστρέψητε πρός με καὶ φυλάξητε τὰς ἐντολάς μου καὶ ποιήσητε αὐτάς ἐὰν ᾖ ἡ διασπορὰ ὑμῶν ἀπ' ἄκρου τοῦ οὐρανοῦ ἐκεῖθεν συνάξω αὐτοὺς καὶ εἰσάξω αὐτοὺς εἰς τὸν τόπον ὃν ἐξελεξάμην κατασκηνῶσαι τὸ ὄνομά μου ἐκεῖ.",
+          "name": "Néhémie 1:9",
+          "chapter": "1"
+        },
+        {
+          "verse": "10",
+          "text": "Et voici vos serviteurs et votre peuple que vous avez rachetés par votre toute-puissance et votre forte main.",
+          "grec": "καὶ αὐτοὶ παῖδές σου καὶ λαός σου οὓς ἐλυτρώσω ἐν δυνάμει σου τῇ μεγάλῃ καὶ ἐν τῇ χειρί σου τῇ κραταιᾷ.",
+          "name": "Néhémie 1:10",
+          "chapter": "1"
+        },
+        {
+          "verse": "11",
+          "text": "Qu'ils ne demeurent pas ainsi, Seigneur ; mais que votre oreille soit attentive à l'oraison de votre serviteur et à celle de vos serviteurs qui veulent craindre votre nom. Soyez-lui propice aujourd'hui à votre serviteur ; faites qu'il trouve miséricorde devant les hommes ; or, j'étais échanson du roi.",
+          "grec": "μὴ δή κύριε ἀλλ' ἔστω τὸ οὖς σου προσέχον εἰς τὴν προσευχὴν τοῦ δούλου σου καὶ εἰς τὴν προσευχὴν παίδων σου τῶν θελόντων φοβεῖσθαι τὸ ὄνομά σου καὶ εὐόδωσον δὴ τῷ παιδί σου σήμερον καὶ δὸς αὐτὸν εἰς οἰκτιρμοὺς ἐνώπιον τοῦ ἀνδρὸς τούτου καὶ ἐγὼ ἤμην οἰνοχόος τῷ βασιλεῖ.",
+          "name": "Néhémie 1:11",
+          "chapter": "1"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "name": "Néhémie 2",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et, au mois de nisan, en la vingtième année du règne d'Arthasastha, le vin était devant moi, et je pris le vin et le versai au roi, et il n'y avait là en sa présence nul autre que moi.",
+          "grec": "καὶ ἐγένετο ἐν μηνὶ Νισαν ἔτους εἰκοστοῦ Αρθασασθα βασιλεῖ καὶ ἦν ὁ οἶνος ἐνώπιον ἐμοῦ καὶ ἔλαβον τὸν οἶνον καὶ ἔδωκα τῷ βασιλεῖ καὶ οὐκ ἦν ἕτερος ἐνώπιον αὐτοῦ.",
+          "name": "Néhémie 2:1",
+          "chapter": "2"
+        },
+        {
+          "verse": "2",
+          "text": "Et le roi me dit : D'où vient que ton visage est mauvais, et que tu ne te contiens pas ? Cela ne serait point si le mal n'était en ton cœur. Et j'eus grande crainte.",
+          "grec": "καὶ εἶπέν μοι ὁ βασιλεύς διὰ τί τὸ πρόσωπόν σου πονηρὸν καὶ οὐκ εἶ μετριάζων οὐκ ἔστιν τοῦτο εἰ μὴ πονηρία καρδίας καὶ ἐφοβήθην πολὺ σφόδρα.",
+          "name": "Néhémie 2:2",
+          "chapter": "2"
+        },
+        {
+          "verse": "3",
+          "text": "Et je dis an roi : Que le roi vive toujours ; comment mon visage ne serait-il pas mauvais, Puisque la ville qui est la maison des sépulcres de mes pères est déserte, et que ses portes ont été brûlées par le feu ?",
+          "grec": "καὶ εἶπα τῷ βασιλεῖ ὁ βασιλεὺς εἰς τὸν αἰῶνα ζήτω διὰ τί οὐ μὴ γένηται πονηρὸν τὸ πρόσωπόν μου διότι ἡ πόλις οἶκος μνημείων πατέρων μου ἠρημώθη καὶ αἱ πύλαι αὐτῆς κατεβρώθησαν ἐν πυρί.",
+          "name": "Néhémie 2:3",
+          "chapter": "2"
+        },
+        {
+          "verse": "4",
+          "text": "Et le roi me dit : A quel sujet me demandes-tu cela ? Et je priai le Dieu du ciel ;",
+          "grec": "καὶ εἶπέν μοι ὁ βασιλεύς περὶ τίνος τοῦτο σὺ ζητεῖς καὶ προσηυξάμην πρὸς τὸν θεὸν τοῦ οὐρανοῦ.",
+          "name": "Néhémie 2:4",
+          "chapter": "2"
+        },
+        {
+          "verse": "5",
+          "text": "Et je répondis au roi : S'il semble bon au roi, si son serviteur trouve grâce devant lui, je demande qu'il envoie son serviteur en Juda, à la ville des sépulcres de mes pères, et je la réédifierai.",
+          "grec": "καὶ εἶπα τῷ βασιλεῖ εἰ ἐπὶ τὸν βασιλέα ἀγαθόν καὶ εἰ ἀγαθυνθήσεται ὁ παῖς σου ἐνώπιόν σου ὥστε πέμψαι αὐτὸν εἰς Ιουδα εἰς πόλιν μνημείων πατέρων μου καὶ ἀνοικοδομήσω αὐτήν.",
+          "name": "Néhémie 2:5",
+          "chapter": "2"
+        },
+        {
+          "verse": "6",
+          "text": "Et le roi et sa concubine qui siégeait auprès de lui, me dirent : Jusqu'à quand durera ton voyage ? quand reviendras-tu ? Et le roi le trouva bon, et il me laisse partir, et je lui donnai un terme.",
+          "grec": "καὶ εἶπέν μοι ὁ βασιλεὺς καὶ ἡ παλλακὴ ἡ καθημένη ἐχόμενα αὐτοῦ ἕως πότε ἔσται ἡ πορεία σου καὶ πότε ἐπιστρέψεις καὶ ἠγαθύνθη ἐνώπιον τοῦ βασιλέως καὶ ἀπέστειλέν με καὶ ἔδωκα αὐτῷ ὅρον.",
+          "name": "Néhémie 2:6",
+          "chapter": "2"
+        },
+        {
+          "verse": "7",
+          "text": "Et je dis au roi : Si le roi le trouve bon, qu'il me donne des lettres pour les gouverneurs au delà de l'Euphrate, afin qu'ils ne mettent point d'obstacle à mon arrivée en Juda,",
+          "grec": "καὶ εἶπα τῷ βασιλεῖ εἰ ἐπὶ τὸν βασιλέα ἀγαθόν δότω μοι ἐπιστολὰς πρὸς τοὺς ἐπάρχους πέραν τοῦ ποταμοῦ ὥστε παραγαγεῖν με ἕως ἔλθω ἐπὶ Ιουδαν.",
+          "name": "Néhémie 2:7",
+          "chapter": "2"
+        },
+        {
+          "verse": "8",
+          "text": "Et une lettre adressée à Asaph, le garde du jardin qui appartient au roi, afin qu'il me fournisse du bois pour réparer les portes et les murs de la ville, et la maison où je me logerai. Et, comme la bonne main du Seigneur était avec moi, le roi me donna les lettres.",
+          "grec": "καὶ ἐπιστολὴν ἐπὶ Ασαφ φύλακα τοῦ παραδείσου ὅς ἐστιν τῷ βασιλεῖ ὥστε δοῦναί μοι ξύλα στεγάσαι τὰς πύλας καὶ εἰς τὸ τεῖχος τῆς πόλεως καὶ εἰς οἶκον ὃν εἰσελεύσομαι εἰς αὐτόν καὶ ἔδωκέν μοι ὁ βασιλεὺς ὡς χεὶρ θεοῦ ἡ ἀγαθή.",
+          "name": "Néhémie 2:8",
+          "chapter": "2"
+        },
+        {
+          "verse": "9",
+          "text": "Et j'arrivai chez les gouverneurs au delà de l'Euphrate, et je leur remis les lettres du roi. Or, le roi m'avait fait accompagner par des chefs de l'armée et par de la cavalerie.",
+          "grec": "καὶ ἦλθον πρὸς τοὺς ἐπάρχους πέραν τοῦ ποταμοῦ καὶ ἔδωκα αὐτοῖς τὰς ἐπιστολὰς τοῦ βασιλέως καὶ ἀπέστειλεν μετ' ἐμοῦ ὁ βασιλεὺς ἀρχηγοὺς δυνάμεως καὶ ἱππεῖς.",
+          "name": "Néhémie 2:9",
+          "chapter": "2"
+        },
+        {
+          "verse": "10",
+          "text": "Et Sanaballat l'Aronite, et Tobias, le serviteur ammonite, rouirent ; et il était mauvais pour eux qu'un homme fût venu faire du bien aux fils d'Israël.",
+          "grec": "καὶ ἤκουσεν Σαναβαλλατ ὁ Αρωνι καὶ Τωβια ὁ δοῦλος ὁ Αμμωνι καὶ πονηρὸν αὐτοῖς ἐγένετο ὅτι ἥκει ἄνθρωπος ζητῆσαι ἀγαθὸν τοῖς υἱοῖς Ισραηλ.",
+          "name": "Néhémie 2:10",
+          "chapter": "2"
+        },
+        {
+          "verse": "11",
+          "text": "Et j'entrai à Jérusalem, et j'y restai trois jours.",
+          "grec": "καὶ ἦλθον εἰς Ιερουσαλημ καὶ ἤμην ἐκεῖ ἡμέρας τρεῖς.",
+          "name": "Néhémie 2:11",
+          "chapter": "2"
+        },
+        {
+          "verse": "12",
+          "text": "Et je me levai de nuit, moi et quelque petit nombre de gens, et je ne dis à personne ce que Dieu m'avait mis dans le cœur de faire pour Israël ; et je n'avais point de bête avec moi, sinon la bête sur laquelle j'étais monté.",
+          "grec": "καὶ ἀνέστην νυκτὸς ἐγὼ καὶ ἄνδρες ὀλίγοι μετ' ἐμοῦ καὶ οὐκ ἀπήγγειλα ἀνθρώπῳ τί ὁ θεὸς δίδωσιν εἰς καρδίαν μου τοῦ ποιῆσαι μετὰ τοῦ Ισραηλ καὶ κτῆνος οὐκ ἔστιν μετ' ἐμοῦ εἰ μὴ τὸ κτῆνος ᾧ ἐγὼ ἐπιβαίνω ἐπ' αὐτῷ.",
+          "name": "Néhémie 2:12",
+          "chapter": "2"
+        },
+        {
+          "verse": "13",
+          "text": "Et je sortis par la porte de la Vallée, passant devant la fontaine des Figuiers, et allant à la porte du Fumier ; et je marchais le cœur brisé, à cause des remparts de Jérusalem qu'ils avaient abattus, et des portes qu'ils avaient brûlées par le feu.",
+          "grec": "καὶ ἐξῆλθον ἐν πύλῃ τοῦ γωληλα καὶ πρὸς στόμα πηγῆς τῶν συκῶν καὶ εἰς πύλην τῆς κοπρίας καὶ ἤμην συντρίβων ἐν τῷ τείχει Ιερουσαλημ ὃ αὐτοὶ καθαιροῦσιν καὶ πύλαι αὐτῆς κατεβρώθησαν πυρί.",
+          "name": "Néhémie 2:13",
+          "chapter": "2"
+        },
+        {
+          "verse": "14",
+          "text": "Et je passai devant la porte de la Fontaine, puis, devant la piscine du Roi ; et il n'y avait point de place par où la bête que j'avais sous moi pût passer.",
+          "grec": "καὶ παρῆλθον ἐπὶ πύλην τοῦ Αιν καὶ εἰς κολυμβήθραν τοῦ βασιλέως καὶ οὐκ ἦν τόπος τῷ κτήνει παρελθεῖν ὑποκάτω μου.",
+          "name": "Néhémie 2:14",
+          "chapter": "2"
+        },
+        {
+          "verse": "15",
+          "text": "Alors, je m'en allai montant, de nuit, le long du torrent, et j'avais le cœur brisé, à cause du mur, et je revins à la porte de la Vallée, et je rentrai.",
+          "grec": "καὶ ἤμην ἀναβαίνων ἐν τῷ τείχει χειμάρρου νυκτὸς καὶ ἤμην συντρίβων ἐν τῷ τείχει καὶ ἤμην ἐν πύλῃ τῆς φάραγγος καὶ ἐπέστρεψα.",
+          "name": "Néhémie 2:15",
+          "chapter": "2"
+        },
+        {
+          "verse": "16",
+          "text": "Et les sentinelles ne surent ni où j'étais allé ni ce que je voulais faire ; et, jusque-là, je n'en avais rien dit aux Juifs, ni aux prêtres, ni aux premiers du peuple, ni aux chefs, ni au reste de ceux qui faisaient les travaux.",
+          "grec": "καὶ οἱ φυλάσσοντες οὐκ ἔγνωσαν τί ἐπορεύθην καὶ τί ἐγὼ ποιῶ καὶ τοῖς Ιουδαίοις καὶ τοῖς ἱερεῦσιν καὶ τοῖς ἐντίμοις καὶ τοῖς στρατηγοῖς καὶ τοῖς καταλοίποις τοῖς ποιοῦσιν τὰ ἔργα ἕως τότε οὐκ ἀπήγγειλα.",
+          "name": "Néhémie 2:16",
+          "chapter": "2"
+        },
+        {
+          "verse": "17",
+          "text": "Et je leur dis : Vous voyez l'affliction où nous sommes : Jérusalem est déserte, et ses portes ont été brûlées par le feu. Allons, relevons les remparts de la ville, et nous ne serons plus outragés.",
+          "grec": "καὶ εἶπα πρὸς αὐτούς ὑμεῖς βλέπετε τὴν πονηρίαν ἐν ᾗ ἐσμεν ἐν αὐτῇ πῶς Ιερουσαλημ ἔρημος καὶ αἱ πύλαι αὐτῆς ἐδόθησαν πυρί δεῦτε καὶ διοικοδομήσωμεν τὸ τεῖχος Ιερουσαλημ καὶ οὐκ ἐσόμεθα ἔτι ὄνειδος.",
+          "name": "Néhémie 2:17",
+          "chapter": "2"
+        },
+        {
+          "verse": "18",
+          "text": "Et je leur dis que la bonne main de Dieu était avec moi, à en juger par les paroles que le roi m'avait dites, et j'ajoutai : Levons-nous, édifions. Et leurs mains furent fortifiées en cette bonne œuvre.",
+          "grec": "καὶ ἀπήγγειλα αὐτοῖς τὴν χεῖρα τοῦ θεοῦ ἥ ἐστιν ἀγαθὴ ἐπ' ἐμέ καὶ τοὺς λόγους τοῦ βασιλέως οὓς εἶπέν μοι καὶ εἶπα ἀναστῶμεν καὶ οἰκοδομήσωμεν καὶ ἐκραταιώθησαν αἱ χεῖρες αὐτῶν εἰς ἀγαθόν.",
+          "name": "Néhémie 2:18",
+          "chapter": "2"
+        },
+        {
+          "verse": "19",
+          "text": "Et Sanaballat l'Aronite, et Tobias le serviteur ammonite, et l'Arabe Gésam, le surent, et ils nous raillèrent, et ils vinrent à nous, et ils dirent : Qu'est-ce que vous faites ? Vous révoltez-vous contre le roi ?",
+          "grec": "καὶ ἤκουσεν Σαναβαλλατ ὁ Αρωνι καὶ Τωβια ὁ δοῦλος ὁ Αμμωνι καὶ Γησαμ ὁ Αραβι καὶ ἐξεγέλασαν ἡμᾶς καὶ ἦλθον ἐφ' ἡμᾶς καὶ εἶπαν τί τὸ ῥῆμα τοῦτο ὃ ὑμεῖς ποιεῖτε ἦ ἐπὶ τὸν βασιλέα ὑμεῖς ἀποστατεῖτε.",
+          "name": "Néhémie 2:19",
+          "chapter": "2"
+        },
+        {
+          "verse": "20",
+          "text": "Et je leur répliquai, et je leur dis : Le Dieu du ciel lui-même mènera notre œuvre à bien ; et nous, ses serviteurs, nous sommes purs, et nous édifierons. Quant à vous, vous n'avez ni part, ni droit, ni mémorial en Jérusalem.",
+          "grec": "καὶ ἐπέστρεψα αὐτοῖς λόγον καὶ εἶπα αὐτοῖς ὁ θεὸς τοῦ οὐρανοῦ αὐτὸς εὐοδώσει ἡμῖν καὶ ἡμεῖς δοῦλοι αὐτοῦ καθαροί καὶ οἰκοδομήσομεν καὶ ὑμῖν οὐκ ἔστιν μερὶς καὶ δικαιοσύνη καὶ μνημόσυνον ἐν Ιερουσαλημ.",
+          "name": "Néhémie 2:20",
+          "chapter": "2"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "name": "Néhémie 3",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et Eliasub le grand prêtre se leva avec ses frères les prêtres, et ils édifièrent la porte Probatique ; eux-mêmes la sanctifièrent, et ils mirent ses battants ; ils sanctifièrent aussi la tour de cent coudées, et la tour d'Anamehel.",
+          "grec": "καὶ ἀνέστη Ελισουβ ὁ ἱερεὺς ὁ μέγας καὶ οἱ ἀδελφοὶ αὐτοῦ οἱ ἱερεῖς καὶ ᾠκοδόμησαν τὴν πύλην τὴν προβατικήν αὐτοὶ ἡγίασαν αὐτὴν καὶ ἔστησαν θύρας αὐτῆς καὶ ἕως πύργου τῶν ἑκατὸν ἡγίασαν ἕως πύργου Ανανεηλ.",
+          "name": "Néhémie 3:1",
+          "chapter": "3"
+        },
+        {
+          "verse": "2",
+          "text": "Et, auprès d'eux, édifièrent des hommes de Jéricho, et des fils de Zacchur, fils d'Aman.",
+          "grec": "καὶ ἐπὶ χεῖρας υἱῶν ἀνδρῶν Ιεριχω καὶ ἐπὶ χεῖρας υἱῶν Ζακχουρ υἱοῦ Αμαρι.",
+          "name": "Néhémie 3:2",
+          "chapter": "3"
+        },
+        {
+          "verse": "3",
+          "text": "Les fils d'Asana édifièrent la porte des Poissons ; eux-mêmes la couvrirent et mirent ses battants, serrures et verrous.",
+          "grec": "καὶ τὴν πύλην τὴν ἰχθυηρὰν ᾠκοδόμησαν υἱοὶ Ασανα αὐτοὶ ἐστέγασαν αὐτὴν καὶ ἔστησαν θύρας αὐτῆς καὶ κλεῖθρα αὐτῆς καὶ μοχλοὺς αὐτῆς.",
+          "name": "Néhémie 3:3",
+          "chapter": "3"
+        },
+        {
+          "verse": "4",
+          "text": "Et, auprès d'eux, édifièrent Ramoth, fils d'Urie, fils d'Accos, et Mosollam, fils de Barachias, fils de Mazebel ; et, auprès de ceux-ci, Sadoc, fils de Baana.",
+          "grec": "καὶ ἐπὶ χεῖρα αὐτῶν κατέσχεν ἀπὸ Ραμωθ υἱὸς Ουρια υἱοῦ Ακως καὶ ἐπὶ χεῖρα αὐτῶν κατέσχεν Μοσολλαμ υἱὸς Βαραχιου υἱοῦ Μασεζεβηλ καὶ ἐπὶ χεῖρα αὐτῶν κατέσχεν Σαδωκ υἱὸς Βαανα.",
+          "name": "Néhémie 3:4",
+          "chapter": "3"
+        },
+        {
+          "verse": "5",
+          "text": "Et, après ce dernier, se trouvaient des hommes de Thécoé ; mais les nobles n'offrirent pas de ployer leur cou pour un tel service.",
+          "grec": "καὶ ἐπὶ χεῖρα αὐτῶν κατέσχοσαν οἱ Θεκωιν καὶ αδωρηεμ οὐκ εἰσήνεγκαν τράχηλον αὐτῶν εἰς δουλείαν αὐτῶν.",
+          "name": "Néhémie 3:5",
+          "chapter": "3"
+        },
+        {
+          "verse": "6",
+          "text": "Joad, fils de Phasec, et Mesulam, fils de Basodias, édifièrent la porte Ancienne ; eux-mêmes la couvrirent et mirent ses battants, serrures et verrous.",
+          "grec": "καὶ τὴν πύλην τοῦ Ισανα ἐκράτησαν Ιοϊδα υἱὸς Φασεκ καὶ Μεσουλαμ υἱὸς Βασωδια αὐτοὶ ἐστέγασαν αὐτὴν καὶ ἔστησαν θύρας αὐτῆς καὶ κλεῖθρα αὐτῆς καὶ μοχλοὺς αὐτῆς.",
+          "name": "Néhémie 3:6",
+          "chapter": "3"
+        },
+        {
+          "verse": "8",
+          "text": "Et, auprès de ce lieu, édifia Oziel, fils d'Arachias l'orfèvre. Et, auprès, Ananias, fils de Roceïm, et les siens terminèrent Jérusalem jusqu'aux murs de la Grande rue.",
+          "grec": "καὶ ἐπὶ χεῖρα αὐτῶν ἐκράτησεν Ανανιας υἱὸς τοῦ Ρωκεϊμ καὶ κατέλιπον Ιερουσαλημ ἕως τοῦ τείχους τοῦ πλατέος.",
+          "name": "Néhémie 3:8",
+          "chapter": "3"
+        },
+        {
+          "verse": "9",
+          "text": "Et, auprès d'eux, édifia Raphaïe, fils de Sur, chef de la moitié de la banlieue de Jérusalem.",
+          "grec": "καὶ ἐπὶ χεῖρα αὐτῶν ἐκράτησεν Ραφαια ἄρχων ἡμίσους περιχώρου Ιερουσαλημ.",
+          "name": "Néhémie 3:9",
+          "chapter": "3"
+        },
+        {
+          "verse": "10",
+          "text": "Et, auprès de lui, Jedaïe, fils d'Eromaph, édifia en face sa maison ; et, auprès de lui, Attuth, fils d'Asabanias.",
+          "grec": "καὶ ἐπὶ χεῖρα αὐτῶν ἐκράτησεν Ιεδαια υἱὸς Ερωμαφ καὶ κατέναντι οἰκίας αὐτοῦ καὶ ἐπὶ χεῖρα αὐτοῦ ἐκράτησεν Ατους υἱὸς Ασβανια.",
+          "name": "Néhémie 3:10",
+          "chapter": "3"
+        },
+        {
+          "verse": "11",
+          "text": "Et, auprès de ce dernier, Melchias, fils d'Héram, et Asub, fils de Phaat-Moab, édifièrent jusqu'à la tour des Fours.",
+          "grec": "καὶ δεύτερος ἐκράτησεν Μελχιας υἱὸς Ηραμ καὶ Ασουβ υἱὸς Φααθμωαβ καὶ ἕως πύργου τῶν θαννουριμ.",
+          "name": "Néhémie 3:11",
+          "chapter": "3"
+        },
+        {
+          "verse": "12",
+          "text": "Et, auprès de là, édifièrent Sallum, fils d'Alloès, chef de la moitié de la banlieue de Jérusalem, lui et ses filles.",
+          "grec": "καὶ ἐπὶ χεῖρα αὐτοῦ ἐκράτησεν Σαλουμ υἱὸς Αλλωης ἄρχων ἡμίσους περιχώρου Ιερουσαλημ αὐτὸς καὶ αἱ θυγατέρες αὐτοῦ.",
+          "name": "Néhémie 3:12",
+          "chapter": "3"
+        },
+        {
+          "verse": "13",
+          "text": "Anun et les habitants de Zano relevèrent la porte de la Vallée ; ils l'édifièrent eux-mêmes, et mirent ses battants, serrures et verrous ; et ils réparèrent mille coudées de muraille jusqu'à la porte du Fumier.",
+          "grec": "τὴν πύλην τῆς φάραγγος ἐκράτησαν Ανουν καὶ οἱ κατοικοῦντες Ζανω αὐτοὶ ᾠκοδόμησαν αὐτὴν καὶ ἔστησαν θύρας αὐτῆς καὶ κλεῖθρα αὐτῆς καὶ μοχλοὺς αὐτῆς καὶ χιλίους πήχεις ἐν τῷ τείχει ἕως πύλης τῆς κοπρίας.",
+          "name": "Néhémie 3:13",
+          "chapter": "3"
+        },
+        {
+          "verse": "14",
+          "text": "Et Melchias, fils de Réchab, chef de la banlieue de Bethaccharim, lui et ses fils relevèrent la porte du Fumier, et ils la couvrirent, et ils mirent ses battants, serrures et verrous.",
+          "grec": "καὶ τὴν πύλην τῆς κοπρίας ἐκράτησεν Μελχια υἱὸς Ρηχαβ ἄρχων περιχώρου Βηθαχαρμ αὐτὸς καὶ οἱ υἱοὶ αὐτοῦ καὶ ἐσκέπασαν αὐτὴν καὶ ἔστησαν θύρας αὐτῆς καὶ κλεῖθρα αὐτῆς καὶ μοχλοὺς αὐτῆς.",
+          "name": "Néhémie 3:14",
+          "chapter": "3"
+        },
+        {
+          "verse": "15",
+          "text": "Il fit aussi le mur de la piscine où on lave les toisons lors de la tonte du roi, jusqu'aux degrés qui descendent de la ville de David.",
+          "grec": "καὶ τὸ τεῖχος κολυμβήθρας τῶν κωδίων τῇ κουρᾷ τοῦ βασιλέως καὶ ἕως τῶν κλιμάκων τῶν καταβαινουσῶν ἀπὸ πόλεως Δαυιδ.",
+          "name": "Néhémie 3:15",
+          "chapter": "3"
+        },
+        {
+          "verse": "16",
+          "text": "Après lui, Néhémias, fils d'Azabuch, chef de la moitié de la banlieue de Bethsur, édifia jusqu'au jardin du sépulcre de David, et jusqu'à la piscine artificielle, et jusqu'à la maison des hommes vaillants.",
+          "grec": "ὀπίσω αὐτοῦ ἐκράτησεν Νεεμιας υἱὸς Αζαβουχ ἄρχων ἡμίσους περιχώρου Βηθσουρ ἕως κήπου τάφου Δαυιδ καὶ ἕως τῆς κολυμβήθρας τῆς γεγονυίας καὶ ἕως Βηθαγγαβαριμ.",
+          "name": "Néhémie 3:16",
+          "chapter": "3"
+        },
+        {
+          "verse": "17",
+          "text": "Après lui, édifièrent les lévites, sous Rahum, fils de Bani ; à côté de celui-ci, Asabie, chef de la moitié de la banlieue de Cella, avec ses habitants.",
+          "grec": "ὀπίσω αὐτοῦ ἐκράτησαν οἱ Λευῖται Ραουμ υἱὸς Βανι ἐπὶ χεῖρα αὐτοῦ ἐκράτησεν Ασαβια ἄρχων ἡμίσους περιχώρου Κεϊλα τῷ περιχώρῳ αὐτοῦ.",
+          "name": "Néhémie 3:17",
+          "chapter": "3"
+        },
+        {
+          "verse": "18",
+          "text": "Et, après lui, étaient leurs frères, sous Béneï, fils d'Enadad, chef de l'autre moitié de la même banlieue.",
+          "grec": "μετ' αὐτὸν ἐκράτησαν ἀδελφοὶ αὐτῶν Βενι υἱὸς Ηναδαδ ἄρχων ἡμίσους περιχώρου Κεϊλα.",
+          "name": "Néhémie 3:18",
+          "chapter": "3"
+        },
+        {
+          "verse": "19",
+          "text": "Et, à côté de ceux-ci, Azur, fils de Josué, chef de Masphaï, releva une part de la tour de la Montée, celle qui tenait à l'angle.",
+          "grec": "καὶ ἐκράτησεν ἐπὶ χεῖρα αὐτοῦ Αζουρ υἱὸς Ἰησοῦ ἄρχων τοῦ Μασφε μέτρον δεύτερον πύργου ἀναβάσεως τῆς συναπτούσης τῆς γωνίας.",
+          "name": "Néhémie 3:19",
+          "chapter": "3"
+        },
+        {
+          "verse": "20",
+          "text": "Après lui, Baruch, fils de Zabu, édifia une autre part, depuis l'angle jusqu'à la porte de la maison d'Eliasub le grand prêtre.",
+          "grec": "μετ' αὐτὸν ἐκράτησεν Βαρουχ υἱὸς Ζαβου μέτρον δεύτερον ἀπὸ τῆς γωνίας ἕως θύρας Βηθελισουβ τοῦ ἱερέως τοῦ μεγάλου.",
+          "name": "Néhémie 3:20",
+          "chapter": "3"
+        },
+        {
+          "verse": "21",
+          "text": "Après lui, Meramoth, fils d'Urie, fils d'Accos, édifia une autre part, à partir de la porte de la maison d'Eliasub, jusqu'à l'extrémité de cette maison.",
+          "grec": "μετ' αὐτὸν ἐκράτησεν Μεραμωθ υἱὸς Ουρια υἱοῦ Ακως μέτρον δεύτερον ἀπὸ θύρας Βηθελισουβ ἕως ἐκλείψεως Βηθελισουβ.",
+          "name": "Néhémie 3:21",
+          "chapter": "3"
+        },
+        {
+          "verse": "22",
+          "text": "Après lui, édifièrent les prêtres, les hommes d'Eccbechar.",
+          "grec": "καὶ μετ' αὐτὸν ἐκράτησαν οἱ ἱερεῖς ἄνδρες Αχεχαρ.",
+          "name": "Néhémie 3:22",
+          "chapter": "3"
+        },
+        {
+          "verse": "23",
+          "text": "Après lui, Benjamin et Asub édifièrent devant leur maison ; ensuite, Azarias, fils de Maasia, fils d'Anania, le long de sa maison.",
+          "grec": "καὶ μετ' αὐτὸν ἐκράτησεν Βενιαμιν καὶ Ασουβ κατέναντι οἴκου αὐτῶν μετ' αὐτὸν ἐκράτησεν Αζαρια υἱὸς Μαασηα υἱοῦ Ανανια ἐχόμενα οἴκου αὐτοῦ.",
+          "name": "Néhémie 3:23",
+          "chapter": "3"
+        },
+        {
+          "verse": "24",
+          "text": "Après celui-ci, Bani, fils d'Adad, édifia une autre part, depuis la maison d'Azarias, jusqu'à l'angle et jusqu'au tournant.",
+          "grec": "μετ' αὐτὸν ἐκράτησεν Βανι υἱὸς Ηναδαδ μέτρον δεύτερον ἀπὸ Βηθαζαρια ἕως τῆς γωνίας καὶ ἕως τῆς καμπῆς.",
+          "name": "Néhémie 3:24",
+          "chapter": "3"
+        },
+        {
+          "verse": "25",
+          "text": "Phalach, fils d'Euzaï, édifia vis-à-vis l'angle où la tour fait saillie sur le palais du roi, et domine la cour de la prison ; et, après lui, Phadaïa, fils de Pharos,",
+          "grec": "Φαλαλ υἱοῦ Ευζαι ἐξ ἐναντίας τῆς γωνίας καὶ ὁ πύργος ὁ ἐξέχων ἐκ τοῦ οἴκου τοῦ βασιλέως ὁ ἀνώτερος ὁ τῆς αὐλῆς τῆς φυλακῆς καὶ μετ' αὐτὸν Φαδαια υἱὸς Φορος.",
+          "name": "Néhémie 3:25",
+          "chapter": "3"
+        },
+        {
+          "verse": "26",
+          "text": "Et les Nathinéens se placèrent en Ophel, jusqu'au jardin de la porte des Eaux, du côté de l'orient, où une tour s'élève en saillie.",
+          "grec": "καὶ οἱ ναθινιμ ἦσαν οἰκοῦντες ἐν τῷ Ωφαλ ἕως κήπου πύλης τοῦ ὕδατος εἰς ἀνατολάς καὶ ὁ πύργος ὁ ἐξέχων.",
+          "name": "Néhémie 3:26",
+          "chapter": "3"
+        },
+        {
+          "verse": "27",
+          "text": "Ensuite, ceux de Thécoé édifièrent une autre part, vis-à-vis la grande tour qui fait saillie, jusqu'au mur d'Ophla.",
+          "grec": "μετ' αὐτὸν ἐκράτησαν οἱ Θεκωιν μέτρον δεύτερον ἐξ ἐναντίας τοῦ πύργου τοῦ μεγάλου τοῦ ἐξέχοντος καὶ ἕως τοῦ τείχους τοῦ Οφλα.",
+          "name": "Néhémie 3:27",
+          "chapter": "3"
+        },
+        {
+          "verse": "28",
+          "text": "Les prêtres édifièrent au-dessus de la porte des Cavaliers, chacun en face de sa maison.",
+          "grec": "ἀνώτερον πύλης τῶν ἵππων ἐκράτησαν οἱ ἱερεῖς ἀνὴρ ἐξ ἐναντίας οἴκου αὐτοῦ.",
+          "name": "Néhémie 3:28",
+          "chapter": "3"
+        },
+        {
+          "verse": "29",
+          "text": "Après ceux-là, Saddoc, fils d'Emmer, édifia en face de sa maison ; et, après lui, Samaïa, fils de Sechénias, garde de la porte orientale du temple.",
+          "grec": "μετ' αὐτὸν ἐκράτησεν Σαδδουκ υἱὸς Εμμηρ ἐξ ἐναντίας οἴκου αὐτοῦ καὶ μετ' αὐτὸν ἐκράτησεν Σαμαια υἱὸς Σεχενια φύλαξ τῆς πύλης τῆς ἀνατολῆς.",
+          "name": "Néhémie 3:29",
+          "chapter": "3"
+        },
+        {
+          "verse": "30",
+          "text": "Après celui-cl, Ananias, fils de Sélémias, et Anom, sixième fils de Séleph, édifièrent ; puis, Mesulam, fils de Barachias, édifia en face du trésor dont il était le gardien ;",
+          "grec": "μετ' αὐτὸν ἐκράτησεν Ανανια υἱὸς Σελεμια καὶ Ανουμ υἱὸς Σελεφ ὁ ἕκτος μέτρον δεύτερον μετ' αὐτὸν ἐκράτησεν Μεσουλαμ υἱὸς Βαρχια ἐξ ἐναντίας γαζοφυλακίου αὐτοῦ.",
+          "name": "Néhémie 3:30",
+          "chapter": "3"
+        },
+        {
+          "verse": "31",
+          "text": "puis, Méchias, fils de Saréphi, édifia jusqu'à la maison des Nathinéens, et les petits marchands vis-à-vis la porte de Maphecad jusqu'aux degrés du tournant.",
+          "grec": "μετ' αὐτὸν ἐκράτησεν Μελχια υἱὸς τοῦ Σαραφι ἕως Βηθαναθινιμ καὶ οἱ ῥοποπῶλαι ἀπέναντι πύλης τοῦ Μαφεκαδ καὶ ἕως ἀναβάσεως τῆς καμπῆς.",
+          "name": "Néhémie 3:31",
+          "chapter": "3"
+        },
+        {
+          "verse": "32",
+          "text": "Enfin, les forgerons et des détaillants édifièrent du côté de la porte Probatique.",
+          "grec": "καὶ ἀνὰ μέσον ἀναβάσεως τῆς πύλης τῆς προβατικῆς ἐκράτησαν οἱ χαλκεῖς καὶ οἱ ῥοποπῶλαι.",
+          "name": "Néhémie 3:32",
+          "chapter": "3"
+        },
+        {
+          "verse": "33",
+          "text": "Or, lorsque Sanaballat apprit que nous relevions les remparts, il le trouva mauvais, s'en courrouça grandement, et se moqua fort des Juifs.",
+          "grec": "καὶ ἐγένετο ἡνίκα ἤκουσεν Σαναβαλλατ ὅτι ἡμεῖς οἰκοδομοῦμεν τὸ τεῖχος καὶ πονηρὸν ἦν αὐτῷ καὶ ὠργίσθη ἐπὶ πολὺ καὶ ἐξεγέλα ἐπὶ τοῖς Ιουδαίοις.",
+          "name": "Néhémie 3:33",
+          "chapter": "3"
+        },
+        {
+          "verse": "34",
+          "text": "Et il dit devant ses frères (c'est-à-dire devant l'armée samaritaine) : Il est donc vrai que les Juifs réédifient leur ville ?",
+          "grec": "καὶ εἶπεν ἐνώπιον τῶν ἀδελφῶν αὐτοῦ αὕτη ἡ δύναμις Σομορων ὅτι οἱ Ιουδαῖοι οὗτοι οἰκοδομοῦσιν τὴν ἑαυτῶν πόλιν.",
+          "name": "Néhémie 3:34",
+          "chapter": "3"
+        },
+        {
+          "verse": "35",
+          "text": "Et Tobias l'Ammonite s'approcha de lui, et il dit à la multitude : Est-ce qu'ils sacrifieront et mangeront en ce lieu ? Est-ce qu'un renard en sautant ne renversera pas leur muraille de pierres ?",
+          "grec": "καὶ Τωβιας ὁ αμμανίτης ἐχόμενα αὐτοῦ ἦλθεν καὶ εἶπαν πρὸς ἑαυτούς μὴ θυσιάσουσιν ἢ φάγονται ἐπὶ τοῦ τόπου αὐτῶν οὐχὶ ἀναβήσεται ἀλώπηξ καὶ καθελεῖ τὸ τεῖχος λίθων αὐτῶν.",
+          "name": "Néhémie 3:35",
+          "chapter": "3"
+        },
+        {
+          "verse": "36",
+          "text": "Écoutez, ô notre Dieu, car nous sommes un sujet de raillerie ; faites retomber ces outrages sur leurs têtes, et qu'eux-mêmes soient un sujet de raillerie en la terre où nous avons été captifs.",
+          "grec": "ἄκουσον ὁ θεὸς ἡμῶν ὅτι ἐγενήθημεν εἰς μυκτηρισμόν καὶ ἐπίστρεψον ὀνειδισμὸν αὐτῶν εἰς κεφαλὴν αὐτῶν καὶ δὸς αὐτοὺς εἰς μυκτηρισμὸν ἐν γῇ αἰχμαλωσίας.",
+          "name": "Néhémie 3:36",
+          "chapter": "3"
+        },
+        {
+          "verse": "37",
+          "text": "Ne couvrez pas leur iniquité.",
+          "grec": "καὶ μὴ καλύψῃς ἐπὶ ἀνομίαν.",
+          "name": "Néhémie 3:37",
+          "chapter": "3"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "name": "Néhémie 4",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Or, lorsque Sanaballat, et Tobias, et les Arabes et les Ammonites, apprirent que les murs de Jérusalem reprenaient leur forme, et que leurs brèches commençaient à se fermer, ils le trouvèrent fort mauvais.",
+          "grec": "καὶ ἐγένετο ὡς ἤκουσεν Σαναβαλλατ καὶ Τωβια καὶ οἱ -Αραβες καὶ οἱ Αμμανῖται ὅτι ἀνέβη φυὴ τοῖς τείχεσιν Ιερουσαλημ ὅτι ἤρξαντο αἱ διασφαγαὶ ἀναφράσσεσθαι καὶ πονηρὸν αὐτοῖς ἐφάνη σφόδρα.",
+          "name": "Néhémie 4:1",
+          "chapter": "4"
+        },
+        {
+          "verse": "2",
+          "text": "Et ils se réunirent tous ensemble pour marcher contre Jérusalem, et la faire disparaître.",
+          "grec": "καὶ συνήχθησαν πάντες ἐπὶ τὸ αὐτὸ ἐλθεῖν παρατάξασθαι ἐν Ιερουσαλημ.",
+          "name": "Néhémie 4:2",
+          "chapter": "4"
+        },
+        {
+          "verse": "3",
+          "text": "Alors, nous priâmes notre Dieu, et nous mîmes, nuit et jour, des gardes, à cause d'eux.",
+          "grec": "καὶ προσηυξάμεθα πρὸς τὸν θεὸν ἡμῶν καὶ ἐστήσαμεν προφύλακας ἐπ' αὐτοὺς ἡμέρας καὶ νυκτὸς ἀπὸ προσώπου αὐτῶν.",
+          "name": "Néhémie 4:3",
+          "chapter": "4"
+        },
+        {
+          "verse": "4",
+          "text": "Et Juda dit : La force des ennemis est brisée ; mais le monceau de ruines est énorme, et nous ne pourrons bâtir les remparts.",
+          "grec": "καὶ εἶπεν Ιουδας συνετρίβη ἡ ἰσχὺς τῶν ἐχθρῶν καὶ ὁ χοῦς πολύς καὶ ἡμεῖς οὐ δυνησόμεθα οἰκοδομεῖν ἐν τῷ τείχει.",
+          "name": "Néhémie 4:4",
+          "chapter": "4"
+        },
+        {
+          "verse": "5",
+          "text": "Et nos oppresseurs dirent : Ils ne sauront, ils ne verront que lorsque nous arriverons au milieu d'eux, et nous les massacrerons, et nous ferons cesser l'œuvre.",
+          "grec": "καὶ εἶπαν οἱ θλίβοντες ἡμᾶς οὐ γνώσονται καὶ οὐκ ὄψονται ἕως ὅτου ἔλθωμεν εἰς μέσον αὐτῶν καὶ φονεύσωμεν αὐτοὺς καὶ καταπαύσωμεν τὸ ἔργον.",
+          "name": "Néhémie 4:5",
+          "chapter": "4"
+        },
+        {
+          "verse": "6",
+          "text": "Et les Juifs qui habitaient dans le voisinage, vinrent, et nous dirent : Ils arrivent de toutes parts contre nous.",
+          "grec": "καὶ ἐγένετο ὡς ἤλθοσαν οἱ Ιουδαῖοι οἱ οἰκοῦντες ἐχόμενα αὐτῶν καὶ εἴποσαν ἡμῖν ἀναβαίνουσιν ἐκ πάντων τῶν τόπων ἐφ' ἡμᾶς.",
+          "name": "Néhémie 4:6",
+          "chapter": "4"
+        },
+        {
+          "verse": "7",
+          "text": "Alors, je plaçai tout le peuple en bas, au pied des remparts, sous des abris, par familles, avec leurs épées, leurs javelines et leurs arcs.",
+          "grec": "καὶ ἔστησα εἰς τὰ κατώτατα τοῦ τόπου κατόπισθεν τοῦ τείχους ἐν τοῖς σκεπεινοῖς καὶ ἔστησα τὸν λαὸν κατὰ δήμους μετὰ ῥομφαιῶν αὐτῶν λόγχας αὐτῶν καὶ τόξα αὐτῶν.",
+          "name": "Néhémie 4:7",
+          "chapter": "4"
+        },
+        {
+          "verse": "8",
+          "text": "Et je regardai, me levai, et dis aux nobles, aux capitaines, à tout le reste du peuple : Ne craignez point leur face ; souvenez-vous de notre Dieu grand et redoutable ; combattez pour vos frères, vos fils, vos filles, vos femmes et vos foyers.",
+          "grec": "καὶ εἶδον καὶ ἀνέστην καὶ εἶπα πρὸς τοὺς ἐντίμους καὶ πρὸς τοὺς στρατηγοὺς καὶ πρὸς τοὺς καταλοίπους τοῦ λαοῦ μὴ φοβηθῆτε ἀπὸ προσώπου αὐτῶν μνήσθητε τοῦ θεοῦ ἡμῶν τοῦ μεγάλου καὶ φοβεροῦ καὶ παρατάξασθε περὶ τῶν ἀδελφῶν ὑμῶν υἱῶν ὑμῶν καὶ θυγατέρων ὑμῶν γυναικῶν ὑμῶν καὶ οἴκων ὑμῶν.",
+          "name": "Néhémie 4:8",
+          "chapter": "4"
+        },
+        {
+          "verse": "9",
+          "text": "Et aussitôt que nos ennemis apprirent qu'ils nous avaient été signalés, Dieu dissipa leurs conseils, et nous retournâmes aux remparts, chacun à son ouvrage.",
+          "grec": "καὶ ἐγένετο ἡνίκα ἤκουσαν οἱ ἐχθροὶ ἡμῶν ὅτι ἐγνώσθη ἡμῖν καὶ διεσκέδασεν ὁ θεὸς τὴν βουλὴν αὐτῶν καὶ ἐπεστρέψαμεν πάντες ἡμεῖς εἰς τὸ τεῖχος ἀνὴρ εἰς τὸ ἔργον αὐτοῦ.",
+          "name": "Néhémie 4:9",
+          "chapter": "4"
+        },
+        {
+          "verse": "10",
+          "text": "Et, à partir de ce jour, la moitié de ceux que j'avais attirés fit l'œuvre ; l'autre moitié se rangea derrière les remparts avec des javelines, des boucliers, des arcs et des cuirasses ; leurs chefs se tenant derrière toute la maison de Juda,",
+          "grec": "καὶ ἐγένετο ἀπὸ τῆς ἡμέρας ἐκείνης ἥμισυ τῶν ἐκτετιναγμένων ἐποίουν τὸ ἔργον καὶ ἥμισυ αὐτῶν ἀντείχοντο καὶ λόγχαι καὶ θυρεοὶ καὶ τὰ τόξα καὶ οἱ θώρακες καὶ οἱ ἄρχοντες ὀπίσω παντὸς οἴκου Ιουδα.",
+          "name": "Néhémie 4:10",
+          "chapter": "4"
+        },
+        {
+          "verse": "11",
+          "text": "Et derrière ceux qui bâtissaient ; ceux qui transportaient les matériaux ne quittaient point leurs armes ; d'une main ils faisaient leur tâche, de l'autre ils tenaient un trait.",
+          "grec": "τῶν οἰκοδομούντων ἐν τῷ τείχει καὶ οἱ αἴροντες ἐν τοῖς ἀρτῆρσιν ἐν ὅπλοις ἐν μιᾷ χειρὶ ἐποίει αὐτὸ τὸ ἔργον καὶ μία ἐκράτει τὴν βολίδα.",
+          "name": "Néhémie 4:11",
+          "chapter": "4"
+        },
+        {
+          "verse": "12",
+          "text": "Et chaque travailleur avait autour des reins son épée, et ils édifiaient, et celui qui sonnait de la trompette était auprès d'eux.",
+          "grec": "καὶ οἱ οἰκοδόμοι ἀνὴρ ῥομφαίαν αὐτοῦ ἐζωσμένος ἐπὶ τὴν ὀσφὺν αὐτοῦ καὶ ᾠκοδομοῦσαν καὶ ὁ σαλπίζων ἐν τῇ κερατίνῃ ἐχόμενα αὐτοῦ.",
+          "name": "Néhémie 4:12",
+          "chapter": "4"
+        },
+        {
+          "verse": "13",
+          "text": "Et je dis aux nobles, aux capitaines et au reste du peuple : L'œuvre est grande et de longue étendue, et nous, sommes dispersés sur le rempart, chacun loin de son frère.",
+          "grec": "καὶ εἶπα πρὸς τοὺς ἐντίμους καὶ πρὸς τοὺς ἄρχοντας καὶ πρὸς τοὺς καταλοίπους τοῦ λαοῦ τὸ ἔργον πλατὺ καὶ πολύ καὶ ἡμεῖς σκορπιζόμεθα ἐπὶ τοῦ τείχους μακρὰν ἀνὴρ ἀπὸ τοῦ ἀδελφοῦ αὐτοῦ.",
+          "name": "Néhémie 4:13",
+          "chapter": "4"
+        },
+        {
+          "verse": "14",
+          "text": "N'importe où vous entendrez la trompette, accourez tous en ce lieu, et notre Dieu combattra avec nous.",
+          "grec": "ἐν τόπῳ οὗ ἐὰν ἀκούσητε τὴν φωνὴν τῆς κερατίνης ἐκεῖ συναχθήσεσθε πρὸς ἡμᾶς καὶ ὁ θεὸς ἡμῶν πολεμήσει περὶ ἡμῶν.",
+          "name": "Néhémie 4:14",
+          "chapter": "4"
+        },
+        {
+          "verse": "15",
+          "text": "Ainsi, nous continuâmes nos travaux ; la moitié de nous ne quitta point ses javelines, depuis les premières lueurs du jour jusqu'au lever des étoiles.",
+          "grec": "καὶ ἡμεῖς ποιοῦντες τὸ ἔργον καὶ ἥμισυ αὐτῶν κρατοῦντες τὰς λόγχας ἀπὸ ἀναβάσεως τοῦ ὄρθρου ἕως ἐξόδου τῶν ἄστρων.",
+          "name": "Néhémie 4:15",
+          "chapter": "4"
+        },
+        {
+          "verse": "16",
+          "text": "Et, en ce temps-là, je dis au peuple : Que chacun, avec son serviteur, demeure au milieu de Jérusalem ; la nuit on veillera, le jour on e mettra au travail.",
+          "grec": "καὶ ἐν τῷ καιρῷ ἐκείνῳ εἶπα τῷ λαῷ αὐλίσθητε ἐν μέσῳ Ιερουσαλημ καὶ ἔστω ὑμῖν ἡ νὺξ προφυλακὴ καὶ ἡ ἡμέρα ἔργον.",
+          "name": "Néhémie 4:16",
+          "chapter": "4"
+        },
+        {
+          "verse": "17",
+          "text": "Et j'étais là, et les hommes de garde se tenaient derrière moi, et nul de nous n'ôtait ses vêtements.",
+          "grec": "καὶ ἤμην ἐγὼ καὶ οἱ ἄνδρες τῆς προφυλακῆς ὀπίσω μου καὶ οὐκ ἦν ἐξ ἡμῶν ἐκδιδυσκόμενος ἀνὴρ τὰ ἱμάτια αὐτοῦ.",
+          "name": "Néhémie 4:17",
+          "chapter": "4"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "name": "Néhémie 5",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et il y eut un grand cri du peuple et de leurs femmes, contre les Juifs leurs frères.",
+          "grec": "καὶ ἦν κραυγὴ τοῦ λαοῦ καὶ γυναικῶν αὐτῶν μεγάλη πρὸς τοὺς ἀδελφοὺς αὐτῶν τοὺς Ιουδαίους.",
+          "name": "Néhémie 5:1",
+          "chapter": "5"
+        },
+        {
+          "verse": "2",
+          "text": "Et les uns disaient : Nous sommes en grand nombre avec nos fils et nos filles, vendons-en ; puis nous achèterons du blé, et nous mangerons, et nous vivrons.",
+          "grec": "καὶ ἦσάν τινες λέγοντες ἐν υἱοῖς ἡμῶν καὶ ἐν θυγατράσιν ἡμῶν ἡμεῖς πολλοί καὶ λημψόμεθα σῖτον καὶ φαγόμεθα καὶ ζησόμεθα.",
+          "name": "Néhémie 5:2",
+          "chapter": "5"
+        },
+        {
+          "verse": "3",
+          "text": "Et d'autres disaient : Engageons nos champs, nos vignes, nos maisons ; puis, nous achèterons du blé, et nous mangerons.",
+          "grec": "καὶ εἰσίν τινες λέγοντες ἀγροὶ ἡμῶν καὶ ἀμπελῶνες ἡμῶν καὶ οἰκίαι ἡμῶν ἡμεῖς διεγγυῶμεν καὶ λημψόμεθα σῖτον καὶ φαγόμεθα.",
+          "name": "Néhémie 5:3",
+          "chapter": "5"
+        },
+        {
+          "verse": "4",
+          "text": "D'autres encore disaient : Nous avons emprunté de l'argent pour les impôts du roi, sur nos champs, et nos vignes, et nos maisons.",
+          "grec": "καὶ εἰσίν τινες λέγοντες ἐδανεισάμεθα ἀργύριον εἰς φόρους τοῦ βασιλέως ἀγροὶ ἡμῶν καὶ ἀμπελῶνες ἡμῶν καὶ οἰκίαι ἡμῶν.",
+          "name": "Néhémie 5:4",
+          "chapter": "5"
+        },
+        {
+          "verse": "5",
+          "text": "Et maintenant, notre chair est comme la chair de nos frères ; nos fils sont comme leurs fils, et nous traitons nos fils et nos filles comme des esclaves ; et il y a de nos filles qui sont servantes, et nous n'avons pas le pouvoir de les racheter ; car les nobles possèdent nos champs et nos vignes.",
+          "grec": "καὶ νῦν ὡς σὰρξ ἀδελφῶν ἡμῶν σὰρξ ἡμῶν ὡς υἱοὶ αὐτῶν υἱοὶ ἡμῶν καὶ ἰδοὺ ἡμεῖς καταδυναστεύομεν τοὺς υἱοὺς ἡμῶν καὶ τὰς θυγατέρας ἡμῶν εἰς δούλους καὶ εἰσὶν ἀπὸ θυγατέρων ἡμῶν καταδυναστευόμεναι καὶ οὐκ ἔστιν δύναμις χειρῶν ἡμῶν καὶ ἀγροὶ ἡμῶν καὶ ἀμπελῶνες ἡμῶν τοῖς ἐντίμοις.",
+          "name": "Néhémie 5:5",
+          "chapter": "5"
+        },
+        {
+          "verse": "6",
+          "text": "Et j'eus une grande affliction, quand j'ouïs leur clameur et ces discours ;",
+          "grec": "καὶ ἐλυπήθην σφόδρα καθὼς ἤκουσα τὴν κραυγὴν αὐτῶν καὶ τοὺς λόγους τούτους.",
+          "name": "Néhémie 5:6",
+          "chapter": "5"
+        },
+        {
+          "verse": "7",
+          "text": "Et je tins conseil en mon cœur, et je combattis les nobles et les princes, et je leur dis : Un homme peut-il demander à son frère ce que vous demandez ? Et je convoquai contre eux une grande assemblée.",
+          "grec": "καὶ ἐβουλεύσατο καρδία μου ἐπ' ἐμέ καὶ ἐμαχεσάμην πρὸς τοὺς ἐντίμους καὶ τοὺς ἄρχοντας καὶ εἶπα αὐτοῖς ἀπαιτήσει ἀνὴρ τὸν ἀδελφὸν αὐτοῦ ὑμεῖς ἀπαιτεῖτε καὶ ἔδωκα ἐπ' αὐτοὺς ἐκκλησίαν μεγάλην.",
+          "name": "Néhémie 5:7",
+          "chapter": "5"
+        },
+        {
+          "verse": "8",
+          "text": "Et je leur dis : Nous avons, de nos dons volontaires ? racheté nos frères les Juifs qui avaient été vendus aux gentils, et vous vendez vos frères ; mais vous seront-ils livrés ? Et ils gardèrent le silence, et ils ne trouvèrent pas un mot à dire.",
+          "grec": "καὶ εἶπα αὐτοῖς ἡμεῖς κεκτήμεθα τοὺς ἀδελφοὺς ἡμῶν τοὺς Ιουδαίους τοὺς πωλουμένους τοῖς ἔθνεσιν ἐν ἑκουσίῳ ἡμῶν καὶ ὑμεῖς πωλεῖτε τοὺς ἀδελφοὺς ὑμῶν καὶ ἡσύχασαν καὶ οὐχ εὕροσαν λόγον.",
+          "name": "Néhémie 5:8",
+          "chapter": "5"
+        },
+        {
+          "verse": "9",
+          "text": "Et je dis : Elle n'est pas bonne l'action que vous faites ; ce n'est pas ainsi que vous vous soustrairez, par la crainte de Dieu, aux outrages des nations, vos ennemies.",
+          "grec": "καὶ εἶπα οὐκ ἀγαθὸς ὁ λόγος ὃν ὑμεῖς ποιεῖτε οὐχ οὕτως ἐν φόβῳ θεοῦ ἡμῶν ἀπελεύσεσθε ἀπὸ ὀνειδισμοῦ τῶν ἐθνῶν τῶν ἐχθρῶν ἡμῶν.",
+          "name": "Néhémie 5:9",
+          "chapter": "5"
+        },
+        {
+          "verse": "10",
+          "text": "Or, mes frères, mes parents et moi-même, nous leurs avons prêté de l'argent et du blé ; eh bien ! renonçons à rien exiger d'eux.",
+          "grec": "καὶ οἱ ἀδελφοί μου καὶ οἱ γνωστοί μου καὶ ἐγὼ ἐθήκαμεν ἐν αὐτοῖς ἀργύριον καὶ σῖτον ἐγκαταλίπωμεν δὴ τὴν ἀπαίτησιν ταύτην.",
+          "name": "Néhémie 5:10",
+          "chapter": "5"
+        },
+        {
+          "verse": "11",
+          "text": "Rendez-leur dès aujourd'hui leurs champs, leurs vignes, leurs oliviers et leurs maisons ; et apportez-leur du blé, du vin et de l'huile pour prix de l'argent.",
+          "grec": "ἐπιστρέψατε δὴ αὐτοῖς ὡς σήμερον ἀγροὺς αὐτῶν ἀμπελῶνας αὐτῶν ἐλαίας αὐτῶν καὶ οἰκίας αὐτῶν καὶ ἀπὸ τοῦ ἀργυρίου τὸν σῖτον καὶ τὸν οἶνον καὶ τὸ ἔλαιον ἐξενέγκατε αὐτοῖς.",
+          "name": "Néhémie 5:11",
+          "chapter": "5"
+        },
+        {
+          "verse": "12",
+          "text": "Et ils dirent : Nous rendrons tout ; nous ne leur demanderons rien, et nous ferons ce que tu dis. Et j'appelai les prêtres, et je les adjurai de faire selon cette parole.",
+          "grec": "καὶ εἶπαν ἀποδώσομεν καὶ παρ' αὐτῶν οὐ ζητήσομεν οὕτως ποιήσομεν καθὼς σὺ λέγεις καὶ ἐκάλεσα τοὺς ἱερεῖς καὶ ὥρκισα αὐτοὺς ποιῆσαι ὡς τὸ ῥῆμα τοῦτο.",
+          "name": "Néhémie 5:12",
+          "chapter": "5"
+        },
+        {
+          "verse": "13",
+          "text": "Et je secouai mon manteau, et je dis : Que Dieu ainsi secoue hors de sa maison et de son jardin tout homme qui n'accomplira pas cette parole ; que cet homme soit ainsi secoué et vide. Et toute l'Église dit : Amen. Et ils louèrent le Seigneur, et le peuple fit comme il avait été dit.",
+          "grec": "καὶ τὴν ἀναβολήν μου ἐξετίναξα καὶ εἶπα οὕτως ἐκτινάξαι ὁ θεὸς πάντα ἄνδρα ὃς οὐ στήσει τὸν λόγον τοῦτον ἐκ τοῦ οἴκου αὐτοῦ καὶ ἐκ κόπου αὐτοῦ καὶ ἔσται οὕτως ἐκτετιναγμένος καὶ κενός καὶ εἶπεν πᾶσα ἡ ἐκκλησία αμην καὶ ᾔνεσαν τὸν κύριον καὶ ἐποίησεν ὁ λαὸς τὸ ῥῆμα τοῦτο.",
+          "name": "Néhémie 5:13",
+          "chapter": "5"
+        },
+        {
+          "verse": "14",
+          "text": "Depuis le jour où le roi m'avait commandé d'être leur chef en la terre de Juda : de la vingtième à la trente-deuxième année du règne d'Arthasastha, pendant douze ans, ni moi ni mes frères nous ne mangeâmes de vivres extorqués d'eux.",
+          "grec": "ἀπὸ τῆς ἡμέρας ἧς ἐνετείλατό μοι εἶναι εἰς ἄρχοντα αὐτῶν ἐν γῇ Ιουδα ἀπὸ ἔτους εἰκοστοῦ καὶ ἕως ἔτους τριακοστοῦ καὶ δευτέρου τῷ Αρθασασθα ἔτη δώδεκα ἐγὼ καὶ οἱ ἀδελφοί μου βίαν αὐτῶν οὐκ ἔφαγον.",
+          "name": "Néhémie 5:14",
+          "chapter": "5"
+        },
+        {
+          "verse": "15",
+          "text": "Et toutes les extorsions dont mes devanciers les grevaient avant moi, leur avaient enlevé jusqu'à leur dernier argent ; ils leur prenaient pour le pain et le vin quarante sicles par jour ; et leurs agents avaient toute autorité sur le peuple ; et moi je ne fis pas ainsi, en face de la crainte de Dieu.",
+          "grec": "καὶ τὰς βίας τὰς πρώτας ἃς πρὸ ἐμοῦ ἐβάρυναν ἐπ' αὐτοὺς καὶ ἐλάβοσαν παρ' αὐτῶν ἐν ἄρτοις καὶ ἐν οἴνῳ ἔσχατον ἀργύριον δίδραχμα τεσσαράκοντα καὶ οἱ ἐκτετιναγμένοι αὐτῶν ἐξουσιάζονται ἐπὶ τὸν λαόν καὶ ἐγὼ οὐκ ἐποίησα οὕτως ἀπὸ προσώπου φόβου θεοῦ.",
+          "name": "Néhémie 5:15",
+          "chapter": "5"
+        },
+        {
+          "verse": "16",
+          "text": "Et, pendant la réédification des murailles, je ne leur extorquai rien, je n'achetai point de champ, non plus qu'aucun de ceux que j'avais rassemblés pour cette œuvre.",
+          "grec": "καὶ ἐν ἔργῳ τοῦ τείχους τούτων οὐκ ἐκράτησα ἀγρὸν οὐκ ἐκτησάμην καὶ πάντες οἱ συνηγμένοι ἐκεῖ ἐπὶ τὸ ἔργον.",
+          "name": "Néhémie 5:16",
+          "chapter": "5"
+        },
+        {
+          "verse": "17",
+          "text": "Et les Juifs, au nombre de cent cinquante, et ceux des gentils qui venaient d'alentour auprès de nous, mangeaient à ma table.",
+          "grec": "καὶ οἱ Ιουδαῖοι ἑκατὸν καὶ πεντήκοντα ἄνδρες καὶ οἱ ἐρχόμενοι πρὸς ἡμᾶς ἀπὸ τῶν ἐθνῶν τῶν κύκλῳ ἡμῶν ἐπὶ τράπεζάν μου.",
+          "name": "Néhémie 5:17",
+          "chapter": "5"
+        },
+        {
+          "verse": "18",
+          "text": "Et tous les jours on m'amenait un bœuf, six brebis de choix et un chevreau. Et, tous les dix jours, il me venait pour nous tous une ample provision de vin ; et, avec tout cela, je ne pris jamais de vivres par extorsion, parce que la servitude avait été pesante pour le peuple.",
+          "grec": "καὶ ἦν γινόμενον εἰς ἡμέραν μίαν μόσχος εἷς καὶ πρόβατα ἓξ ἐκλεκτὰ καὶ χίμαρος ἐγίνοντό μοι καὶ ἀνὰ μέσον δέκα ἡμερῶν ἐν πᾶσιν οἶνος τῷ πλήθει καὶ σὺν τούτοις ἄρτους τῆς βίας οὐκ ἐζήτησα ὅτι βαρεῖα ἡ δουλεία ἐπὶ τὸν λαὸν τοῦτον.",
+          "name": "Néhémie 5:18",
+          "chapter": "5"
+        },
+        {
+          "verse": "19",
+          "text": "Souvenez-vous de moi, mon Dieu, pour mon bien, à cause de tout ce que j'ai fait en faveur de ce peuple.",
+          "grec": "μνήσθητί μου ὁ θεός εἰς ἀγαθὸν πάντα ὅσα ἐποίησα τῷ λαῷ τούτῳ.",
+          "name": "Néhémie 5:19",
+          "chapter": "5"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "name": "Néhémie 6",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Or, lorsque Sanaballat, Tobias, l'Arabe Gésam et le reste de nos ennemis, (mirent que j'avais relevé le mur, ils en perdirent le souffle ; cependant, alors, je n'avais pas encore mis les battants des portes.",
+          "grec": "καὶ ἐγένετο καθὼς ἠκούσθη τῷ Σαναβαλλατ καὶ Τωβια καὶ τῷ Γησαμ τῷ Αραβι καὶ τοῖς καταλοίποις τῶν ἐχθρῶν ἡμῶν ὅτι ᾠκοδόμησα τὸ τεῖχος καὶ οὐ κατελείφθη ἐν αὐτοῖς πνοή ἕως τοῦ καιροῦ ἐκείνου θύρας οὐκ ἐπέστησα ἐν ταῖς πύλαις.",
+          "name": "Néhémie 6:1",
+          "chapter": "6"
+        },
+        {
+          "verse": "2",
+          "text": "Et Sanaballat et Gésam m'envoyèrent des messagers, disant : Viens, et rencontrons-nous tous ensemble dans l'un des bourgs de la plaine d'Ono. Mais, ils pensaient à me faire du mal.",
+          "grec": "καὶ ἀπέστειλεν Σαναβαλλατ καὶ Γησαμ πρός με λέγων δεῦρο καὶ συναχθῶμεν ἐπὶ τὸ αὐτὸ ἐν ταῖς κώμαις ἐν πεδίῳ Ωνω καὶ αὐτοὶ λογιζόμενοι ποιῆσαί μοι πονηρίαν.",
+          "name": "Néhémie 6:2",
+          "chapter": "6"
+        },
+        {
+          "verse": "3",
+          "text": "Je leur envoyai des messagers, disant : Je suis à faire une grande œuvre, et je ne pourrai descendre vers vous, de peur qu'elle ne soit suspendue ; je descendrai dès qu'elle sera finie.",
+          "grec": "καὶ ἀπέστειλα ἐπ' αὐτοὺς ἀγγέλους λέγων ἔργον μέγα ἐγὼ ποιῶ καὶ οὐ δυνήσομαι καταβῆναι μήποτε καταπαύσῃ τὸ ἔργον ὡς ἂν τελειώσω αὐτό καταβήσομαι πρὸς ὑμᾶς.",
+          "name": "Néhémie 6:3",
+          "chapter": "6"
+        },
+        {
+          "verse": "4",
+          "text": "Ils me firent dire derechef ces paroles, et je leur répondis comme la première fois.",
+          "grec": "καὶ ἀπέστειλαν πρός με ὡς τὸ ῥῆμα τοῦτο καὶ ἀπέστειλα αὐτοῖς κατὰ ταῦτα.",
+          "name": "Néhémie 6:4",
+          "chapter": "6"
+        },
+        {
+          "verse": "5",
+          "text": "Et Sanaballat m'envoya son serviteur, avec une lettre ouverte qu'il tenait à la main.",
+          "grec": "καὶ ἀπέστειλεν πρός με Σαναβαλλατ τὸν παῖδα αὐτοῦ καὶ ἐπιστολὴν ἀνεῳγμένην ἐν χειρὶ αὐτοῦ.",
+          "name": "Néhémie 6:5",
+          "chapter": "6"
+        },
+        {
+          "verse": "6",
+          "text": "Et il y était écrit : On a oui dire, parmi les nations, que toi et les Juifs pensez à vous révolter ; et que, pour cela, tu édifies le rempart, et que tu seras leur roi.",
+          "grec": "καὶ ἦν γεγραμμένον ἐν αὐτῇ ἐν ἔθνεσιν ἠκούσθη ὅτι σὺ καὶ οἱ Ιουδαῖοι λογίζεσθε ἀποστατῆσαι διὰ τοῦτο σὺ οἰκοδομεῖς τὸ τεῖχος καὶ σὺ γίνῃ αὐτοῖς εἰς βασιλέα.",
+          "name": "Néhémie 6:6",
+          "chapter": "6"
+        },
+        {
+          "verse": "7",
+          "text": "Et, outre cela, tu as aposté pour toi des prophètes, afin que tu sièges à Jérusalem, comme roi de Juda. Or, maintenant, ces choses vont être rapportées au roi ; viens donc, et tenons conseil ensemble.",
+          "grec": "καὶ πρὸς τούτοις προφήτας ἔστησας σεαυτῷ ἵνα καθίσῃς ἐν Ιερουσαλημ εἰς βασιλέα ἐν Ιουδα καὶ νῦν ἀπαγγελήσονται τῷ βασιλεῖ οἱ λόγοι οὗτοι καὶ νῦν δεῦρο βουλευσώμεθα ἐπὶ τὸ αὐτό.",
+          "name": "Néhémie 6:7",
+          "chapter": "6"
+        },
+        {
+          "verse": "8",
+          "text": "Et je lui envoyai encore des messagers, disant : Cela n'est pas arrivé selon les paroles que tu dis, car tu les as feintes en ton cœur.",
+          "grec": "καὶ ἀπέστειλα πρὸς αὐτὸν λέγων οὐκ ἐγενήθη ὡς οἱ λόγοι οὗτοι οὓς σὺ λέγεις ὅτι ἀπὸ καρδίας σου σὺ ψεύδῃ αὐτούς.",
+          "name": "Néhémie 6:8",
+          "chapter": "6"
+        },
+        {
+          "verse": "9",
+          "text": "Ils voulaient tous ainsi nous effrayer, et ils disaient : Leurs mains en seront énervées ; quant à ce travail, il ne sera pas achevé ; mais moi, je fortifiai mes mains.",
+          "grec": "ὅτι πάντες φοβερίζουσιν ἡμᾶς λέγοντες ἐκλυθήσονται αἱ χεῖρες αὐτῶν ἀπὸ τοῦ ἔργου τούτου καὶ οὐ ποιηθήσεται καὶ νῦν ἐκραταίωσα τὰς χεῖράς μου.",
+          "name": "Néhémie 6:9",
+          "chapter": "6"
+        },
+        {
+          "verse": "10",
+          "text": "Et j'entrai en la demeure de Sémei, fils de Daishi, fils de Métabéhel, et il y était enfermé, et il me dit : Réunissons-nous dans le temple de Dieu, et nous en clorons les portes ; car cette nuit ils viendront pour te tuer.",
+          "grec": "καὶ ἐγὼ εἰσῆλθον εἰς οἶκον Σεμεϊ υἱοῦ Δαλαια υἱοῦ Μεηταβηλ καὶ αὐτὸς συνεχόμενος καὶ εἶπεν συναχθῶμεν εἰς οἶκον τοῦ θεοῦ ἐν μέσῳ αὐτοῦ καὶ κλείσωμεν τὰς θύρας αὐτοῦ ὅτι ἔρχονται νυκτὸς φονεῦσαί σε.",
+          "name": "Néhémie 6:10",
+          "chapter": "6"
+        },
+        {
+          "verse": "11",
+          "text": "Et je répondis : Quel est l'homme qui entrera dans le temple, et pourra vivre ?",
+          "grec": "καὶ εἶπα τίς ἐστιν ὁ ἀνήρ ὃς εἰσελεύσεται εἰς τὸν οἶκον καὶ ζήσεται.",
+          "name": "Néhémie 6:11",
+          "chapter": "6"
+        },
+        {
+          "verse": "12",
+          "text": "Et j'observai, et voilà que Dieu ne me l'avait pas envoyé ; car sa prophétie était une fable inventée contre moi. En effet, Sanaballat et Tohias avaient salarié",
+          "grec": "καὶ ἐπέγνων καὶ ἰδοὺ ὁ θεὸς οὐκ ἀπέστειλεν αὐτόν ὅτι ἡ προφητεία λόγος κατ' ἐμοῦ καὶ Τωβιας καὶ Σαναβαλλατ ἐμισθώσαντο.",
+          "name": "Néhémie 6:12",
+          "chapter": "6"
+        },
+        {
+          "verse": "13",
+          "text": "Contre moi une multitude de gens, afin que j'eusse peur, que je fisse ce qu'il conseillait, que je tombasse dans le péché, que j'eusse parmi eux un mauvais renom, et qu'ils m'outrageassent.",
+          "grec": "ἐπ' ἐμὲ ὄχλον ὅπως φοβηθῶ καὶ ποιήσω οὕτως καὶ ἁμάρτω καὶ γένωμαι αὐτοῖς εἰς ὄνομα πονηρόν ὅπως ὀνειδίσωσίν με.",
+          "name": "Néhémie 6:13",
+          "chapter": "6"
+        },
+        {
+          "verse": "14",
+          "text": "Souvenez-vous, ô mon Dieu, de Tobias et de Sanaballat, selon leurs actions, et de Noadias le prophète, et des autres prophètes qui tentèrent de m'alarmer.",
+          "grec": "μνήσθητι ὁ θεός τῷ Τωβια καὶ τῷ Σαναβαλλατ ὡς τὰ ποιήματα αὐτοῦ ταῦτα καὶ τῷ Νωαδια τῷ προφήτῃ καὶ τοῖς καταλοίποις τῶν προφητῶν οἳ ἦσαν φοβερίζοντές με.",
+          "name": "Néhémie 6:14",
+          "chapter": "6"
+        },
+        {
+          "verse": "15",
+          "text": "Et le mur fut achevé en cinquante-deux jours, le vingt-cinq du mois d'étal.",
+          "grec": "καὶ ἐτελέσθη τὸ τεῖχος πέμπτῃ καὶ εἰκάδι τοῦ Ελουλ εἰς πεντήκοντα καὶ δύο ἡμέρας.",
+          "name": "Néhémie 6:15",
+          "chapter": "6"
+        },
+        {
+          "verse": "16",
+          "text": "Et il advint, quand nos ennemis l'ouïrent, que toutes les nations d'alentour furent épouvantées, et qu'une grande frayeur tomba sur eux, et qu'ils connurent que l'achèvement de cette œuvre était de notre Dieu.",
+          "grec": "καὶ ἐγένετο ἡνίκα ἤκουσαν πάντες οἱ ἐχθροὶ ἡμῶν καὶ ἐφοβήθησαν πάντα τὰ ἔθνη τὰ κύκλῳ ἡμῶν καὶ ἐπέπεσεν φόβος σφόδρα ἐν ὀφθαλμοῖς αὐτῶν καὶ ἔγνωσαν ὅτι παρὰ τοῦ θεοῦ ἡμῶν ἐγενήθη τελειωθῆναι τὸ ἔργον τοῦτο.",
+          "name": "Néhémie 6:16",
+          "chapter": "6"
+        },
+        {
+          "verse": "17",
+          "text": "Et, en ces jours-là, des lettres de plusieurs nobles de Juda arrivaient à Tobias, et celles de Tobias leur arrivaient.",
+          "grec": "καὶ ἐν ταῖς ἡμέραις ἐκείναις ἀπὸ πολλῶν ἐντίμων Ιουδα ἐπιστολαὶ ἐπορεύοντο πρὸς Τωβιαν καὶ αἱ Τωβια ἤρχοντο πρὸς αὐτούς.",
+          "name": "Néhémie 6:17",
+          "chapter": "6"
+        },
+        {
+          "verse": "18",
+          "text": "Car plusieurs en Juda s'étaient engagés avec lui par serment, parce qu'il était gendre de Sechénias, fils d'Héraé ; et que Jonan, son fils, avait épousé la fille de Mesulam, fils de Barachias.",
+          "grec": "ὅτι πολλοὶ ἐν Ιουδα ἔνορκοι ἦσαν αὐτῷ ὅτι γαμβρὸς ἦν τοῦ Σεχενια υἱοῦ Ηραε καὶ Ιωαναν υἱὸς αὐτοῦ ἔλαβεν τὴν θυγατέρα Μεσουλαμ υἱοῦ Βαραχια εἰς γυναῖκα.",
+          "name": "Néhémie 6:18",
+          "chapter": "6"
+        },
+        {
+          "verse": "19",
+          "text": "Et ils me rapportaient ses paroles, et ils lui répétaient les miennes, et Tobias écrivait des lettres pour m'effrayer.",
+          "grec": "καὶ τοὺς λόγους αὐτοῦ ἦσαν λέγοντες πρός με καὶ λόγους μου ἦσαν ἐκφέροντες αὐτῷ καὶ ἐπιστολὰς ἀπέστειλεν Τωβιας φοβερίσαι με.",
+          "name": "Néhémie 6:19",
+          "chapter": "6"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "name": "Néhémie 7",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Or, après que le mur fut bâti, les battants des portes placés, les portiers, les chantres et les lévites abrités,",
+          "grec": "καὶ ἐγένετο ἡνίκα ᾠκοδομήθη τὸ τεῖχος καὶ ἔστησα τὰς θύρας καὶ ἐπεσκέπησαν οἱ πυλωροὶ καὶ οἱ ᾄδοντες καὶ οἱ Λευῖται.",
+          "name": "Néhémie 7:1",
+          "chapter": "7"
+        },
+        {
+          "verse": "2",
+          "text": "Je donnai des ordres à mon frère Annulas, et à Ananias, gouverneur du palais de Jerusalem ; car celui-ci était un homme sincère, et craignant Dieu plus que beaucoup d'autres.",
+          "grec": "καὶ ἐνετειλάμην τῷ Ανανια ἀδελφῷ μου καὶ τῷ Ανανια ἄρχοντι τῆς βιρα ἐν Ιερουσαλημ ὅτι αὐτὸς ὡς ἀνὴρ ἀληθὴς καὶ φοβούμενος τὸν θεὸν παρὰ πολλούς.",
+          "name": "Néhémie 7:2",
+          "chapter": "7"
+        },
+        {
+          "verse": "3",
+          "text": "Et je leur dis : Que les portes de Jérusalem ne soient point ouvertes avant le lever du soleil, et que, pendant que tout le monde est encore éveillé, on les ferme et les verrouille ; instituez aussi des gardes parmi les habitants de Jérusalem, chacun à son poste, chacun dans le quartier où est sa maison.",
+          "grec": "καὶ εἶπα αὐτοῖς οὐκ ἀνοιγήσονται πύλαι Ιερουσαλημ ἕως ἅμα τῷ ἡλίῳ καὶ ἔτι αὐτῶν γρηγορούντων κλειέσθωσαν αἱ θύραι καὶ σφηνούσθωσαν καὶ στῆσον προφύλακας οἰκούντων ἐν Ιερουσαλημ ἀνὴρ ἐν προφυλακῇ αὐτοῦ καὶ ἀνὴρ ἀπέναντι οἰκίας αὐτοῦ.",
+          "name": "Néhémie 7:3",
+          "chapter": "7"
+        },
+        {
+          "verse": "4",
+          "text": "Or, la ville était grande et vaste, et le peuple en elle était peu nombreux ; et les maisons n'étaient pas réédifiées.",
+          "grec": "καὶ ἡ πόλις πλατεῖα καὶ μεγάλη καὶ ὁ λαὸς ὀλίγος ἐν αὐτῇ καὶ οὐκ ἦσαν οἰκίαι ᾠκοδομημέναι.",
+          "name": "Néhémie 7:4",
+          "chapter": "7"
+        },
+        {
+          "verse": "5",
+          "text": "Et Dieu me mit au cœur de réunir les nobles, les chefs et le peuple, pour le recensement, et je trouvai le livre du recensement des premiers arrivés, et j'y vis écrit :",
+          "grec": "καὶ ἔδωκεν ὁ θεὸς εἰς τὴν καρδίαν μου καὶ συνῆξα τοὺς ἐντίμους καὶ τοὺς ἄρχοντας καὶ τὸν λαὸν εἰς συνοδίας καὶ εὗρον βιβλίον τῆς συνοδίας οἳ ἀνέβησαν ἐν πρώτοις καὶ εὗρον γεγραμμένον ἐν αὐτῷ.",
+          "name": "Néhémie 7:5",
+          "chapter": "7"
+        },
+        {
+          "verse": "6",
+          "text": "Voici les fils de la terre promise, délivrés de la captivité où les avait emmenés Nabuchodonosor, roi de Babylone ; chacun d'eux est de retour en sa ville : à Jérusalem et en Juda,",
+          "grec": "καὶ οὗτοι υἱοὶ τῆς χώρας οἱ ἀναβάντες ἀπὸ αἰχμαλωσίας τῆς ἀποικίας ἧς ἀπῴκισεν Ναβουχοδονοσορ βασιλεὺς Βαβυλῶνος καὶ ἐπέστρεψαν εἰς Ιερουσαλημ καὶ εἰς Ιουδα ἀνὴρ εἰς τὴν πόλιν αὐτοῦ.",
+          "name": "Néhémie 7:6",
+          "chapter": "7"
+        },
+        {
+          "verse": "7",
+          "text": "Avec Zorobabel, Josué, Néhémias, Azarias, Reelma, Naémani, Mardochée, Balsan, Maspharath, Esdras, Boguïas, Inaum, Baana et Masphar ; hommes du peuple d'Israël :",
+          "grec": "μετὰ Ζοροβαβελ καὶ Ἰησοῦ καὶ Νεεμια Αζαρια Δαεμια Ναεμανι Μαρδοχαιος Βαλσαν Μασφαραθ Εσδρα Βαγοι Ναουμ Βαανα Μασφαρ ἄνδρες λαοῦ Ισραηλ.",
+          "name": "Néhémie 7:7",
+          "chapter": "7"
+        },
+        {
+          "verse": "8",
+          "text": "Fils de Phoros : deux mille cent soixante-douze.",
+          "grec": "υἱοὶ Φορος δισχίλιοι ἑκατὸν ἑβδομήκοντα δύο.",
+          "name": "Néhémie 7:8",
+          "chapter": "7"
+        },
+        {
+          "verse": "9",
+          "text": "Fils de Saphatia : trois cent soixante-douze.",
+          "grec": "υἱοὶ Σαφατια τριακόσιοι ἑβδομήκοντα δύο.",
+          "name": "Néhémie 7:9",
+          "chapter": "7"
+        },
+        {
+          "verse": "10",
+          "text": "Fils d'Era : six cent cinquante-deux.",
+          "grec": "υἱοὶ Ηρα ἑξακόσιοι πεντήκοντα δύο.",
+          "name": "Néhémie 7:10",
+          "chapter": "7"
+        },
+        {
+          "verse": "11",
+          "text": "Fils de Phaath-Moab, avec les fils de Josué et de Joab : deux mille six cent dix-huit.",
+          "grec": "υἱοὶ Φααθμωαβ τοῖς υἱοῖς Ἰησοῦ καὶ Ιωαβ δισχίλιοι ὀκτακόσιοι δέκα ὀκτώ.",
+          "name": "Néhémie 7:11",
+          "chapter": "7"
+        },
+        {
+          "verse": "12",
+          "text": "Fils d'Elam : douze cent cinquante-quatre.",
+          "grec": "υἱοὶ Αιλαμ χίλιοι διακόσιοι πεντήκοντα τέσσαρες.",
+          "name": "Néhémie 7:12",
+          "chapter": "7"
+        },
+        {
+          "verse": "13",
+          "text": "Fils de Zathuïa : huit cent quarante-cinq.",
+          "grec": "υἱοὶ Ζαθουα ὀκτακόσιοι τεσσαράκοντα πέντε.",
+          "name": "Néhémie 7:13",
+          "chapter": "7"
+        },
+        {
+          "verse": "14",
+          "text": "Fils de Zacchu : sept cent soixante.",
+          "grec": "υἱοὶ Ζακχου ἑπτακόσιοι ἑξήκοντα.",
+          "name": "Néhémie 7:14",
+          "chapter": "7"
+        },
+        {
+          "verse": "15",
+          "text": "Fils de Banni : six cent quarante-huit.",
+          "grec": "υἱοὶ Βανουι ἑξακόσιοι τεσσαράκοντα ὀκτώ.",
+          "name": "Néhémie 7:15",
+          "chapter": "7"
+        },
+        {
+          "verse": "16",
+          "text": "Fils de Bébi : six cent vingt- huit.",
+          "grec": "υἱοὶ Βηβι ἑξακόσιοι εἴκοσι ὀκτώ.",
+          "name": "Néhémie 7:16",
+          "chapter": "7"
+        },
+        {
+          "verse": "17",
+          "text": "Fils d'Asgad : deux mille trois cent vingt-deux.",
+          "grec": "υἱοὶ Ασγαδ δισχίλιοι τριακόσιοι εἴκοσι δύο.",
+          "name": "Néhémie 7:17",
+          "chapter": "7"
+        },
+        {
+          "verse": "18",
+          "text": "Fils d'Adonicam : six cent soixante-sept.",
+          "grec": "υἱοὶ Αδενικαμ ἑξακόσιοι ἑξήκοντα ἑπτά.",
+          "name": "Néhémie 7:18",
+          "chapter": "7"
+        },
+        {
+          "verse": "19",
+          "text": "Fils de Bagoï, deux mille soixante-sept.",
+          "grec": "υἱοὶ Βαγοι δισχίλιοι ἑξήκοντα ἑπτά.",
+          "name": "Néhémie 7:19",
+          "chapter": "7"
+        },
+        {
+          "verse": "20",
+          "text": "Fils d'Edin : six cent cinquante-cinq.",
+          "grec": "υἱοὶ Ηδιν ἑξακόσιοι πεντήκοντα πέντε.",
+          "name": "Néhémie 7:20",
+          "chapter": "7"
+        },
+        {
+          "verse": "21",
+          "text": "Fils d'Ater, issu d'Ezéchias : quatre-vingt-dix-huit.",
+          "grec": "υἱοὶ Ατηρ τῷ Εζεκια ἐνενήκοντα ὀκτώ.",
+          "name": "Néhémie 7:21",
+          "chapter": "7"
+        },
+        {
+          "verse": "22",
+          "text": "Fils d'Esam : trois cent vingt-huit.",
+          "grec": "υἱοὶ Ησαμ τριακόσιοι εἴκοσι ὀκτώ.",
+          "name": "Néhémie 7:22",
+          "chapter": "7"
+        },
+        {
+          "verse": "23",
+          "text": "Fils de Béseï : trois cent vingt-quatre.",
+          "grec": "υἱοὶ Βεσι τριακόσιοι εἴκοσι τέσσαρες.",
+          "name": "Néhémie 7:23",
+          "chapter": "7"
+        },
+        {
+          "verse": "24",
+          "text": "Fils d'Ariph : cent douze. Fils d'Asen : deux cent vingt-trois.",
+          "grec": "υἱοὶ Αριφ ἑκατὸν δώδεκα.",
+          "name": "Néhémie 7:24",
+          "chapter": "7"
+        },
+        {
+          "verse": "25",
+          "text": "Fils de Gabaon : quatre-vingt-quinze.",
+          "grec": "υἱοὶ Γαβαων ἐνενήκοντα πέντε.",
+          "name": "Néhémie 7:25",
+          "chapter": "7"
+        },
+        {
+          "verse": "26",
+          "text": "Fils de Béthalem : cent vingt-trois. Fils d'Atopha : cinquante-six.",
+          "grec": "υἱοὶ Βαιθλεεμ ἑκατὸν εἴκοσι τρεῖς υἱοὶ Νετωφα πεντήκοντα ἕξ.",
+          "name": "Néhémie 7:26",
+          "chapter": "7"
+        },
+        {
+          "verse": "27",
+          "text": "Fils d'Anathoth : cent vingt-huit.",
+          "grec": "υἱοὶ Αναθωθ ἑκατὸν εἴκοσι ὀκτώ.",
+          "name": "Néhémie 7:27",
+          "chapter": "7"
+        },
+        {
+          "verse": "28",
+          "text": "Hommes de Béthasmoth : quarante-deux.",
+          "grec": "ἄνδρες Βηθασμωθ τεσσαράκοντα δύο.",
+          "name": "Néhémie 7:28",
+          "chapter": "7"
+        },
+        {
+          "verse": "29",
+          "text": "Hommes de Cariatharim, Caphira et Beroth : sept cent quarante-trois.",
+          "grec": "ἄνδρες Καριαθιαριμ Καφιρα καὶ Βηρωθ ἑπτακόσιοι τεσσαράκοντα τρεῖς.",
+          "name": "Néhémie 7:29",
+          "chapter": "7"
+        },
+        {
+          "verse": "30",
+          "text": "Hommes d'Arama et de Gabaa : six cent vingt.",
+          "grec": "ἄνδρες Αραμα καὶ Γαβαα ἑξακόσιοι εἴκοσι εἷς.",
+          "name": "Néhémie 7:30",
+          "chapter": "7"
+        },
+        {
+          "verse": "31",
+          "text": "Hommes de Machemas : cent vingt-deux.",
+          "grec": "ἄνδρες Μαχεμας ἑκατὸν εἴκοσι δύο.",
+          "name": "Néhémie 7:31",
+          "chapter": "7"
+        },
+        {
+          "verse": "32",
+          "text": "Hommes de Béthel et d'Haï : cent vingt-trois.",
+          "grec": "ἄνδρες Βηθηλ καὶ Αια ἑκατὸν εἴκοσι τρεῖς.",
+          "name": "Néhémie 7:32",
+          "chapter": "7"
+        },
+        {
+          "verse": "33",
+          "text": "Hommes de Nabia : cent cinquante-deux.",
+          "grec": "ἄνδρες Ναβι-ααρ πεντήκοντα δύο.",
+          "name": "Néhémie 7:33",
+          "chapter": "7"
+        },
+        {
+          "verse": "34",
+          "text": "Hommes d'Elamaar : douze cent cinquante-deux.",
+          "grec": "ἄνδρες Ηλαμ-ααρ χίλιοι διακόσιοι πεντήκοντα τέσσαρες.",
+          "name": "Néhémie 7:34",
+          "chapter": "7"
+        },
+        {
+          "verse": "35",
+          "text": "Fils d'Eram : trois cent vingt.",
+          "grec": "υἱοὶ Ηραμ τριακόσιοι εἴκοσι.",
+          "name": "Néhémie 7:35",
+          "chapter": "7"
+        },
+        {
+          "verse": "36",
+          "text": "Fils de Jéricho : trois cent quarante-cinq.",
+          "grec": "υἱοὶ Ιεριχω τριακόσιοι τεσσαράκοντα πέντε.",
+          "name": "Néhémie 7:36",
+          "chapter": "7"
+        },
+        {
+          "verse": "37",
+          "text": "Fils de Lodadid et d'Ono, sept cent vingt et un.",
+          "grec": "υἱοὶ Λοδ Αδιδ καὶ Ωνω ἑπτακόσιοι εἴκοσι εἷς.",
+          "name": "Néhémie 7:37",
+          "chapter": "7"
+        },
+        {
+          "verse": "38",
+          "text": "Fils de Sanana : trois mille neuf cent trente.",
+          "grec": "υἱοὶ Σαναα τρισχίλιοι ἐννακόσιοι τριάκοντα.",
+          "name": "Néhémie 7:38",
+          "chapter": "7"
+        },
+        {
+          "verse": "39",
+          "text": "Prêtres, fils de Joad, appartenant à la maison de Jésus : neuf cent soixante-treize.",
+          "grec": "οἱ ἱερεῖς υἱοὶ Ιωδαε εἰς οἶκον Ἰησοῦ ἐννακόσιοι ἑβδομήκοντα τρεῖς.",
+          "name": "Néhémie 7:39",
+          "chapter": "7"
+        },
+        {
+          "verse": "40",
+          "text": "Fils d'Emmer : mille cinquante-deux.",
+          "grec": "υἱοὶ Εμμηρ χίλιοι πεντήκοντα δύο.",
+          "name": "Néhémie 7:40",
+          "chapter": "7"
+        },
+        {
+          "verse": "41",
+          "text": "Fils de Phaseür : douze cent quarante-sept.",
+          "grec": "υἱοὶ Φασσουρ χίλιοι διακόσιοι τεσσαράκοντα ἑπτά.",
+          "name": "Néhémie 7:41",
+          "chapter": "7"
+        },
+        {
+          "verse": "42",
+          "text": "Fils d'Eram : mille dix-sept.",
+          "grec": "υἱοὶ Ηραμ χίλιοι δέκα ἑπτά.",
+          "name": "Néhémie 7:42",
+          "chapter": "7"
+        },
+        {
+          "verse": "43",
+          "text": "Lévites, fils de Jésus, fils de Cadmiel, avec les fils d'Uduïa : soixante-quatorze.",
+          "grec": "οἱ Λευῖται υἱοὶ Ἰησοῦ τῷ Καδμιηλ τοῖς υἱοῖς τοῦ Ουδουια ἑβδομήκοντα τέσσαρες.",
+          "name": "Néhémie 7:43",
+          "chapter": "7"
+        },
+        {
+          "verse": "44",
+          "text": "Chantres, fils d'Asaph : cent quarante-huit.",
+          "grec": "οἱ ᾄδοντες υἱοὶ Ασαφ ἑκατὸν τεσσαράκοντα ὀκτώ.",
+          "name": "Néhémie 7:44",
+          "chapter": "7"
+        },
+        {
+          "verse": "45",
+          "text": "Portiers, fils de Salum, fils d'Ater, fils de Telmon, fils d'Acub, fils d'Atita, fils de Sabi : cent trente-huit.",
+          "grec": "οἱ πυλωροί υἱοὶ Σαλουμ υἱοὶ Ατηρ υἱοὶ Τελμων υἱοὶ Ακουβ υἱοὶ Ατιτα υἱοὶ Σαβι ἑκατὸν τριάκοντα ὀκτώ.",
+          "name": "Néhémie 7:45",
+          "chapter": "7"
+        },
+        {
+          "verse": "46",
+          "text": "Nathinéens : fils de Seha, fils d'Aspha, fils de Labaoth,",
+          "grec": "οἱ ναθινιμ υἱοὶ Σηα υἱοὶ Ασιφα υἱοὶ Ταβαωθ.",
+          "name": "Néhémie 7:46",
+          "chapter": "7"
+        },
+        {
+          "verse": "47",
+          "text": "Fils de Ciras, fils d'Asuïa, fils de Phadon,",
+          "grec": "υἱοὶ Κιρας υἱοὶ Σουια υἱοὶ Φαδων.",
+          "name": "Néhémie 7:47",
+          "chapter": "7"
+        },
+        {
+          "verse": "48",
+          "text": "Fils de Labana, fils d'Agaba, fils de Selmeï,",
+          "grec": "υἱοὶ Λαβανα υἱοὶ Αγαβα υἱοὶ Σαλαμι.",
+          "name": "Néhémie 7:48",
+          "chapter": "7"
+        },
+        {
+          "verse": "49",
+          "text": "Fils d'Anan, fils de Gadel, fils de Gaar,",
+          "grec": "υἱοὶ Αναν υἱοὶ Γαδηλ υἱοὶ Γααρ.",
+          "name": "Néhémie 7:49",
+          "chapter": "7"
+        },
+        {
+          "verse": "50",
+          "text": "Fils de Rahaïa, fils de Basson, fils de Necoda,",
+          "grec": "υἱοὶ Ρααια υἱοὶ Ρασων υἱοὶ Νεκωδα.",
+          "name": "Néhémie 7:50",
+          "chapter": "7"
+        },
+        {
+          "verse": "51",
+          "text": "Fils de Gézam, fils d'Ozi, fils de Phesé,",
+          "grec": "υἱοὶ Γηζαμ υἱοὶ Οζι υἱοὶ Φεση.",
+          "name": "Néhémie 7:51",
+          "chapter": "7"
+        },
+        {
+          "verse": "52",
+          "text": "Fils de Bési, fils de Meïnon, fils de Nephosasi,",
+          "grec": "υἱοὶ Βησι υἱοὶ Μεϊνωμ υἱοὶ Νεφωσασιμ.",
+          "name": "Néhémie 7:52",
+          "chapter": "7"
+        },
+        {
+          "verse": "53",
+          "text": "Fils de Bacbuc, fils d'Achipha, fils d'Arur,",
+          "grec": "υἱοὶ Βακβουκ υἱοὶ Αχιφα υἱοὶ Αρουρ.",
+          "name": "Néhémie 7:53",
+          "chapter": "7"
+        },
+        {
+          "verse": "54",
+          "text": "Fils de Basaloth, fils de Mida, fils d'Adasan,",
+          "grec": "υἱοὶ Βασαλωθ υἱοὶ Μεϊδα υἱοὶ Αδασαν.",
+          "name": "Néhémie 7:54",
+          "chapter": "7"
+        },
+        {
+          "verse": "55",
+          "text": "Fils de Barcué, fils de Sisarath, fils de Théma,",
+          "grec": "υἱοὶ Βαρκους υἱοὶ Σισαρα υἱοὶ Θημα.",
+          "name": "Néhémie 7:55",
+          "chapter": "7"
+        },
+        {
+          "verse": "56",
+          "text": "Fils de Nisia, fils d'Atipha,",
+          "grec": "υἱοὶ Νισια υἱοὶ Ατιφα.",
+          "name": "Néhémie 7:56",
+          "chapter": "7"
+        },
+        {
+          "verse": "57",
+          "text": "Fils des serviteurs de Salomon, fils de Suteï, fils de Sapharat, fils de Phérida,",
+          "grec": "υἱοὶ δούλων Σαλωμων υἱοὶ Σουτι υἱοὶ Σαφαραθ υἱοὶ Φεριδα.",
+          "name": "Néhémie 7:57",
+          "chapter": "7"
+        },
+        {
+          "verse": "58",
+          "text": "Fils de Jelel, fils de Dorcon, fils de Gadahel,",
+          "grec": "υἱοὶ Ιεαλη υἱοὶ Δορκων υἱοὶ Γαδηλ.",
+          "name": "Néhémie 7:58",
+          "chapter": "7"
+        },
+        {
+          "verse": "59",
+          "text": "Fils de Saphatias, fils d'Ettel, fils de Phacarath, fils de Sabaïm, fils d'Emim.",
+          "grec": "υἱοὶ Σαφατια υἱοὶ Ετηλ υἱοὶ Φαχαραθ υἱοὶ Σαβαϊμ υἱοὶ Ημιμ.",
+          "name": "Néhémie 7:59",
+          "chapter": "7"
+        },
+        {
+          "verse": "60",
+          "text": "Total des Nathinéens et des fils des serviteurs de Salomon : trois cent quatre-vingt-douze.",
+          "grec": "πάντες οἱ ναθινιμ καὶ υἱοὶ δούλων Σαλωμων τριακόσιοι ἐνενήκοντα δύο.",
+          "name": "Néhémie 7:60",
+          "chapter": "7"
+        },
+        {
+          "verse": "61",
+          "text": "Et voici ceux qui partirent de Thelméleth, Thélarésa, Charub, Eron, Jemer, et ils n'étaient point capables de déclarer leurs familles paternelles ni leur race ; à savoir s'ils étaient nés d'Israël.",
+          "grec": "καὶ οὗτοι ἀνέβησαν ἀπὸ Θελμελεθ Αρησα Χαρουβ Ηρων Ιεμηρ καὶ οὐκ ἠδυνάσθησαν ἀπαγγεῖλαι οἴκους πατριῶν αὐτῶν καὶ σπέρμα αὐτῶν εἰ ἀπὸ Ισραηλ εἰσίν.",
+          "name": "Néhémie 7:61",
+          "chapter": "7"
+        },
+        {
+          "verse": "62",
+          "text": "Fils de Dalaïa, fils de Tobias, fils de Necoda : six cent quarante-deux.",
+          "grec": "υἱοὶ Δαλαια υἱοὶ Τωβια υἱοὶ Νεκωδα ἑξακόσιοι τεσσαράκοντα δύο.",
+          "name": "Néhémie 7:62",
+          "chapter": "7"
+        },
+        {
+          "verse": "63",
+          "text": "Et, parmi les prêtres, les fils d'Ebia, les fils d'Acos, les fils de Berzelli qui portaient ce nom, parce qu'ils avaient épousé des filles issues de Berzelli le Galaadite,",
+          "grec": "καὶ ἀπὸ τῶν ἱερέων υἱοὶ Εβια υἱοὶ Ακως υἱοὶ Βερζελλι ὅτι ἔλαβεν ἀπὸ θυγατέρων Βερζελλι τοῦ Γαλααδίτου γυναῖκας καὶ ἐκλήθη ἐπ' ὀνόματι αὐτῶν.",
+          "name": "Néhémie 7:63",
+          "chapter": "7"
+        },
+        {
+          "verse": "64",
+          "text": "Cherchèrent leur inscription sur le rôle de ceux qui étaient revenus, et ils ne le trouvèrent pas, et ils furent rejetés du sacerdoce.",
+          "grec": "οὗτοι ἐζήτησαν γραφὴν αὐτῶν τῆς συνοδίας καὶ οὐχ εὑρέθη καὶ ἠγχιστεύθησαν ἀπὸ τῆς ἱερατείας.",
+          "name": "Néhémie 7:64",
+          "chapter": "7"
+        },
+        {
+          "verse": "65",
+          "text": "Or, l'athersastha leur dit de ne point manger des choses les plus saintes jusqu'à ce que surgit un prêtre pour les éclairer.",
+          "grec": "καὶ εἶπεν Αθερσαθα ἵνα μὴ φάγωσιν ἀπὸ τοῦ ἁγίου τῶν ἁγίων ἕως ἀναστῇ ὁ ἱερεὺς φωτίσων.",
+          "name": "Néhémie 7:65",
+          "chapter": "7"
+        },
+        {
+          "verse": "66",
+          "text": "Et toute l'Église montait à environ quarante-deux mille trois cent soixante âmes.",
+          "grec": "καὶ ἐγένετο πᾶσα ἡ ἐκκλησία ὡς εἷς τέσσαρες μυριάδες δισχίλιοι τριακόσιοι ἑξήκοντα.",
+          "name": "Néhémie 7:66",
+          "chapter": "7"
+        },
+        {
+          "verse": "67",
+          "text": "Sans compter leurs esclaves et leurs serviteurs, au nombre de sept mille trois cent trente-sept ; et il y avait deux cent [quarante-cinq] chantres et chanteuses.",
+          "grec": "πάρεξ δούλων αὐτῶν καὶ παιδισκῶν αὐτῶν οὗτοι ἑπτακισχίλιοι τριακόσιοι τριάκοντα ἑπτά καὶ ᾄδοντες καὶ ᾄδουσαι διακόσιοι τεσσαράκοντα πέντε.",
+          "name": "Néhémie 7:67",
+          "chapter": "7"
+        },
+        {
+          "verse": "68",
+          "text": "{Sept cent trente-six chevaux, deux cent quarante-cinq mules.} {Quatre cent trente-cinq chameaux,} deux mille sept cents ânes.",
+          "grec": "ἵπποι ἑπτακόσιοι τριάκοντα ἕξ ἡμίονοι διακόσιοι τεσσαράκοντα πέντε. κάμηλοι τετρακόσιοι τριάκοντα πέντε ὄνοι ἑξακισχίλιοι ἑπτακόσιοι εἴκοσι.",
+          "name": "Néhémie 7:68",
+          "chapter": "7"
+        },
+        {
+          "verse": "69",
+          "text": "Et Néhémias reçut, d'une partie des chefs des familles paternelles, pour le trésor des travaux, mille sicles d'or, cinquante fioles et trente costumes sacerdotaux.",
+          "grec": "καὶ ἀπὸ μέρους ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς τὸ ἔργον τῷ Νεεμια εἰς θησαυρὸν χρυσοῦς χιλίους φιάλας πεντήκοντα καὶ χοθωνωθ τῶν ἱερέων τριάκοντα.",
+          "name": "Néhémie 7:69",
+          "chapter": "7"
+        },
+        {
+          "verse": "70",
+          "text": "Et une autre part des chefs des familles paternelles donna, pour le trésor des travaux, vingt mille pièces d'or et deux mille deux cents pièces d'argent.",
+          "grec": "καὶ ἀπὸ ἀρχηγῶν τῶν πατριῶν ἔδωκαν εἰς θησαυρὸν τοῦ ἔργου χρυσίου δύο μυριάδας καὶ ἀργυρίου μνᾶς δισχιλίας διακοσίας.",
+          "name": "Néhémie 7:70",
+          "chapter": "7"
+        },
+        {
+          "verse": "71",
+          "text": "Et le reste du peuple donna vingt mille pièces d'or, deux mille deux cents mines d'argent et soixante-sept costumes sacerdotaux.",
+          "grec": "καὶ ἔδωκαν οἱ κατάλοιποι τοῦ λαοῦ χρυσίου δύο μυριάδας καὶ ἀργυρίου μνᾶς δισχιλίας διακοσίας καὶ χοθωνωθ τῶν ἱερέων ἑξήκοντα ἑπτά.",
+          "name": "Néhémie 7:71",
+          "chapter": "7"
+        },
+        {
+          "verse": "72",
+          "text": "Et les prêtres, et les lévites, et les portiers et les chantres, et ceux du peuple, et les Nathinéens, et tout Israël, s'établirent dans leurs villes.",
+          "grec": "καὶ ἐκάθισαν οἱ ἱερεῖς καὶ οἱ Λευῖται καὶ οἱ πυλωροὶ καὶ οἱ ᾄδοντες καὶ οἱ ἀπὸ τοῦ λαοῦ καὶ οἱ ναθινιμ καὶ πᾶς Ισραηλ ἐν πόλεσιν αὐτῶν. Καὶ ἔφθασεν ὁ μὴν ὁ ἕβδομοσ – καὶ οἱ υἱοὶ Ισραηλ ἐν πόλεσιν αὐτῶν",
+          "name": "Néhémie 7:72",
+          "chapter": "7"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "name": "Néhémie 8",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et le septième mois arriva, et les fils d'Israël étaient dans leurs villes ; et tout le peuple se rassembla, comme un seul homme, sur la place, devant la porte de l'Eau ; et ils dirent à Esdras le scribe d'apporter le livre de la loi de Moïse que le Seigneur a intimée à Israël.",
+          "grec": "καὶ συνήχθησαν πᾶς ὁ λαὸς ὡς ἀνὴρ εἷς εἰς τὸ πλάτος τὸ ἔμπροσθεν πύλης τοῦ ὕδατος καὶ εἶπαν τῷ Εσδρα τῷ γραμματεῖ ἐνέγκαι τὸ βιβλίον νόμου Μωυσῆ ὃν ἐνετείλατο κύριος τῷ Ισραηλ.",
+          "name": "Néhémie 8:1",
+          "chapter": "8"
+        },
+        {
+          "verse": "2",
+          "text": "Et le premier jour du septième mois, Esdras, le prêtre, apporta la loi devant la multitude d'hommes et de femmes, et devant tous ceux qui pouvaient l'entendre.",
+          "grec": "καὶ ἤνεγκεν Εσδρας ὁ ἱερεὺς τὸν νόμον ἐνώπιον τῆς ἐκκλησίας ἀπὸ ἀνδρὸς καὶ ἕως γυναικὸς καὶ πᾶς ὁ συνίων ἀκούειν ἐν ἡμέρᾳ μιᾷ τοῦ μηνὸς τοῦ ἑβδόμου.",
+          "name": "Néhémie 8:2",
+          "chapter": "8"
+        },
+        {
+          "verse": "3",
+          "text": "Et il la lut depuis l'heure où le soleil éclaire jus qu'au milieu du jour, devant les hommes et les femmes, et ils la comprenaient, et les oreilles de tout le peuple étaient attentives au livre de la loi.",
+          "grec": "καὶ ἀνέγνω ἐν αὐτῷ ἀπὸ τῆς ὥρας τοῦ διαφωτίσαι τὸν ἥλιον ἕως ἡμίσους τῆς ἡμέρας ἀπέναντι τῶν ἀνδρῶν καὶ τῶν γυναικῶν καὶ αὐτοὶ συνιέντες καὶ ὦτα παντὸς τοῦ λαοῦ εἰς τὸ βιβλίον τοῦ νόμου.",
+          "name": "Néhémie 8:3",
+          "chapter": "8"
+        },
+        {
+          "verse": "4",
+          "text": "Et Esdras, le scribe, se tenait sur une estrade de bois, et il y avait auprès de lui, à sa droite : Matthathias, Sandias, Ananias, Urie, Helcias et Maasia ; à sa gauche : Phadaïas, Misahel, Melchias, Asom, Asubadma, Zacharie et Mesollam.",
+          "grec": "καὶ ἔστη Εσδρας ὁ γραμματεὺς ἐπὶ βήματος ξυλίνου καὶ ἔστησαν ἐχόμενα αὐτοῦ Ματταθιας καὶ Σαμαιας καὶ Ανανιας καὶ Ουρια καὶ Ελκια καὶ Μαασαια ἐκ δεξιῶν αὐτοῦ καὶ ἐξ ἀριστερῶν Φαδαιας καὶ Μισαηλ καὶ Μελχιας καὶ Ωσαμ καὶ Ασαβδανα καὶ Ζαχαριας καὶ Μοσολλαμ.",
+          "name": "Néhémie 8:4",
+          "chapter": "8"
+        },
+        {
+          "verse": "5",
+          "text": "Et Esdras ouvrit le livre à la vue de tout le peuple, car lui-même était plus élevé que le peuple, et lorsqu'il ouvrit le livre, tout le peuple resta debout.",
+          "grec": "καὶ ἤνοιξεν Εσδρας τὸ βιβλίον ἐνώπιον παντὸς τοῦ λαοῦ ὅτι αὐτὸς ἦν ἐπάνω τοῦ λαοῦ καὶ ἐγένετο ἡνίκα ἤνοιξεν αὐτό ἔστη πᾶς ὁ λαός.",
+          "name": "Néhémie 8:5",
+          "chapter": "8"
+        },
+        {
+          "verse": "6",
+          "text": "Et Esdras bénit le Seigneur, le Dieu très-grand, et le peuple élevant les mains, répondit : Amen. Et ils s'inclinèrent, et ils adorèrent le Seigneur la face contré terre.",
+          "grec": "καὶ ηὐλόγησεν Εσδρας κύριον τὸν θεὸν τὸν μέγαν καὶ ἀπεκρίθη πᾶς ὁ λαὸς καὶ εἶπαν αμην ἐπάραντες χεῖρας αὐτῶν καὶ ἔκυψαν καὶ προσεκύνησαν τῷ κυρίῳ ἐπὶ πρόσωπον ἐπὶ τὴν γῆν.",
+          "name": "Néhémie 8:6",
+          "chapter": "8"
+        },
+        {
+          "verse": "7",
+          "text": "Ensuite, Josué, Banales et Sarabias, expliquèrent la loi au peuple, et le peuple ne bougea pas de sa place.",
+          "grec": "καὶ Ἰησοῦς καὶ Βαναιας καὶ Σαραβια ἦσαν συνετίζοντες τὸν λαὸν εἰς τὸν νόμον καὶ ὁ λαὸς ἐν τῇ στάσει αὐτοῦ.",
+          "name": "Néhémie 8:7",
+          "chapter": "8"
+        },
+        {
+          "verse": "8",
+          "text": "Et ils lurent dans le livre de la loi de Dieu ; puis, Esdras enseigna, et il apprit au peuple à connaître le Seigneur, et le peuple comprit à la lecture.",
+          "grec": "καὶ ἀνέγνωσαν ἐν βιβλίῳ νόμου τοῦ θεοῦ καὶ ἐδίδασκεν Εσδρας καὶ διέστελλεν ἐν ἐπιστήμῃ κυρίου καὶ συνῆκεν ὁ λαὸς ἐν τῇ ἀναγνώσει.",
+          "name": "Néhémie 8:8",
+          "chapter": "8"
+        },
+        {
+          "verse": "9",
+          "text": "Alors, Néhémias et Esdras, le scribe et prêtre, et les lévites qui expliquaient la loi au peuple, dirent à tout le peuple : Ce jour est consacré au Seigneur notre Dieu, ne vous affligez pas, ne pleurez point. Car tout le peuple pleurait quand il entendait les paroles de la loi.",
+          "grec": "καὶ εἶπεν Νεεμιας καὶ Εσδρας ὁ ἱερεὺς καὶ γραμματεὺς καὶ οἱ Λευῖται οἱ συνετίζοντες τὸν λαὸν καὶ εἶπαν παντὶ τῷ λαῷ ἡ ἡμέρα ἁγία ἐστὶν τῷ κυρίῳ θεῷ ἡμῶν μὴ πενθεῖτε μηδὲ κλαίετε ὅτι ἔκλαιεν πᾶς ὁ λαός ὡς ἤκουσαν τοὺς λόγους τοῦ νόμου.",
+          "name": "Néhémie 8:9",
+          "chapter": "8"
+        },
+        {
+          "verse": "10",
+          "text": "Et Néhémias leur dit : Allez, mangez des chairs grasses, buvez de douces boissons, et envoyez des parts à ceux qui n'en ont point, car ce jour est consacré au Seigneur notre Dieu, et ne soyez point abattus, puisque le Seigneur est notre force.",
+          "grec": "καὶ εἶπεν αὐτοῖς πορεύεσθε φάγετε λιπάσματα καὶ πίετε γλυκάσματα καὶ ἀποστείλατε μερίδας τοῖς μὴ ἔχουσιν ὅτι ἁγία ἐστὶν ἡ ἡμέρα τῷ κυρίῳ ἡμῶν καὶ μὴ διαπέσητε ὅτι ἐστὶν ἰσχὺς ὑμῶν.",
+          "name": "Néhémie 8:10",
+          "chapter": "8"
+        },
+        {
+          "verse": "11",
+          "text": "Et les lévites faisaient taire tout le peuple, disant : Gardez le silence, car ce jour est saint, et ne soyez point abattus.",
+          "grec": "καὶ οἱ Λευῖται κατεσιώπων πάντα τὸν λαὸν λέγοντες σιωπᾶτε ὅτι ἡ ἡμέρα ἁγία καὶ μὴ καταπίπτετε.",
+          "name": "Néhémie 8:11",
+          "chapter": "8"
+        },
+        {
+          "verse": "12",
+          "text": "Et tout le peuple s'en alla pour manger, boire, envoyer des parts et faire grande liesse, parce qu'il avait. compris les paroles que Néhémias leur avait fait connaître.",
+          "grec": "καὶ ἀπῆλθεν πᾶς ὁ λαὸς φαγεῖν καὶ πιεῖν καὶ ἀποστέλλειν μερίδας καὶ ποιῆσαι εὐφροσύνην μεγάλην ὅτι συνῆκαν ἐν τοῖς λόγοις οἷς ἐγνώρισεν αὐτοῖς.",
+          "name": "Néhémie 8:12",
+          "chapter": "8"
+        },
+        {
+          "verse": "13",
+          "text": "Et le second jour, les chefs de famille, tout le peuple, les prêtres et les lévites, se réunirent autour d'Esdras, le scribe, pour qu'il les instruisît sur toutes les paroles de la loi.",
+          "grec": "καὶ ἐν τῇ ἡμέρᾳ τῇ δευτέρᾳ συνήχθησαν οἱ ἄρχοντες τῶν πατριῶν τῷ παντὶ λαῷ οἱ ἱερεῖς καὶ οἱ Λευῖται πρὸς Εσδραν τὸν γραμματέα ἐπιστῆσαι πρὸς πάντας τοὺς λόγους τοῦ νόμου.",
+          "name": "Néhémie 8:13",
+          "chapter": "8"
+        },
+        {
+          "verse": "14",
+          "text": "Et ils trouvèrent écrit en la loi que le Seigneur avait commandé à Moïse que les fils d'Israël demeurassent sous des tabernacles, durant la fête du septième mois,",
+          "grec": "καὶ εὕροσαν γεγραμμένον ἐν τῷ νόμῳ ᾧ ἐνετείλατο κύριος τῷ Μωυσῇ ὅπως κατοικήσωσιν οἱ υἱοὶ Ισραηλ ἐν σκηναῖς ἐν ἑορτῇ ἐν μηνὶ τῷ ἑβδόμῳ.",
+          "name": "Néhémie 8:14",
+          "chapter": "8"
+        },
+        {
+          "verse": "15",
+          "text": "Et qu'ils le publiassent au son de la trompette en toutes leurs villes et à Jérusalem. Et Esdras dit : Allez sur la montagne, rapportez-en des rameaux d'olivier, de cyprès, de tamaris, de palmier et de tous les arbres touffus, pour faire des tabernacles selon ce qui est écrit.",
+          "grec": "καὶ ὅπως σημάνωσιν σάλπιγξιν ἐν πάσαις ταῖς πόλεσιν αὐτῶν καὶ ἐν Ιερουσαλημ καὶ εἶπεν Εσδρας ἐξέλθετε εἰς τὸ ὄρος καὶ ἐνέγκετε φύλλα ἐλαίας καὶ φύλλα ξύλων κυπαρισσίνων καὶ φύλλα μυρσίνης καὶ φύλλα φοινίκων καὶ φύλλα ξύλου δασέος ποιῆσαι σκηνὰς κατὰ τὸ γεγραμμένον.",
+          "name": "Néhémie 8:15",
+          "chapter": "8"
+        },
+        {
+          "verse": "16",
+          "text": "Et le peuple sortit, et il rapporta des rameaux, et ils se firent des tabernacles, chacun sur sa terrasse, ou dans sa cour, ou dans les parvis du temple du Seigneur, ou dans les rues de la ville jusqu'à la porte d'Ephraïm.",
+          "grec": "καὶ ἐξῆλθεν ὁ λαὸς καὶ ἤνεγκαν καὶ ἐποίησαν ἑαυτοῖς σκηνὰς ἀνὴρ ἐπὶ τοῦ δώματος αὐτοῦ καὶ ἐν ταῖς αὐλαῖς αὐτῶν καὶ ἐν ταῖς αὐλαῖς οἴκου τοῦ θεοῦ καὶ ἐν πλατείαις τῆς πόλεως καὶ ἕως πύλης Εφραιμ.",
+          "name": "Néhémie 8:16",
+          "chapter": "8"
+        },
+        {
+          "verse": "17",
+          "text": "Et toute l'Église, tous ceux qui étaient revenus de la captivité se firent des tabernacles, et ils demeurèrent sous des tabernacles ; et depuis le temps de Josué, fils de Nau, jusqu'à ce jour-là, le peuple d'Israël n'avait pas fait ainsi, et grande fut sa joie.",
+          "grec": "καὶ ἐποίησαν πᾶσα ἡ ἐκκλησία οἱ ἐπιστρέψαντες ἀπὸ τῆς αἰχμαλωσίας σκηνὰς καὶ ἐκάθισαν ἐν σκηναῖς ὅτι οὐκ ἐποίησαν ἀπὸ ἡμερῶν Ἰησοῦ υἱοῦ Ναυη οὕτως οἱ υἱοὶ Ισραηλ ἕως τῆς ἡμέρας ἐκείνης καὶ ἐγένετο εὐφροσύνη μεγάλη.",
+          "name": "Néhémie 8:17",
+          "chapter": "8"
+        },
+        {
+          "verse": "18",
+          "text": "Et on lut dans le livre de la loi, tous les jours, depuis le premier jusqu'au dernier, et ils firent la fête sept jours, et le huitième jour la fin de la fête, selon la loi.",
+          "grec": "καὶ ἀνέγνω ἐν βιβλίῳ νόμου τοῦ θεοῦ ἡμέραν ἐν ἡμέρᾳ ἀπὸ τῆς ἡμέρας τῆς πρώτης ἕως τῆς ἡμέρας τῆς ἐσχάτης καὶ ἐποίησαν ἑορτὴν ἑπτὰ ἡμέρας καὶ τῇ ἡμέρᾳ τῇ ὀγδόῃ ἐξόδιον κατὰ τὸ κρίμα.",
+          "name": "Néhémie 8:18",
+          "chapter": "8"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "name": "Néhémie 9",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Au vingt-quatrième jour de ce Mois, les fils d'Israël se réunirent pour un jeûne, ayant des cendres sur la tête, et des cilices autour du corps.",
+          "grec": "καὶ ἐν ἡμέρᾳ εἰκοστῇ καὶ τετάρτῃ τοῦ μηνὸς τούτου συνήχθησαν οἱ υἱοὶ Ισραηλ ἐν νηστείᾳ καὶ ἐν σάκκοις.",
+          "name": "Néhémie 9:1",
+          "chapter": "9"
+        },
+        {
+          "verse": "2",
+          "text": "Et les fils d'Israël se tinrent séparés de tout fils de l'étranger, et debout, ils confessèrent leurs péchés et les iniquités de leurs pères.",
+          "grec": "καὶ ἐχωρίσθησαν οἱ υἱοὶ Ισραηλ ἀπὸ παντὸς υἱοῦ ἀλλοτρίου καὶ ἔστησαν καὶ ἐξηγόρευσαν τὰς ἁμαρτίας αὐτῶν καὶ τὰς ἀνομίας τῶν πατέρων αὐτῶν.",
+          "name": "Néhémie 9:2",
+          "chapter": "9"
+        },
+        {
+          "verse": "3",
+          "text": "Et, chacun demeurant immobile à sa place, ils lurent dans le livre de la loi du Seigneur leur Dieu ; et ils étaient là, se confessant au Seigneur, adorant le Seigneur leur Dieu.",
+          "grec": "καὶ ἔστησαν ἐπὶ στάσει αὐτῶν καὶ ἀνέγνωσαν ἐν βιβλίῳ νόμου κυρίου θεοῦ αὐτῶν καὶ ἦσαν ἐξαγορεύοντες τῷ κυρίῳ καὶ προσκυνοῦντες τῷ κυρίῳ θεῷ αὐτῶν.",
+          "name": "Néhémie 9:3",
+          "chapter": "9"
+        },
+        {
+          "verse": "4",
+          "text": "Ensuite, Josué, les fils de Cadmiel, Sechénias, fils de Sarabie, et les fils d'Honeni se levèrent sur les degrés des lévites, et invoquèrent à grands cris le Seigneur leur Dieu.",
+          "grec": "καὶ ἔστη ἐπὶ ἀναβάσει τῶν Λευιτῶν Ἰησοῦς καὶ υἱοὶ Καδμιηλ Σαχανια υἱὸς Σαραβια υἱοὶ Χανανι καὶ ἐβόησαν φωνῇ μεγάλῃ πρὸς κύριον τὸν θεὸν αὐτῶν.",
+          "name": "Néhémie 9:4",
+          "chapter": "9"
+        },
+        {
+          "verse": "5",
+          "text": "Et les lévites Josué et Cadmiel dirent : Relevez-vous, bénissez le Seigneur notre Dieu, dans tous les siècles des siècles ; que l'on bénisse, ô Seigneur, votre nom et votre gloire ; que l'on vous exalte en toute bénédiction et louange.",
+          "grec": "καὶ εἴποσαν οἱ Λευῖται Ἰησοῦς καὶ Καδμιηλ ἀνάστητε εὐλογεῖτε τὸν κύριον θεὸν ὑμῶν ἀπὸ τοῦ αἰῶνος καὶ ἕως τοῦ αἰῶνος καὶ εὐλογήσουσιν ὄνομα δόξης σου καὶ ὑψώσουσιν ἐπὶ πάσῃ εὐλογίᾳ καὶ αἰνέσει.",
+          "name": "Néhémie 9:5",
+          "chapter": "9"
+        },
+        {
+          "verse": "6",
+          "text": "Et Esdras dit : Vous êtes le seul Seigneur, vous avez créé le ciel et le ciel des cieux, et toute l'armée céleste, et la terre et tout ce qui est en elle, et les mers et tout ce qui est en elles ; c'est vous qui vivifiez toutes choses, et c'est vous que les armées du ciel adorent.",
+          "grec": "καὶ εἶπεν Εσδρας σὺ εἶ αὐτὸς κύριος μόνος σὺ ἐποίησας τὸν οὐρανὸν καὶ τὸν οὐρανὸν τοῦ οὐρανοῦ καὶ πᾶσαν τὴν στάσιν αὐτῶν τὴν γῆν καὶ πάντα ὅσα ἐστὶν ἐν αὐτῇ τὰς θαλάσσας καὶ πάντα τὰ ἐν αὐταῖς καὶ σὺ ζωοποιεῖς τὰ πάντα καὶ σοὶ προσκυνοῦσιν αἱ στρατιαὶ τῶν οὐρανῶν.",
+          "name": "Néhémie 9:6",
+          "chapter": "9"
+        },
+        {
+          "verse": "7",
+          "text": "Vous êtes le Seigneur Dieu, et vous avez élu Abram, et vous l'avez amené du pays des Chaldéens, et vous lui avez donné le nom d'Abrabam.",
+          "grec": "σὺ εἶ κύριος ὁ θεός σὺ ἐξελέξω ἐν Αβραμ καὶ ἐξήγαγες αὐτὸν ἐκ τῆς χώρας τῶν Χαλδαίων καὶ ἐπέθηκας αὐτῷ ὄνομα Αβρααμ.",
+          "name": "Néhémie 9:7",
+          "chapter": "9"
+        },
+        {
+          "verse": "8",
+          "text": "Et vous avez trouvé son cœur fidèle devant vous, et vous avez fait alliance avec lui, pour donner la terre des Chananéens, des Hettéens, des Amorrhéens, des Phérézéens, des Jébuséens et des Gergéséens, à lui et à sa race : et vous avez tenu parole, parce que vous êtes juste.",
+          "grec": "καὶ εὗρες τὴν καρδίαν αὐτοῦ πιστὴν ἐνώπιόν σου καὶ διέθου πρὸς αὐτὸν διαθήκην δοῦναι αὐτῷ τὴν γῆν τῶν Χαναναίων καὶ Χετταίων καὶ Αμορραίων καὶ Φερεζαίων καὶ Ιεβουσαίων καὶ Γεργεσαίων καὶ τῷ σπέρματι αὐτοῦ καὶ ἔστησας τοὺς λόγους σου ὅτι δίκαιος σύ.",
+          "name": "Néhémie 9:8",
+          "chapter": "9"
+        },
+        {
+          "verse": "9",
+          "text": "Et vous avez regardé l'affliction de nos pères en Égypte, et vous avez ouï leurs cris sur les bords de la mer Rouge.",
+          "grec": "καὶ εἶδες τὴν ταπείνωσιν τῶν πατέρων ἡμῶν ἐν Αἰγύπτῳ καὶ τὴν κραυγὴν αὐτῶν ἤκουσας ἐπὶ θάλασσαν ἐρυθράν.",
+          "name": "Néhémie 9:9",
+          "chapter": "9"
+        },
+        {
+          "verse": "10",
+          "text": "Et vous avez donné des signes et des prodiges en Égypte, sur Pharaon, ses serviteurs, tout le peuple de sa terre, parce que vous saviez qu'ils traitaient votre peuple orgueilleusement, et vous vous êtes fait un grand nom, comme vous vous le faites encore aujourd'hui.",
+          "grec": "καὶ ἔδωκας σημεῖα ἐν Αἰγύπτῳ ἐν Φαραω καὶ ἐν πᾶσιν τοῖς παισὶν αὐτοῦ καὶ ἐν παντὶ τῷ λαῷ τῆς γῆς αὐτοῦ ὅτι ἔγνως ὅτι ὑπερηφάνησαν ἐπ' αὐτούς καὶ ἐποίησας σεαυτῷ ὄνομα ὡς ἡ ἡμέρα αὕτη.",
+          "name": "Néhémie 9:10",
+          "chapter": "9"
+        },
+        {
+          "verse": "11",
+          "text": "Et, devant eux, vous avez séparé la mer, et votre peuple l'a traversée à sec, et, ceux qui le poursuivaient, vous les avez jetés dans l'abîme comme une pierre dans l'eau profonde.",
+          "grec": "καὶ τὴν θάλασσαν ἔρρηξας ἐνώπιον αὐτῶν καὶ παρήλθοσαν ἐν μέσῳ τῆς θαλάσσης ἐν ξηρασίᾳ καὶ τοὺς καταδιώξαντας αὐτοὺς ἔρριψας εἰς βυθὸν ὡσεὶ λίθον ἐν ὕδατι σφοδρῷ.",
+          "name": "Néhémie 9:11",
+          "chapter": "9"
+        },
+        {
+          "verse": "12",
+          "text": "Et le jour, vous avez guidé votre peuple par une colonne de nuée, et la nuit par une colonne de feu, pour éclairer la voie qu'il devait suivre.",
+          "grec": "καὶ ἐν στύλῳ νεφέλης ὡδήγησας αὐτοὺς ἡμέρας καὶ ἐν στύλῳ πυρὸς τὴν νύκτα τοῦ φωτίσαι αὐτοῖς τὴν ὁδόν ἐν ᾗ πορεύσονται ἐν αὐτῇ.",
+          "name": "Néhémie 9:12",
+          "chapter": "9"
+        },
+        {
+          "verse": "13",
+          "text": "Et vous êtes descendu sur le mont Sina, et, du haut du oie, vous leur avez parlé, et vous leur avez donné des jugements droits, des lois de vérité, des commandements et des préceptes salutaires.",
+          "grec": "καὶ ἐπὶ ὄρος Σινα κατέβης καὶ ἐλάλησας πρὸς αὐτοὺς ἐξ οὐρανοῦ καὶ ἔδωκας αὐτοῖς κρίματα εὐθέα καὶ νόμους ἀληθείας προστάγματα καὶ ἐντολὰς ἀγαθάς.",
+          "name": "Néhémie 9:13",
+          "chapter": "9"
+        },
+        {
+          "verse": "14",
+          "text": "Et vous leur avez fait connaître votre sabbat saint, et vous leur avez intimé par la voix de Moïse, votre serviteur, la loi, les préceptes et les commandements.",
+          "grec": "καὶ τὸ σάββατόν σου τὸ ἅγιον ἐγνώρισας αὐτοῖς ἐντολὰς καὶ προστάγματα καὶ νόμον ἐνετείλω αὐτοῖς ἐν χειρὶ Μωυσῆ δούλου σου.",
+          "name": "Néhémie 9:14",
+          "chapter": "9"
+        },
+        {
+          "verse": "15",
+          "text": "Et pour aliment, vous leur avez donné du pain du ciel, et pour leur soif, vous avez fait jaillir de l'eau des rochers ; et vous leur avez dit d'entrer, pour qu'elle soit leur héritage, en la terre sur laquelle vous aviez étendu la main, promettant de la leur donner.",
+          "grec": "καὶ ἄρτον ἐξ οὐρανοῦ ἔδωκας αὐτοῖς εἰς σιτοδείαν αὐτῶν καὶ ὕδωρ ἐκ πέτρας ἐξήνεγκας αὐτοῖς εἰς δίψαν αὐτῶν καὶ εἶπας αὐτοῖς εἰσελθεῖν κληρονομῆσαι τὴν γῆν ἐφ' ἣν ἐξέτεινας τὴν χεῖρά σου δοῦναι αὐτοῖς.",
+          "name": "Néhémie 9:15",
+          "chapter": "9"
+        },
+        {
+          "verse": "16",
+          "text": "Mais, eux et nos pères se sont enorgueillis, et ils ont endurci leur cœur, et ils n'ont point obéi à vos commandements.",
+          "grec": "καὶ αὐτοὶ καὶ οἱ πατέρες ἡμῶν ὑπερηφανεύσαντο καὶ ἐσκλήρυναν τὸν τράχηλον αὐτῶν καὶ οὐκ ἤκουσαν τῶν ἐντολῶν σου.",
+          "name": "Néhémie 9:16",
+          "chapter": "9"
+        },
+        {
+          "verse": "17",
+          "text": "Et ils ont refusé de rien entendre, et ils n'ont pas eu mémoire de vos merveilles, que vous aviez faites pour eux ; et ils ont endurci leur cœur, et ils ont songé à rentrer en la servitude d'Égypte. Et vous, ô mon Dieu, miséricordieux et compatissant, clément et magnanime, vous ne les avez pas abandonnés,",
+          "grec": "καὶ ἀνένευσαν τοῦ εἰσακοῦσαι καὶ οὐκ ἐμνήσθησαν τῶν θαυμασίων σου ὧν ἐποίησας μετ' αὐτῶν καὶ ἐσκλήρυναν τὸν τράχηλον αὐτῶν καὶ ἔδωκαν ἀρχὴν ἐπιστρέψαι εἰς δουλείαν αὐτῶν ἐν Αἰγύπτῳ καὶ σὺ θεὸς ἐλεήμων καὶ οἰκτίρμων μακρόθυμος καὶ πολυέλεος καὶ οὐκ ἐγκατέλιπες αὐτούς.",
+          "name": "Néhémie 9:17",
+          "chapter": "9"
+        },
+        {
+          "verse": "18",
+          "text": "Même lorsqu'ils eurent jeté en fonte un veau d'or, et qu'ils eurent dit : Voilà les dieux qui nous ont fait sortir de l'Égypte. Et ils vous ont gravement offensé.",
+          "grec": "ἔτι δὲ καὶ ἐποίησαν ἑαυτοῖς μόσχον χωνευτὸν καὶ εἶπαν οὗτοι οἱ θεοὶ οἱ ἐξαγαγόντες ἡμᾶς ἐξ Αἰγύπτου καὶ ἐποίησαν παροργισμοὺς μεγάλους.",
+          "name": "Néhémie 9:18",
+          "chapter": "9"
+        },
+        {
+          "verse": "19",
+          "text": "Mais vous, dans votre miséricorde infinie, vous ne les avez point abandonnés dans le désert ; vous n'avez point détourné d'eux la colonne de nuée qui les guidait le jour, ni la colonne de feu qui, la nuit, éclairait leur voie.",
+          "grec": "καὶ σὺ ἐν οἰκτιρμοῖς σου τοῖς πολλοῖς οὐκ ἐγκατέλιπες αὐτοὺς ἐν τῇ ἐρήμῳ τὸν στῦλον τῆς νεφέλης οὐκ ἐξέκλινας ἀπ' αὐτῶν ἡμέρας ὁδηγῆσαι αὐτοὺς ἐν τῇ ὁδῷ καὶ τὸν στῦλον τοῦ πυρὸς τὴν νύκτα φωτίζειν αὐτοῖς τὴν ὁδόν ἐν ᾗ πορεύσονται ἐν αὐτῇ.",
+          "name": "Néhémie 9:19",
+          "chapter": "9"
+        },
+        {
+          "verse": "20",
+          "text": "Et vous leur avez donné votre bon esprit pour les instruire ; vous n'avez point retiré la manne de leur bouche, et vous leur avez donné de l'eau en leur soif.",
+          "grec": "καὶ τὸ πνεῦμά σου τὸ ἀγαθὸν ἔδωκας συνετίσαι αὐτοὺς καὶ τὸ μαννα σοῦ οὐκ ἀφυστέρησας ἀπὸ στόματος αὐτῶν καὶ ὕδωρ ἔδωκας αὐτοῖς τῷ δίψει αὐτῶν.",
+          "name": "Néhémie 9:20",
+          "chapter": "9"
+        },
+        {
+          "verse": "21",
+          "text": "Et vous les avez nourris quarante ans dans le désert, sans les laisser manquer de rien, et leurs vêtements ne se sont point usés, et leurs pieds n'ont point été meurtris.",
+          "grec": "καὶ τεσσαράκοντα ἔτη διέθρεψας αὐτοὺς ἐν τῇ ἐρήμῳ οὐχ ὑστέρησαν ἱμάτια αὐτῶν οὐκ ἐπαλαιώθησαν καὶ πόδες αὐτῶν οὐ διερράγησαν.",
+          "name": "Néhémie 9:21",
+          "chapter": "9"
+        },
+        {
+          "verse": "22",
+          "text": "Et vous leur avez donné des royaumes, vous leur avez partagé des peuples, et ils ont possédé la terre de Séhon, roi d'Esebon, et la terre d'Og, roi de Basan.",
+          "grec": "καὶ ἔδωκας αὐτοῖς βασιλείας καὶ λαοὺς καὶ διεμέρισας αὐτοῖς καὶ ἐκληρονόμησαν τὴν γῆν Σηων βασιλέως Εσεβων καὶ τὴν γῆν Ωγ βασιλέως τοῦ Βασαν.",
+          "name": "Néhémie 9:22",
+          "chapter": "9"
+        },
+        {
+          "verse": "23",
+          "text": "Et vous avez multiplié leurs fils comme les étoiles du ciel, et vous les avez introduits en la terre que vous aviez promise à leurs pères.",
+          "grec": "καὶ τοὺς υἱοὺς αὐτῶν ἐπλήθυνας ὡς τοὺς ἀστέρας τοῦ οὐρανοῦ καὶ εἰσήγαγες αὐτοὺς εἰς τὴν γῆν ἣν εἶπας τοῖς πατράσιν αὐτῶν καὶ ἐκληρονόμησαν αὐτήν.",
+          "name": "Néhémie 9:23",
+          "chapter": "9"
+        },
+        {
+          "verse": "24",
+          "text": "Et ils en ont fait leur héritage, et vous avez écrasé devant eux les habitants de la terre des Chananéens, et vous avez livré à leur merci les rois et les peuples de cette terre, pour qu'ils les traitassent comme il leur plaisait.",
+          "grec": "καὶ ἐξέτριψας ἐνώπιον αὐτῶν τοὺς κατοικοῦντας τὴν γῆν τῶν Χαναναίων καὶ ἔδωκας αὐτοὺς εἰς τὰς χεῖρας αὐτῶν καὶ τοὺς βασιλεῖς αὐτῶν καὶ τοὺς λαοὺς τῆς γῆς ποιῆσαι αὐτοῖς ὡς ἀρεστὸν ἐνώπιον αὐτῶν.",
+          "name": "Néhémie 9:24",
+          "chapter": "9"
+        },
+        {
+          "verse": "25",
+          "text": "Ils ont donc pris des villes superbes, ils ont hérité de maisons pleines de biens, de citernes en pierres de taille, de vignes, d'oliviers, et d'une multitude d'arbres fruitiers. Et ils ont mangé, et ils se sont rassasiés, et ils se sont engraissés, et ils ont abondé eu délices par votre grande bonté.",
+          "grec": "καὶ κατελάβοσαν πόλεις ὑψηλὰς καὶ ἐκληρονόμησαν οἰκίας πλήρεις πάντων ἀγαθῶν λάκκους λελατομημένους ἀμπελῶνας καὶ ἐλαιῶνας καὶ πᾶν ξύλον βρώσιμον εἰς πλῆθος καὶ ἐφάγοσαν καὶ ἐνεπλήσθησαν καὶ ἐλιπάνθησαν καὶ ἐτρύφησαν ἐν ἀγαθωσύνῃ σου τῇ μεγάλῃ.",
+          "name": "Néhémie 9:25",
+          "chapter": "9"
+        },
+        {
+          "verse": "26",
+          "text": "Ensuite, ils ont changé ; ils se sont retirés de vous ; ils ont rejeté derrière eux la loi ; ils ont tué vos prophètes qui les admonestaient pour les ramener à vous. Et ils vous ont gravement offensé.",
+          "grec": "καὶ ἤλλαξαν καὶ ἀπέστησαν ἀπὸ σοῦ καὶ ἔρριψαν τὸν νόμον σου ὀπίσω σώματος αὐτῶν καὶ τοὺς προφήτας σου ἀπέκτειναν οἳ διεμαρτύραντο ἐν αὐτοῖς ἐπιστρέψαι αὐτοὺς πρὸς σέ καὶ ἐποίησαν παροργισμοὺς μεγάλους.",
+          "name": "Néhémie 9:26",
+          "chapter": "9"
+        },
+        {
+          "verse": "27",
+          "text": "Alors, vous les avez livrés aux mains de ceux qui les opprimaient ; ceux-ci les ont écrasés, et, au temps de leur affliction, ils ont crié à vous ; et vous, du haut du ciel, vous les avez entendus ; et, en votre grande miséricorde, vous leur avez envoyé des sauveurs, et vous les avez tirés des mains de ceux qui les opprimaient.",
+          "grec": "καὶ ἔδωκας αὐτοὺς ἐν χειρὶ θλιβόντων αὐτούς καὶ ἔθλιψαν αὐτούς καὶ ἀνεβόησαν πρὸς σὲ ἐν καιρῷ θλίψεως αὐτῶν καὶ σὺ ἐξ οὐρανοῦ σου ἤκουσας καὶ ἐν οἰκτιρμοῖς σου τοῖς μεγάλοις ἔδωκας αὐτοῖς σωτῆρας καὶ ἔσωσας αὐτοὺς ἐκ χειρὸς θλιβόντων αὐτούς.",
+          "name": "Néhémie 9:27",
+          "chapter": "9"
+        },
+        {
+          "verse": "28",
+          "text": "Mais, après s'être reposés, ils ont encore fait le mal devant vous, et vous les avez livrés aux mains de leurs ennemis qui les ont maîtrisés. Et, derechef, ils ont crié à vous ; et du haut du ciel, vous les avez encore entendus ; et, en votre grande miséricorde, vous les avez délivrés.",
+          "grec": "καὶ ὡς ἀνεπαύσαντο ἐπέστρεψαν ποιῆσαι τὸ πονηρὸν ἐνώπιόν σου καὶ ἐγκατέλιπες αὐτοὺς εἰς χεῖρας ἐχθρῶν αὐτῶν καὶ κατῆρξαν ἐν αὐτοῖς καὶ πάλιν ἀνεβόησαν πρὸς σέ καὶ σὺ ἐξ οὐρανοῦ εἰσήκουσας καὶ ἐρρύσω αὐτοὺς ἐν οἰκτιρμοῖς σου πολλοῖς.",
+          "name": "Néhémie 9:28",
+          "chapter": "9"
+        },
+        {
+          "verse": "29",
+          "text": "Et vous les avez admonestés pour qu'ils se convertissent à votre loi ; mais ils ne nous ont point écouté, et ils ont péché contre vos commandements et vos jugements, par lesquels, en les faisant, l'homme vivra. Et ils ont tourné le dos, et ils ont endurci leur cœur, et ils ne vous ont pas écouté.",
+          "grec": "καὶ ἐπεμαρτύρω αὐτοῖς ἐπιστρέψαι αὐτοὺς εἰς τὸν νόμον σου καὶ οὐκ ἤκουσαν ἀλλὰ ἐν ταῖς ἐντολαῖς σου καὶ ἐν τοῖς κρίμασί σου ἡμάρτοσαν ἃ ποιήσας αὐτὰ ἄνθρωπος ζήσεται ἐν αὐτοῖς καὶ ἔδωκαν νῶτον ἀπειθοῦντα καὶ τράχηλον αὐτῶν ἐσκλήρυναν καὶ οὐκ ἤκουσαν.",
+          "name": "Néhémie 9:29",
+          "chapter": "9"
+        },
+        {
+          "verse": "30",
+          "text": "Vous avez différé avec eux bien des années, et vous les avez admonestés par votre esprit, par la voix de vos prophètes, et ils ne vous ont point écouté ; enfin, vous les avez livrés aux peuples de la terre.",
+          "grec": "καὶ εἵλκυσας ἐπ' αὐτοὺς ἔτη πολλὰ καὶ ἐπεμαρτύρω αὐτοῖς ἐν πνεύματί σου ἐν χειρὶ προφητῶν σου καὶ οὐκ ἠνωτίσαντο καὶ ἔδωκας αὐτοὺς ἐν χειρὶ λαῶν τῆς γῆς.",
+          "name": "Néhémie 9:30",
+          "chapter": "9"
+        },
+        {
+          "verse": "31",
+          "text": "Mais, en votre grande miséricorde, vous ne les avez point anéantis, vous ne les avez point abandonnés ; car, vous êtes fort, et compatissant, et miséricordieux.",
+          "grec": "καὶ σὺ ἐν οἰκτιρμοῖς σου τοῖς πολλοῖς οὐκ ἐποίησας αὐτοὺς συντέλειαν καὶ οὐκ ἐγκατέλιπες αὐτούς ὅτι ἰσχυρὸς εἶ καὶ ἐλεήμων καὶ οἰκτίρμων.",
+          "name": "Néhémie 9:31",
+          "chapter": "9"
+        },
+        {
+          "verse": "32",
+          "text": "Et maintenant, ô notre Dieu, Dieu fort, grand, puissant et redoutable, qui gardez votre alliance et votre miséricorde, ne tenez pas pour peu de chose toutes les souffrances qui ont atteint nous, nos rois, nos princes, nos prêtres, nos prophètes, nos pères et tout le peuple, depuis les jours du roi d'Assyrie, jusqu'à ce jour.",
+          "grec": "καὶ νῦν ὁ θεὸς ἡμῶν ὁ ἰσχυρὸς ὁ μέγας ὁ κραταιὸς καὶ ὁ φοβερὸς φυλάσσων τὴν διαθήκην σου καὶ τὸ ἔλεός σου μὴ ὀλιγωθήτω ἐνώπιόν σου πᾶς ὁ μόχθος ὃς εὗρεν ἡμᾶς καὶ τοὺς βασιλεῖς ἡμῶν καὶ τοὺς ἄρχοντας ἡμῶν καὶ τοὺς ἱερεῖς ἡμῶν καὶ τοὺς προφήτας ἡμῶν καὶ τοὺς πατέρας ἡμῶν καὶ ἐν παντὶ τῷ λαῷ σου ἀπὸ ἡμερῶν βασιλέων Ασσουρ καὶ ἕως τῆς ἡμέρας ταύτης.",
+          "name": "Néhémie 9:32",
+          "chapter": "9"
+        },
+        {
+          "verse": "33",
+          "text": "Vous avez été juste en tout ce qui nous est advenu, car vous avez agi selon la vérité, et nous, nous avons péché ;",
+          "grec": "καὶ σὺ δίκαιος ἐπὶ πᾶσι τοῖς ἐρχομένοις ἐφ' ἡμᾶς ὅτι ἀλήθειαν ἐποίησας καὶ ἡμεῖς ἐξημάρτομεν.",
+          "name": "Néhémie 9:33",
+          "chapter": "9"
+        },
+        {
+          "verse": "34",
+          "text": "Nos rois, nos princes, nos prêtres, nos pères, n'ont pas observé votre loi ; ils n'ont pas été attentifs à vos commandements, ni à vos témoignages que vous leur avez notifiés.",
+          "grec": "καὶ οἱ βασιλεῖς ἡμῶν καὶ οἱ ἄρχοντες ἡμῶν καὶ οἱ ἱερεῖς ἡμῶν καὶ οἱ πατέρες ἡμῶν οὐκ ἐποίησαν τὸν νόμον σου καὶ οὐ προσέσχον τῶν ἐντολῶν σου καὶ τὰ μαρτύριά σου ἃ διεμαρτύρω αὐτοῖς.",
+          "name": "Néhémie 9:34",
+          "chapter": "9"
+        },
+        {
+          "verse": "35",
+          "text": "Et ils ne vous ont point servi dans votre royaume, au milieu de ces marques de votre grande bonté que vous leur avez données, dans cette terre vaste et grasse que vous avez fait apparaître devant eux, et ils ne se sont point détournés de leurs habitudes criminelles.",
+          "grec": "καὶ αὐτοὶ ἐν βασιλείᾳ σου καὶ ἐν ἀγαθωσύνῃ σου τῇ πολλῇ ᾗ ἔδωκας αὐτοῖς καὶ ἐν τῇ γῇ τῇ πλατείᾳ καὶ λιπαρᾷ ᾗ ἔδωκας ἐνώπιον αὐτῶν οὐκ ἐδούλευσάν σοι καὶ οὐκ ἀπέστρεψαν ἀπὸ ἐπιτηδευμάτων αὐτῶν τῶν πονηρῶν.",
+          "name": "Néhémie 9:35",
+          "chapter": "9"
+        },
+        {
+          "verse": "36",
+          "text": "Et voilà qu'aujourd'hui nous sommes esclaves, en cette terre que vous avez donnée à nos pères, pour manger ses fruits et ses bonnes choses ; voilà que nous sommes esclaves en elle.",
+          "grec": "ἰδού ἐσμεν σήμερον δοῦλοι καὶ ἡ γῆ ἣν ἔδωκας τοῖς πατράσιν ἡμῶν φαγεῖν τὸν καρπὸν αὐτῆς.",
+          "name": "Néhémie 9:36",
+          "chapter": "9"
+        },
+        {
+          "verse": "37",
+          "text": "Et ses fruits sont abondants pour les rois que vous avez mis sur nous en punition de nos péchés ; ils ont pouvoir sur nos corps et sur nos troupeaux, à leur gré, et nous sommes dans une grande affliction.",
+          "grec": "τοῖς βασιλεῦσιν οἷς ἔδωκας ἐφ' ἡμᾶς ἐν ἁμαρτίαις ἡμῶν καὶ ἐπὶ τὰ σώματα ἡμῶν ἐξουσιάζουσιν καὶ ἐν κτήνεσιν ἡμῶν ὡς ἀρεστὸν αὐτοῖς καὶ ἐν θλίψει μεγάλῃ ἐσμέν.",
+          "name": "Néhémie 9:37",
+          "chapter": "9"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "name": "Néhémie 10",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et, à cause de tout cela, nous vous promettons alliance et nous l'écrivons, et nos princes, et nos lévites, et nos prêtres y mettent leur sceau.",
+          "grec": "καὶ ἐν πᾶσι τούτοις ἡμεῖς διατιθέμεθα πίστιν καὶ γράφομεν καὶ ἐπισφραγίζουσιν πάντες ἄρχοντες ἡμῶν Λευῖται ἡμῶν ἱερεῖς ἡμῶν.",
+          "name": "Néhémie 10:1",
+          "chapter": "10"
+        },
+        {
+          "verse": "2",
+          "text": "Et à la tête de ceux qui la scellèrent furent Néhémias artasastha, fils d'Achalias, et Sédécias,",
+          "grec": "καὶ ἐπὶ τῶν σφραγιζόντων Νεεμιας υἱὸς Αχαλια καὶ Σεδεκιας.",
+          "name": "Néhémie 10:2",
+          "chapter": "10"
+        },
+        {
+          "verse": "3",
+          "text": "Fils d'Araïas, et Azarias, et Jérémie,",
+          "grec": "υἱὸς Σαραια καὶ Αζαρια καὶ Ιερμια.",
+          "name": "Néhémie 10:3",
+          "chapter": "10"
+        },
+        {
+          "verse": "4",
+          "text": "Phasur, Amarias, Melchias,",
+          "grec": "Φασουρ Αμαρια Μελχια.",
+          "name": "Néhémie 10:4",
+          "chapter": "10"
+        },
+        {
+          "verse": "5",
+          "text": "Attus, Sebani, Maluch,",
+          "grec": "Ατους Σεβανι Μαλουχ.",
+          "name": "Néhémie 10:5",
+          "chapter": "10"
+        },
+        {
+          "verse": "6",
+          "text": "Iram, Meramoth, Abdia",
+          "grec": "Ιραμ Μεραμωθ Αβδια.",
+          "name": "Néhémie 10:6",
+          "chapter": "10"
+        },
+        {
+          "verse": "7",
+          "text": "Daniel, Gannathon, Baruch,",
+          "grec": "Δανιηλ Γαναθων Βαρουχ.",
+          "name": "Néhémie 10:7",
+          "chapter": "10"
+        },
+        {
+          "verse": "8",
+          "text": "Mesulam, Abia, Miamin,",
+          "grec": "Μεσουλαμ Αβια Μιαμιν.",
+          "name": "Néhémie 10:8",
+          "chapter": "10"
+        },
+        {
+          "verse": "9",
+          "text": "Maazia, Belge, Samaïa, tous ceux-là prêtres.",
+          "grec": "Μααζια Βελγαι Σαμαια οὗτοι ἱερεῖς.",
+          "name": "Néhémie 10:9",
+          "chapter": "10"
+        },
+        {
+          "verse": "10",
+          "text": "Puis les lévites : Josué, fils d'Azanias, Banaïu, des fils d'Enadad, Cadmiel ;",
+          "grec": "καὶ οἱ Λευῖται Ἰησοῦς υἱὸς Αζανια Βαναιου ἀπὸ υἱῶν Ηναδαδ Καδμιηλ.",
+          "name": "Néhémie 10:10",
+          "chapter": "10"
+        },
+        {
+          "verse": "11",
+          "text": "Et ses frères Sabanias, Oduk, Calitan, Phélia, Anan,",
+          "grec": "καὶ οἱ ἀδελφοὶ αὐτοῦ Σαβανια Ωδουια Καλιτα Φελεϊα Αναν.",
+          "name": "Néhémie 10:11",
+          "chapter": "10"
+        },
+        {
+          "verse": "12",
+          "text": "Micha, Roob, Asébias,",
+          "grec": "Μιχα Ροωβ Εσεβιας.",
+          "name": "Néhémie 10:12",
+          "chapter": "10"
+        },
+        {
+          "verse": "13",
+          "text": "Zacchor, Sarabia, Sebania,",
+          "grec": "Ζαχωρ Σαραβια Σεβανια.",
+          "name": "Néhémie 10:13",
+          "chapter": "10"
+        },
+        {
+          "verse": "14",
+          "text": "Odum ; les fils de Banuaï,",
+          "grec": "Ωδουια υἱοὶ Βανουναι.",
+          "name": "Néhémie 10:14",
+          "chapter": "10"
+        },
+        {
+          "verse": "15",
+          "text": "Chefs du peuple : Pharos, Phaath-Moab, Zathuïa, fils de Bani,",
+          "grec": "ἄρχοντες τοῦ λαοῦ Φορος Φααθμωαβ Ηλαμ Ζαθουια υἱοὶ.",
+          "name": "Néhémie 10:15",
+          "chapter": "10"
+        },
+        {
+          "verse": "16",
+          "text": "Asgad, Bébaï,",
+          "grec": "Βανι Ασγαδ Βηβαι.",
+          "name": "Néhémie 10:16",
+          "chapter": "10"
+        },
+        {
+          "verse": "17",
+          "text": "Adania, Bagoï, Hédin,",
+          "grec": "Εδανια Βαγοι Ηδιν.",
+          "name": "Néhémie 10:17",
+          "chapter": "10"
+        },
+        {
+          "verse": "18",
+          "text": "Ater, Ezéchias, Azur,",
+          "grec": "Ατηρ Εζεκια Αζουρ.",
+          "name": "Néhémie 10:18",
+          "chapter": "10"
+        },
+        {
+          "verse": "19",
+          "text": "Oduïa, Esam, Bési,",
+          "grec": "Οδουια Ησαμ Βησι.",
+          "name": "Néhémie 10:19",
+          "chapter": "10"
+        },
+        {
+          "verse": "20",
+          "text": "Ariph, Anathoth, Nobaï,",
+          "grec": "Αριφ Αναθωθ Νωβαι.",
+          "name": "Néhémie 10:20",
+          "chapter": "10"
+        },
+        {
+          "verse": "21",
+          "text": "Megaphès, Mesollam, Hézir,",
+          "grec": "Μαγαφης Μεσουλαμ Ηζιρ.",
+          "name": "Néhémie 10:21",
+          "chapter": "10"
+        },
+        {
+          "verse": "22",
+          "text": "Mesozébel, Saduc, Jeddua,",
+          "grec": "Μεσωζεβηλ Σαδδουκ Ιεδδουα.",
+          "name": "Néhémie 10:22",
+          "chapter": "10"
+        },
+        {
+          "verse": "23",
+          "text": "Phattia, Anan, Anaïa,",
+          "grec": "Φαλτια Αναν Αναια.",
+          "name": "Néhémie 10:23",
+          "chapter": "10"
+        },
+        {
+          "verse": "24",
+          "text": "Osée, Ananias, Asub,",
+          "grec": "Ωσηε Ανανια Ασουβ.",
+          "name": "Néhémie 10:24",
+          "chapter": "10"
+        },
+        {
+          "verse": "25",
+          "text": "Aloès, Phalaï, Sobec,",
+          "grec": "Αλωης Φαλαϊ Σωβηκ.",
+          "name": "Néhémie 10:25",
+          "chapter": "10"
+        },
+        {
+          "verse": "26",
+          "text": "Reüm, Essabana, Maasia,",
+          "grec": "Ραουμ Εσαβανα Μαασαια.",
+          "name": "Néhémie 10:26",
+          "chapter": "10"
+        },
+        {
+          "verse": "27",
+          "text": "Et Aïa, Ainan, Enam,",
+          "grec": "καὶ Αϊα Αιναν Ηναν.",
+          "name": "Néhémie 10:27",
+          "chapter": "10"
+        },
+        {
+          "verse": "28",
+          "text": "Maluch, Héram, Baana.",
+          "grec": "Μαλουχ Ηραμ Βαανα.",
+          "name": "Néhémie 10:28",
+          "chapter": "10"
+        },
+        {
+          "verse": "29",
+          "text": "Et tout le reste du peuple, les prêtres, les lévites, les portiers, les chantres, les Nathinéens et tous ceux qui s'étaient retirés des gentils de la terre, pour revenir à la loi de Dieu, et leurs femmes et leurs filles ; tous ceux qui avaient savoir et intelligence,",
+          "grec": "καὶ οἱ κατάλοιποι τοῦ λαοῦ οἱ ἱερεῖς οἱ Λευῖται οἱ πυλωροί οἱ ᾄδοντες οἱ ναθινιμ καὶ πᾶς ὁ προσπορευόμενος ἀπὸ λαῶν τῆς γῆς πρὸς νόμον τοῦ θεοῦ γυναῖκες αὐτῶν υἱοὶ αὐτῶν θυγατέρες αὐτῶν πᾶς ὁ εἰδὼς καὶ συνίων.",
+          "name": "Néhémie 10:29",
+          "chapter": "10"
+        },
+        {
+          "verse": "30",
+          "text": "Furent pressants avec leurs frères, et les excitèrent par leurs malédictions ; et ceux-ci s'engagèrent, par malédictions et serments, à marcher selon la loi que Dieu a donnée par la main de Moïse, serviteur de Dieu, à garder les jugements, les préceptes et les commandements du Seigneur ;",
+          "grec": "ἐνίσχυον ἐπὶ τοὺς ἀδελφοὺς αὐτῶν κατηράσαντο αὐτοὺς καὶ εἰσήλθοσαν ἐν ἀρᾷ καὶ ἐν ὅρκῳ τοῦ πορεύεσθαι ἐν νόμῳ τοῦ θεοῦ ὃς ἐδόθη ἐν χειρὶ Μωυσῆ δούλου τοῦ θεοῦ καὶ φυλάσσεσθαι καὶ ποιεῖν πάσας τὰς ἐντολὰς κυρίου ἡμῶν καὶ κρίματα αὐτοῦ.",
+          "name": "Néhémie 10:30",
+          "chapter": "10"
+        },
+        {
+          "verse": "31",
+          "text": "A ne point donner nos filles en mariage aux peuples de la terre, et à ne point prendre leurs filles pour nos fils.",
+          "grec": "καὶ τοῦ μὴ δοῦναι θυγατέρας ἡμῶν τοῖς λαοῖς τῆς γῆς καὶ τὰς θυγατέρας αὐτῶν οὐ λημψόμεθα τοῖς υἱοῖς ἡμῶν.",
+          "name": "Néhémie 10:31",
+          "chapter": "10"
+        },
+        {
+          "verse": "32",
+          "text": "Nous n'achèterons rien, avons-nous dit, aux peuples de la terre qui viendront vendre le jour du sabbat ; nous ne trafiquerons, ni le jour du sabbat ; ni les jours sanctifiés ; nous remettrons les dettes la septième année.",
+          "grec": "καὶ λαοὶ τῆς γῆς οἱ φέροντες τοὺς ἀγορασμοὺς καὶ πᾶσαν πρᾶσιν ἐν ἡμέρᾳ τοῦ σαββάτου ἀποδόσθαι οὐκ ἀγορῶμεν παρ' αὐτῶν ἐν σαββάτῳ καὶ ἐν ἡμέρᾳ ἁγίᾳ καὶ ἀνήσομεν τὸ ἔτος τὸ ἕβδομον καὶ ἀπαίτησιν πάσης χειρός.",
+          "name": "Néhémie 10:32",
+          "chapter": "10"
+        },
+        {
+          "verse": "33",
+          "text": "Nous établirons une ordonnance afin de lever sur nous un tiers de drachme, par an, pour le service du temple de notre Dieu ;",
+          "grec": "καὶ στήσομεν ἐφ' ἡμᾶς ἐντολὰς δοῦναι ἐφ' ἡμᾶς τρίτον τοῦ διδράχμου κατ' ἐνιαυτὸν εἰς δουλείαν οἴκου θεοῦ ἡμῶν.",
+          "name": "Néhémie 10:33",
+          "chapter": "10"
+        },
+        {
+          "verse": "34",
+          "text": "Pour les pains de proposition, pour le sacrifice perpétuel, et pour l'holocauste perpétuel, tant des sabbats que des nouvelles lunes, pour les fêtes et les jours saints, pour les péchés, pour les hosties pacifiques et pour les travaux du temple de notre Dieu.",
+          "grec": "εἰς ἄρτους τοῦ προσώπου καὶ θυσίαν τοῦ ἐνδελεχισμοῦ καὶ εἰς ὁλοκαύτωμα τοῦ ἐνδελεχισμοῦ τῶν σαββάτων τῶν νουμηνιῶν εἰς τὰς ἑορτὰς καὶ εἰς τὰ ἅγια καὶ τὰ περὶ ἁμαρτίας ἐξιλάσασθαι περὶ Ισραηλ καὶ εἰς ἔργα οἴκου θεοῦ ἡμῶν.",
+          "name": "Néhémie 10:34",
+          "chapter": "10"
+        },
+        {
+          "verse": "35",
+          "text": "Nous avons ensuite jeté les sorts, entre les prêtres, les lévites et le peuple, par familles paternelles, pour régler l'oblation du bois dans le temple de notre Dieu, aux époques prescrites chaque année, pour faire les holocaustes sur l'autel du Seigneur notre Dieu, Comme il est écrit en la loi ;",
+          "grec": "καὶ κλήρους ἐβάλομεν περὶ κλήρου ξυλοφορίας οἱ ἱερεῖς καὶ οἱ Λευῖται καὶ ὁ λαός ἐνέγκαι εἰς οἶκον θεοῦ ἡμῶν εἰς οἶκον πατριῶν ἡμῶν εἰς καιροὺς ἀπὸ χρόνων ἐνιαυτὸν κατ' ἐνιαυτόν ἐκκαῦσαι ἐπὶ τὸ θυσιαστήριον κυρίου θεοῦ ἡμῶν ὡς γέγραπται ἐν τῷ νόμῳ.",
+          "name": "Néhémie 10:35",
+          "chapter": "10"
+        },
+        {
+          "verse": "36",
+          "text": "Pour que nous apportions les prémices des champs, et des arbres à fruit d'année en année, dans le temple du Seigneur,",
+          "grec": "καὶ ἐνέγκαι τὰ πρωτογενήματα τῆς γῆς ἡμῶν καὶ πρωτογενήματα καρποῦ παντὸς ξύλου ἐνιαυτὸν κατ' ἐνιαυτὸν εἰς οἶκον κυρίου.",
+          "name": "Néhémie 10:36",
+          "chapter": "10"
+        },
+        {
+          "verse": "37",
+          "text": "Et l'évaluation des fils premiers-nés, celle des premiers-nés des bêtes de somme, entre les mains des prêtres et des lévites de service dans le temple de Dieu ; comme il est écrit en la loi, et les premiers-nés de nos bœufs et de nos brebis ;",
+          "grec": "καὶ τὰ πρωτότοκα υἱῶν ἡμῶν καὶ κτηνῶν ἡμῶν ὡς γέγραπται ἐν τῷ νόμῳ καὶ τὰ πρωτότοκα βοῶν ἡμῶν καὶ ποιμνίων ἡμῶν ἐνέγκαι εἰς οἶκον θεοῦ ἡμῶν τοῖς ἱερεῦσιν τοῖς λειτουργοῦσιν ἐν οἴκῳ θεοῦ ἡμῶν.",
+          "name": "Néhémie 10:37",
+          "chapter": "10"
+        },
+        {
+          "verse": "38",
+          "text": "Et pour que nous apportions aux prêtres, pour le trésor du temple de Dieu, les prémices de notre blé, des fruits de nos arbres, du vin et de l'huile ; et aux lévites la dîme de notre terre, et pour que les lévites perçoivent la dîme en toutes les villes de la terre que nous cultivons.",
+          "grec": "καὶ τὴν ἀπαρχὴν σίτων ἡμῶν καὶ τὸν καρπὸν παντὸς ξύλου οἴνου καὶ ἐλαίου οἴσομεν τοῖς ἱερεῦσιν εἰς γαζοφυλάκιον οἴκου τοῦ θεοῦ καὶ δεκάτην γῆς ἡμῶν τοῖς Λευίταις καὶ αὐτοὶ οἱ Λευῖται δεκατοῦντες ἐν πάσαις πόλεσιν δουλείας ἡμῶν.",
+          "name": "Néhémie 10:38",
+          "chapter": "10"
+        },
+        {
+          "verse": "39",
+          "text": "Et nous avons dit : Le prêtre, fils d'Aaron, aura part avec le lévite à la dîme des lévites ; et les lévites offriront le dixième de leur dîme dans le temple de notre Dieu, et dans le trésor du temple.",
+          "grec": "καὶ ἔσται ὁ ἱερεὺς υἱὸς Ααρων μετὰ τοῦ Λευίτου ἐν τῇ δεκάτῃ τοῦ Λευίτου καὶ οἱ Λευῖται ἀνοίσουσιν τὴν δεκάτην τῆς δεκάτης εἰς οἶκον θεοῦ ἡμῶν εἰς τὰ γαζοφυλάκια εἰς οἶκον τοῦ θεοῦ.",
+          "name": "Néhémie 10:39",
+          "chapter": "10"
+        },
+        {
+          "verse": "40",
+          "text": "Car, les fils d'Israël et les fils de Lévi apporteront au trésor les prémices de leur blé, de leur vin, de leur huile ; et c'est là que seront les vases saints, sous la garde des prêtres, des serviteurs du temple, des chantres et des portiers ; et nous n'abandonnerons pas le temple de notre Dieu.",
+          "grec": "ὅτι εἰς τοὺς θησαυροὺς εἰσοίσουσιν οἱ υἱοὶ Ισραηλ καὶ οἱ υἱοὶ τοῦ Λευι τὰς ἀπαρχὰς τοῦ σίτου καὶ τοῦ οἴνου καὶ τοῦ ἐλαίου καὶ ἐκεῖ σκεύη τὰ ἅγια καὶ οἱ ἱερεῖς οἱ λειτουργοὶ καὶ οἱ πυλωροὶ καὶ οἱ ᾄδοντες καὶ οὐκ ἐγκαταλείψομεν τὸν οἶκον τοῦ θεοῦ ἡμῶν.",
+          "name": "Néhémie 10:40",
+          "chapter": "10"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "name": "Néhémie 11",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et les princes du peuple s'établirent à Jérusalem ; et parmi le reste du peuple, le sort désigna un homme sur dix pour résider en la ville sainte, les neuf autres dixièmes se dispersèrent dans les villes.",
+          "grec": "καὶ ἐκάθισαν οἱ ἄρχοντες τοῦ λαοῦ ἐν Ιερουσαλημ καὶ οἱ κατάλοιποι τοῦ λαοῦ ἐβάλοσαν κλήρους ἐνέγκαι ἕνα ἀπὸ τῶν δέκα καθίσαι ἐν Ιερουσαλημ πόλει τῇ ἁγίᾳ καὶ ἐννέα μέρη ἐν ταῖς πόλεσιν.",
+          "name": "Néhémie 11:1",
+          "chapter": "11"
+        },
+        {
+          "verse": "2",
+          "text": "Et le peuple bénit tous les hommes qui offrirent volontairement de rester à Jérusalem.",
+          "grec": "καὶ εὐλόγησεν ὁ λαὸς τοὺς πάντας ἄνδρας τοὺς ἑκουσιαζομένους καθίσαι ἐν Ιερουσαλημ.",
+          "name": "Néhémie 11:2",
+          "chapter": "11"
+        },
+        {
+          "verse": "3",
+          "text": "Voici les princes de la terre qui habitèrent, soit Jérusalem, soit les villes de Juda ; chacun demeura en son héritage et en sa ville : Israël, prêtres, lévites, Nathinéens, fils des serviteurs de Salomon :",
+          "grec": "καὶ οὗτοι οἱ ἄρχοντες τῆς χώρας οἳ ἐκάθισαν ἐν Ιερουσαλημ καὶ ἐν πόλεσιν Ιουδα ἐκάθισαν ἀνὴρ ἐν κατασχέσει αὐτοῦ ἐν πόλεσιν αὐτῶν Ισραηλ οἱ ἱερεῖς καὶ οἱ Λευῖται καὶ οἱ ναθιναῖοι καὶ οἱ υἱοὶ δούλων Σαλωμων.",
+          "name": "Néhémie 11:3",
+          "chapter": "11"
+        },
+        {
+          "verse": "4",
+          "text": "A Jérusalem, il y eut des fils de Juda et des fils de Benjamin ; fils de Juda : Athaïa, fils d'Azia, fils de Zacharie, fils de Samarie, fils de Saphatia, fils de Malalehel ; fils de Pharès ;",
+          "grec": "καὶ ἐν Ιερουσαλημ ἐκάθισαν ἀπὸ υἱῶν Ιουδα καὶ ἀπὸ υἱῶν Βενιαμιν ἀπὸ υἱῶν Ιουδα Αθαια υἱὸς Αζαια υἱὸς Ζαχαρια υἱὸς Αμαρια υἱὸς Σαφατια υἱὸς Μαλεληλ καὶ ἀπὸ υἱῶν Φαρες.",
+          "name": "Néhémie 11:4",
+          "chapter": "11"
+        },
+        {
+          "verse": "5",
+          "text": "Klaasia, fils de Baruch, fils de Chaluza, fils d'Ozias, fils d'Adalas, fils de Joarib, fils de Zacharie, fils de Seloni.",
+          "grec": "καὶ Μαασια υἱὸς Βαρουχ υἱὸς Χαλαζα υἱὸς Οζια υἱὸς Αδαια υἱὸς Ιωριβ υἱὸς Θηζια υἱὸς τοῦ Σηλωνι.",
+          "name": "Néhémie 11:5",
+          "chapter": "11"
+        },
+        {
+          "verse": "6",
+          "text": "Tous les fils de Pharès qui s'établirent à Jérusalem, étaient au nombre de trois cent soixante-huit, c'étaient des hommes vaillants.",
+          "grec": "πάντες υἱοὶ Φαρες οἱ καθήμενοι ἐν Ιερουσαλημ τετρακόσιοι ἑξήκοντα ὀκτὼ ἄνδρες δυνάμεως.",
+          "name": "Néhémie 11:6",
+          "chapter": "11"
+        },
+        {
+          "verse": "7",
+          "text": "Fils de Benjamin : Selo, fils de Mesulam, fils de Joad, fils de Phadaïa, fils de Coleïa, fils de Maasia, fils d'Echiel, fils de Jésia,",
+          "grec": "καὶ οὗτοι υἱοὶ Βενιαμιν Σηλω υἱὸς Μεσουλαμ υἱὸς Ιωαδ υἱὸς Φαδαια υἱὸς Κωλια υἱὸς Μασαια υἱὸς Αιθιηλ υἱὸς Ιεσια.",
+          "name": "Néhémie 11:7",
+          "chapter": "11"
+        },
+        {
+          "verse": "8",
+          "text": "Et après lui Gebé, Séti, et neuf cent vingt-huit hommes.",
+          "grec": "καὶ ὀπίσω αὐτοῦ Γηβι Σηλι ἐννακόσιοι εἴκοσι ὀκτώ.",
+          "name": "Néhémie 11:8",
+          "chapter": "11"
+        },
+        {
+          "verse": "9",
+          "text": "Johel, fils de Zéchri, était leur surveillant, et il était secondé dans la ville par Juda, fils d'Asana.",
+          "grec": "καὶ Ιωηλ υἱὸς Ζεχρι ἐπίσκοπος ἐπ' αὐτούς καὶ Ιουδας υἱὸς Ασανα ἐπὶ τῆς πόλεως δεύτερος.",
+          "name": "Néhémie 11:9",
+          "chapter": "11"
+        },
+        {
+          "verse": "10",
+          "text": "Et il y avait les prêtres Jadia, fils de Joarib, Jachin, et",
+          "grec": "ἀπὸ τῶν ἱερέων καὶ Ιαδια υἱὸς Ιωριβ Ιαχιν.",
+          "name": "Néhémie 11:10",
+          "chapter": "11"
+        },
+        {
+          "verse": "11",
+          "text": "Saraïa, fils d'Elcias, fils de Mesulam, fils de Saddoc, fils de Marioth, fils d'Aïtoth, prince de la maison de Dieu.",
+          "grec": "Σαραια υἱὸς Ελκια υἱὸς Μεσουλαμ υἱὸς Σαδδουκ υἱὸς Μαριωθ υἱὸς Αϊτωβ ἀπέναντι οἴκου τοῦ θεοῦ.",
+          "name": "Néhémie 11:11",
+          "chapter": "11"
+        },
+        {
+          "verse": "12",
+          "text": "Et leurs frères faisant les œuvres du temple, étaient au nombre de huit cent vingt-deux. Et Addia, fils de Jéroam, fils de Phalalia, fils d'Amasi, fils de Zacharie, fils de Phassur, fils de Melchias,",
+          "grec": "καὶ ἀδελφοὶ αὐτῶν ποιοῦντες τὸ ἔργον τοῦ οἴκου Αμασι υἱὸς Ζαχαρια υἱὸς Φασσουρ υἱὸς Μελχια.",
+          "name": "Néhémie 11:12",
+          "chapter": "11"
+        },
+        {
+          "verse": "13",
+          "text": "Et ses frères chefs de familles paternelles, au nombre de deux cent quarante-deux. Et Amasias, fils d'Esdriel, fils de Mesarimith, fils d'Emmer,",
+          "grec": "ἄρχοντες πατριῶν διακόσιοι τεσσαράκοντα δύο καὶ Αμεσσαι υἱὸς Εσδριηλ.",
+          "name": "Néhémie 11:13",
+          "chapter": "11"
+        },
+        {
+          "verse": "14",
+          "text": "Et ses frères, hommes vaillants, au nombre de cent vingt-huit ; et ils avaient pour surveillant Badiel, fils de l'un des puissants.",
+          "grec": "καὶ ἀδελφοὶ αὐτοῦ δυνατοὶ παρατάξεως ἑκατὸν εἴκοσι ὀκτώ καὶ ἐπίσκοπος ἐπ' αὐτῶν Βαδιηλ.",
+          "name": "Néhémie 11:14",
+          "chapter": "11"
+        },
+        {
+          "verse": "15",
+          "text": "Et il y avait les lévites : Samaïa, fils d'Esricam,",
+          "grec": "καὶ ἀπὸ τῶν Λευιτῶν Σαμαια υἱὸς Ασουβ υἱὸς Εζρι.",
+          "name": "Néhémie 11:15",
+          "chapter": "11"
+        },
+        {
+          "verse": "17",
+          "text": "Matthanias, fils de Micha, et Jobeb, fils de Samuï, et",
+          "grec": "καὶ Μαθανια υἱὸς Μιχα καὶ Ωβηδ υἱὸς Σαμουι.",
+          "name": "Néhémie 11:17",
+          "chapter": "11"
+        },
+        {
+          "verse": "18",
+          "text": "Deux cent quatre-vingt-quatre hommes.",
+          "grec": "διακόσιοι ὀγδοήκοντα τέσσαρες.",
+          "name": "Néhémie 11:18",
+          "chapter": "11"
+        },
+        {
+          "verse": "19",
+          "text": "Et il y avait les portiers : Acub, Telamin et leurs frères, cent soixante-douze.",
+          "grec": "καὶ οἱ πυλωροὶ Ακουβ Τελαμιν καὶ οἱ ἀδελφοὶ αὐτῶν ἑκατὸν ἑβδομήκοντα δύο.",
+          "name": "Néhémie 11:19",
+          "chapter": "11"
+        },
+        {
+          "verse": "22",
+          "text": "Et le surveillant des lévites était le fils de Bani, fils d'Ozi, fils d'Asabia, fils de Micha. Et il y avait les chantres, fils d'Asaph, employés au service du temple de Dieu,",
+          "grec": "καὶ ἐπίσκοπος Λευιτῶν υἱὸς Βανι Οζι υἱὸς Ασαβια υἱὸς Μιχα ἀπὸ υἱῶν Ασαφ τῶν ᾀδόντων ἀπέναντι ἔργου οἴκου τοῦ θεοῦ.",
+          "name": "Néhémie 11:22",
+          "chapter": "11"
+        },
+        {
+          "verse": "23",
+          "text": "Selon le règlement que le roi David avait fait pour eux.",
+          "grec": "ὅτι ἐντολὴ τοῦ βασιλέως ἐπ' αὐτούς.",
+          "name": "Néhémie 11:23",
+          "chapter": "11"
+        },
+        {
+          "verse": "24",
+          "text": "Et Phathaia, fils de Baseza, tenait lieu de la main du roi, pour toutes les affaires concernant le peuple,",
+          "grec": "καὶ Παθαια υἱὸς Βασηζα πρὸς χεῖρα τοῦ βασιλέως εἰς πᾶν ῥῆμα τῷ λαῷ.",
+          "name": "Néhémie 11:24",
+          "chapter": "11"
+        },
+        {
+          "verse": "25",
+          "text": "Et pour les affaires des bourgs et des champs. Et il y eut des fils de Juda, à Cariath-Arboc,",
+          "grec": "καὶ πρὸς τὰς ἐπαύλεις ἐν ἀγρῷ αὐτῶν καὶ ἀπὸ υἱῶν Ιουδα ἐκάθισαν ἐν Καριαθαρβοκ.",
+          "name": "Néhémie 11:25",
+          "chapter": "11"
+        },
+        {
+          "verse": "26",
+          "text": "Et à Josué,",
+          "grec": "καὶ ἐν Ιησου.",
+          "name": "Néhémie 11:26",
+          "chapter": "11"
+        },
+        {
+          "verse": "27",
+          "text": "Et à Bersabée,",
+          "grec": "καὶ ἐν Βεηρσαβεε.",
+          "name": "Néhémie 11:27",
+          "chapter": "11"
+        },
+        {
+          "verse": "30",
+          "text": "et dans ses faubourgs, dont faisaient partie Lachis et ses champs ; mais à Bersabée était la résidence.",
+          "grec": "καὶ ἐπαύλεις αὐτῶν Λαχις καὶ ἀγροὶ αὐτῆς καὶ παρενεβάλοσαν ἐν Βεηρσαβεε.",
+          "name": "Néhémie 11:30",
+          "chapter": "11"
+        },
+        {
+          "verse": "31",
+          "text": "Et des fils de Benjamin habitaient de Gabaa à Machmas.",
+          "grec": "καὶ οἱ υἱοὶ Βενιαμιν ἀπὸ Γαβα Μαχαμας.",
+          "name": "Néhémie 11:31",
+          "chapter": "11"
+        },
+        {
+          "verse": "36",
+          "text": "Et quelques-uns des lévites avaient leurs parts en Juda et Benjamin.",
+          "grec": "καὶ ἀπὸ τῶν Λευιτῶν μερίδες Ιουδα τῷ Βενιαμιν.",
+          "name": "Néhémie 11:36",
+          "chapter": "11"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "name": "Néhémie 12",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et voici les prêtres et les lévites qui étaient revenus avec Zorobabel, fils de Salathiel et Josué : Saraïa, Jérémie, Esdras,",
+          "grec": "καὶ οὗτοι οἱ ἱερεῖς καὶ οἱ Λευῖται οἱ ἀναβαίνοντες μετὰ Ζοροβαβελ υἱοῦ Σαλαθιηλ καὶ Ἰησοῦ Σαραια Ιερμια Εσδρα.",
+          "name": "Néhémie 12:1",
+          "chapter": "12"
+        },
+        {
+          "verse": "2",
+          "text": "Amarias, Maluch,",
+          "grec": "Αμαρια Μαλουχ.",
+          "name": "Néhémie 12:2",
+          "chapter": "12"
+        },
+        {
+          "verse": "3",
+          "text": "Sechénias ;",
+          "grec": "Σεχενια.",
+          "name": "Néhémie 12:3",
+          "chapter": "12"
+        },
+        {
+          "verse": "7",
+          "text": "Tels étaient les princes des prêtres, et leurs frères du temps de Josué.",
+          "grec": "οὗτοι ἄρχοντες τῶν ἱερέων καὶ ἀδελφοὶ αὐτῶν ἐν ἡμέραις Ἰησοῦ.",
+          "name": "Néhémie 12:7",
+          "chapter": "12"
+        },
+        {
+          "verse": "8",
+          "text": "Et les lévites étaient Josué, Banni, Cadmiel, Sarabia, Joad, Matthanias (celui-ci dirigeait les chants, et leurs frères étaient désignés",
+          "grec": "καὶ οἱ Λευῖται Ιησου Βανουι Καδμιηλ Σαραβια Ιουδα Μαχανια ἐπὶ τῶν χειρῶν αὐτὸς καὶ οἱ ἀδελφοὶ αὐτοῦ.",
+          "name": "Néhémie 12:8",
+          "chapter": "12"
+        },
+        {
+          "verse": "9",
+          "text": "Pour les services journaliers).",
+          "grec": "εἰς τὰς ἐφημερίας.",
+          "name": "Néhémie 12:9",
+          "chapter": "12"
+        },
+        {
+          "verse": "10",
+          "text": "Or, Josué engendra Joacim, et Joacim engendra Eliasib, et Eliasib engendra Joad,",
+          "grec": "καὶ Ἰησοῦς ἐγέννησεν τὸν Ιωακιμ καὶ Ιωακιμ ἐγέννησεν τὸν Ελιασιβ καὶ Ελιασιβ τὸν Ιωδαε.",
+          "name": "Néhémie 12:10",
+          "chapter": "12"
+        },
+        {
+          "verse": "11",
+          "text": "Et Joad engendra Jonathas, et Jonathas engendra Jadu.",
+          "grec": "καὶ Ιωδαε ἐγέννησεν τὸν Ιωναθαν καὶ Ιωναθαν ἐγέννησεν τὸν Ιαδου.",
+          "name": "Néhémie 12:11",
+          "chapter": "12"
+        },
+        {
+          "verse": "12",
+          "text": "Et du temps de Joacim, ses frères, les prêtres et les chefs des familles paternelles, étaient, savoir : De la famille de Saraïa, Amarias ; de celle de Jérémie, Ananias ;",
+          "grec": "καὶ ἐν ἡμέραις Ιωακιμ ἀδελφοὶ αὐτοῦ οἱ ἱερεῖς καὶ οἱ ἄρχοντες τῶν πατριῶν τῷ Σαραια Μαραια τῷ Ιερμια Ανανια.",
+          "name": "Néhémie 12:12",
+          "chapter": "12"
+        },
+        {
+          "verse": "13",
+          "text": "De celle d'Esdras, Mesulam ; de celle d'Amarias, Johanan ;",
+          "grec": "τῷ Εσδρα Μεσουλαμ τῷ Αμαρια Ιωαναν.",
+          "name": "Néhémie 12:13",
+          "chapter": "12"
+        },
+        {
+          "verse": "14",
+          "text": "De celle d'Amaluch, Jonathas ; de celle de Sechénias, Joseph ;",
+          "grec": "τῷ Μαλουχ Ιωναθαν τῷ Σεχενια Ιωσηφ.",
+          "name": "Néhémie 12:14",
+          "chapter": "12"
+        },
+        {
+          "verse": "15",
+          "text": "De celle d'Aré, Mannas ; de celle de Marioth, Elcaï ;",
+          "grec": "τῷ Αρεμ Αδνας τῷ Μαριωθ Ελκαι.",
+          "name": "Néhémie 12:15",
+          "chapter": "12"
+        },
+        {
+          "verse": "16",
+          "text": "De celle d'Adadaï, Zacharie ; de celle de Ganathoth, Mesolam ;",
+          "grec": "τῷ Αδδαι Ζαχαριας τῷ Γαναθων Μοσολλαμ.",
+          "name": "Néhémie 12:16",
+          "chapter": "12"
+        },
+        {
+          "verse": "17",
+          "text": "De celle d'Abias, Zéchri ; de celle de Miamin, Maadaï ; de celle de Phéléthi ;",
+          "grec": "τῷ Αβια Ζεχρι τῷ Βενιαμιν ἐν καιροῖς τῷ Φελητι.",
+          "name": "Néhémie 12:17",
+          "chapter": "12"
+        },
+        {
+          "verse": "18",
+          "text": "De la famille de Balgas, Samué ; de celle de Semias, Jonathan ;",
+          "grec": "τῷ Βαλγα Σαμουε τῷ Σεμεια Ιωναθαν.",
+          "name": "Néhémie 12:18",
+          "chapter": "12"
+        },
+        {
+          "verse": "19",
+          "text": "De celle de Joarib, Matthanaï ; de celle d'Edio, Ozi ;",
+          "grec": "τῷ Ιωιαριβ Μαθθαναι τῷ Ιδια Οζι.",
+          "name": "Néhémie 12:19",
+          "chapter": "12"
+        },
+        {
+          "verse": "20",
+          "text": "De celle de Salaï, Callaï ; de celle d'Amec, Abed ;",
+          "grec": "τῷ Σαλλαι Καλλαι τῷ Αμουκ Αβεδ.",
+          "name": "Néhémie 12:20",
+          "chapter": "12"
+        },
+        {
+          "verse": "21",
+          "text": "De celle d'Elcias, Asabias ; de celle de Jedeïu, Nathanaël ;",
+          "grec": "τῷ Ελκια Ασαβιας τῷ Ιεδεϊου Ναθαναηλ.",
+          "name": "Néhémie 12:21",
+          "chapter": "12"
+        },
+        {
+          "verse": "22",
+          "text": "Les lévites du temps d'Eliasib étaient Joad, Joas, Johanan et Idua, inscrits comme chefs de familles, ainsi que les prêtres sous le règne de Darius le Perse.",
+          "grec": "οἱ Λευῖται ἐν ἡμέραις Ελιασιβ Ιωαδα καὶ Ιωαναν καὶ Ιδουα γεγραμμένοι ἄρχοντες πατριῶν καὶ οἱ ἱερεῖς ἐν βασιλείᾳ Δαρείου τοῦ Πέρσου.",
+          "name": "Néhémie 12:22",
+          "chapter": "12"
+        },
+        {
+          "verse": "23",
+          "text": "Les fils de Lévi, chefs de familles paternelles, ont été inscrits dans le livre du récit de ces temps, jusqu'aux jours de Johanan, fils d'Elisué.",
+          "grec": "υἱοὶ Λευι ἄρχοντες τῶν πατριῶν γεγραμμένοι ἐπὶ βιβλίῳ λόγων τῶν ἡμερῶν καὶ ἕως ἡμερῶν Ιωαναν υἱοῦ Ελισουβ.",
+          "name": "Néhémie 12:23",
+          "chapter": "12"
+        },
+        {
+          "verse": "24",
+          "text": "Et les chefs des lévites étaient Asabia, et Sarabia, et Josué, et les fils de Cadmiel et leurs frères, se tenaient devant eux lorsqu'ils chantaient les louanges du Seigneur, journellement comme l'avait prescrit David, homme de Dieu.",
+          "grec": "καὶ ἄρχοντες τῶν Λευιτῶν Ασαβια καὶ Σαραβια καὶ Ιησου καὶ υἱοὶ Καδμιηλ καὶ οἱ ἀδελφοὶ αὐτῶν κατεναντίον αὐτῶν εἰς ὑμνεῖν καὶ αἰνεῖν ἐν ἐντολῇ Δαυιδ ἀνθρώπου τοῦ θεοῦ ἐφημερία πρὸς ἐφημερίαν.",
+          "name": "Néhémie 12:24",
+          "chapter": "12"
+        },
+        {
+          "verse": "25",
+          "text": "Je ressemblai aussi les portiers,",
+          "grec": "ἐν τῷ συναγαγεῖν με τοὺς πυλωροὺς.",
+          "name": "Néhémie 12:25",
+          "chapter": "12"
+        },
+        {
+          "verse": "26",
+          "text": "Du temps de Joacim, fils de Josué, fils de Josédec, et du temps de Néhémias, et alors Esdras était prêtre et scribe.",
+          "grec": "ἐν ἡμέραις Ιωακιμ υἱοῦ Ἰησοῦ υἱοῦ Ιωσεδεκ καὶ ἐν ἡμέραις Νεεμια καὶ Εσδρας ὁ ἱερεὺς ὁ γραμματεύς.",
+          "name": "Néhémie 12:26",
+          "chapter": "12"
+        },
+        {
+          "verse": "27",
+          "text": "Et lorsque l'on fit la dédicace des murs de Jérusalem, on chercha les lévites en leurs résidences pour les amener à Jérusalem, et faire la fête de la dédicace et les réjouissances, avec des actions de grâces et des chants accompagnés de harpes et de cymbales,",
+          "grec": "καὶ ἐν ἐγκαινίοις τείχους Ιερουσαλημ ἐζήτησαν τοὺς Λευίτας ἐν τοῖς τόποις αὐτῶν τοῦ ἐνέγκαι αὐτοὺς εἰς Ιερουσαλημ ποιῆσαι ἐγκαίνια καὶ εὐφροσύνην ἐν θωδαθα καὶ ἐν ᾠδαῖς κυμβαλίζοντες καὶ ψαλτήρια καὶ κινύραι.",
+          "name": "Néhémie 12:27",
+          "chapter": "12"
+        },
+        {
+          "verse": "28",
+          "text": "Et les fils des chantres vinrent de la banlieue de Jérusalem, et de ses villages,",
+          "grec": "καὶ συνήχθησαν οἱ υἱοὶ τῶν ᾀδόντων καὶ ἀπὸ τῆς περιχώρου κυκλόθεν εἰς Ιερουσαλημ καὶ ἀπὸ ἐπαύλεων.",
+          "name": "Néhémie 12:28",
+          "chapter": "12"
+        },
+        {
+          "verse": "29",
+          "text": "Et de ses campagnes, car ils s'étaient bâti des demeures autour de Jérusalem.",
+          "grec": "καὶ ἀπὸ ἀγρῶν ὅτι ἐπαύλεις ᾠκοδόμησαν ἑαυτοῖς οἱ ᾄδοντες ἐν Ιερουσαλημ.",
+          "name": "Néhémie 12:29",
+          "chapter": "12"
+        },
+        {
+          "verse": "30",
+          "text": "Et les prêtres et les lévites, après s'être purifiés, purifièrent le peuple, et les portiers, et les remparts.",
+          "grec": "καὶ ἐκαθαρίσθησαν οἱ ἱερεῖς καὶ οἱ Λευῖται καὶ ἐκαθάρισαν τὸν λαὸν καὶ τοὺς πυλωροὺς καὶ τὸ τεῖχος.",
+          "name": "Néhémie 12:30",
+          "chapter": "12"
+        },
+        {
+          "verse": "31",
+          "text": "Et l'on fit monter les princes de Juda sur le rempart avec deux chœurs, pour chanter des actions de grâces à Dieu, et ils tournèrent sur le rempart à droite se dirigeant vers la porte du Fumier.",
+          "grec": "καὶ ἀνήνεγκα τοὺς ἄρχοντας Ιουδα ἐπάνω τοῦ τείχους καὶ ἔστησα δύο περὶ αἰνέσεως μεγάλους καὶ διῆλθον ἐκ δεξιῶν ἐπάνω τοῦ τείχους τῆς κοπρίας.",
+          "name": "Néhémie 12:31",
+          "chapter": "12"
+        },
+        {
+          "verse": "32",
+          "text": "Et derrière les chantres marchaient Osaïas et la moitié des princes de Juda,",
+          "grec": "καὶ ἐπορεύθη ὀπίσω αὐτῶν Ωσαια καὶ ἥμισυ ἀρχόντων Ιουδα.",
+          "name": "Néhémie 12:32",
+          "chapter": "12"
+        },
+        {
+          "verse": "33",
+          "text": "Et Azarias, Esdras, Mesollam,",
+          "grec": "καὶ Αζαριας Εσδρας καὶ Μεσουλαμ.",
+          "name": "Néhémie 12:33",
+          "chapter": "12"
+        },
+        {
+          "verse": "34",
+          "text": "Juda, Benjamin, Samaïas et Jérémie,",
+          "grec": "Ιουδα καὶ Βενιαμιν καὶ Σαμαια καὶ Ιερμια.",
+          "name": "Néhémie 12:34",
+          "chapter": "12"
+        },
+        {
+          "verse": "35",
+          "text": "Et des fils des prêtres avec les trompettes : Zacharie, fils de Jonathas, fils de Samaïas, fils de Matthanias, fils de Michée, fils de Zacchur, fils d'Asaph,",
+          "grec": "καὶ ἀπὸ υἱῶν τῶν ἱερέων ἐν σάλπιγξιν Ζαχαριας υἱὸς Ιωναθαν υἱὸς Σαμαια υἱὸς Μαθανια υἱὸς Μιχαια υἱὸς Ζακχουρ υἱὸς Ασαφ.",
+          "name": "Néhémie 12:35",
+          "chapter": "12"
+        },
+        {
+          "verse": "36",
+          "text": "Et ses frères Samaïas, Oziel et Gelod, Jama, Aïas, Nathanaël, Juda et Anani, et ils chantaient les cantiques de David, homme de Dieu ; et Esdras, le scribe, les avait devancés",
+          "grec": "καὶ ἀδελφοὶ αὐτοῦ Σαμαια καὶ Οζιηλ αἰνεῖν ἐν ᾠδαῖς Δαυιδ ἀνθρώπου τοῦ θεοῦ καὶ Εσδρας ὁ γραμματεὺς ἔμπροσθεν αὐτῶν.",
+          "name": "Néhémie 12:36",
+          "chapter": "12"
+        },
+        {
+          "verse": "37",
+          "text": "Sur la porte 'pour chanter devant eux les louanges du Seigneur). Et ils montèrent par les degrés de la ville de David sur le mur, au-dessus du palais de ce roi, et ils allèrent jusqu'à la porte des Eaux à l'Est [d'Elihrem ;]",
+          "grec": "ἐπὶ πύλης τοῦ αιν κατέναντι αὐτῶν ἀνέβησαν ἐπὶ κλίμακας πόλεως Δαυιδ ἐν ἀναβάσει τοῦ τείχους ἐπάνωθεν τοῦ οἴκου Δαυιδ καὶ ἕως πύλης τοῦ ὕδατος κατὰ ἀνατολάς.",
+          "name": "Néhémie 12:37",
+          "chapter": "12"
+        },
+        {
+          "verse": "38",
+          "text": "{Et le second chœur marcha du côté opposé, et je le suivais, moi et la moitié du peuple, sur la muraille, au-dessus de la tour des Fours, jusqu'à la muraille large.}",
+          "grec": "καὶ περὶ αἰνέσεως ἡ δευτέρα ἐπορεύετο συναντῶσα αὐτοῖς καὶ ἐγὼ ὀπίσω αὐτῆς καὶ τὸ ἥμισυ τοῦ λαοῦ ἐπάνω τοῦ τείχους ὑπεράνω τοῦ πύργου τῶν θεννουριμ καὶ ἕως τοῦ τείχους τοῦ πλατέος.",
+          "name": "Néhémie 12:38",
+          "chapter": "12"
+        },
+        {
+          "verse": "39",
+          "text": "{Au dessus de la tour d'Ephraïm,} de là, ils passèrent à la porte des Poissons, puis à la tour d'Anamehel, et enfin à la porte Probatique, {et l'on s'arrêta à la porte de la prison.}",
+          "grec": "καὶ ὑπεράνω τῆς πύλης Εφραιμ καὶ ἐπὶ πύλην τῆς ισανα καὶ ἐπὶ πύλην τὴν ἰχθυηρὰν καὶ πύργῳ Ανανεηλ καὶ ἕως πύλης τῆς προβατικῆς καὶ ἔστησαν ἐν πύλῃ τῆς φυλακῆς.",
+          "name": "Néhémie 12:39",
+          "chapter": "12"
+        },
+        {
+          "verse": "40",
+          "text": "{Et les deux chœurs s'arrêtèrent dans la maison de Dieu, ainsi que moi et la moitié des magistrats, qui m'accompagnait.}",
+          "grec": "καὶ ἔστησαν αἱ δύο τῆς αἰνέσεως ἐν οἴκῳ τοῦ θεοῦ καὶ ἐγὼ καὶ τὸ ἥμισυ τῶν στρατηγῶν μετ' ἐμοῦ.",
+          "name": "Néhémie 12:40",
+          "chapter": "12"
+        },
+        {
+          "verse": "41",
+          "text": "{Et les sacrificateurs Eliakim, Maaséia, Minjamin, Micaïa, Eljoénaï, Zacharie, Hanania avec des trompettes.}",
+          "grec": "καὶ οἱ ἱερεῖς Ελιακιμ Μαασιας Βενιαμιν Μιχαιας Ελιωηναι Ζαχαριας Ανανιας ἐν σάλπιγξιν.",
+          "name": "Néhémie 12:41",
+          "chapter": "12"
+        },
+        {
+          "verse": "42",
+          "text": "{et Maaséia et Sémaïa et Eléazar et Uzzi et Johanan et Malkija et Elam et Ezer, et les chantres furent entendus et comptés.}",
+          "grec": "καὶ Μαασιας καὶ Σεμειας καὶ Ελεαζαρ καὶ Οζι καὶ Ιωαναν καὶ Μελχιας καὶ Αιλαμ καὶ Εζουρ καὶ ἠκούσθησαν οἱ ᾄδοντες καὶ ἐπεσκέπησαν.",
+          "name": "Néhémie 12:42",
+          "chapter": "12"
+        },
+        {
+          "verse": "43",
+          "text": "Et ce jour-là, on immola de nombreuses victimes et la joie était grande, car Dieu les avait grandement réjouis, et leurs femmes et leurs enfants prenaient part à ces réjouissances, et les cris joyeux de Jérusalem s'entendaient au loin.",
+          "grec": "καὶ ἔθυσαν ἐν τῇ ἡμέρᾳ ἐκείνῃ θυσιάσματα μεγάλα καὶ ηὐφράνθησαν ὅτι ὁ θεὸς ηὔφρανεν αὐτοὺς μεγάλως καὶ αἱ γυναῖκες αὐτῶν καὶ τὰ τέκνα αὐτῶν ηὐφράνθησαν καὶ ἠκούσθη ἡ εὐφροσύνη ἐν Ιερουσαλημ ἀπὸ μακρόθεν.",
+          "name": "Néhémie 12:43",
+          "chapter": "12"
+        },
+        {
+          "verse": "44",
+          "text": "Et ce jour-là, on institua des gardiens des trésors, des prémices et des dîmes, et des hommes pour les recueillir dans les villes, et on les choisit parmi les prêtres et les lévites ; car Juda se réjouissait d'avoir vu les lévites et les prêtres reprendre leurs fonctions.",
+          "grec": "καὶ κατέστησαν ἐν τῇ ἡμέρᾳ ἐκείνῃ ἄνδρας ἐπὶ τῶν γαζοφυλακίων τοῖς θησαυροῖς ταῖς ἀπαρχαῖς καὶ ταῖς δεκάταις καὶ τοῖς συνηγμένοις ἐν αὐτοῖς ἄρχουσιν τῶν πόλεων μερίδας τοῖς ἱερεῦσι καὶ τοῖς Λευίταις ὅτι εὐφροσύνη ἦν ἐν Ιουδα ἐπὶ τοὺς ἱερεῖς καὶ ἐπὶ τοὺς Λευίτας τοὺς ἑστῶτας.",
+          "name": "Néhémie 12:44",
+          "chapter": "12"
+        },
+        {
+          "verse": "45",
+          "text": "Et l'on remit en vigueur les règlements de David et de Salomon, son fils, concernant les purifications, ainsi que les chantres et les portiers.",
+          "grec": "καὶ ἐφύλαξαν φυλακὰς θεοῦ αὐτῶν καὶ φυλακὰς τοῦ καθαρισμοῦ καὶ τοὺς ᾄδοντας καὶ τοὺς πυλωροὺς ὡς ἐντολαὶ Δαυιδ καὶ Σαλωμων υἱοῦ αὐτοῦ.",
+          "name": "Néhémie 12:45",
+          "chapter": "12"
+        },
+        {
+          "verse": "46",
+          "text": "Car, du temps de David, Asaph était à la tête des chantres, et de ceux qui célébraient le Seigneur.",
+          "grec": "ὅτι ἐν ἡμέραις Δαυιδ Ασαφ ἀπ' ἀρχῆς πρῶτος τῶν ᾀδόντων καὶ ὕμνον καὶ αἴνεσιν τῷ θεῷ.",
+          "name": "Néhémie 12:46",
+          "chapter": "12"
+        },
+        {
+          "verse": "47",
+          "text": "Et du temps de Zorobabel et de Néhémias, tout le peuple d'Israël assigna des parts aux chantres et aux portiers ; on les leur distribuait chaque jour. On donnait aussi aux lévites ce qui leur était dû de la chair des sacrifices, et les lévites donnaient aux fils d'Aaron la part qui leur en revenait.",
+          "grec": "καὶ πᾶς Ισραηλ ἐν ἡμέραις Ζοροβαβελ διδόντες μερίδας τῶν ᾀδόντων καὶ τῶν πυλωρῶν λόγον ἡμέρας ἐν ἡμέρᾳ αὐτοῦ καὶ ἁγιάζοντες τοῖς Λευίταις καὶ οἱ Λευῖται ἁγιάζοντες τοῖς υἱοῖς Ααρων.",
+          "name": "Néhémie 12:47",
+          "chapter": "12"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "name": "Néhémie 13",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "En ce jour-là, on lut à haute voix au peuple le livre de Moïse, et on y trouva écrit : Que les Ammonites et les Moabites ne devaient jamais entrer dans l'Église de Dieu.",
+          "grec": "ἐν τῇ ἡμέρᾳ ἐκείνῃ ἀνεγνώσθη ἐν βιβλίῳ Μωυσῆ ἐν ὠσὶν τοῦ λαοῦ καὶ εὑρέθη γεγραμμένον ἐν αὐτῷ ὅπως μὴ εἰσέλθωσιν Αμμανῖται καὶ Μωαβῖται ἐν ἐκκλησίᾳ θεοῦ ἕως αἰῶνος.",
+          "name": "Néhémie 13:1",
+          "chapter": "13"
+        },
+        {
+          "verse": "2",
+          "text": "Parce qu'ils n'étaient point venus au-devant d'Israël avec du pain et de l'eau, et qu'ils avaient salarié Balaam pour le maudire ; mais, notre Dieu changea la malédiction en bénédiction.",
+          "grec": "ὅτι οὐ συνήντησαν τοῖς υἱοῖς Ισραηλ ἐν ἄρτῳ καὶ ἐν ὕδατι καὶ ἐμισθώσαντο ἐπ' αὐτὸν τὸν Βαλααμ καταράσασθαι καὶ ἔστρεψεν ὁ θεὸς ἡμῶν τὴν κατάραν εἰς εὐλογίαν.",
+          "name": "Néhémie 13:2",
+          "chapter": "13"
+        },
+        {
+          "verse": "3",
+          "text": "Et lorsqu'ils eurent oui la loi, tous ceux qui s'étaient mêlés à Israël en furent séparés.",
+          "grec": "καὶ ἐγένετο ὡς ἤκουσαν τὸν νόμον καὶ ἐχωρίσθησαν πᾶς ἐπίμικτος ἐν Ισραηλ.",
+          "name": "Néhémie 13:3",
+          "chapter": "13"
+        },
+        {
+          "verse": "4",
+          "text": "Or, avant cela, Eliasib, le prêtre, très-proche allié de Tobias, demeurait dans le trésor du temple de notre Dieu.",
+          "grec": "καὶ πρὸ τούτου Ελιασιβ ὁ ἱερεὺς οἰκῶν ἐν γαζοφυλακίῳ οἴκου θεοῦ ἡμῶν ἐγγίων Τωβια.",
+          "name": "Néhémie 13:4",
+          "chapter": "13"
+        },
+        {
+          "verse": "5",
+          "text": "Et il s'était fait faire un vaste magasin dans le lieu où l'on déposait jadis les offrandes, l'encens, les vases, la dîme du blé, du vin et de l'huile, ce qui était dû aux lévites, aux chantres et aux portiers, et les prémices destinées aux prêtres.",
+          "grec": "καὶ ἐποίησεν αὐτῷ γαζοφυλάκιον μέγα καὶ ἐκεῖ ἦσαν πρότερον διδόντες τὴν μανααν καὶ τὸν λίβανον καὶ τὰ σκεύη καὶ τὴν δεκάτην τοῦ σίτου καὶ τοῦ οἴνου καὶ τοῦ ἐλαίου ἐντολὴν τῶν Λευιτῶν καὶ τῶν ᾀδόντων καὶ τῶν πυλωρῶν καὶ ἀπαρχὰς τῶν ἱερέων.",
+          "name": "Néhémie 13:5",
+          "chapter": "13"
+        },
+        {
+          "verse": "6",
+          "text": "Et, en ce temps-là, je n'étais pas à Jérusalem. Car, dans la trente-deuxième année du règne d'Arthasastha, roi de Babylone, j'étais allé auprès du roi. Et, un certain nombre de jours étant accompli, je demandai au roi la permission de partir.",
+          "grec": "καὶ ἐν παντὶ τούτῳ οὐκ ἤμην ἐν Ιερουσαλημ ὅτι ἐν ἔτει τριακοστῷ καὶ δευτέρῳ τοῦ Αρθασασθα βασιλέως Βαβυλῶνος ἦλθον πρὸς τὸν βασιλέα καὶ μετὰ τέλος ἡμερῶν ᾐτησάμην παρὰ τοῦ βασιλέως.",
+          "name": "Néhémie 13:6",
+          "chapter": "13"
+        },
+        {
+          "verse": "7",
+          "text": "Et je revins à Jérusalem, et je reconnus le mal qu'avait fait Eliasib avec Tobias en lui faisant un magasin dans le parvis du temple de Dieu.",
+          "grec": "καὶ ἦλθον εἰς Ιερουσαλημ καὶ συνῆκα ἐν τῇ πονηρίᾳ ᾗ ἐποίησεν Ελισουβ τῷ Τωβια ποιῆσαι αὐτῷ γαζοφυλάκιον ἐν αὐλῇ οἴκου τοῦ θεοῦ.",
+          "name": "Néhémie 13:7",
+          "chapter": "13"
+        },
+        {
+          "verse": "8",
+          "text": "Et cela me parut très-mal ; et je jetai hors du magasin tous les meubles de la maison de Tobias.",
+          "grec": "καὶ πονηρόν μοι ἐφάνη σφόδρα καὶ ἔρριψα πάντα τὰ σκεύη οἴκου Τωβια ἔξω ἀπὸ τοῦ γαζοφυλακίου.",
+          "name": "Néhémie 13:8",
+          "chapter": "13"
+        },
+        {
+          "verse": "9",
+          "text": "Et je parlai, et on purifia le magasin, et j'y fis replacer les vases du temple, les offrandes et l'encens.",
+          "grec": "καὶ εἶπα καὶ ἐκαθάρισαν τὰ γαζοφυλάκια καὶ ἐπέστρεψα ἐκεῖ σκεύη οἴκου τοῦ θεοῦ τὴν μαναα καὶ τὸν λίβανον.",
+          "name": "Néhémie 13:9",
+          "chapter": "13"
+        },
+        {
+          "verse": "10",
+          "text": "Et je reconnus qu'on n'avait plus donné la part des lévites, de sorte que les lévites et les chantres faisant œuvre au temple s'étaient enfuis chacun en sa terre.",
+          "grec": "καὶ ἔγνων ὅτι μερίδες τῶν Λευιτῶν οὐκ ἐδόθησαν καὶ ἐφύγοσαν ἀνὴρ εἰς ἀγρὸν αὐτοῦ οἱ Λευῖται καὶ οἱ ᾄδοντες ποιοῦντες τὸ ἔργον.",
+          "name": "Néhémie 13:10",
+          "chapter": "13"
+        },
+        {
+          "verse": "11",
+          "text": "Et je fis des reproches aux officiers, et je leur dis : D'où vient que le temple du Seigneur est abandonné ? Puis, je rassemblai les lévites et les Chantres, et je les rétablis dans leurs fonctions.",
+          "grec": "καὶ ἐμαχεσάμην τοῖς στρατηγοῖς καὶ εἶπα διὰ τί ἐγκατελείφθη ὁ οἶκος τοῦ θεοῦ καὶ συνήγαγον αὐτοὺς καὶ ἔστησα αὐτοὺς ἐπὶ τῇ στάσει αὐτῶν.",
+          "name": "Néhémie 13:11",
+          "chapter": "13"
+        },
+        {
+          "verse": "12",
+          "text": "Alors, tout Juda apporta dans les trésors la dîme du froment ; de l'huile et du vin,",
+          "grec": "καὶ πᾶς Ιουδα ἤνεγκαν δεκάτην τοῦ πυροῦ καὶ τοῦ οἴνου καὶ τοῦ ἐλαίου εἰς τοὺς θησαυροὺς.",
+          "name": "Néhémie 13:12",
+          "chapter": "13"
+        },
+        {
+          "verse": "13",
+          "text": "Entre les mains de Sélémias le prêtre, de Sadec le scribe, et de Phadali, l'un des lévites. Et ils avaient auprès d'eux Anan, fils de Zacchur, fils de Matthanias ; car ils étaient réputés fidèles, et ils furent chargés de faire les distributions à leurs frères.",
+          "grec": "ἐπὶ χεῖρα Σελεμια τοῦ ἱερέως καὶ Σαδδουκ τοῦ γραμματέως καὶ Φαδαια ἀπὸ τῶν Λευιτῶν καὶ ἐπὶ χεῖρα αὐτῶν Αναν υἱὸς Ζακχουρ υἱὸς Μαθανια ὅτι πιστοὶ ἐλογίσθησαν ἐπ' αὐτοὺς μερίζειν τοῖς ἀδελφοῖς αὐτῶν.",
+          "name": "Néhémie 13:13",
+          "chapter": "13"
+        },
+        {
+          "verse": "14",
+          "text": "Souvenez-vous de moi, ô mon Dieu, à cause de cela ; que mes bonnes œuvres dans le temple du Seigneur Dieu ne soient point effacées.",
+          "grec": "μνήσθητί μου ὁ θεός ἐν ταύτῃ καὶ μὴ ἐξαλειφθήτω ἔλεός μου ὃ ἐποίησα ἐν οἴκῳ κυρίου τοῦ θεοῦ.",
+          "name": "Néhémie 13:14",
+          "chapter": "13"
+        },
+        {
+          "verse": "15",
+          "text": "En ces jours-là, je vis que dans Juda quelques-uns pressuraient le vin le jour du sabbat ; je vis que d'autres transportaient des gerbes, que d'autres encore chargeaient leurs ânes de vin, de grappes, de figues, de toutes sortes de fardeaux, et qu'ils les conduisaient à Jérusalem le jour du sabbat. Et je les avertis des jours où ils pouvaient trafiquer.",
+          "grec": "ἐν ταῖς ἡμέραις ἐκείναις εἶδον ἐν Ιουδα πατοῦντας ληνοὺς ἐν τῷ σαββάτῳ καὶ φέροντας δράγματα καὶ ἐπιγεμίζοντας ἐπὶ τοὺς ὄνους καὶ οἶνον καὶ σταφυλὴν καὶ σῦκα καὶ πᾶν βάσταγμα καὶ φέροντας εἰς Ιερουσαλημ ἐν ἡμέρᾳ τοῦ σαββάτου καὶ ἐπεμαρτυράμην ἐν ἡμέρᾳ πράσεως αὐτῶν.",
+          "name": "Néhémie 13:15",
+          "chapter": "13"
+        },
+        {
+          "verse": "16",
+          "text": "Et des gens s'étaient établis à Jérusalem, apportant du poisson, vendant toutes sortes de marchandises aux Juifs, le jour du sabbat.",
+          "grec": "καὶ ἐκάθισαν ἐν αὐτῇ φέροντες ἰχθὺν καὶ πᾶσαν πρᾶσιν πωλοῦντες ἐν τῷ σαββάτῳ τοῖς υἱοῖς Ιουδα καὶ ἐν Ιερουσαλημ.",
+          "name": "Néhémie 13:16",
+          "chapter": "13"
+        },
+        {
+          "verse": "17",
+          "text": "Et je réprimandai les fils de Juda de condition libre, et je leur dis : Quelle est cette mauvaise action que vous faites, en profanant le jour du sabbat ?",
+          "grec": "καὶ ἐμαχεσάμην τοῖς υἱοῖς Ιουδα τοῖς ἐλευθέροις καὶ εἶπα αὐτοῖς τίς ὁ λόγος οὗτος ὁ πονηρός ὃν ὑμεῖς ποιεῖτε καὶ βεβηλοῦτε τὴν ἡμέραν τοῦ σαββάτου.",
+          "name": "Néhémie 13:17",
+          "chapter": "13"
+        },
+        {
+          "verse": "18",
+          "text": "N'est-ce point là ce que faisaient vos pères ? n'est-ce point la cause de tous les malheurs dont notre Dieu les à frappés, eux et notre ville ? Et vous, n'attirerez-vous pas un surcroît de colère sur Israël en profanant le sabbat ?",
+          "grec": "οὐχὶ οὕτως ἐποίησαν οἱ πατέρες ὑμῶν καὶ ἤνεγκεν ἐπ' αὐτοὺς ὁ θεὸς ἡμῶν καὶ ἐφ' ἡμᾶς πάντα τὰ κακὰ ταῦτα καὶ ἐπὶ τὴν πόλιν ταύτην καὶ ὑμεῖς προστίθετε ὀργὴν ἐπὶ Ισραηλ βεβηλῶσαι τὸ σάββατον.",
+          "name": "Néhémie 13:18",
+          "chapter": "13"
+        },
+        {
+          "verse": "19",
+          "text": "Or, quand les portes de Jérusalem furent rétablie, la veille d'un sabbat, je parlai, et on ferma les portes ; je parlai, et on ne les ouvrit qu'après le sabbat, et je mis de mes serviteurs à chaque porte pour qu'on ne pût introduire des fardeaux le jour du sabbat.",
+          "grec": "καὶ ἐγένετο ἡνίκα κατέστησαν πύλαι Ιερουσαλημ πρὸ τοῦ σαββάτου καὶ εἶπα καὶ ἔκλεισαν τὰς πύλας καὶ εἶπα ὥστε μὴ ἀνοιγῆναι αὐτὰς ἕως ὀπίσω τοῦ σαββάτου καὶ ἐκ τῶν παιδαρίων μου ἔστησα ἐπὶ τὰς πύλας ὥστε μὴ αἴρειν βαστάγματα ἐν ἡμέρᾳ τοῦ σαββάτου.",
+          "name": "Néhémie 13:19",
+          "chapter": "13"
+        },
+        {
+          "verse": "20",
+          "text": "Et tous les marchands passèrent la nuit en plein air, et ils vendirent une ou deux fois hors de Jérusalem.",
+          "grec": "καὶ ηὐλίσθησαν πάντες καὶ ἐποίησαν πρᾶσιν ἔξω Ιερουσαλημ ἅπαξ καὶ δίς.",
+          "name": "Néhémie 13:20",
+          "chapter": "13"
+        },
+        {
+          "verse": "21",
+          "text": "Et je les avertis, et je leur dis : Pourquoi passez-vous la nuit devant les remparts ? Si vous recommencez, j'étendrai la main sur vous. Depuis lors, ils ne vinrent plus le jour du sabbat.",
+          "grec": "καὶ διεμαρτυράμην ἐν αὐτοῖς καὶ εἶπα πρὸς αὐτούς διὰ τί ὑμεῖς αὐλίζεσθε ἀπέναντι τοῦ τείχους ἐὰν δευτερώσητε ἐκτενῶ τὴν χεῖρά μου ἐν ὑμῖν ἀπὸ τοῦ καιροῦ ἐκείνου οὐκ ἤλθοσαν ἐν σαββάτῳ.",
+          "name": "Néhémie 13:21",
+          "chapter": "13"
+        },
+        {
+          "verse": "22",
+          "text": "Et je dis aux lévites qui s'étaient purifiés, et qui étaient venus garder les portes, de sanctifier le jour du sabbat : à cause de cela, souvenez-vous de moi, mon Dieu, et épargnez-moi, selon la plénitude de votre miséricorde.",
+          "grec": "καὶ εἶπα τοῖς Λευίταις οἳ ἦσαν καθαριζόμενοι καὶ ἐρχόμενοι φυλάσσοντες τὰς πύλας ἁγιάζειν τὴν ἡμέραν τοῦ σαββάτου πρὸς ταῦτα μνήσθητί μου ὁ θεός καὶ φεῖσαί μου κατὰ τὸ πλῆθος τοῦ ἐλέους σου.",
+          "name": "Néhémie 13:22",
+          "chapter": "13"
+        },
+        {
+          "verse": "23",
+          "text": "Or, en ces jours-là, je vis que des Juifs avaient épousé des femmes d'Azot, et des Ammonites et des Moabites.",
+          "grec": "καὶ ἐν ταῖς ἡμέραις ἐκείναις εἶδον τοὺς Ιουδαίους οἳ ἐκάθισαν γυναῖκας Ἀζωτίας Αμμανίτιδας Μωαβίτιδας.",
+          "name": "Néhémie 13:23",
+          "chapter": "13"
+        },
+        {
+          "verse": "24",
+          "text": "Et leurs fils parlaient à demi la langue d'Azot, et ils ne savaient point parler juif.",
+          "grec": "καὶ οἱ υἱοὶ αὐτῶν ἥμισυ λαλοῦντες Ἀζωτιστὶ καὶ οὔκ εἰσιν ἐπιγινώσκοντες λαλεῖν Ιουδαϊστί.",
+          "name": "Néhémie 13:24",
+          "chapter": "13"
+        },
+        {
+          "verse": "25",
+          "text": "Et je les réprimandai, et je les maudis, et j'en frappai quelques-uns, et je leur rasai la tête, et je leur fis jurer devant Dieu de ne point donner leurs filles aux fils des étrangers, et de ne point faire épouser par leurs fils des filles étrangères, disant :",
+          "grec": "καὶ ἐμαχεσάμην μετ' αὐτῶν καὶ κατηρασάμην αὐτοὺς καὶ ἐπάταξα ἐν αὐτοῖς ἄνδρας καὶ ἐμαδάρωσα αὐτοὺς καὶ ὥρκισα αὐτοὺς ἐν τῷ θεῷ ἐὰν δῶτε τὰς θυγατέρας ὑμῶν τοῖς υἱοῖς αὐτῶν καὶ ἐὰν λάβητε ἀπὸ τῶν θυγατέρων αὐτῶν τοῖς υἱοῖς ὑμῶν.",
+          "name": "Néhémie 13:25",
+          "chapter": "13"
+        },
+        {
+          "verse": "26",
+          "text": "N'est -ce pas là le péché de Salomon, roi d'Israël ? Il n'y avait point son pareil parmi les rois des nations : il aimait Dieu, Dieu lui avait donné le royaume entier d'Israël, et les femmes étrangères le pervertirent.",
+          "grec": "οὐχ οὕτως ἥμαρτεν Σαλωμων βασιλεὺς Ισραηλ καὶ ἐν ἔθνεσιν πολλοῖς οὐκ ἦν βασιλεὺς ὅμοιος αὐτῷ καὶ ἀγαπώμενος τῷ θεῷ ἦν καὶ ἔδωκεν αὐτὸν ὁ θεὸς εἰς βασιλέα ἐπὶ πάντα Ισραηλ καὶ τοῦτον ἐξέκλιναν αἱ γυναῖκες αἱ ἀλλότριαι.",
+          "name": "Néhémie 13:26",
+          "chapter": "13"
+        },
+        {
+          "verse": "27",
+          "text": "Que nous n'apprenions plus que vous faites ce péché ; que vous violez l'alliance avec notre Dieu ; que vous épousez des femmes étrangères.",
+          "grec": "καὶ ὑμῶν μὴ ἀκουσόμεθα ποιῆσαι τὴν πᾶσαν πονηρίαν ταύτην ἀσυνθετῆσαι ἐν τῷ θεῷ ἡμῶν καθίσαι γυναῖκας ἀλλοτρίας.",
+          "name": "Néhémie 13:27",
+          "chapter": "13"
+        },
+        {
+          "verse": "28",
+          "text": "Or, l'un des fils de Joad, le grand prêtre Elisab, était gendre de Sanaballat l'Horonite ; je le chassai loin de moi.",
+          "grec": "καὶ ἀπὸ υἱῶν Ιωαδα τοῦ Ελισουβ τοῦ ἱερέως τοῦ μεγάλου νυμφίου τοῦ Σαναβαλλατ τοῦ Ωρωνίτου καὶ ἐξέβρασα αὐτὸν ἀπ' ἐμοῦ.",
+          "name": "Néhémie 13:28",
+          "chapter": "13"
+        },
+        {
+          "verse": "29",
+          "text": "Souvenez-vous d'eux, ô Seigneur, à cause de la violation du sacerdoce, et de votre alliance, touchant les prêtres et les lévites.",
+          "grec": "μνήσθητι αὐτοῖς ὁ θεός ἐπὶ ἀγχιστείᾳ τῆς ἱερατείας καὶ διαθήκης τῆς ἱερατείας καὶ τοὺς Λευίτας.",
+          "name": "Néhémie 13:29",
+          "chapter": "13"
+        },
+        {
+          "verse": "30",
+          "text": "Et je les purifiai de leur contact avec des étrangères, et je réglai les services journaliers des prêtres et des lévites,",
+          "grec": "καὶ ἐκαθάρισα αὐτοὺς ἀπὸ πάσης ἀλλοτριώσεως καὶ ἔστησα ἐφημερίας τοῖς ἱερεῦσιν καὶ τοῖς Λευίταις ἀνὴρ ὡς τὸ ἔργον αὐτοῦ.",
+          "name": "Néhémie 13:30",
+          "chapter": "13"
+        },
+        {
+          "verse": "31",
+          "text": "Et l'offrande du bois des holocaustes au temps prescrit, lorsque l'on taille la vigne. Souvenez-vous de moi, ô mon Dieu, dans votre mansuétude.",
+          "grec": "καὶ τὸ δῶρον τῶν ξυλοφόρων ἐν καιροῖς ἀπὸ χρόνων καὶ ἐν τοῖς βακχουρίοις μνήσθητί μου ὁ θεὸς ἡμῶν εἰς ἀγαθωσύνην.",
+          "name": "Néhémie 13:31",
+          "chapter": "13"
+        }
+      ]
+    }
+  ]
+}

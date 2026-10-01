@@ -1,0 +1,186 @@
+{
+  "translation": "Septuaginta (Rahlfs) — traductions françaises de Giguet et d'Alexandrie",
+  "abbreviation": "SEF",
+  "lang": "fr",
+  "language": "français (avec le grec de la Septante)",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 31,
+  "name": "Abdias",
+  "chapters": [
+    {
+      "chapter": 1,
+      "name": "Abdias 1",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Vision d'Abdias. Voici ce que le Seigneur dit à l'Idumée j'ai entendu la parole du Seigneur, et il a envoyé un message aux nations, disant : Levez-vous, et allons la combattre !",
+          "grec": "ὅρασις Αβδιου τάδε λέγει κύριος ὁ θεὸς τῇ Ιδουμαίᾳ ἀκοὴν ἤκουσα παρὰ κυρίου καὶ περιοχὴν εἰς τὰ ἔθνη ἐξαπέστειλεν ἀνάστητε καὶ ἐξαναστῶμεν ἐπ' αὐτὴν εἰς πόλεμον.",
+          "alexandrie": "Voici que je t’ai rendu tout petit parmi les nations, te voilà tout à fait méprisé.",
+          "name": "Abdias 1:1",
+          "chapter": "1"
+        },
+        {
+          "verse": "2",
+          "text": "Voilà que je t'ai réduit à un petit nombre parmi les peuples ; et tu es maintenant très déshonorée.",
+          "grec": "ἰδοὺ ὀλιγοστὸν δέδωκά σε ἐν τοῖς ἔθνεσιν ἠτιμωμένος σὺ εἶ σφόδρα.",
+          "alexandrie": "L’arrogance de ton cœur t’a exalté, toi qui résides dans les creux des rochers ; il place haut sa demeure, disant en son cœur : « Qui me fera descendre vers la terre ?»",
+          "name": "Abdias 1:2",
+          "chapter": "1"
+        },
+        {
+          "verse": "3",
+          "text": "L'orgueil de ton cœur t'avait enivré, toi qui résides dans les trous des rochers ; élevant ta demeure sur les hauts lieux, tu disais : Qui me fera descendre à terre ?",
+          "grec": "ὑπερηφανία τῆς καρδίας σου ἐπῆρέν σε κατασκηνοῦντα ἐν ταῖς ὀπαῖς τῶν πετρῶν ὑψῶν κατοικίαν αὐτοῦ λέγων ἐν καρδίᾳ αὐτοῦ τίς με κατάξει ἐπὶ τὴν γῆν.",
+          "alexandrie": "Si tu te tiens dans les airs comme un aigle et si, au milieu des astres, tu établis ton nid, je t’en ferai descendre, dit le Seigneur.",
+          "name": "Abdias 1:3",
+          "chapter": "1"
+        },
+        {
+          "verse": "4",
+          "text": "Quand même tu te serais élevé autant que l'aigle, quand tu aurais placé ton nid au milieu des étoiles, je t'en précipiterais, dit le Seigneur.",
+          "grec": "ἐὰν μετεωρισθῇς ὡς ἀετὸς καὶ ἐὰν ἀνὰ μέσον τῶν ἄστρων θῇς νοσσιάν σου ἐκεῖθεν κατάξω σε λέγει κύριος.",
+          "alexandrie": "Si des voleurs avaient pénétré chez toi, ou des brigands de nuit, où aurais-tu été précipité ? N’auraient-ils pas volé leur content ? Et si des vendangeurs avaient pénétré chez toi, n’auraient-ils pas laissé juste un grap-pillon ?",
+          "name": "Abdias 1:4",
+          "chapter": "1"
+        },
+        {
+          "verse": "5",
+          "text": "Si des larrons ou des voleurs de nuit étaient entrés chez toi, à quel point t'auraient-ils abattu ? N'auraient-ils pas seulement enlevé ce qui leur eût convenu ? Et si des vendangeurs étaient entrés en ta vigne, ne t'auraient-ils pas laissé au moins un grappillon ?",
+          "grec": "εἰ κλέπται εἰσῆλθον πρὸς σὲ ἢ λῃσταὶ νυκτός ποῦ ἂν ἀπερρίφης οὐκ ἂν ἔκλεψαν τὰ ἱκανὰ ἑαυτοῖς καὶ εἰ τρυγηταὶ εἰσῆλθον πρὸς σέ οὐκ ἂν ὑπελίποντο ἐπιφυλλίδα.",
+          "alexandrie": "Ésaü a été fouillé et ce qu’il avait caché a été saisi, et de quelle manière !",
+          "name": "Abdias 1:5",
+          "chapter": "1"
+        },
+        {
+          "verse": "6",
+          "text": "Comment Ésaü a-t-il été fouillé, et comment lui a-t-on pris ce qu'il cachait ?",
+          "grec": "πῶς ἐξηρευνήθη Ησαυ καὶ κατελήμφθη αὐτοῦ τὰ κεκρυμμένα.",
+          "alexandrie": "Jusqu’aux frontières ils t’ont renvoyé, tous les hommes de ton alliance, ils se sont dressés contre toi, ils ont été puissants à ton encontre, les hommes en paix avec toi, ils ont placé une embuscade sous toi : il n’y a pas d’intelligence en lui.",
+          "name": "Abdias 1:6",
+          "chapter": "1"
+        },
+        {
+          "verse": "7",
+          "text": "Ils t'ont chassé jusqu'à tes extrêmes limites ; tous tes alliés sont devenus tes ennemis ; des hommes pacifiques avec qui tu vivais en paix ont prévalu contre toi ; ils ont placé des pièges sous tes pas ; ils n'ont aucune compréhension.",
+          "grec": "ἕως τῶν ὁρίων σου ἐξαπέστειλάν σε πάντες οἱ ἄνδρες τῆς διαθήκης σου ἀντέστησάν σοι ἠδυνάσθησαν πρὸς σὲ ἄνδρες εἰρηνικοί σου ἔθηκαν ἔνεδρα ὑποκάτω σου οὐκ ἔστιν σύνεσις αὐτοῖς.",
+          "alexandrie": "En ce jour-là, dit le Seigneur, je ferai disparaître d’Idumée les sages, et de la montagne d’Ésaü l’intelligence.",
+          "name": "Abdias 1:7",
+          "chapter": "1"
+        },
+        {
+          "verse": "8",
+          "text": "Ce jour-là, dit le Seigneur, je détruirai les sages de l'Idumée, et je bannirai l'intelligence des montagnes d'Ésaü.",
+          "grec": "ἐν ἐκείνῃ τῇ ἡμέρᾳ λέγει κύριος ἀπολῶ σοφοὺς ἐκ τῆς Ιδουμαίας καὶ σύνεσιν ἐξ ὄρους Ησαυ.",
+          "alexandrie": "Et ils seront pris d’effroi, tes combattants, ceux de Thaiman, en sorte que tout homme soit enlevé de la montagne d’Ésaü",
+          "name": "Abdias 1:8",
+          "chapter": "1"
+        },
+        {
+          "verse": "9",
+          "text": "Et tes guerriers de Théman trembleront de peur, afin que tout homme soit exterminé sur le mont d'Ésaü.",
+          "grec": "καὶ πτοηθήσονται οἱ μαχηταί σου οἱ ἐκ Θαιμαν ὅπως ἐξαρθῇ ἄνθρωπος ἐξ ὄρους Ησαυ.",
+          "alexandrie": "à cause de l’égorgement et à cause de l’impiété à l’égard de ton frère Jacob ; et la honte te couvrira et tu seras enlevé à jamais.",
+          "name": "Abdias 1:9",
+          "chapter": "1"
+        },
+        {
+          "verse": "10",
+          "text": "À cause de tes meurtres, et de tes péchés contre ton frère Jacob, tu seras couvert de confusion, et tu seras effacé pour jamais.",
+          "grec": "διὰ τὴν σφαγὴν καὶ τὴν ἀσέβειαν τὴν εἰς τὸν ἀδελφόν σου Ιακωβ καὶ καλύψει σε αἰσχύνη καὶ ἐξαρθήσῃ εἰς τὸν αἰῶνα.",
+          "alexandrie": "Depuis le jour où tu t’es dressé en opposition, au jour où des gens d’une autre origine capturaient son armée, où des étrangers ont pénétré dans ses portes, où ils ont mis au sort Jérusalem, toi aussi tu étais comme l’un d’entre eux.",
+          "name": "Abdias 1:10",
+          "chapter": "1"
+        },
+        {
+          "verse": "11",
+          "text": "Du jour où tu t'es élevé contre lui, quand des peuples étrangers emmenèrent son armée captive, quand ils franchirent ses portes, et tirèrent au sort les richesses de Jérusalem, dès lors tu fus comme l'un d'eux.",
+          "grec": "ἀφ' ἧς ἡμέρας ἀντέστης ἐξ ἐναντίας ἐν ἡμέρᾳ αἰχμαλωτευόντων ἀλλογενῶν δύναμιν αὐτοῦ καὶ ἀλλότριοι εἰσῆλθον εἰς πύλας αὐτοῦ καὶ ἐπὶ Ιερουσαλημ ἔβαλον κλήρους καὶ σὺ ἦς ὡς εἷς ἐξ αὐτῶν.",
+          "alexandrie": "Et ne porte pas ton regard sur le jour de ton frère au jour des étrangers, n’aie pas de joie maligne contre les fils de Juda au jour de leur destruction, n’enfle pas la bouche au jour de l’oppression.",
+          "name": "Abdias 1:11",
+          "chapter": "1"
+        },
+        {
+          "verse": "12",
+          "text": "Ne méprise pas la chute de ton frère au jour des étrangers ne te raille pas des fils de Juda au jour de leur ruine ; ne te gonfle pas d'orgueil au jour de leur angoisse.",
+          "grec": "καὶ μὴ ἐπίδῃς ἡμέραν ἀδελφοῦ σου ἐν ἡμέρᾳ ἀλλοτρίων καὶ μὴ ἐπιχαρῇς ἐπὶ τοὺς υἱοὺς Ιουδα ἐν ἡμέρᾳ ἀπωλείας αὐτῶν καὶ μὴ μεγαλορρημονήσῃς ἐν ἡμέρᾳ θλίψεως.",
+          "alexandrie": "Ne pénètre pas dans les portes des peuples au jour de leurs peines, ne porte pas ton regard, toi non plus, sur leur rassemblement au jour de leur anéantissement, ne te joins pas à l’attaque contre leur armée au jour de leur destruction.",
+          "name": "Abdias 1:12",
+          "chapter": "1"
+        },
+        {
+          "verse": "13",
+          "text": "N'entre point par les portes de mon peuple au jour de ses souffrances ; ne surveille pas sa synagogue au jour de sa destruction ; n'attaque pas son armée le jour où ils périront.",
+          "grec": "μηδὲ εἰσέλθῃς εἰς πύλας λαῶν ἐν ἡμέρᾳ πόνων αὐτῶν μηδὲ ἐπίδῃς καὶ σὺ τὴν συναγωγὴν αὐτῶν ἐν ἡμέρᾳ ὀλέθρου αὐτῶν μηδὲ συνεπιθῇ ἐπὶ τὴν δύναμιν αὐτῶν ἐν ἡμέρᾳ ἀπωλείας αὐτῶν.",
+          "alexandrie": "Ne surgis pas dans leurs passages pour anéantir ceux qui essaient de se sauver, n’enferme pas ceux qui cherchent à s’échapper au jour de l’oppression.",
+          "name": "Abdias 1:13",
+          "chapter": "1"
+        },
+        {
+          "verse": "14",
+          "text": "Ne te tiens pas sur leur chemin pour massacrer ceux qui se sont échappés ; n'enferme pas leurs fuyards au jour de la désolation.",
+          "grec": "μηδὲ ἐπιστῇς ἐπὶ τὰς διεκβολὰς αὐτῶν τοῦ ἐξολεθρεῦσαι τοὺς ἀνασῳζομένους αὐτῶν μηδὲ συγκλείσῃς τοὺς φεύγοντας ἐξ αὐτῶν ἐν ἡμέρᾳ θλίψεως.",
+          "alexandrie": "Car proche est le jour du Seigneur contre toutes les nations ; selon la façon dont tu as agi, il en sera ainsi pour toi : le paiement qui t’est dû te sera payé sur ta tête !",
+          "name": "Abdias 1:14",
+          "chapter": "1"
+        },
+        {
+          "verse": "15",
+          "text": "Car le jour du Seigneur est proche pour toutes les nations ; comme tu as fait à autrui, Il te fera à toi-même ; ta rétribution retombera sur ta tête.",
+          "grec": "διότι ἐγγὺς ἡμέρα κυρίου ἐπὶ πάντα τὰ ἔθνη ὃν τρόπον ἐποίησας οὕτως ἔσται σοι τὸ ἀνταπόδομά σου ἀνταποδοθήσεται εἰς κεφαλήν σου.",
+          "alexandrie": "Car selon la façon dont tu as bu sur la montagne, mon lieu saint, toutes les nations boiront le vin : ils boiront, descendront et seront comme s’ils n’existaient pas.",
+          "name": "Abdias 1:15",
+          "chapter": "1"
+        },
+        {
+          "verse": "16",
+          "text": "Car de même que tu auras bu sur ma montagne sainte, ainsi toutes les nations boiront le vin de ma colère ; elles boiront, et elles tomberont, et elles seront comme ceux qui ne sont plus.",
+          "grec": "διότι ὃν τρόπον ἔπιες ἐπὶ τὸ ὄρος τὸ ἅγιόν μου πίονται πάντα τὰ ἔθνη οἶνον πίονται καὶ καταβήσονται καὶ ἔσονται καθὼς οὐχ ὑπάρχοντες.",
+          "alexandrie": "Mais dans la montagne de Sion sera le salut, et elle sera un lieu saint ; et ceux de la maison de Jacob hériteront de ceux qui auront hérité d’eux.",
+          "name": "Abdias 1:16",
+          "chapter": "1"
+        },
+        {
+          "verse": "17",
+          "text": "Et le salut sera en la montagne de Sion, et elle sera sainte, et la maison de Jacob possédera ceux qui l'auront possédée.",
+          "grec": "ἐν δὲ τῷ ὄρει Σιων ἔσται ἡ σωτηρία καὶ ἔσται ἅγιον καὶ κατακληρονομήσουσιν ὁ οἶκος Ιακωβ τοὺς κατακληρονομήσαντας αὐτούς.",
+          "alexandrie": "Et la maison de Jacob sera feu, la maison de Joseph flamme, la maison d’Ésaü deviendra du chaume, l’incendie sera sur eux et ils les dévoreront, et il n’y aura pas de porte-feu dans la maison d’Ésaü, car le Seigneur a parlé.",
+          "name": "Abdias 1:17",
+          "chapter": "1"
+        },
+        {
+          "verse": "18",
+          "text": "Et la maison de Jacob sera un feu, et la maison de Joseph une flamme ; et la maison d'Ésaü sera comme un chaume ; et ceux d'Israël porteront chez elle l'incendie, et ils la dévoreront ; et il n'y aura plus un champ qui porte du blé, en la maison d'Ésaü ; car le Seigneur a parlé.",
+          "grec": "καὶ ἔσται ὁ οἶκος Ιακωβ πῦρ ὁ δὲ οἶκος Ιωσηφ φλόξ ὁ δὲ οἶκος Ησαυ εἰς καλάμην καὶ ἐκκαυθήσονται εἰς αὐτοὺς καὶ καταφάγονται αὐτούς καὶ οὐκ ἔσται πυροφόρος ἐν τῷ οἴκῳ Ησαυ διότι κύριος ἐλάλησεν.",
+          "alexandrie": "Et ceux du Nageb hériteront de la montagne d’Ésaü, ceux de la Séphèla des Étrangers et ils hériteront de la montagne d’Ephraïm, de la plaine de Samarie, ainsi que Benjamin du pays de Galaad.",
+          "name": "Abdias 1:18",
+          "chapter": "1"
+        },
+        {
+          "verse": "19",
+          "text": "Et ceux de Nageb auront pour héritage la montagne d'Ésaü, et ceux de Sephéla le pays des Philistins ; et ils auront aussi pour héritage la montagne d'Éphraïm, et la plaine de Samarie, et Benjamin et Galaad.",
+          "grec": "καὶ κατακληρονομήσουσιν οἱ ἐν Ναγεβ τὸ ὄρος τὸ Ησαυ καὶ οἱ ἐν τῇ Σεφηλα τοὺς ἀλλοφύλους καὶ κατακληρονομήσουσιν τὸ ὄρος Εφραιμ καὶ τὸ πεδίον Σαμαρείας καὶ Βενιαμιν καὶ τὴν Γαλααδῖτιν.",
+          "alexandrie": "Et ceux du Nageb hériteront de la montagne d’Ésaü, ceux de la Séphèla des Étrangers et ils hériteront de la montagne d’Ephraïm, de la plaine de Samarie, ainsi que Benjamin du pays de Galaad.",
+          "name": "Abdias 1:19",
+          "chapter": "1"
+        },
+        {
+          "verse": "20",
+          "text": "Et voici le domaine des fils d'Israël qui reviendront de la captivité la terre des Chananéens jusqu'à Sarepta ; ceux de Jérusalem posséderont jusqu'à Éphratha ; ils auront les cités de Nageb.",
+          "grec": "καὶ τῆς μετοικεσίας ἡ ἀρχὴ αὕτη τοῖς υἱοῖς Ισραηλ γῆ τῶν Χαναναίων ἕως Σαρεπτων καὶ ἡ μετοικεσία Ιερουσαλημ ἕως Εφραθα καὶ κληρονομήσουσιν τὰς πόλεις τοῦ Ναγεβ.",
+          "alexandrie": "Et tel est l’empire de la transplantation : aux fils d’Israël la terre des Cananéens jusqu’à Sarepta, et ce sera la transplantation de Jérusalem jusqu’à Sephratha, et ils hériteront des villes du Nageb.",
+          "name": "Abdias 1:20",
+          "chapter": "1"
+        },
+        {
+          "verse": "21",
+          "text": "Et ceux de la montagne de Sion qui auront été sauvés monteront pour punir la montagne d'Ésaü ; et alors arrivera le règne du Seigneur.",
+          "grec": "καὶ ἀναβήσονται ἄνδρες σεσῳσμένοι ἐξ ὄρους Σιων τοῦ ἐκδικῆσαι τὸ ὄρος Ησαυ καὶ ἔσται τῷ κυρίῳ ἡ βασιλεία.",
+          "alexandrie": "Et les hommes sauvés monteront depuis la montagne de Sion, pour tirer vengeance de la montagne d’Ésaü, et la royauté appartiendra au Seigneur.",
+          "name": "Abdias 1:21",
+          "chapter": "1"
+        }
+      ]
+    }
+  ]
+}

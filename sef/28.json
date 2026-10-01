@@ -1,0 +1,1672 @@
+{
+  "translation": "Septuaginta (Rahlfs) — traductions françaises de Giguet et d'Alexandrie",
+  "abbreviation": "SEF",
+  "lang": "fr",
+  "language": "français (avec le grec de la Septante)",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 28,
+  "name": "Osée",
+  "chapters": [
+    {
+      "chapter": 1,
+      "name": "Osée 1",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Paroles du Seigneur qui vinrent à Osée, fils de Béeri, durant les jours d'Ozias, et de Joathan, et d'Achaz, et d'Ézéchias, rois de Juda, et durant les jours de Jéroboam, fils de Joas, roi d'Israël.",
+          "grec": "λόγος κυρίου ὃς ἐγενήθη πρὸς Ωσηε τὸν τοῦ Βεηρι ἐν ἡμέραις Οζιου καὶ Ιωαθαμ καὶ Αχαζ καὶ Εζεκιου βασιλέων Ιουδα καὶ ἐν ἡμέραις Ιεροβοαμ υἱοῦ Ιωας βασιλέως Ισραηλ.",
+          "alexandrie": "Parole du Seigneur qui parvint à Osée, fils de Béeri, aux jours d’Ozias, de Joatham, d’Achaz et d’Ézékias, rois de Juda, et aux jours de Jéroboam, fils de Joas, roi d’Israël.",
+          "name": "Osée 1:1",
+          "chapter": "1"
+        },
+        {
+          "verse": "2",
+          "text": "Commencement des paroles du Seigneur à Osée. Et le Seigneur dit à Osée : Va et prends pour toi une femme de prostitution ; aie des enfants de la prostitution, parce que la terre se prostitue, et se prostituera en se retirant du Seigneur.",
+          "grec": "ἀρχὴ λόγου κυρίου πρὸς Ωσηε καὶ εἶπεν κύριος πρὸς Ωσηε βάδιζε λαβὲ σεαυτῷ γυναῖκα πορνείας καὶ τέκνα πορνείας διότι ἐκπορνεύουσα ἐκπορνεύσει ἡ γῆ ἀπὸ ὄπισθεν τοῦ κυρίου.",
+          "alexandrie": "Commencement de la parole du Seigneur par Osée : Et le Seigneur dit à Osée : « Va, prends pour toi une femme de prostitution et des enfants de prostitution, car le pays se prostituera totalement en quittant le Seigneur. »",
+          "name": "Osée 1:2",
+          "chapter": "1"
+        },
+        {
+          "verse": "3",
+          "text": "Et il alla, et il prit Gomer, fille de Debélaïm, et elle conçut, et elle lui enfanta un fils.",
+          "grec": "καὶ ἐπορεύθη καὶ ἔλαβεν τὴν Γομερ θυγατέρα Δεβηλαιμ καὶ συνέλαβεν καὶ ἔτεκεν αὐτῷ υἱόν.",
+          "alexandrie": "Et il alla et prit Gomer, fille de Debélaim, et elle conçut et lui enfanta un fils.",
+          "name": "Osée 1:3",
+          "chapter": "1"
+        },
+        {
+          "verse": "4",
+          "text": "Et le Seigneur lui dit : Donne-lui le nom de Jezraël, parce que, encore un peu de temps, et je vengerai le sang de Jezraël sur la maison de Juda, et je ferai cesser la royauté de la maison d'Israël.",
+          "grec": "καὶ εἶπεν κύριος πρὸς αὐτόν κάλεσον τὸ ὄνομα αὐτοῦ Ιεζραελ διότι ἔτι μικρὸν καὶ ἐκδικήσω τὸ αἷμα τοῦ Ιεζραελ ἐπὶ τὸν οἶκον Ιου καὶ καταπαύσω βασιλείαν οἴκου Ισραηλ.",
+          "alexandrie": "Et le Seigneur lui dit : « Appelle-le du nom d’Izréel, car encore un peu et je tirerai vengeance du sang d’Izréel sur la maison de Jéhu, et je repousserai la royauté de la maison d’Israël.",
+          "name": "Osée 1:4",
+          "chapter": "1"
+        },
+        {
+          "verse": "5",
+          "text": "Et il arrivera, en ce jour-là, que je briserai l'arc d'Israël dans la vallée de Jezraël.",
+          "grec": "καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ συντρίψω τὸ τόξον τοῦ Ισραηλ ἐν τῇ κοιλάδι τοῦ Ιεζραελ.",
+          "alexandrie": "Et il adviendra en ce jour-là : je briserai l’arc d’Israël dans la vallée d’Izréel. »",
+          "name": "Osée 1:5",
+          "chapter": "1"
+        },
+        {
+          "verse": "6",
+          "text": "Et elle conçut encore, et elle enfanta une fille. Et le Seigneur dit à Osée : Donne-lui le nom de Sans-Pitié, parce que je ne continuerai plus d'avoir pitié de la maison d'Israël, mais je lui résisterai obstinément.",
+          "grec": "καὶ συνέλαβεν ἔτι καὶ ἔτεκεν θυγατέρα καὶ εἶπεν αὐτῷ κάλεσον τὸ ὄνομα αὐτῆς Οὐκ-ἠλεημένη διότι οὐ μὴ προσθήσω ἔτι ἐλεῆσαι τὸν οἶκον τοῦ Ισραηλ ἀλλ' ἢ ἀντιτασσόμενος ἀντιτάξομαι αὐτοῖς.",
+          "alexandrie": "Et elle conçut encore et enfanta une fille. Et il lui dit : « Appelle-la du nom de Celle-dont-on-n’a-pas-eu-pitié, car je ne continuerai plus à avoir pitié de la maison d’Israël ; au contraire, je m’opposerai totalement à eux.",
+          "name": "Osée 1:6",
+          "chapter": "1"
+        },
+        {
+          "verse": "7",
+          "text": "Envers les fils de Juda je serai miséricordieux, et je les sauverai par le Seigneur leur Dieu ; mais je ne les sauverai pas par l'arc, ni par le glaive, ni par la guerre, ni par les chevaux, ni par les cavaliers.",
+          "grec": "τοὺς δὲ υἱοὺς Ιουδα ἐλεήσω καὶ σώσω αὐτοὺς ἐν κυρίῳ θεῷ αὐτῶν καὶ οὐ σώσω αὐτοὺς ἐν τόξῳ οὐδὲ ἐν ῥομφαίᾳ οὐδὲ ἐν πολέμῳ οὐδὲ ἐν ἅρμασιν οὐδὲ ἐν ἵπποις οὐδὲ ἐν ἱππεῦσιν.",
+          "alexandrie": "Mais des fils de Juda j’aurai pitié et je les sauverai par le Seigneur leur Dieu ; et je ne les sauverai ni par l’arc, ni par l’épée, ni par la guerre, ni par les chars, ni par les chevaux, ni par les cavaliers. »",
+          "name": "Osée 1:7",
+          "chapter": "1"
+        },
+        {
+          "verse": "8",
+          "text": "Et elle sevra cette fille Sans-Pitié ; et elle conçut encore, et elle enfanta un fils.",
+          "grec": "καὶ ἀπεγαλάκτισεν τὴν Οὐκ-ἠλεημένην καὶ συνέλαβεν ἔτι καὶ ἔτεκεν υἱόν.",
+          "alexandrie": "Et elle sevra Celle-dont-on-n’a-pas-eu-pitié, et elle conçut encore et enfanta un fils.",
+          "name": "Osée 1:8",
+          "chapter": "1"
+        },
+        {
+          "verse": "9",
+          "text": "Le Seigneur dit à Osée : Appelle-le Non-Mon-Peuple ; parce que vous n'êtes plus mon peuple, et je ne suis plus votre Dieu.",
+          "grec": "καὶ εἶπεν κάλεσον τὸ ὄνομα αὐτοῦ Οὐ-λαόσ-μου διότι ὑμεῖς οὐ λαός μου καὶ ἐγὼ οὔκ εἰμι ὑμῶν.",
+          "alexandrie": "Et il lui dit : « Appelle-le du nom de Pas-mon-peuple, car vous n'êtes pas mon peuple, et moi, je ne suis pas vôtre. »",
+          "name": "Osée 1:9",
+          "chapter": "1"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "name": "Osée 2",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et le nombre des fils d'Israël a été comme le sable de la mer, que l'on ne peut ni mesurer ni compter ; et ceci arrivera dans le lieu même où il leur a été dit : Vous n'êtes plus mon peuple ; et ils seront appelés fils du Dieu vivant.",
+          "grec": "καὶ ἦν ὁ ἀριθμὸς τῶν υἱῶν Ισραηλ ὡς ἡ ἄμμος τῆς θαλάσσης ἣ οὐκ ἐκμετρηθήσεται οὐδὲ ἐξαριθμηθήσεται καὶ ἔσται ἐν τῷ τόπῳ οὗ ἐρρέθη αὐτοῖς οὐ λαός μου ὑμεῖς ἐκεῖ κληθήσονται υἱοὶ θεοῦ ζῶντος.",
+          "alexandrie": "Et le nombre des fils d’Israël était comme le sable de la mer, qui ne peut être mesuré ni dénombré ; et il adviendra : dans le lieu où il leur avait été dit : « Vous êtes Pas-mon-peuple », ils seront appelés eux aussi « fils du Dieu vivant ».",
+          "name": "Osée 2:1",
+          "chapter": "2"
+        },
+        {
+          "verse": "2",
+          "text": "Et les fils de Juda se réuniront, et en même temps ceux d'Israël, et ils institueront pour eux une seule principauté, et ils se répandront sur la terre, parce que le jour de Jezraël est grand.",
+          "grec": "καὶ συναχθήσονται οἱ υἱοὶ Ιουδα καὶ οἱ υἱοὶ Ισραηλ ἐπὶ τὸ αὐτὸ καὶ θήσονται ἑαυτοῖς ἀρχὴν μίαν καὶ ἀναβήσονται ἐκ τῆς γῆς ὅτι μεγάλη ἡ ἡμέρα τοῦ Ιεζραελ.",
+          "alexandrie": "Et les fils de Juda et les fils d’Israël seront réunis ensemble, et ils se donneront une autorité unique, et ils monteront hors du pays, car grand est le jour d’Izréel.",
+          "name": "Osée 2:2",
+          "chapter": "2"
+        },
+        {
+          "verse": "3",
+          "text": "Dites à votre frère, Mon-Peuple, et à votre sœur Pitié",
+          "grec": "εἴπατε τῷ ἀδελφῷ ὑμῶν Λαόσ-μου καὶ τῇ ἀδελφῇ ὑμῶν Ἠλεημένη.",
+          "alexandrie": "Dites à votre frère : « Mon peuple », et à votre sœur : « Celle dont on a eu pitié ».",
+          "name": "Osée 2:3",
+          "chapter": "2"
+        },
+        {
+          "verse": "4",
+          "text": "Plaidez contre votre mère ; car elle n'est point ma femme, et je ne suis point son Mari. Et j'ôterai de devant ma face sa prostitution, et son adultère du milieu de ses mamelles,",
+          "grec": "κρίθητε πρὸς τὴν μητέρα ὑμῶν κρίθητε ὅτι αὐτὴ οὐ γυνή μου καὶ ἐγὼ οὐκ ἀνὴρ αὐτῆς καὶ ἐξαρῶ τὴν πορνείαν αὐτῆς ἐκ προσώπου μου καὶ τὴν μοιχείαν αὐτῆς ἐκ μέσου μαστῶν αὐτῆς.",
+          "alexandrie": "Intentez une action contre votre mère, intentez une action ; car elle n’est pas ma femme, et moi je ne suis pas son mari. Et j ôterai sa prostitution de ma face et son adultère d’entre ses seins,",
+          "name": "Osée 2:4",
+          "chapter": "2"
+        },
+        {
+          "verse": "5",
+          "text": "Afin de la mettre nue, et de la remettre comme elle était le jour de sa naissance ; et je ferai d'elle un désert, et je la traiterai comme une terre aride ; et je la tuerai par la soif ;",
+          "grec": "ὅπως ἂν ἐκδύσω αὐτὴν γυμνὴν καὶ ἀποκαταστήσω αὐτὴν καθὼς ἡμέρᾳ γενέσεως αὐτῆς καὶ θήσομαι αὐτὴν ὡς ἔρημον καὶ τάξω αὐτὴν ὡς γῆν ἄνυδρον καὶ ἀποκτενῶ αὐτὴν ἐν δίψει.",
+          "alexandrie": "afin que je la déshabille nue et la rétablisse comme au jour de sa naissance. Et je la rendrai comme un désert et la disposerai comme une terre sans eau, et je la tuerai par la soif.",
+          "name": "Osée 2:5",
+          "chapter": "2"
+        },
+        {
+          "verse": "6",
+          "text": "Et je n'aurai point pitié de ses enfants ; car ce sont des enfants de prostitution.",
+          "grec": "καὶ τὰ τέκνα αὐτῆς οὐ μὴ ἐλεήσω ὅτι τέκνα πορνείας ἐστίν.",
+          "alexandrie": "Et de ses enfants je n’aurai pas pitié, car ce sont des enfants de prostitution.",
+          "name": "Osée 2:6",
+          "chapter": "2"
+        },
+        {
+          "verse": "7",
+          "text": "Leur mère s'est prostituée ; celle qui les a portés les a couverts de honte ; elle a dit : je m'en irai après mes amants qui me donnent mon pain, et mon eau, et mes vêtements, et mon linge, et mon huile, et tout ce qui m'est nécessaire.",
+          "grec": "ὅτι ἐξεπόρνευσεν ἡ μήτηρ αὐτῶν κατῄσχυνεν ἡ τεκοῦσα αὐτά εἶπεν γάρ ἀκολουθήσω ὀπίσω τῶν ἐραστῶν μου τῶν διδόντων μοι τοὺς ἄρτους μου καὶ τὸ ὕδωρ μου καὶ τὰ ἱμάτιά μου καὶ τὰ ὀθόνιά μου καὶ τὸ ἔλαιόν μου καὶ πάντα ὅσα μοι καθήκει.",
+          "alexandrie": "Car leur mère s’est prostituée, celle qui les a enfantés les a déshonorés car elle a dit : « J’irai derrière mes amants qui me donnent mon pain, mon eau, mes vêtements, mes étoffes de lin, mon huile et tout ce qui me convient. »",
+          "name": "Osée 2:7",
+          "chapter": "2"
+        },
+        {
+          "verse": "8",
+          "text": "C'est pourquoi je ferme sa voie avec des épines, et je bâtirai sur ses routes ; elle ne retrouvera plus son sentier.",
+          "grec": "διὰ τοῦτο ἰδοὺ ἐγὼ φράσσω τὴν ὁδὸν αὐτῆς ἐν σκόλοψιν καὶ ἀνοικοδομήσω τὰς ὁδοὺς αὐτῆς καὶ τὴν τρίβον αὐτῆς οὐ μὴ εὕρῃ.",
+          "alexandrie": "C'est pourquoi voici, moi, j’obstrue son chemin avec des épines et je barricaderai ses chemins, et elle ne trouvera plus son sentier.",
+          "name": "Osée 2:8",
+          "chapter": "2"
+        },
+        {
+          "verse": "9",
+          "text": "Elle poursuivra ses amants, et ne les atteindra pas ; elle les cherchera, et ne les trouvera pas. Et elle dira : je vais partir, je vais retourner auprès de mon premier mari ; car, pour moi, il faisait meilleur alors que maintenant.",
+          "grec": "καὶ καταδιώξεται τοὺς ἐραστὰς αὐτῆς καὶ οὐ μὴ καταλάβῃ αὐτούς καὶ ζητήσει αὐτοὺς καὶ οὐ μὴ εὕρῃ αὐτούς καὶ ἐρεῖ πορεύσομαι καὶ ἐπιστρέψω πρὸς τὸν ἄνδρα μου τὸν πρότερον ὅτι καλῶς μοι ἦν τότε ἢ νῦν.",
+          "alexandrie": "Et elle poursuivra ses amants et ne les rattrapera pas, et elle les cherchera et ne les trouvera pas. Et elle dira : « J’irai et je retournerai vers mon premier mari, car alors, j’allais mieux que maintenant. »",
+          "name": "Osée 2:9",
+          "chapter": "2"
+        },
+        {
+          "verse": "10",
+          "text": "Et elle n'a point connu que je lui avais donné du pain, du vin et de l'huile, et que je l'avais comblée d'argent, et elle a fait à Baal des idoles d'argent et d'or.",
+          "grec": "καὶ αὐτὴ οὐκ ἔγνω ὅτι ἐγὼ δέδωκα αὐτῇ τὸν σῖτον καὶ τὸν οἶνον καὶ τὸ ἔλαιον καὶ ἀργύριον ἐπλήθυνα αὐτῇ αὐτὴ δὲ ἀργυρᾶ καὶ χρυσᾶ ἐποίησεν τῇ Βααλ.",
+          "alexandrie": "Et elle n’a pas su que c’était moi qui lui avais donné le blé, le vin et l’huile ; et j’ai multiplié l’argent pour elle, mais elle a fait des choses en argent et en or pour la Baal.",
+          "name": "Osée 2:10",
+          "chapter": "2"
+        },
+        {
+          "verse": "11",
+          "text": "À cause de cela, je m'en retournerai, je prendrai mon blé lors de la moisson, et mon vin lors de la vendange ; et je reprendrai mes vêtements et mon linge, pour ne plus couvrir sa nudité.",
+          "grec": "διὰ τοῦτο ἐπιστρέψω καὶ κομιοῦμαι τὸν σῖτόν μου καθ' ὥραν αὐτοῦ καὶ τὸν οἶνόν μου ἐν καιρῷ αὐτοῦ καὶ ἀφελοῦμαι τὰ ἱμάτιά μου καὶ τὰ ὀθόνιά μου τοῦ μὴ καλύπτειν τὴν ἀσχημοσύνην αὐτῆς.",
+          "alexandrie": "C’est pourquoi je retournerai et reprendrai mon blé à son heure et mon vin en son temps, et j’enlèverai mes vêtements et mes tissus de lin pour ne plus voiler son indécence.",
+          "name": "Osée 2:11",
+          "chapter": "2"
+        },
+        {
+          "verse": "12",
+          "text": "Et désormais je révélerai à ses amants son impureté, et nul ne la délivrera de mes mains.",
+          "grec": "καὶ νῦν ἀποκαλύψω τὴν ἀκαθαρσίαν αὐτῆς ἐνώπιον τῶν ἐραστῶν αὐτῆς καὶ οὐδεὶς οὐ μὴ ἐξέληται αὐτὴν ἐκ χειρός μου.",
+          "alexandrie": "Et maintenant je vais dévoiler son impureté devant ses amants et personne ne l’arrachera de ma main.",
+          "name": "Osée 2:12",
+          "chapter": "2"
+        },
+        {
+          "verse": "13",
+          "text": "Et je supprimerai toutes ses joies, toutes ses fêtes, toutes ses nouvelles lunes, ses sabbats et toutes ses solennités.",
+          "grec": "καὶ ἀποστρέψω πάσας τὰς εὐφροσύνας αὐτῆς ἑορτὰς αὐτῆς καὶ τὰς νουμηνίας αὐτῆς καὶ τὰ σάββατα αὐτῆς καὶ πάσας τὰς πανηγύρεις αὐτῆς.",
+          "alexandrie": "Et je repousserai toutes ses réjouissances, ses fêtes, ses néoménies, ses sabbats et toutes ses assemblées solennelles.",
+          "name": "Osée 2:13",
+          "chapter": "2"
+        },
+        {
+          "verse": "14",
+          "text": "Et je détruirai sa vigne et ses figuiers, parce qu'elle a dit : Ce sont les salaires que m'ont donné mes amants. Et moi, j'en ferai un témoignage ; les bêtes des champs viendront y paître, et les oiseaux du ciel, et les reptiles de la terre.",
+          "grec": "καὶ ἀφανιῶ ἄμπελον αὐτῆς καὶ τὰς συκᾶς αὐτῆς ὅσα εἶπεν μισθώματά μου ταῦτά ἐστιν ἃ ἔδωκάν μοι οἱ ἐρασταί μου καὶ θήσομαι αὐτὰ εἰς μαρτύριον καὶ καταφάγεται αὐτὰ τὰ θηρία τοῦ ἀγροῦ καὶ τὰ πετεινὰ τοῦ οὐρανοῦ καὶ τὰ ἑρπετὰ τῆς γῆς.",
+          "alexandrie": "Et je détruirai sa vigne et ses figuiers, tout ce dont elle a dit : « Ce sont mes gages que m’ont donnés mes amants. » Et j’en ferai un témoignage et les bêtes des champs les dévoreront et les oiseaux du ciel et les bestioles de la terre.",
+          "name": "Osée 2:14",
+          "chapter": "2"
+        },
+        {
+          "verse": "15",
+          "text": "Je lui ferai expier les jours où elle a sacrifié à Baal, et où elle a mis ses pendants d'oreilles et ses colliers pour s'en aller après son amant. Et elle m'a oublié, dit le Seigneur.",
+          "grec": "καὶ ἐκδικήσω ἐπ' αὐτὴν τὰς ἡμέρας τῶν Βααλιμ ἐν αἷς ἐπέθυεν αὐτοῖς καὶ περιετίθετο τὰ ἐνώτια αὐτῆς καὶ τὰ καθόρμια αὐτῆς καὶ ἐπορεύετο ὀπίσω τῶν ἐραστῶν αὐτῆς ἐμοῦ δὲ ἐπελάθετο λέγει κύριος.",
+          "alexandrie": "Et je tirerai vengeance sur elle des jours des Baalim durant lesquels elle leur sacrifiait, mettait ses boucles d’oreilles et ses colliers et allait derrière ses amants ; mais moi, elle m’a oublié, dit le Seigneur.",
+          "name": "Osée 2:15",
+          "chapter": "2"
+        },
+        {
+          "verse": "16",
+          "text": "C'est pourquoi je l'égarerai et je l'enverrai dans le désert, et je parlerai à son cœur.",
+          "grec": "διὰ τοῦτο ἰδοὺ ἐγὼ πλανῶ αὐτὴν καὶ τάξω αὐτὴν εἰς ἔρημον καὶ λαλήσω ἐπὶ τὴν καρδίαν αὐτῆς.",
+          "alexandrie": "C’est pourquoi voici, moi, je l’égare et je la ferai descendre au désert et parlerai sur son cœur.",
+          "name": "Osée 2:16",
+          "chapter": "2"
+        },
+        {
+          "verse": "17",
+          "text": "Et de là je lui rendrai ses possessions et la vallée d'Achor, pour lui ouvrir l'intelligence. Et là elle s'humiliera autant de jours qu'a duré sa jeunesse, et autant de jours qu'elle a mis à revenir de la terre d'Égypte.",
+          "grec": "καὶ δώσω αὐτῇ τὰ κτήματα αὐτῆς ἐκεῖθεν καὶ τὴν κοιλάδα Αχωρ διανοῖξαι σύνεσιν αὐτῆς καὶ ταπεινωθήσεται ἐκεῖ κατὰ τὰς ἡμέρας νηπιότητος αὐτῆς καὶ κατὰ τὰς ἡμέρας ἀναβάσεως αὐτῆς ἐκ γῆς Αἰγύπτου.",
+          "alexandrie": "Et je lui donnerai ses possessions de là et la vallée d’Achor pour ouvrir son intelligence, et là elle sera humiliée selon les jours de sa petite enfance et selon les jours de sa montée du pays d’Égypte.",
+          "name": "Osée 2:17",
+          "chapter": "2"
+        },
+        {
+          "verse": "18",
+          "text": "Et ceci arrivera en ce jour-là, dit le Seigneur ; elle m'appellera mon époux, et elle ne m'appellera plus Baal.",
+          "grec": "καὶ ἔσται ἐν ἐκείνῃ τῇ ἡμέρᾳ λέγει κύριος καλέσει με ὁ ἀνήρ μου καὶ οὐ καλέσει με ἔτι Βααλιμ.",
+          "alexandrie": "Et il adviendra en ce jour-là, dit le Seigneur : elle m’appellera Mon mari et ne m’appellera plus Baalim.",
+          "name": "Osée 2:18",
+          "chapter": "2"
+        },
+        {
+          "verse": "19",
+          "text": "Et j'ôterai de sa bouche les noms de Baal, et l'on ne s'en souviendra plus.",
+          "grec": "καὶ ἐξαρῶ τὰ ὀνόματα τῶν Βααλιμ ἐκ στόματος αὐτῆς καὶ οὐ μὴ μνησθῶσιν οὐκέτι τὰ ὀνόματα αὐτῶν.",
+          "alexandrie": "Et j’ôterai les noms des Baalim de sa bouche et leurs noms ne seront plus mentionnés.",
+          "name": "Osée 2:19",
+          "chapter": "2"
+        },
+        {
+          "verse": "20",
+          "text": "Et en ce jour-là j'établirai une alliance entre eux et les bêtes sauvages, et les oiseaux du ciel, et les reptiles de la terre ; et je briserai sur la terre l'arc, le glaive et les armes de guerre, et je t'y installerai avec l'espérance.",
+          "grec": "καὶ διαθήσομαι αὐτοῖς ἐν ἐκείνῃ τῇ ἡμέρᾳ διαθήκην μετὰ τῶν θηρίων τοῦ ἀγροῦ καὶ μετὰ τῶν πετεινῶν τοῦ οὐρανοῦ καὶ μετὰ τῶν ἑρπετῶν τῆς γῆς καὶ τόξον καὶ ῥομφαίαν καὶ πόλεμον συντρίψω ἀπὸ τῆς γῆς καὶ κατοικιῶ σε ἐπ' ἐλπίδι.",
+          "alexandrie": "Et je conclurai pour eux une alliance en ce jour-là avec les bêtes des champs, avec les oiseaux du ciel et avec les bestioles de la terre, et l’arc, l’épée et la guerre je les briserai en les éloignant du pays ; et je te ferai habiter avec espérance.",
+          "name": "Osée 2:20",
+          "chapter": "2"
+        },
+        {
+          "verse": "21",
+          "text": "Et je te prendrai pour épouse dans tous les siècles, et je te prendrai pour épouse en mon équité, en mes jugements, en ma pitié, en ma miséricorde.",
+          "grec": "καὶ μνηστεύσομαί σε ἐμαυτῷ εἰς τὸν αἰῶνα καὶ μνηστεύσομαί σε ἐμαυτῷ ἐν δικαιοσύνῃ καὶ ἐν κρίματι καὶ ἐν ἐλέει καὶ ἐν οἰκτιρμοῖς.",
+          "alexandrie": "Et je te fiancerai à moi à jamais, et je te fiancerai à moi dans la justice, dans le jugement, dans la pitié et dans les sentiments de compassion.",
+          "name": "Osée 2:21",
+          "chapter": "2"
+        },
+        {
+          "verse": "22",
+          "text": "Et je te prendrai pour épouse avec confiance, et tu reconnaîtras le Seigneur.",
+          "grec": "καὶ μνηστεύσομαί σε ἐμαυτῷ ἐν πίστει καὶ ἐπιγνώσῃ τὸν κύριον.",
+          "alexandrie": "Et je te fiancerai à moi dans la fidélité, et tu reconnaîtras le Seigneur.",
+          "name": "Osée 2:22",
+          "chapter": "2"
+        },
+        {
+          "verse": "23",
+          "text": "Et il arrivera en ce jour-là, dit le Seigneur, que j'exaucerai le ciel, et le ciel exaucera la terre.",
+          "grec": "καὶ ἔσται ἐν ἐκείνῃ τῇ ἡμέρᾳ λέγει κύριος ἐπακούσομαι τῷ οὐρανῷ καὶ ὁ οὐρανὸς ἐπακούσεται τῇ γῇ.",
+          "alexandrie": "Et il adviendra en ce jour-là, dit le Seigneur : j’exaucerai le ciel et lui exaucera la terre.",
+          "name": "Osée 2:23",
+          "chapter": "2"
+        },
+        {
+          "verse": "24",
+          "text": "Et la terre exaucera le blé, et le vin, et l'huile, et toutes ces choses exauceront Jezraël.",
+          "grec": "καὶ ἡ γῆ ἐπακούσεται τὸν σῖτον καὶ τὸν οἶνον καὶ τὸ ἔλαιον καὶ αὐτὰ ἐπακούσεται τῷ Ιεζραελ.",
+          "alexandrie": "Et la terre exaucera le blé, le vin et l’huile et eux exauceront Izréel.",
+          "name": "Osée 2:24",
+          "chapter": "2"
+        },
+        {
+          "verse": "25",
+          "text": "Et je la sèmerai pour moi sur la terre, et j'aimerai celle que je n'aimais pas. Et je dirai à Non-Mon-Peuple : Tu es mon peuple ; et il dira : Tu es le Seigneur mon Dieu.",
+          "grec": "καὶ σπερῶ αὐτὴν ἐμαυτῷ ἐπὶ τῆς γῆς καὶ ἐλεήσω τὴν Οὐκ-ἠλεημένην καὶ ἐρῶ τῷ Οὐ-λαῷ-μου λαός μου εἶ σύ καὶ αὐτὸς ἐρεῖ κύριος ὁ θεός μου εἶ σύ.",
+          "alexandrie": "Et je la sèmerai pour moi sur la terre, et j’aurai pitié de Celle-dont-on-n’a-pas-eu-pitié, et je dirai a Pas-mon-peuple : « Toi tu es mon peuple », et lui dira : « Toi tu es le Seigneur mon Dieu. »",
+          "name": "Osée 2:25",
+          "chapter": "2"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "name": "Osée 3",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et le Seigneur m'a dit : Pars encore, aime une femme qui aime le mal, une femme adultère, comme Dieu aime les fils d'Israël, tandis qu'ils regardent les dieux étrangers, et se régalent de pâtes aux raisins.",
+          "grec": "καὶ εἶπεν κύριος πρός με ἔτι πορεύθητι καὶ ἀγάπησον γυναῖκα ἀγαπῶσαν πονηρὰ καὶ μοιχαλίν καθὼς ἀγαπᾷ ὁ θεὸς τοὺς υἱοὺς Ισραηλ καὶ αὐτοὶ ἀποβλέπουσιν ἐπὶ θεοὺς ἀλλοτρίους καὶ φιλοῦσιν πέμματα μετὰ σταφίδων.",
+          "alexandrie": "Et le Seigneur me dit : « Va encore et aime une femme qui aime les choses mauvaises et adultère, comme Dieu aime les fils d’Israël et eux détournent le regard vers des dieux étrangers et affectionnent les gâteaux aux raisins. »",
+          "name": "Osée 3:1",
+          "chapter": "3"
+        },
+        {
+          "verse": "2",
+          "text": "Et moi, j'ai loué une telle femme quinze sicles d'argent et un gomor d'orge, et un nebel d'huile.",
+          "grec": "καὶ ἐμισθωσάμην ἐμαυτῷ πεντεκαίδεκα ἀργυρίου καὶ γομορ κριθῶν καὶ νεβελ οἴνου.",
+          "alexandrie": "Et je l’engageai pour moi pour quinze pièces d’argent, un gomor d’orge et un nebel de vin.",
+          "name": "Osée 3:2",
+          "chapter": "3"
+        },
+        {
+          "verse": "3",
+          "text": "Et je lui ai dit : Tu te tiendras tranquille avec moi bien des jours ; garde-toi de te prostituer ; ne sois pas à un autre homme, et je te serai attaché.",
+          "grec": "καὶ εἶπα πρὸς αὐτήν ἡμέρας πολλὰς καθήσῃ ἐπ' ἐμοὶ καὶ οὐ μὴ πορνεύσῃς οὐδὲ μὴ γένῃ ἀνδρὶ ἑτέρῳ καὶ ἐγὼ ἐπὶ σοί.",
+          "alexandrie": "Et je lui dis : « De nombreux jours tu seras assise près de moi - et tu ne te prostitueras pas et tu ne seras pas à un homme - et moi près de toi. »",
+          "name": "Osée 3:3",
+          "chapter": "3"
+        },
+        {
+          "verse": "4",
+          "text": "Car les fils d'Israël seront bien des jours sans roi, sans chef, sans sacrifices, sans autels, sans sacerdoce, sans manifestation.",
+          "grec": "διότι ἡμέρας πολλὰς καθήσονται οἱ υἱοὶ Ισραηλ οὐκ ὄντος βασιλέως οὐδὲ ὄντος ἄρχοντος οὐδὲ οὔσης θυσίας οὐδὲ ὄντος θυσιαστηρίου οὐδὲ ἱερατείας οὐδὲ δήλων.",
+          "alexandrie": "Car de nombreux jours les fils d’Israël seront assis sans qu’il y ait de roi, sans qu’il y ait de chef, sans qu’il y ait de sacrifice, et sans qu’il y ait d’autel ni de sacerdoce ni de clartés.",
+          "name": "Osée 3:4",
+          "chapter": "3"
+        },
+        {
+          "verse": "5",
+          "text": "Et, après cela, les fils d'Israël se convertiront, et ils chercheront le Seigneur leur Dieu, et David leur roi, et ils seront pleins d'admiration, sur les derniers jours, pour le Seigneur et ses bienfaits.",
+          "grec": "καὶ μετὰ ταῦτα ἐπιστρέψουσιν οἱ υἱοὶ Ισραηλ καὶ ἐπιζητήσουσιν κύριον τὸν θεὸν αὐτῶν καὶ Δαυιδ τὸν βασιλέα αὐτῶν καὶ ἐκστήσονται ἐπὶ τῷ κυρίῳ καὶ ἐπὶ τοῖς ἀγαθοῖς αὐτοῦ ἐπ' ἐσχάτων τῶν ἡμερῶν.",
+          "alexandrie": "Et après cela les fils d’Israël retourneront et rechercheront le Seigneur leur Dieu et David leur roi, et ils seront stupéfaits du Seigneur et de ses bontés aux derniers jours.",
+          "name": "Osée 3:5",
+          "chapter": "3"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "name": "Osée 4",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Écoutez la parole du Seigneur, ô fils d'Israël ; car le Seigneur va entrer en jugement avec les habitants de la terre, parce qu'il n'existe plus sur la terre ni vérité, ni miséricorde, ni connaissance de Dieu.",
+          "grec": "ἀκούσατε λόγον κυρίου υἱοὶ Ισραηλ διότι κρίσις τῷ κυρίῳ πρὸς τοὺς κατοικοῦντας τὴν γῆν διότι οὐκ ἔστιν ἀλήθεια οὐδὲ ἔλεος οὐδὲ ἐπίγνωσις θεοῦ ἐπὶ τῆς γῆς.",
+          "alexandrie": "Écoutez la parole du Seigneur, fils d’Israël, car il y a jugement pour le Seigneur contre ceux qui habitent le pays, car il n’y a pas de vérité, ni de pitié, ni de connaissance de Dieu dans le pays.",
+          "name": "Osée 4:1",
+          "chapter": "4"
+        },
+        {
+          "verse": "2",
+          "text": "Les malédictions, le mensonge, le meurtre, le vol, l'adultère, sont répandus sur la terre, et le sang se mêle au sang.",
+          "grec": "ἀρὰ καὶ ψεῦδος καὶ φόνος καὶ κλοπὴ καὶ μοιχεία κέχυται ἐπὶ τῆς γῆς καὶ αἵματα ἐφ' αἵμασιν μίσγουσιν.",
+          "alexandrie": "Malédiction, mensonge, meurtre, vol et adultère se sont déversés sur la terre, et on mêle le sang au sang.",
+          "name": "Osée 4:2",
+          "chapter": "4"
+        },
+        {
+          "verse": "3",
+          "text": "C'est pourquoi la terre sera en deuil, et elle sera affaiblie avec tout ce qui l'habite, avec les bêtes des champs, les reptiles et les oiseaux du ciel ; et même les poissons de la mer dépériront.",
+          "grec": "διὰ τοῦτο πενθήσει ἡ γῆ καὶ σμικρυνθήσεται σὺν πᾶσιν τοῖς κατοικοῦσιν αὐτήν σὺν τοῖς θηρίοις τοῦ ἀγροῦ καὶ σὺν τοῖς ἑρπετοῖς τῆς γῆς καὶ σὺν τοῖς πετεινοῖς τοῦ οὐρανοῦ καὶ οἱ ἰχθύες τῆς θαλάσσης ἐκλείψουσιν.",
+          "alexandrie": "C’est pourquoi le pays mènera le deuil [et sera amoindri] avec tous ceux qui l’habitent : avec les bêtes des champs, avec les bestioles de la terre et avec les oiseaux du ciel, et les poissons de la mer disparaîtront,",
+          "name": "Osée 4:3",
+          "chapter": "4"
+        },
+        {
+          "verse": "4",
+          "text": "Que nul n'ait de contestation, que nul ne reprenne autrui. Mon peuple est comme un peuple révolté contre ses prêtres.",
+          "grec": "ὅπως μηδεὶς μήτε δικάζηται μήτε ἐλέγχῃ μηδείς ὁ δὲ λαός μου ὡς ἀντιλεγόμενος ἱερεύς.",
+          "alexandrie": "pour que nul ne plaide et nul ne requière ; mais mon peuple est comme un prêtre contesté.",
+          "name": "Osée 4:4",
+          "chapter": "4"
+        },
+        {
+          "verse": "5",
+          "text": "Et il perdra sa force de jour en jour, et, avec toi, le prophète aussi perdra sa force. J'ai comparé ta mère à la nuit.",
+          "grec": "καὶ ἀσθενήσεις ἡμέρας καὶ ἀσθενήσει καὶ προφήτης μετὰ σοῦ νυκτὶ ὡμοίωσα τὴν μητέρα σου.",
+          "alexandrie": "Et tu seras affaibli de jour, et le prophète aussi sera affaibli avec toi ; j’ai assimilé ta mère à la nuit.",
+          "name": "Osée 4:5",
+          "chapter": "4"
+        },
+        {
+          "verse": "6",
+          "text": "Mon peuple est comme s'il ne savait rien ; car tu as repoussé la science, et moi je te repousserai à mon tour, pour que tu n'aies plus mon sacerdoce ; tu as oublié la loi de Dieu, et moi j'oublierai tes enfants.",
+          "grec": "ὡμοιώθη ὁ λαός μου ὡς οὐκ ἔχων γνῶσιν ὅτι σὺ ἐπίγνωσιν ἀπώσω κἀγὼ ἀπώσομαι σὲ τοῦ μὴ ἱερατεύειν μοι καὶ ἐπελάθου νόμον θεοῦ σου κἀγὼ ἐπιλήσομαι τέκνων σου.",
+          "alexandrie": "Mon peuple a été assimilé à quelqu’un qui n’a pas de connaissance ; car toi tu as rejeté la connaissance : moi aussi je te rejetterai de sorte que tu ne sois plus prêtre pour moi, et tu as oublié la loi de ton Dieu : moi aussi j’oublierai tes enfants.",
+          "name": "Osée 4:6",
+          "chapter": "4"
+        },
+        {
+          "verse": "7",
+          "text": "Plus ils se sont multipliés, plus ils ont péché contre moi ; je changerai leur gloire en opprobre.",
+          "grec": "κατὰ τὸ πλῆθος αὐτῶν οὕτως ἥμαρτόν μοι τὴν δόξαν αὐτῶν εἰς ἀτιμίαν θήσομαι.",
+          "alexandrie": "Conformément à leur grand nombre, ainsi ils ont péché contre moi, de leur gloire je ferai un déshonneur.",
+          "name": "Osée 4:7",
+          "chapter": "4"
+        },
+        {
+          "verse": "8",
+          "text": "Ils se nourriront des péchés de mon peuple, et ils mettront leurs âmes en leurs iniquités.",
+          "grec": "ἁμαρτίας λαοῦ μου φάγονται καὶ ἐν ταῖς ἀδικίαις αὐτῶν λήμψονται τὰς ψυχὰς αὐτῶν.",
+          "alexandrie": "Ils mangeront les péchés de mon peuple, et dans leurs injustices ils prendront leurs âmes.",
+          "name": "Osée 4:8",
+          "chapter": "4"
+        },
+        {
+          "verse": "9",
+          "text": "Et tel sera le peuple, tel sera la prêtre ; et sur eux je tirerai vengeance de leurs voies, et je les rétribuerai selon leurs conseils.",
+          "grec": "καὶ ἔσται καθὼς ὁ λαὸς οὕτως καὶ ὁ ἱερεύς καὶ ἐκδικήσω ἐπ' αὐτὸν τὰς ὁδοὺς αὐτοῦ καὶ τὰ διαβούλια αὐτοῦ ἀνταποδώσω αὐτῷ.",
+          "alexandrie": "Et comme sera le peuple, de même aussi le prêtre, et je tirerai vengeance sur lui de ses chemins, et ses projets, je les lui rendrai.",
+          "name": "Osée 4:9",
+          "chapter": "4"
+        },
+        {
+          "verse": "10",
+          "text": "Ils mangeront, et ne seront pas rassasiés ; ils se sont prostitués, et ne prospèrent point, parce qu'ils ont cessé de prendre garde au Seigneur.",
+          "grec": "καὶ φάγονται καὶ οὐ μὴ ἐμπλησθῶσιν ἐπόρνευσαν καὶ οὐ μὴ κατευθύνωσιν διότι τὸν κύριον ἐγκατέλιπον τοῦ φυλάξαι.",
+          "alexandrie": "Et ils mangeront et ne seront pas rassasiés, ils se sont prostitués et ne marcheront pas droit, car ils ont abandonné le pour observer",
+          "name": "Osée 4:10",
+          "chapter": "4"
+        },
+        {
+          "verse": "11",
+          "text": "Le cœur de mon peuple s'est complu dans la prostitution, le vin et l'ivresse.",
+          "grec": "πορνείαν καὶ οἶνον καὶ μέθυσμα ἐδέξατο καρδία λαοῦ μου.",
+          "alexandrie": "la prostitution. Et le cœur de mon peuple a accepté vin et boisson enivrante.",
+          "name": "Osée 4:11",
+          "chapter": "4"
+        },
+        {
+          "verse": "12",
+          "text": "Ils ont consulté des présages, et avec des baguettes on leur a fait des prédictions ; ils ont été égarés en un esprit de débauche, et ils se sont prostitués en s'éloignant de leur Dieu.",
+          "grec": "ἐν συμβόλοις ἐπηρώτων καὶ ἐν ῥάβδοις αὐτοῦ ἀπήγγελλον αὐτῷ πνεύματι πορνείας ἐπλανήθησαν καὶ ἐξεπόρνευσαν ἀπὸ τοῦ θεοῦ αὐτῶν.",
+          "alexandrie": "Par des signes ils consultaient et par ses bâtons ils lui annonçaient ; par un esprit de prostitution ils ont été égarés et se sont prostitués en quittant leur Dieu.",
+          "name": "Osée 4:12",
+          "chapter": "4"
+        },
+        {
+          "verse": "13",
+          "text": "Ils ont sacrifié sur les hauts lieux ; ils ont brûlé de l'encens sur des collines, sous un chêne ou sous un peuplier, ou sous tout arbre touffu, parce qu'ils se plaisent à l'ombre. À cause de cela, vos filles se prostitueront, et vos femmes seront adultères.",
+          "grec": "ἐπὶ τὰς κορυφὰς τῶν ὀρέων ἐθυσίαζον καὶ ἐπὶ τοὺς βουνοὺς ἔθυον ὑποκάτω δρυὸς καὶ λεύκης καὶ δένδρου συσκιάζοντος ὅτι καλὸν σκέπη διὰ τοῦτο ἐκπορνεύσουσιν αἱ θυγατέρες ὑμῶν καὶ αἱ νύμφαι ὑμῶν μοιχεύσουσιν.",
+          "alexandrie": "Sur les sommets des montagnes ils offraient des sacrifices et sur les collines ils sacrifiaient, sous le chêne et le peuplier et l’arbre qui fait de l’ombre car un abri est une belle chose. C’est pourquoi vos filles se prostitueront et vos belles-filles commettront l’adultère.",
+          "name": "Osée 4:13",
+          "chapter": "4"
+        },
+        {
+          "verse": "14",
+          "text": "Et je ne visiterai plus vos filles quand elles se prostitueront, ni vos femmes quand elles seront adultères, parce que vous-mêmes vous vous êtes souillés avec des prostituées, et que vous avez sacrifié avec des initiés, et que le peuple (un peuple intelligent !) s'est laissé prendre aux filets d'une prostituée.",
+          "grec": "καὶ οὐ μὴ ἐπισκέψωμαι ἐπὶ τὰς θυγατέρας ὑμῶν ὅταν πορνεύωσιν καὶ ἐπὶ τὰς νύμφας ὑμῶν ὅταν μοιχεύωσιν διότι καὶ αὐτοὶ μετὰ τῶν πορνῶν συνεφύροντο καὶ μετὰ τῶν τετελεσμένων ἔθυον καὶ ὁ λαὸς ὁ συνίων συνεπλέκετο μετὰ πόρνης.",
+          "alexandrie": "Et je ne visiterai pas vos filles quand elles se prostitueront, ni vos belles-filles quand elles commettront l’adultère, car eux aussi frayaient avec des prostituées et sacrifiaient avec des personnes initiées. Et le peuple, sans comprendre, était enlacé",
+          "name": "Osée 4:14",
+          "chapter": "4"
+        },
+        {
+          "verse": "15",
+          "text": "Or sache-le bien, toi, Israël, et toi, Juda : n'allez point en Galgala, ne montez point à la maison de On, et ne jurez point par le Dieu vivant.",
+          "grec": "σὺ δέ Ισραηλ μὴ ἀγνόει καὶ Ιουδα μὴ εἰσπορεύεσθε εἰς Γαλγαλα καὶ μὴ ἀναβαίνετε εἰς τὸν οἶκον Ων καὶ μὴ ὀμνύετε ζῶντα κύριον.",
+          "alexandrie": "à une prostituée. Mais toi, Israël, ne sois pas ignorant, et Juda — n’allez pas à Gilgal et ne montez pas à la Maison de On, et ne jurez pas par le Seigneur vivant.",
+          "name": "Osée 4:15",
+          "chapter": "4"
+        },
+        {
+          "verse": "16",
+          "text": "Car Israël, comme une génisse aiguillonnée par un taon, a eu des transports frénétiques, et maintenant le Seigneur le fera paître comme un agneau dans un lieu spacieux.",
+          "grec": "ὅτι ὡς δάμαλις παροιστρῶσα παροίστρησεν Ισραηλ νῦν νεμήσει αὐτοὺς κύριος ὡς ἀμνὸν ἐν εὐρυχώρῳ.",
+          "alexandrie": "Car telle une génisse enragée, Israël a été enragé ; maintenant le Seigneur les fera paître comme un agneau dans un large espace.",
+          "name": "Osée 4:16",
+          "chapter": "4"
+        },
+        {
+          "verse": "17",
+          "text": "Éphraïm, qui participe aux idoles, a mis devant lui des pierres d'achoppement.",
+          "grec": "μέτοχος εἰδώλων Εφραιμ ἔθηκεν ἑαυτῷ σκάνδαλα.",
+          "alexandrie": "Prenant part aux idoles, Ephraïm a mis pour lui-même des pierres d achoppement : il a choisi des Cananéens.",
+          "name": "Osée 4:17",
+          "chapter": "4"
+        },
+        {
+          "verse": "18",
+          "text": "Il a provoqué les Chananéens ; ils se sont prostitués et prostitués, et ils ont aimé l'ignominie et ses rugissements.",
+          "grec": "ᾑρέτισεν Χαναναίους πορνεύοντες ἐξεπόρνευσαν ἠγάπησαν ἀτιμίαν ἐκ φρυάγματος αὐτῶν.",
+          "alexandrie": "Ils se sont totalement prostitués, ils ont aimé le déshonneur par suite de leur arrogance.",
+          "name": "Osée 4:18",
+          "chapter": "4"
+        },
+        {
+          "verse": "19",
+          "text": "Seigneur, Tu es un tourbillon de vent emporté sur ses ailes ; pour eux, ils seront confondus à cause de leurs autels.",
+          "grec": "συστροφὴ πνεύματος σὺ εἶ ἐν ταῖς πτέρυξιν αὐτῆς καὶ καταισχυνθήσονται ἐκ τῶν θυσιαστηρίων αὐτῶν.",
+          "alexandrie": "Toi tu es un tourbillon de vent dans ses ailes, et ils auront honte de leurs autels.",
+          "name": "Osée 4:19",
+          "chapter": "4"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "name": "Osée 5",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ô prêtres, écoutez ce que je vais vous dire, recueillez-le ; maison d'Israël, maison du roi, prêtez-moi une oreille attentive : le jugement est près de vous ; car vous êtes comme un filet vers l'affût, comme un lacs tendu sur le Thabor,",
+          "grec": "ἀκούσατε ταῦτα οἱ ἱερεῖς καὶ προσέχετε οἶκος Ισραηλ καὶ ὁ οἶκος τοῦ βασιλέως ἐνωτίζεσθε διότι πρὸς ὑμᾶς ἐστιν τὸ κρίμα ὅτι παγὶς ἐγενήθητε τῇ σκοπιᾷ καὶ ὡς δίκτυον ἐκτεταμένον ἐπὶ τὸ ἰταβύριον.",
+          "alexandrie": "Écoutez ceci, prêtres, et soyez attentifs, maison d’Israël, et maison du roi . prêtez l’oreille, car c’est contre vous qu’est le jugement. Car vous êtes devenus un piège pour le point d’observation, et comme un filet tendu sur l’Itabyrion,",
+          "name": "Osée 5:1",
+          "chapter": "5"
+        },
+        {
+          "verse": "2",
+          "text": "Et que des chasseurs ont attaché ; et moi, je suis Celui qui vous instruit.",
+          "grec": "ὃ οἱ ἀγρεύοντες τὴν θήραν κατέπηξαν ἐγὼ δὲ παιδευτὴς ὑμῶν.",
+          "alexandrie": "que ceux qui chassent le gibier ont fixé ; mais moi je suis votre éducateur.",
+          "name": "Osée 5:2",
+          "chapter": "5"
+        },
+        {
+          "verse": "3",
+          "text": "Je connais Éphraïm, et Israël ne m'a point échappé ; parce que maintenant Éphraïm s'est prostitué, et qu'Israël s'est couvert de souillures,",
+          "grec": "ἐγὼ ἔγνων τὸν Εφραιμ καὶ Ισραηλ οὐκ ἄπεστιν ἀπ' ἐμοῦ διότι νῦν ἐξεπόρνευσεν Εφραιμ ἐμιάνθη Ισραηλ.",
+          "alexandrie": "Moi, j’ai connu Ephraïm, et Israël n’est pas loin de moi, car maintenant Ephraïm s’est prostitué, Israël a été souillé.",
+          "name": "Osée 5:3",
+          "chapter": "5"
+        },
+        {
+          "verse": "4",
+          "text": "Ils n'ont point pensé, en leur conseil, à se convertir à Dieu ; car l'esprit de prostitution est en eux, et ils ne connaissent point le Seigneur.",
+          "grec": "οὐκ ἔδωκαν τὰ διαβούλια αὐτῶν τοῦ ἐπιστρέψαι πρὸς τὸν θεὸν αὐτῶν ὅτι πνεῦμα πορνείας ἐν αὐτοῖς ἐστιν τὸν δὲ κύριον οὐκ ἐπέγνωσαν.",
+          "alexandrie": "Ils n’ont pas établi leurs projets pour retourner vers leur Dieu, car un esprit de prostitution est en eux, et ils n’ont pas reconnu le Seigneur.",
+          "name": "Osée 5:4",
+          "chapter": "5"
+        },
+        {
+          "verse": "5",
+          "text": "Et l'orgueil d'Israël sera abaissé en sa face, et Israël et Éphraïm trébucheront en leurs iniquités, et Juda aussi tombera avec eux.",
+          "grec": "καὶ ταπεινωθήσεται ἡ ὕβρις τοῦ Ισραηλ εἰς πρόσωπον αὐτοῦ καὶ Ισραηλ καὶ Εφραιμ ἀσθενήσουσιν ἐν ταῖς ἀδικίαις αὐτῶν καὶ ἀσθενήσει καὶ Ιουδας μετ' αὐτῶν.",
+          "alexandrie": "Et la démesure d’Israël sera humiliée à sa face, et Israël et Ephraïm seront affaiblis dans leurs injustices et Juda aussi sera affaibli avec eux.",
+          "name": "Osée 5:5",
+          "chapter": "5"
+        },
+        {
+          "verse": "6",
+          "text": "Ils s'en iront, avec leurs bœufs et leurs brebis, pour chercher le Seigneur, et ils ne le trouveront pas ; car Il s'est éloigné d'eux ;",
+          "grec": "μετὰ προβάτων καὶ μόσχων πορεύσονται τοῦ ἐκζητῆσαι τὸν κύριον καὶ οὐ μὴ εὕρωσιν αὐτόν ὅτι ἐξέκλινεν ἀπ' αὐτῶν.",
+          "alexandrie": "Avec des moutons et des taurillons ils iront rechercher le Seigneur et ne le trouveront pas, car il s’est détourné d’eux.",
+          "name": "Osée 5:6",
+          "chapter": "5"
+        },
+        {
+          "verse": "7",
+          "text": "Parce qu'ils l'ont abandonné et qu'il leur est né des fils d'étrangères, maintenant la nielle les dévorera eux et leurs enfants.",
+          "grec": "ὅτι τὸν κύριον ἐγκατέλιπον ὅτι τέκνα ἀλλότρια ἐγεννήθησαν αὐτοῖς νῦν καταφάγεται αὐτοὺς ἡ ἐρυσίβη καὶ τοὺς κλήρους αὐτῶν.",
+          "alexandrie": "Car ils ont abandonné le Seigneur, car des enfants étrangers leur sont nés ; maintenant la rouille du blé va les dévorer, eux et leurs lots d’héritage.",
+          "name": "Osée 5:7",
+          "chapter": "5"
+        },
+        {
+          "verse": "8",
+          "text": "Trompettes, sonnez sur les collines, retentissez sur les hauts lieux ; annoncez comme des hérauts en la maison de On. Benjamin est dans la stupeur ;",
+          "grec": "σαλπίσατε σάλπιγγι ἐπὶ τοὺς βουνούς ἠχήσατε ἐπὶ τῶν ὑψηλῶν κηρύξατε ἐν τῷ οἴκῳ Ων ἐξέστη Βενιαμιν.",
+          "alexandrie": "Sonnez du cor sur les collines, faites du bruit sur les hauteurs, proclamez dans la maison de On. Benjamin a défailli,",
+          "name": "Osée 5:8",
+          "chapter": "5"
+        },
+        {
+          "verse": "9",
+          "text": "Éphraïm a été effacé au jour du châtiment. J'ai montré aux tribus d'Israël des choses dignes de foi.",
+          "grec": "Εφραιμ εἰς ἀφανισμὸν ἐγένετο ἐν ἡμέραις ἐλέγχου ἐν ταῖς φυλαῖς τοῦ Ισραηλ ἔδειξα πιστά.",
+          "alexandrie": "Éphraïm a connu la destruction aux jours du reproche ; dans les tribus d’Israël j’ai montré des choses certaines.",
+          "name": "Osée 5:9",
+          "chapter": "5"
+        },
+        {
+          "verse": "10",
+          "text": "Les chefs de Juda sont devenus comme ceux qui déplacent les bornes des champs, je répandrai sur eux ma fureur comme un torrent.",
+          "grec": "ἐγένοντο οἱ ἄρχοντες Ιουδα ὡς μετατιθέντες ὅρια ἐπ' αὐτοὺς ἐκχεῶ ὡς ὕδωρ τὸ ὅρμημά μου.",
+          "alexandrie": "Les chefs de Juda sont devenus comme des gens qui déplacent des bornes, sur eux je déverserai mon emportement comme de l’eau.",
+          "name": "Osée 5:10",
+          "chapter": "5"
+        },
+        {
+          "verse": "11",
+          "text": "Éphraïm a prévalu sur son adversaire ; il a foulé aux pieds le jugement, parce qu'il avait commencé à adorer des choses vaines.",
+          "grec": "κατεδυνάστευσεν Εφραιμ τὸν ἀντίδικον αὐτοῦ κατεπάτησεν κρίμα ὅτι ἤρξατο πορεύεσθαι ὀπίσω τῶν ματαίων.",
+          "alexandrie": "Éphraïm a opprimé son adversaire, foulé aux pieds le jugement, car il a commencé à aller derrière les choses vaines.",
+          "name": "Osée 5:11",
+          "chapter": "5"
+        },
+        {
+          "verse": "12",
+          "text": "Et moi je suis comme une épouvante pour Éphraïm, comme un aiguillon pour la maison de Juda.",
+          "grec": "καὶ ἐγὼ ὡς ταραχὴ τῷ Εφραιμ καὶ ὡς κέντρον τῷ οἴκῳ Ιουδα.",
+          "alexandrie": "Et moi, je suis comme un trouble pour Éphraïm et comme un aiguillon pour la maison de Juda.",
+          "name": "Osée 5:12",
+          "chapter": "5"
+        },
+        {
+          "verse": "13",
+          "text": "Et Éphraïm a subi son infirmité, et Juda sa douleur. Et Éphraïm est allé aux Assyriens, et il a envoyé ses anciens chez le roi Jarim. Mais celui-ci n'a pu vous guérir, et vos douleurs ne se sont point calmées ;",
+          "grec": "καὶ εἶδεν Εφραιμ τὴν νόσον αὐτοῦ καὶ Ιουδας τὴν ὀδύνην αὐτοῦ καὶ ἐπορεύθη Εφραιμ πρὸς Ἀσσυρίους καὶ ἀπέστειλεν πρέσβεις πρὸς βασιλέα Ιαριμ καὶ αὐτὸς οὐκ ἠδυνάσθη ἰάσασθαι ὑμᾶς καὶ οὐ μὴ διαπαύσῃ ἐξ ὑμῶν ὀδύνη.",
+          "alexandrie": "Et Éphraïm a vu sa maladie et Juda sa douleur. Et Éphraïm est allé vers les Assyriens et a envoyé des ambassadeurs vers le roi larim, et lui n’a pas pu vous guérir et la douleur ne vous quittera pas.",
+          "name": "Osée 5:13",
+          "chapter": "5"
+        },
+        {
+          "verse": "14",
+          "text": "Parce que je suis comme une panthère pour Éphraïm, et comme un lion pour Juda ; et je m'élancerai, et je saisirai et ravirai ma proie, et nul ne pourra Me l'arracher.",
+          "grec": "διότι ἐγώ εἰμι ὡς πανθὴρ τῷ Εφραιμ καὶ ὡς λέων τῷ οἴκῳ Ιουδα καὶ ἐγὼ ἁρπῶμαι καὶ πορεύσομαι καὶ λήμψομαι καὶ οὐκ ἔσται ὁ ἐξαιρούμενος.",
+          "alexandrie": "Car moi, je suis comme une panthère pour Éphraïm et comme un lion pour la maison de Juda, c’est moi qui saisirai, j’irai et je prendrai, et il n’y aura personne pour délivrer.",
+          "name": "Osée 5:14",
+          "chapter": "5"
+        },
+        {
+          "verse": "15",
+          "text": "Et je partirai, et je retournerai en ma demeure, jusqu'à ce qu'ils soient exténués et qu'ils recherchent ma présence. Dans leur tribulation, ils se lèveront de grand matin, et viendront à moi, en disant :",
+          "grec": "πορεύσομαι καὶ ἐπιστρέψω εἰς τὸν τόπον μου ἕως οὗ ἀφανισθῶσιν καὶ ἐπιζητήσουσιν τὸ πρόσωπόν μου ἐν θλίψει αὐτῶν ὀρθριοῦσι πρός με λέγοντες.",
+          "alexandrie": "J’irai et retournerai dans mon lieu jusqu’à ce qu’ils soient détruits. Et ils rechercheront ma face.",
+          "name": "Osée 5:15",
+          "chapter": "5"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "name": "Osée 6",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Allons et retournons au Seigneur notre Dieu ; car c'est Lui qui nous a pris, et Il nous guérira ; Il nous a frappés, et Il pansera nos blessures.",
+          "grec": "πορευθῶμεν καὶ ἐπιστρέψωμεν πρὸς κύριον τὸν θεὸν ἡμῶν ὅτι αὐτὸς ἥρπακεν καὶ ἰάσεται ἡμᾶς πατάξει καὶ μοτώσει ἡμᾶς.",
+          "alexandrie": "Dans leur affliction ils viendront vers moi dès l’aurore en disant : « Allons et retournons vers le Seigneur notre Dieu, car il nous a saisis et il nous guérira, il nous frappera et il nous pansera.",
+          "name": "Osée 6:1",
+          "chapter": "6"
+        },
+        {
+          "verse": "2",
+          "text": "En deux jours, Il nous rendra la santé ; le troisième jour, nous nous lèveront et nous vivrons devant Lui,",
+          "grec": "ὑγιάσει ἡμᾶς μετὰ δύο ἡμέρας ἐν τῇ ἡμέρᾳ τῇ τρίτῃ ἀναστησόμεθα καὶ ζησόμεθα ἐνώπιον αὐτοῦ.",
+          "alexandrie": "Il nous rendra sains après deux jours, au troisième jour nous nous lèverons et vivrons devant lui,",
+          "name": "Osée 6:2",
+          "chapter": "6"
+        },
+        {
+          "verse": "3",
+          "text": "Et nous le connaîtrons ; notre désir sera de connaître le Seigneur ; nous le trouverons prêt dès l'aurore ; Il viendra à nous, comme à la terre les pluies du matin et du soir.",
+          "grec": "καὶ γνωσόμεθα διώξομεν τοῦ γνῶναι τὸν κύριον ὡς ὄρθρον ἕτοιμον εὑρήσομεν αὐτόν καὶ ἥξει ὡς ὑετὸς ἡμῖν πρόιμος καὶ ὄψιμος τῇ γῇ.",
+          "alexandrie": "et nous connaîtrons. Nous poursuivrons pour connaître le Seigneur ; comme une aurore certaine nous le trouverons, et il arrivera comme une pluie pour nous, précoce et tardive pour la terre. »",
+          "name": "Osée 6:3",
+          "chapter": "6"
+        },
+        {
+          "verse": "4",
+          "text": "Que te ferai-je, Éphraïm ? Que te ferai-je, Juda ? Ta miséricorde est comme le brouillard de matin, comme la rosée du soir.",
+          "grec": "τί σοι ποιήσω Εφραιμ τί σοι ποιήσω Ιουδα τὸ δὲ ἔλεος ὑμῶν ὡς νεφέλη πρωινὴ καὶ ὡς δρόσος ὀρθρινὴ πορευομένη.",
+          "alexandrie": "Que te ferai-je, Éphraïm, que te ferai-je, Juda ? Votre pitié est en effet comme nuée matinale, et comme rosée aurorale qui s’en va.",
+          "name": "Osée 6:4",
+          "chapter": "6"
+        },
+        {
+          "verse": "5",
+          "text": "À cause de cela j'ai moissonné vos prophètes ; je les ai tués d'un mot de ma bouche, et mon jugement apparaîtra comme la lumière,",
+          "grec": "διὰ τοῦτο ἀπεθέρισα τοὺς προφήτας ὑμῶν ἀπέκτεινα αὐτοὺς ἐν ῥήμασιν στόματός μου καὶ τὸ κρίμα μου ὡς φῶς ἐξελεύσεται.",
+          "alexandrie": "C’est pourquoi j’ai fauché vos prophètes, je les ai tués des paroles de ma bouche, et mon jugement comme la lumière sortira.",
+          "name": "Osée 6:5",
+          "chapter": "6"
+        },
+        {
+          "verse": "6",
+          "text": "Parce que je préfère la miséricorde aux sacrifices, et la connaissance de Dieu aux holocaustes.",
+          "grec": "διότι ἔλεος θέλω καὶ οὐ θυσίαν καὶ ἐπίγνωσιν θεοῦ ἢ ὁλοκαυτώματα.",
+          "alexandrie": "Car je veux la pitié et non le sacrifice, et la connaissance de Dieu plus que les holocaustes.",
+          "name": "Osée 6:6",
+          "chapter": "6"
+        },
+        {
+          "verse": "7",
+          "text": "Mais ils sont comme l'homme qui viole l'alliance ; c'est là que m'a méprisé",
+          "grec": "αὐτοὶ δέ εἰσιν ὡς ἄνθρωπος παραβαίνων διαθήκην ἐκεῖ κατεφρόνησέν μου.",
+          "alexandrie": "Mais eux sont comme un homme transgressant une alliance ; là il m’a méprisé.",
+          "name": "Osée 6:7",
+          "chapter": "6"
+        },
+        {
+          "verse": "8",
+          "text": "Galaad, ville qui fabrique des choses vaines, ville qui trouble l'eau,",
+          "grec": "Γαλααδ πόλις ἐργαζομένη μάταια ταράσσουσα ὕδωρ.",
+          "alexandrie": "Galaad est une ville qui produit des choses vaines, qui trouble l’eau.",
+          "name": "Osée 6:8",
+          "chapter": "6"
+        },
+        {
+          "verse": "9",
+          "text": "Et sa force est celle d'un pirate. Les prêtres ont caché des embûches sur la voie ; ils ont tué Sichem ; ils ont commis des crimes",
+          "grec": "καὶ ἡ ἰσχύς σου ἀνδρὸς πειρατοῦ ἔκρυψαν ἱερεῖς ὁδὸν κυρίου ἐφόνευσαν Σικιμα ὅτι ἀνομίαν ἐποίησαν.",
+          "alexandrie": "Et ta force est celle d’un brigand d’homme ; des prêtres ont caché le chemin, assassiné Sikima, car ils avaient fait ce qui est contre la loi.",
+          "name": "Osée 6:9",
+          "chapter": "6"
+        },
+        {
+          "verse": "10",
+          "text": "En la maison d'Israël ; là j'ai vu des choses horribles : la prostitution d'Éphraïm, la souillure d'Israël et de Juda.",
+          "grec": "ἐν τῷ οἴκῳ Ισραηλ εἶδον φρικώδη ἐκεῖ πορνείαν τοῦ Εφραιμ ἐμιάνθη Ισραηλ καὶ Ιουδα.",
+          "alexandrie": "Dans la maison d’Israël j’ai vu des horreurs, là j’ai vu la prostitution d’Éphraïm, Israël s’est souillé, ainsi que Juda.",
+          "name": "Osée 6:10",
+          "chapter": "6"
+        },
+        {
+          "verse": "11",
+          "text": "Commence à vendanger pour toi-même, tandis que je ramènerai mon peuple de la captivité.",
+          "grec": "ἄρχου τρυγᾶν σεαυτῷ ἐν τῷ ἐπιστρέφειν με τὴν αἰχμαλωσίαν τοῦ λαοῦ μου.",
+          "alexandrie": "Commence à moissonner pour toi quand je ferai retourner la captivité de mon peuple,",
+          "name": "Osée 6:11",
+          "chapter": "6"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "name": "Osée 7",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Pendant que je guérissais Israël, l'iniquité d'Éphraïm et la méchanceté de Samarie ont été révélées ; car ils étaient ouvriers de mensonges. Et le larron entrera chez Éphraïm, et le brigand le pillera dans ses chemins,",
+          "grec": "ἐν τῷ ἰάσασθαί με τὸν Ισραηλ καὶ ἀποκαλυφθήσεται ἡ ἀδικία Εφραιμ καὶ ἡ κακία Σαμαρείας ὅτι ἠργάσαντο ψευδῆ καὶ κλέπτης πρὸς αὐτὸν εἰσελεύσεται ἐκδιδύσκων λῃστὴς ἐν τῇ ὁδῷ αὐτοῦ.",
+          "alexandrie": "quand je guérirai Israël. Et l’injustice d’Éphraïm sera dévoilée, et la méchanceté de Samarie ; car ils ont fait œuvre de mensonge. Et un voleur entrera chez lui pour détrousser, un bandit est sut son chemin,",
+          "name": "Osée 7:1",
+          "chapter": "7"
+        },
+        {
+          "verse": "2",
+          "text": "Comme des chanteurs qui s'accordent entre eux. Je me suis souvenu de toute leur malice ; et maintenant leurs pensées les ont enveloppés, et elles sont venues devant ma face.",
+          "grec": "ὅπως συνᾴδωσιν ὡς συνᾴδοντες τῇ καρδίᾳ αὐτῶν πάσας τὰς κακίας αὐτῶν ἐμνήσθην νῦν ἐκύκλωσεν αὐτοὺς τὰ διαβούλια αὐτῶν ἀπέναντι τοῦ προσώπου μου ἐγένοντο.",
+          "alexandrie": "afin qu’ils soient en accord comme gens en accord dans leur cœur. De toutes leurs méchancetés je me suis souvenu, maintenant leurs projets les ont encerclés, devant ma face ils sont venus.",
+          "name": "Osée 7:2",
+          "chapter": "7"
+        },
+        {
+          "verse": "3",
+          "text": "Ils ont réjoui les rois par leur perversité, et les princes par leurs mensonges.",
+          "grec": "ἐν ταῖς κακίαις αὐτῶν εὔφραναν βασιλεῖς καὶ ἐν τοῖς ψεύδεσιν αὐτῶν ἄρχοντας.",
+          "alexandrie": "De leurs méchancetés ils ont réjoui des rois, et de leurs mensonges des chefs :",
+          "name": "Osée 7:3",
+          "chapter": "7"
+        },
+        {
+          "verse": "4",
+          "text": "Ils sont tous adultères ; ils sont comme un feu brûlant pour la cuisson, tout échauffé par la flamme, lorsque l'on a pétri la pâte, jusqu'à ce qu'elle ait fermenté.",
+          "grec": "πάντες μοιχεύοντες ὡς κλίβανος καιόμενος εἰς πέψιν κατακαύματος ἀπὸ τῆς φλογός ἀπὸ φυράσεως στέατος ἕως τοῦ ζυμωθῆναι αὐτό.",
+          "alexandrie": "tous des adultères, comme un four allumé pour une cuisson de destruction du fait de la flamme. Du pétrissage de la pâte jusqu’à ce qu’elle lève,",
+          "name": "Osée 7:4",
+          "chapter": "7"
+        },
+        {
+          "verse": "5",
+          "text": "Du temps de vos rois, vos princes commençaient la journée par s'enflammer avec le vin ; le roi lui-même étendait la main avec des hommes de pestilence.",
+          "grec": "αἱ ἡμέραι τῶν βασιλέων ὑμῶν ἤρξαντο οἱ ἄρχοντες θυμοῦσθαι ἐξ οἴνου ἐξέτεινεν τὴν χεῖρα αὐτοῦ μετὰ λοιμῶν.",
+          "alexandrie": "voilà les jours de nos rois. Les chefs se sont mis en colère sous l’effet du vin, il a tendu la main avec des pernicieux.",
+          "name": "Osée 7:5",
+          "chapter": "7"
+        },
+        {
+          "verse": "6",
+          "text": "Parce que leurs cœurs étaient brûlants comme un four pendant qu'ils s'exaltaient, Éphraïm se rassasiait de sommeil toute la nuit ; et quand venait l'aurore il brûlait encore comme la flamme du feu.",
+          "grec": "διότι ἀνεκαύθησαν ὡς κλίβανος αἱ καρδίαι αὐτῶν ἐν τῷ καταράσσειν αὐτούς ὅλην τὴν νύκτα ὕπνου Εφραιμ ἐνεπλήσθη πρωὶ ἐγενήθη ἀνεκαύθη ὡς πυρὸς φέγγος.",
+          "alexandrie": "Car leurs cœurs se sont allumés comme un four quand ils jetaient à terre ; toute la nuit Éphraïm a été rempli de sommeil, l’aube est venue, il s’est allumé comme lueur de feu.",
+          "name": "Osée 7:6",
+          "chapter": "7"
+        },
+        {
+          "verse": "7",
+          "text": "Ils étaient tous échauffés comme un four, et ils dévorèrent leurs juges ; tous leurs rois tombèrent, et nul ne fut parmi eux pour m'invoquer.",
+          "grec": "πάντες ἐθερμάνθησαν ὡς κλίβανος καὶ κατέφαγον τοὺς κριτὰς αὐτῶν πάντες οἱ βασιλεῖς αὐτῶν ἔπεσαν οὐκ ἦν ὁ ἐπικαλούμενος ἐν αὐτοῖς πρός με.",
+          "alexandrie": "Tous se sont échauffés comme un four et ont dévoré leurs juges. Tous leurs rois sont tombés, il n’était personne parmi eux pour m’invoquer.",
+          "name": "Osée 7:7",
+          "chapter": "7"
+        },
+        {
+          "verse": "8",
+          "text": "Éphraïm se mêla à leurs peuples ; Éphraïm devint comme un gâteau cuit sous la cendre et qu'on n'a pas retourné.",
+          "grec": "Εφραιμ ἐν τοῖς λαοῖς αὐτοῦ συνανεμείγνυτο Εφραιμ ἐγένετο ἐγκρυφίας οὐ μεταστρεφόμενος.",
+          "alexandrie": "Éphraïm s’est lui-même mêlé dans les peuples ; Éphraïm est devenu un gâteau non retourné.",
+          "name": "Osée 7:8",
+          "chapter": "7"
+        },
+        {
+          "verse": "9",
+          "text": "Les étrangers dévorèrent sa force, et il n'en sut rien ; ses cheveux blanchirent, et il ne le sut pas.",
+          "grec": "κατέφαγον ἀλλότριοι τὴν ἰσχὺν αὐτοῦ αὐτὸς δὲ οὐκ ἐπέγνω καὶ πολιαὶ ἐξήνθησαν αὐτῷ καὶ αὐτὸς οὐκ ἔγνω.",
+          "alexandrie": "Des étrangers ont dévoré sa force, mais lui ne l’a pas su ; et des cheveux blancs lui sont venus, et lui ne l’a pas su.",
+          "name": "Osée 7:9",
+          "chapter": "7"
+        },
+        {
+          "verse": "10",
+          "text": "Et l'orgueil d'Israël sera humilié en sa face ; et ils ne sont point revenus au Seigneur leur Dieu, et ils ne l'ont point cherché dans tous leurs malheurs.",
+          "grec": "καὶ ταπεινωθήσεται ἡ ὕβρις Ισραηλ εἰς πρόσωπον αὐτοῦ καὶ οὐκ ἐπέστρεψαν πρὸς κύριον τὸν θεὸν αὐτῶν καὶ οὐκ ἐξεζήτησαν αὐτὸν ἐν πᾶσι τούτοις.",
+          "alexandrie": "Et la démesure d’Israël sera humiliée à sa face, et ils ne sont pas retournés vers le Seigneur leur Dieu et ne l’ont pas recherché en tout cela.",
+          "name": "Osée 7:10",
+          "chapter": "7"
+        },
+        {
+          "verse": "11",
+          "text": "Et Éphraïm demeura comme une colombe insensée et sans cœur. Il invoqua l'Égypte, et alla aux Assyriens.",
+          "grec": "καὶ ἦν Εφραιμ ὡς περιστερὰ ἄνους οὐκ ἔχουσα καρδίαν Αἴγυπτον ἐπεκαλεῖτο καὶ εἰς Ἀσσυρίους ἐπορεύθησαν.",
+          "alexandrie": "Et Éphraïm était comme une colombe insensée qui n’a pas de cœur, il invoquait l’Égypte, et ils sont allés vers les Assyriens.",
+          "name": "Osée 7:11",
+          "chapter": "7"
+        },
+        {
+          "verse": "12",
+          "text": "Tandis qu'ils chemineront, je jetterai sur eux mon filet, je les ramènerai comme des oiseaux du ciel ; je les punirai avec la rumeur même de leurs afflictions.",
+          "grec": "καθὼς ἂν πορεύωνται ἐπιβαλῶ ἐπ' αὐτοὺς τὸ δίκτυόν μου καθὼς τὰ πετεινὰ τοῦ οὐρανοῦ κατάξω αὐτούς παιδεύσω αὐτοὺς ἐν τῇ ἀκοῇ τῆς θλίψεως αὐτῶν.",
+          "alexandrie": "Comme ils iront je jetterai sur eux mon filet, comme les oiseaux du ciel je les ferai descendre, je les éduquerai par l’écoute de leur affliction.",
+          "name": "Osée 7:12",
+          "chapter": "7"
+        },
+        {
+          "verse": "13",
+          "text": "Malheur à eux parce qu'ils se sont retirés de moi ! Les voilà tous craintifs parce qu'ils ont péché contre moi. Je les avais rachetés, et ils ont dit des mensonges contre moi.",
+          "grec": "οὐαὶ αὐτοῖς ὅτι ἀπεπήδησαν ἀπ' ἐμοῦ δείλαιοί εἰσιν ὅτι ἠσέβησαν εἰς ἐμέ ἐγὼ δὲ ἐλυτρωσάμην αὐτούς αὐτοὶ δὲ κατελάλησαν κατ' ἐμοῦ ψεύδη.",
+          "alexandrie": "Malheur à eux car ils se sont élancés loin de moi, ils sont misérables car ils ont commis une impiété à mon égard. Mais moi je les ai rachetés, mais eux ont proféré contre moi des mensonges.",
+          "name": "Osée 7:13",
+          "chapter": "7"
+        },
+        {
+          "verse": "14",
+          "text": "Et leurs cœurs n'ont point crié vers moi ; et ils ont hurlé sur leurs couches ; ils ont séché faute de pain et de vin. Et ils ont été instruits par moi,",
+          "grec": "καὶ οὐκ ἐβόησαν πρός με αἱ καρδίαι αὐτῶν ἀλλ' ἢ ὠλόλυζον ἐν ταῖς κοίταις αὐτῶν ἐπὶ σίτῳ καὶ οἴνῳ κατετέμνοντο ἐπαιδεύθησαν ἐν ἐμοί.",
+          "alexandrie": "Et leurs cœurs n’ont pas crié vers moi, mais ils hurlaient dans leurs lits, pour du pain et du vin ils se sont fait des incisions. Ils ont été éduqués avec moi.",
+          "name": "Osée 7:14",
+          "chapter": "7"
+        },
+        {
+          "verse": "15",
+          "text": "Et j'ai fortifié leurs mains ; et ils ont eu contre moi des pensées de malice.",
+          "grec": "κἀγὼ κατίσχυσα τοὺς βραχίονας αὐτῶν καὶ εἰς ἐμὲ ἐλογίσαντο πονηρά.",
+          "alexandrie": "Et moi j’ai rendu forts leurs bras, et à mon égard ils ont tramé des choses mauvaises.",
+          "name": "Osée 7:15",
+          "chapter": "7"
+        },
+        {
+          "verse": "16",
+          "text": "Ils se sont tournés vers le néant ; les voilà comme un arc détendu ; leurs princes tomberont sous le glaive à cause de l'intempérance de leur langue ; tel est leur avilissement dans la terre d'Égypte.",
+          "grec": "ἀπεστράφησαν εἰς οὐθέν ἐγένοντο ὡς τόξον ἐντεταμένον πεσοῦνται ἐν ῥομφαίᾳ οἱ ἄρχοντες αὐτῶν δι' ἀπαιδευσίαν γλώσσης αὐτῶν οὗτος ὁ φαυλισμὸς αὐτῶν ἐν γῇ Αἰγύπτῳ.",
+          "alexandrie": "Ils se sont détournés vers rien, sont devenus comme un arc tendu ; leurs chefs tomberont par l’épée à cause du manque d’éducation de leur langue. Telle est leur bassesse au pays d’Egypte.",
+          "name": "Osée 7:16",
+          "chapter": "7"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "name": "Osée 8",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ils seront frappés au sein d'un coup rapide contre terre, ou comme l'aigle s'abattant sur la maison du Seigneur, parce qu'ils ont transgressé mon alliance et péché contre ma loi.",
+          "grec": "εἰς κόλπον αὐτῶν ὡς γῆ ὡς ἀετὸς ἐπ' οἶκον κυρίου ἀνθ' ὧν παρέβησαν τὴν διαθήκην μου καὶ κατὰ τοῦ νόμου μου ἠσέβησαν.",
+          "alexandrie": "Vers leur sein comme la terre, comme un aigle sur la maison du Seigneur, attendu qu’ils ont transgressé mon alliance et ont commis une impiété contre ma loi.",
+          "name": "Osée 8:1",
+          "chapter": "8"
+        },
+        {
+          "verse": "2",
+          "text": "Et ils crieront vers moi, en disant : Ô Dieu, nous Te reconnaissons !",
+          "grec": "ἐμὲ κεκράξονται ὁ θεός ἐγνώκαμέν σε.",
+          "alexandrie": "Ils me réclameront à grands cris : « Dieu, nous t’avons connu ! »",
+          "name": "Osée 8:2",
+          "chapter": "8"
+        },
+        {
+          "verse": "3",
+          "text": "Israël a pris en haine le bien ; ils m'ont poursuivi comme un ennemi.",
+          "grec": "ὅτι Ισραηλ ἀπεστρέψατο ἀγαθά ἐχθρὸν κατεδίωξαν.",
+          "alexandrie": "Parce que Israël a rejeté de bonnes choses, ils ont poursuivi un ennemi.",
+          "name": "Osée 8:3",
+          "chapter": "8"
+        },
+        {
+          "verse": "4",
+          "text": "Ils ont fait pour eux, et non pour moi, des rois qui ont régné, sans me les faire connaître ; avec leur argent et leur or, ils se sont fabriqué des idoles, et c'est pour cela qu'ils ont été exterminés.",
+          "grec": "ἑαυτοῖς ἐβασίλευσαν καὶ οὐ δι' ἐμοῦ ἦρξαν καὶ οὐκ ἐγνώρισάν μοι τὸ ἀργύριον αὐτῶν καὶ τὸ χρυσίον αὐτῶν ἐποίησαν ἑαυτοῖς εἴδωλα ὅπως ἐξολεθρευθῶσιν.",
+          "alexandrie": "C’est pour eux qu’ils ont régné et non pas grâce à moi, ils ont commandé et ne me l’ont pas fait connaître. De leur argent et de leur or ils se sont fait des idoles, pour qu’on les extermine.",
+          "name": "Osée 8:4",
+          "chapter": "8"
+        },
+        {
+          "verse": "5",
+          "text": "Répudie ton veau, Samarie ; ma colère est exaspérée contre eux : jusques à quand sera-t-il impossible qu'ils soient purifiés en Israël ?",
+          "grec": "ἀπότριψαι τὸν μόσχον σου Σαμάρεια παρωξύνθη ὁ θυμός μου ἐπ' αὐτούς ἕως τίνος οὐ μὴ δύνωνται καθαρισθῆναι.",
+          "alexandrie": "Débarrasse-toi de ton taurillon, Samarie ; ma colère s’est exaspérée contre eux. Jusques à quand ne pourront-ils être purifiés en Israël ?",
+          "name": "Osée 8:5",
+          "chapter": "8"
+        },
+        {
+          "verse": "6",
+          "text": "C'est un artisan qui l'a fait ; il n'est point Dieu ; c'est pourquoi ton veau t'a égaré, Samarie.",
+          "grec": "ἐν τῷ Ισραηλ καὶ αὐτὸ τέκτων ἐποίησεν καὶ οὐ θεός ἐστιν διότι πλανῶν ἦν ὁ μόσχος σου Σαμάρεια.",
+          "alexandrie": "Et ça, un artisan l’a fait, et ce n’est pas un dieu ; car ton taurillon égarait, Samarie.",
+          "name": "Osée 8:6",
+          "chapter": "8"
+        },
+        {
+          "verse": "7",
+          "text": "Ils ont semé du grain éventé, et leur destruction en fera la récolte. Ils n'ont pas une gerbe dont on puisse faire de la farine, et s'il y en a, les étrangers la mangeront.",
+          "grec": "ὅτι ἀνεμόφθορα ἔσπειραν καὶ ἡ καταστροφὴ αὐτῶν ἐκδέξεται αὐτά δράγμα οὐκ ἔχον ἰσχὺν τοῦ ποιῆσαι ἄλευρον ἐὰν δὲ καὶ ποιήσῃ ἀλλότριοι καταφάγονται αὐτό.",
+          "alexandrie": "Car ils ont semé ce qui était gâté par le vent, et leur renversement recueillera cela ; une gerbe dépourvue de force pour faire de la farine, et même si elle en faisait, des étrangers la dévoreront.",
+          "name": "Osée 8:7",
+          "chapter": "8"
+        },
+        {
+          "verse": "8",
+          "text": "Israël a été dévoré ; il est maintenant parmi les nations comme un vase inutile,",
+          "grec": "κατεπόθη Ισραηλ νῦν ἐγένετο ἐν τοῖς ἔθνεσιν ὡς σκεῦος ἄχρηστον.",
+          "alexandrie": "Israël a été englouti ; maintenant ils sont devenus comme un objet inutile parmi les nations.",
+          "name": "Osée 8:8",
+          "chapter": "8"
+        },
+        {
+          "verse": "9",
+          "text": "Parce qu'ils sont allés aux Assyriens. Éphraïm a refleuri contre lui-même ; ils ont aimé les présents.",
+          "grec": "ὅτι αὐτοὶ ἀνέβησαν εἰς Ἀσσυρίους ἀνέθαλεν καθ' ἑαυτὸν Εφραιμ δῶρα ἠγάπησαν.",
+          "alexandrie": "Car d’eux-mêmes ils sont montés vers les Assyriens. Éphraïm a refleuri tout seul ; ils ont aimé des cadeaux.",
+          "name": "Osée 8:9",
+          "chapter": "8"
+        },
+        {
+          "verse": "10",
+          "text": "Et c'est pourquoi ils seront livrés aux gentils ; alors je les recevrai, et ils cesseront en peu de temps d'oindre des rois et des princes.",
+          "grec": "διὰ τοῦτο παραδοθήσονται ἐν τοῖς ἔθνεσιν νῦν εἰσδέξομαι αὐτούς καὶ κοπάσουσιν μικρὸν τοῦ χρίειν βασιλέα καὶ ἄρχοντας.",
+          "alexandrie": "C'est pourquoi ils seront livrés parmi les nations. Maintenant je vais les rassembler, et ils cesseront un peu d’oindre un roi et des chefs.",
+          "name": "Osée 8:10",
+          "chapter": "8"
+        },
+        {
+          "verse": "11",
+          "text": "Car Éphraïm avait multiplié les autels ; mais ceux qu'il a aimés étaient des autels de péché.",
+          "grec": "ὅτι ἐπλήθυνεν Εφραιμ θυσιαστήρια εἰς ἁμαρτίας ἐγένοντο αὐτῷ θυσιαστήρια ἠγαπημένα.",
+          "alexandrie": "Car Éphraïm a multiplié les autels : objet de péchés sont devenus pour lui les autels bien-aimés.",
+          "name": "Osée 8:11",
+          "chapter": "8"
+        },
+        {
+          "verse": "12",
+          "text": "J'avais écrit pour lui une multitude de préceptes ; mais ces lois ont été réputés par lui comme étrangères, même les autels qu'il aime.",
+          "grec": "καταγράψω αὐτῷ πλῆθος καὶ τὰ νόμιμα αὐτοῦ εἰς ἀλλότρια ἐλογίσθησαν θυσιαστήρια τὰ ἠγαπημένα.",
+          "alexandrie": "J’inscrirai pour lui une multitude et ses règles ; ils ont été comptés comme étrangers, les autels bien-aimés.",
+          "name": "Osée 8:12",
+          "chapter": "8"
+        },
+        {
+          "verse": "13",
+          "text": "Aussi quand ils immoleront une victime et en mangeront les chairs, le Seigneur ne les agréera pas. Alors Il se souviendra de leur iniquité, et tirera vengeance de leurs crimes. Ils seront retournés en Égypte, et ils mangeront des viandes impures chez les Assyriens.",
+          "grec": "διότι ἐὰν θύσωσιν θυσίαν καὶ φάγωσιν κρέα κύριος οὐ προσδέξεται αὐτά νῦν μνησθήσεται τὰς ἀδικίας αὐτῶν καὶ ἐκδικήσει τὰς ἁμαρτίας αὐτῶν αὐτοὶ εἰς Αἴγυπτον ἀπέστρεψαν καὶ ἐν Ἀσσυρίοις ἀκάθαρτα φάγονται.",
+          "alexandrie": "Car s’ils offrent un sacrifice et mangent de la viande, le Seigneur ne l'acceptera pas. Maintenant il va se rappeler leurs injustices et tirer vengeance de leurs péchés. D’eux-mêmes ils sont retournés en Égypte, et parmi les Assyriens ils mangeront des choses impures.",
+          "name": "Osée 8:13",
+          "chapter": "8"
+        },
+        {
+          "verse": "14",
+          "text": "Tel Israël aussi a oublié son Créateur, et ils ont planté des bois sacrés, et Juda a multiplié les villes fortifiées ; mais sur ces villes j'enverrai la flamme, et elles seront dévorées jusqu'aux fondations.",
+          "grec": "καὶ ἐπελάθετο Ισραηλ τοῦ ποιήσαντος αὐτὸν καὶ ᾠκοδόμησαν τεμένη καὶ Ιουδας ἐπλήθυνεν πόλεις τετειχισμένας καὶ ἐξαποστελῶ πῦρ εἰς τὰς πόλεις αὐτοῦ καὶ καταφάγεται τὰ θεμέλια αὐτῶν.",
+          "alexandrie": "Et Israël a oublié celui qui l’a fait, il a construit des sanctuaires, et Juda a multiplié les villes fortifiées ; et j’enverrai le feu dans leurs villes, et il dévorera leurs fondations.",
+          "name": "Osée 8:14",
+          "chapter": "8"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "name": "Osée 9",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ne te réjouis pas, Israël, ne te mets pas en fête, comme les gentils, parce que tu t'es prostitué en t'éloignant de ton Dieu, tu as aimé les dons plus que des aires pleines de blé.",
+          "grec": "μὴ χαῖρε Ισραηλ μηδὲ εὐφραίνου καθὼς οἱ λαοί διότι ἐπόρνευσας ἀπὸ τοῦ θεοῦ σου ἠγάπησας δόματα ἐπὶ πάντα ἅλωνα σίτου.",
+          "alexandrie": "Ne te réjouis pas, Israël, et ne sois pas dans l’allégresse comme les peuples, car tu t’es prostitué en quittant ton Dieu, tu as aimé des dons sur toute aire à blé.",
+          "name": "Osée 9:1",
+          "chapter": "9"
+        },
+        {
+          "verse": "2",
+          "text": "Mais l'aire et le pressoir les ont méconnus, et le vin les a trompés.",
+          "grec": "ἅλων καὶ ληνὸς οὐκ ἔγνω αὐτούς καὶ ὁ οἶνος ἐψεύσατο αὐτούς.",
+          "alexandrie": "Aire,et pressoir ne les ont pas connus, et le vin les a trompés.",
+          "name": "Osée 9:2",
+          "chapter": "9"
+        },
+        {
+          "verse": "3",
+          "text": "Ils ne sont point restés en la terre du Seigneur ; Éphraïm a demeuré en Égypte, et ils mangeront des viandes impures chez les Assyriens.",
+          "grec": "οὐ κατῴκησαν ἐν τῇ γῇ τοῦ κυρίου κατῴκησεν Εφραιμ εἰς Αἴγυπτον καὶ ἐν Ἀσσυρίοις ἀκάθαρτα φάγονται.",
+          "alexandrie": "Ils n’ont pas habité dans le pays du Seigneur : Éphraïm est allé habiter en Égypte, et parmi les Assyriens ils mangeront des choses impures.",
+          "name": "Osée 9:3",
+          "chapter": "9"
+        },
+        {
+          "verse": "4",
+          "text": "Ils n'ont point fait au Seigneur des libations de vin, et ils ne lui ont point été agréables. Leurs victimes sont pour eux comme des pains d'affliction ; tous ceux qui en mangent seront souillés, parce que leurs pains, s'ils soutiennent la vie, n'entreront point dans la maison du Seigneur.",
+          "grec": "οὐκ ἔσπεισαν τῷ κυρίῳ οἶνον καὶ οὐχ ἥδυναν αὐτῷ αἱ θυσίαι αὐτῶν ὡς ἄρτος πένθους αὐτοῖς πάντες οἱ ἔσθοντες αὐτὰ μιανθήσονται διότι οἱ ἄρτοι αὐτῶν ταῖς ψυχαῖς αὐτῶν οὐκ εἰσελεύσονται εἰς τὸν οἶκον κυρίου.",
+          "alexandrie": "Ils n’ont pas fait de libations de vin pour le Seigneur et ne lui ont pas été agréables. Leurs sacrifices sont comme un pain de deuil pour eux, tous ceux qui en mangent seront souillés, car leur pain, pour leur vie, n’entrera pas dans la maison du Seigneur.",
+          "name": "Osée 9:4",
+          "chapter": "9"
+        },
+        {
+          "verse": "5",
+          "text": "Que ferez-vous les jours de réunions solennelles, et les jours de fête du Seigneur ?",
+          "grec": "τί ποιήσετε ἐν ἡμέρᾳ πανηγύρεως καὶ ἐν ἡμέρᾳ ἑορτῆς τοῦ κυρίου.",
+          "alexandrie": "Que ferez-vous au jour de l’assemblée solennelle et au jour de la fête du Seigneur ?",
+          "name": "Osée 9:5",
+          "chapter": "9"
+        },
+        {
+          "verse": "6",
+          "text": "À cause de cela, voilà qu'ils sortent des misères de l'Égypte, et Memphis les recevra, et Machmas les ensevelira. Quant à leur argent, la dévastation en héritera, et les ronces pousseront dans leurs demeures.",
+          "grec": "διὰ τοῦτο ἰδοὺ πορεύσονται ἐκ ταλαιπωρίας Αἰγύπτου καὶ ἐκδέξεται αὐτοὺς Μέμφις καὶ θάψει αὐτοὺς Μαχμας τὸ ἀργύριον αὐτῶν ὄλεθρος κληρονομήσει ἄκανθαι ἐν τοῖς σκηνώμασιν αὐτῶν.",
+          "alexandrie": "C’est pourquoi voici, ils sortent de la misère d’Égypte, et Memphis les recueillera et Machmas les enterrera. Leur argent, la destruction en héritera ; dans leurs tentes, des ronces.",
+          "name": "Osée 9:6",
+          "chapter": "9"
+        },
+        {
+          "verse": "7",
+          "text": "Ils sont venus les jours de la vengeance, ils sont venus les jours de rétribution, et Israël sera maltraité, comme un prophète en délire, comme un homme possédé par un malin esprit. Tes folies se sont multipliées à cause de la multitude de tes iniquités.",
+          "grec": "ἥκασιν αἱ ἡμέραι τῆς ἐκδικήσεως ἥκασιν αἱ ἡμέραι τῆς ἀνταποδόσεώς σου καὶ κακωθήσεται Ισραηλ ὥσπερ ὁ προφήτης ὁ παρεξεστηκώς ἄνθρωπος ὁ πνευματοφόρος ὑπὸ τοῦ πλήθους τῶν ἀδικιῶν σου ἐπληθύνθη μανία σου.",
+          "alexandrie": "Ils sont venus, les jours de la vengeance ; ils sont venus, les jours de ta rétribution, et Israël sera mis à mal. Comme le prophète qui déraisonne, l’homme emporté par un esprit, ta folie a abondé par l’abondance de tes injustices.",
+          "name": "Osée 9:7",
+          "chapter": "9"
+        },
+        {
+          "verse": "8",
+          "text": "La sentinelle d'Éphraïm était avec Dieu ; mais un faux prophète a été comme un lacs tortueux sur toutes ses voies, et ils ont transplanté leur folie dans la maison du Seigneur.",
+          "grec": "σκοπὸς Εφραιμ μετὰ θεοῦ προφήτης παγὶς σκολιὰ ἐπὶ πάσας τὰς ὁδοὺς αὐτοῦ μανίαν ἐν οἴκῳ κυρίου κατέπηξαν.",
+          "alexandrie": "Le guetteur d Éphraïm est avec Dieu : un prophète, un piège tordu sur tous ses chemins. Ils ont fixé la folie dans la maison du Seigneur.",
+          "name": "Osée 9:8",
+          "chapter": "9"
+        },
+        {
+          "verse": "9",
+          "text": "Ils se sont perdus comme aux jours de la colline ; mais Dieu se souviendra de leurs iniquités, et Il tirera vengeance de leurs crimes.",
+          "grec": "ἐφθάρησαν κατὰ τὰς ἡμέρας τοῦ βουνοῦ μνησθήσεται ἀδικίας αὐτοῦ ἐκδικήσει ἁμαρτίας αὐτοῦ.",
+          "alexandrie": "Ils se sont corrompus comme aux jours de la colline. Il se souviendra de leurs injustices, il tirera vengeance de leurs péchés.",
+          "name": "Osée 9:9",
+          "chapter": "9"
+        },
+        {
+          "verse": "10",
+          "text": "J'ai aimé Israël comme une grappe de raisin dans le désert, et j'ai vu leurs pères comme un fruit mûr dans un figuier. Pour eux, ils se sont approchés de Béelphégor, et dans leur opprobre ils se sont détournés de moi, et ils me sont devenus abominables autant qu'ils m'avaient été chers.",
+          "grec": "ὡς σταφυλὴν ἐν ἐρήμῳ εὗρον τὸν Ισραηλ καὶ ὡς σκοπὸν ἐν συκῇ πρόιμον εἶδον πατέρας αὐτῶν αὐτοὶ εἰσῆλθον πρὸς τὸν Βεελφεγωρ καὶ ἀπηλλοτριώθησαν εἰς αἰσχύνην καὶ ἐγένοντο οἱ ἠγαπημένοι ὡς οἱ ἐβδελυγμένοι.",
+          "alexandrie": "Comme une grappe dans le désert j’ai trouvé Israël, et comme un « guetteur » précoce sur un figuier j’ai vu leurs pères. Eux sont entrés près de Beelphégor, et se sont aliénés dans la honte. Et les abominés sont devenus comme les bien-aimés.",
+          "name": "Osée 9:10",
+          "chapter": "9"
+        },
+        {
+          "verse": "11",
+          "text": "Éphraïm s'est envolé comme l'oiseau, et, à peine nées, ses gloires se sont évanouies, ou pendant l'enfantement, ou aussitôt conçues ;",
+          "grec": "Εφραιμ ὡς ὄρνεον ἐξεπετάσθη αἱ δόξαι αὐτῶν ἐκ τόκων καὶ ὠδίνων καὶ συλλήμψεων.",
+          "alexandrie": "Éphraïm comme un oiseau s’est envolé. Leurs trésors issus d’enfantements, de douleurs et de conceptions :",
+          "name": "Osée 9:11",
+          "chapter": "9"
+        },
+        {
+          "verse": "12",
+          "text": "Car, eût-il élevé ses enfants, il n'en sera pas moins sans postérité : malheur donc à lui, ma chair n'est plus avec eux !",
+          "grec": "διότι καὶ ἐὰν ἐκθρέψωσιν τὰ τέκνα αὐτῶν ἀτεκνωθήσονται ἐξ ἀνθρώπων διότι καὶ οὐαὶ αὐτοῖς ἐστιν σάρξ μου ἐξ αὐτῶν.",
+          "alexandrie": "car même s’ils élèvent leurs enfants ils seront privés d’enfants du fait des hommes. Car aussi, c’est malheur à eux, ma chair est issue d’eux.",
+          "name": "Osée 9:12",
+          "chapter": "9"
+        },
+        {
+          "verse": "13",
+          "text": "Éphraïm, je l'ai vu, a fait une proie de ses enfants ; Éphraïm a exposé ses fils à la mort.",
+          "grec": "Εφραιμ ὃν τρόπον εἶδον εἰς θήραν παρέστησαν τὰ τέκνα αὐτῶν καὶ Εφραιμ τοῦ ἐξαγαγεῖν εἰς ἀποκέντησιν τὰ τέκνα αὐτοῦ.",
+          "alexandrie": "Éphraïm, de la façon dont je l’ai vu, ils ont placé leurs enfants pour la chasse, oui Éphraïm, afin de faire sortir ses enfants pour le transpercement.",
+          "name": "Osée 9:13",
+          "chapter": "9"
+        },
+        {
+          "verse": "14",
+          "text": "Donne-leur, ô mon Dieu ; mais que peux-Tu leur donner ? Donne-leur un sein stérile et des mamelles taries.",
+          "grec": "δὸς αὐτοῖς κύριε τί δώσεις αὐτοῖς δὸς αὐτοῖς μήτραν ἀτεκνοῦσαν καὶ μαστοὺς ξηρούς.",
+          "alexandrie": "Donne-leur, Seigneur ! Que leur donneras tu ? Donne-leur une matrice privée d’enfants et des seins desséchés.",
+          "name": "Osée 9:14",
+          "chapter": "9"
+        },
+        {
+          "verse": "15",
+          "text": "Toutes leurs méchancetés se font en Gagala ; c'est là que je les ai pris en haine pour leurs inventions abominables. Je les chasserai de ma maison, et je ne les aimerai plus, car tous leurs princes sont indociles.",
+          "grec": "πᾶσαι αἱ κακίαι αὐτῶν εἰς Γαλγαλ ὅτι ἐκεῖ αὐτοὺς ἐμίσησα διὰ τὰς κακίας τῶν ἐπιτηδευμάτων αὐτῶν ἐκ τοῦ οἴκου μου ἐκβαλῶ αὐτούς οὐ μὴ προσθήσω τοῦ ἀγαπῆσαι αὐτούς πάντες οἱ ἄρχοντες αὐτῶν ἀπειθοῦντες.",
+          "alexandrie": "Toutes leurs méchancetés vont à Galgal, car là je les ai haïs. A cause de la méchanceté de leurs mœurs, de ma maison je les expulserai ; je ne continuerai plus à les aimer, tous leurs chefs sont désobéissants.",
+          "name": "Osée 9:15",
+          "chapter": "9"
+        },
+        {
+          "verse": "16",
+          "text": "Éphraïm s'est épuisé ; il a desséché ses racines ; il ne portera plus de fruits, et, dût-il en naître, je ferai mourir les fruits désirés de leurs entrailles.",
+          "grec": "ἐπόνεσεν Εφραιμ τὰς ῥίζας αὐτοῦ ἐξηράνθη καρπὸν οὐκέτι μὴ ἐνέγκῃ διότι καὶ ἐὰν γεννήσωσιν ἀποκτενῶ τὰ ἐπιθυμήματα κοιλίας αὐτῶν.",
+          "alexandrie": "Éphraïm souffre dans ses racines, il s’est desséché. Il ne portera plus de fruit car même s’ils engendrent, je tuerai les désirs de leurs ventres.",
+          "name": "Osée 9:16",
+          "chapter": "9"
+        },
+        {
+          "verse": "17",
+          "text": "Dieu les a repoussés parce qu'ils ne Lui ont point obéi, et ils seront errants parmi les nations.",
+          "grec": "ἀπώσεται αὐτοὺς ὁ θεός ὅτι οὐκ εἰσήκουσαν αὐτοῦ καὶ ἔσονται πλανῆται ἐν τοῖς ἔθνεσιν.",
+          "alexandrie": "Dieu les repoussera car ils ne l’ont pas écouté, et ils seront des égarés parmi les nations.",
+          "name": "Osée 9:17",
+          "chapter": "9"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "name": "Osée 10",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Israël était une vigne riche en sarments, abondante en fruits ; mais plus ses grappes se sont multipliées, plus il a multiplié ses autels, et plus il a recueilli les biens de la terre, plus il a élevé de colonnes.",
+          "grec": "ἄμπελος εὐκληματοῦσα Ισραηλ ὁ καρπὸς αὐτῆς εὐθηνῶν κατὰ τὸ πλῆθος τῶν καρπῶν αὐτοῦ ἐπλήθυνεν τὰ θυσιαστήρια κατὰ τὰ ἀγαθὰ τῆς γῆς αὐτοῦ ᾠκοδόμησεν στήλας.",
+          "alexandrie": "C’est une vigne aux beaux sarments qu’Israël, son fruit est florissant ; conformément à la multitude de ses fruits il a multiplié les autels, conformément aux bonnes choses de sa terre il a construit des stèles.",
+          "name": "Osée 10:1",
+          "chapter": "10"
+        },
+        {
+          "verse": "2",
+          "text": "Ils ont partagé leur cœur, et maintenant ils périront ; Dieu Lui-même renversera leurs autels, et leurs colonnes s'écrouleront.",
+          "grec": "ἐμέρισαν καρδίας αὐτῶν νῦν ἀφανισθήσονται αὐτὸς κατασκάψει τὰ θυσιαστήρια αὐτῶν ταλαιπωρήσουσιν αἱ στῆλαι αὐτῶν.",
+          "alexandrie": "Ils ont divisé leurs cœurs, maintenant ils vont être détruits ; lui rasera leurs autels, misérables seront leurs stèles.",
+          "name": "Osée 10:2",
+          "chapter": "10"
+        },
+        {
+          "verse": "3",
+          "text": "Et alors ils diront : Nous n'avons point de roi, parce que nous n'avons pas craint le Seigneur ; et un roi, que fera-t-il pour nous ?",
+          "grec": "διότι νῦν ἐροῦσιν οὐκ ἔστιν βασιλεὺς ἡμῖν ὅτι οὐκ ἐφοβήθημεν τὸν κύριον ὁ δὲ βασιλεὺς τί ποιήσει ἡμῖν.",
+          "alexandrie": "Car maintenant ils vont dire : « Il n’y a pas de roi pour nous, car nous n’avons pas craint le Seigneur ; mais le roi, que nous fera-t-il ? »",
+          "name": "Osée 10:3",
+          "chapter": "10"
+        },
+        {
+          "verse": "4",
+          "text": "Il dira de vaines paroles et des raisons mensongères ; il fera une alliance perverse, et les jugements de Dieu abonderont comme l'herbe sauvage dans les champs.",
+          "grec": "λαλῶν ῥήματα προφάσεις ψευδεῖς διαθήσεται διαθήκην ἀνατελεῖ ὡς ἄγρωστις κρίμα ἐπὶ χέρσον ἀγροῦ.",
+          "alexandrie": "En disant des paroles, prétextes fallacieux, il conclura une alliance ; le jugement poussera comme de l’herbe sur un champ sec.",
+          "name": "Osée 10:4",
+          "chapter": "10"
+        },
+        {
+          "verse": "5",
+          "text": "Ceux de Samarie habiteront auprès du veau de la maison de On, car son peuple a pleuré sur lui. Et autant ils avaient irrité le Seigneur, autant ils se réjouiront de sa gloire, parce qu'Il s'était éloigné d'eux.",
+          "grec": "τῷ μόσχῳ τοῦ οἴκου Ων παροικήσουσιν οἱ κατοικοῦντες Σαμάρειαν ὅτι ἐπένθησεν ὁ λαὸς αὐτοῦ ἐπ' αὐτόν καὶ καθὼς παρεπίκραναν αὐτόν ἐπιχαροῦνται ἐπὶ τὴν δόξαν αὐτοῦ ὅτι μετῳκίσθη ἀπ' αὐτοῦ.",
+          "alexandrie": "Auprès du taurillon de la maison de On séjourneront les habitants de Samarie, car son peuple a mené le deuil pour lui ; et de même qu’ils l’avaient exaspéré ils se réjouiront de sa gloire, car elle a été exilée loin de lui.",
+          "name": "Osée 10:5",
+          "chapter": "10"
+        },
+        {
+          "verse": "6",
+          "text": "Et, après l'avoir lié pour les Assyriens, ils l'ont offert en présent au roi Jarim. Et il recevra en sa demeure Éphraïm, et Israël en ses conseils sera confondu.",
+          "grec": "καὶ αὐτὸν εἰς Ἀσσυρίους δήσαντες ἀπήνεγκαν ξένια τῷ βασιλεῖ Ιαριμ ἐν δόματι Εφραιμ δέξεται καὶ αἰσχυνθήσεται Ισραηλ ἐν τῇ βουλῇ αὐτοῦ.",
+          "alexandrie": "Et lui, l’ayant lié, on l’a mené chez les Assyriens, en présent pour le roi de larim ; avec un don il recevra Éphraïm, et Israël aura honte de son dessein.",
+          "name": "Osée 10:6",
+          "chapter": "10"
+        },
+        {
+          "verse": "7",
+          "text": "Samarie a renversé son roi comme un fétu qu'emporte le courant de l'eau.",
+          "grec": "ἀπέρριψεν Σαμάρεια βασιλέα αὐτῆς ὡς φρύγανον ἐπὶ προσώπου ὕδατος.",
+          "alexandrie": "Samarie a jeté au loin son roi, comme du bois sec sur la surface de l’eau.",
+          "name": "Osée 10:7",
+          "chapter": "10"
+        },
+        {
+          "verse": "8",
+          "text": "Et les autels d'or, péchés d'Israël, seront détruits, et les ronces et les mauvaises herbes pousseront sur leurs autels. Et ils diront aux montagnes : Cachez-nous ; et aux collines : Écroulez-vous sur nous.",
+          "grec": "καὶ ἐξαρθήσονται βωμοὶ Ων ἁμαρτήματα τοῦ Ισραηλ ἄκανθαι καὶ τρίβολοι ἀναβήσονται ἐπὶ τὰ θυσιαστήρια αὐτῶν καὶ ἐροῦσιν τοῖς ὄρεσιν καλύψατε ἡμᾶς καὶ τοῖς βουνοῖς πέσατε ἐφ' ἡμᾶς.",
+          "alexandrie": "Et les tertres de On seront enlevés, péchés d’Israël, chardons et ronces monteront sur leurs autels. Et ils diront aux montagnes : « Couvrez-nous », et aux collines : « Tombez sur nous. »",
+          "name": "Osée 10:8",
+          "chapter": "10"
+        },
+        {
+          "verse": "9",
+          "text": "Depuis qu'il y a des collines, Israël a péché, et c'est là qu'ils se sont arrêtés ; mais la guerre que l'on fera aux fils de l'iniquité",
+          "grec": "ἀφ' οὗ οἱ βουνοί ἥμαρτεν Ισραηλ ἐκεῖ ἔστησαν οὐ μὴ καταλάβῃ αὐτοὺς ἐν τῷ βουνῷ πόλεμος ἐπὶ τὰ τέκνα ἀδικίας.",
+          "alexandrie": "Depuis, Collines, qu’Israël a péché, là ils se sont mis. La guerre contre les enfants d’injustice ne les rattrapera-t-elle pas sur la colline ?",
+          "name": "Osée 10:9",
+          "chapter": "10"
+        },
+        {
+          "verse": "10",
+          "text": "Ne se bornera pas à les surprendre sur une colline pour les châtier. Les peuples se réuniront contre eux, pour qu'ils soient punis de leur double péché.",
+          "grec": "ἦλθεν παιδεῦσαι αὐτούς καὶ συναχθήσονται ἐπ' αὐτοὺς λαοὶ ἐν τῷ παιδεύεσθαι αὐτοὺς ἐν ταῖς δυσὶν ἀδικίαις αὐτῶν.",
+          "alexandrie": "II est venu les éduquer, et des peuples se rassembleront contre eux quand ils seront éduqués pour leurs deux injustices.",
+          "name": "Osée 10:10",
+          "chapter": "10"
+        },
+        {
+          "verse": "11",
+          "text": "Éphraïm est une génisse instruite à aimer la révolte ; mais moi je tomberai sur son cou superbe ; je monterai sur Éphraïm, je forcerai Juda au silence ; Jacob prévaudra contre lui.",
+          "grec": "Εφραιμ δάμαλις δεδιδαγμένη ἀγαπᾶν νεῖκος ἐγὼ δὲ ἐπελεύσομαι ἐπὶ τὸ κάλλιστον τοῦ τραχήλου αὐτῆς ἐπιβιβῶ Εφραιμ καὶ παρασιωπήσομαι Ιουδαν ἐνισχύσει αὐτῷ Ιακωβ.",
+          "alexandrie": "Éphraïm est une génisse dressée à aimer la dispute ; mais moi je viendrai sur le plus bel endroit de son cou. Je ferai monter Éphraïm et passerai Juda sous silence. Jacob lui donnera force.",
+          "name": "Osée 10:11",
+          "chapter": "10"
+        },
+        {
+          "verse": "12",
+          "text": "Semez pour vous-mêmes avec équité ; recueillez les fruits de la vie ; éclairez-vous de la lumière de la science, et cherchez le Seigneur jusqu'à ce que les fruits de la justice vous arrivent.",
+          "grec": "σπείρατε ἑαυτοῖς εἰς δικαιοσύνην τρυγήσατε εἰς καρπὸν ζωῆς φωτίσατε ἑαυτοῖς φῶς γνώσεως ἐκζητήσατε τὸν κύριον ἕως τοῦ ἐλθεῖν γενήματα δικαιοσύνης ὑμῖν.",
+          "alexandrie": "Semez pour vous en vue de la justice, moissonnez en vue d’un fruit de vie. Faites luire pour vous une lumière de connaissance, recherchez le Seigneur jusqu’à ce que vous viennent des produits de justice.",
+          "name": "Osée 10:12",
+          "chapter": "10"
+        },
+        {
+          "verse": "13",
+          "text": "Mais pourquoi gardez-vous le silence sur votre impiété et récoltez-vous des injustices ? Tu as mangé le fruit du mensonge, parce que tu as mis ton espérance en tes péchés et dans la multitude de tes forces.",
+          "grec": "ἵνα τί παρεσιωπήσατε ἀσέβειαν καὶ τὰς ἀδικίας αὐτῆς ἐτρυγήσατε ἐφάγετε καρπὸν ψευδῆ ὅτι ἤλπισας ἐν τοῖς ἅρμασίν σου ἐν πλήθει δυνάμεώς σου.",
+          "alexandrie": "Dans quel but avez-vous passé l’impiété sous silence et moissonné ses injustices, mangé un fruit mensonger ? Car tu as espéré en tes chars, dans la multitude de ton armée.",
+          "name": "Osée 10:13",
+          "chapter": "10"
+        },
+        {
+          "verse": "14",
+          "text": "Mais la perdition s'élèvera parmi ton peuple, et tous les remparts disparaîtront. Comme le prince Salaman partit de la maison de Jéroboam durant les jours de la guerre, et jeta à terre avec violence les mères sur les enfants.",
+          "grec": "καὶ ἐξαναστήσεται ἀπώλεια ἐν τῷ λαῷ σου καὶ πάντα τὰ περιτετειχισμένα σου οἰχήσεται ὡς ἄρχων Σαλαμαν ἐκ τοῦ οἴκου Ιεροβααλ ἐν ἡμέραις πολέμου μητέρα ἐπὶ τέκνοις ἠδάφισαν.",
+          "alexandrie": "Et la perdition se dressera dans ton peuple et tous tes ouvrages fortifiés partiront, comme le chef Salaman hors de la maison de lérobaal. Aux jours de la guerre ils ont écrasé la mère sur les enfants.",
+          "name": "Osée 10:14",
+          "chapter": "10"
+        },
+        {
+          "verse": "15",
+          "text": "De même je te traiterai, ô maison d'Israël, à la vue de tes injustices et de tes méchancetés. Ils sont tombés dès l'aurore : le roi d'Israël est tombé.",
+          "grec": "οὕτως ποιήσω ὑμῖν οἶκος τοῦ Ισραηλ ἀπὸ προσώπου κακιῶν ὑμῶν ὄρθρου ἀπερρίφησαν ἀπερρίφη βασιλεὺς Ισραηλ.",
+          "alexandrie": "Ainsi vous ferai-je, maison d’Israël, face à vos méchancetés. A l’aurore ils ont été jetés au loin, jeté au loin a été le roi d’Israël.",
+          "name": "Osée 10:15",
+          "chapter": "10"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "name": "Osée 11",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Israël est un enfant, et moi je l'aimais, et j'ai rappelé ses fils de l'Égypte.",
+          "grec": "διότι νήπιος Ισραηλ καὶ ἐγὼ ἠγάπησα αὐτὸν καὶ ἐξ Αἰγύπτου μετεκάλεσα τὰ τέκνα αὐτοῦ.",
+          "alexandrie": "Puisque Israël est un tout-petit, moi aussi je l’ai aimé, et d’Egypte j’ai rappelé ses enfants.",
+          "name": "Osée 11:1",
+          "chapter": "11"
+        },
+        {
+          "verse": "2",
+          "text": "Autant je les ai rappelés, autant ils sont éloignés de moi ; ils ont sacrifié à Baal, et ils ont encensé des idoles.",
+          "grec": "καθὼς μετεκάλεσα αὐτούς οὕτως ἀπῴχοντο ἐκ προσώπου μου αὐτοὶ τοῖς Βααλιμ ἔθυον καὶ τοῖς γλυπτοῖς ἐθυμίων.",
+          "alexandrie": "Comme je les ai rappelés, ainsi ils sont partis de ma face ; eux ils sacrifiaient aux Baalim, et brûlaient de l’encens aux sculptures.",
+          "name": "Osée 11:2",
+          "chapter": "11"
+        },
+        {
+          "verse": "3",
+          "text": "Et moi j'ai bandé les pieds d'Éphraïm, et je l'ai pris dans mes bras, et ils n'ont point connu que je les guérissais.",
+          "grec": "καὶ ἐγὼ συνεπόδισα τὸν Εφραιμ ἀνέλαβον αὐτὸν ἐπὶ τὸν βραχίονά μου καὶ οὐκ ἔγνωσαν ὅτι ἴαμαι αὐτούς.",
+          "alexandrie": "Et moi j’ai lié les pieds d’Éphraïm, je l’ai pris sur mon bras ; et ils n’ont pas su que je les ai guéris.",
+          "name": "Osée 11:3",
+          "chapter": "11"
+        },
+        {
+          "verse": "4",
+          "text": "Au milieu de la perdition des hommes, je les ai enveloppés dans les nuages de mon amour, et maintenant je serai pour eux comme un homme qui en frappe un autre à la joue, et je me retournerai sur Éphraïm, et je prévaudrai contre lui.",
+          "grec": "ἐν διαφθορᾷ ἀνθρώπων ἐξέτεινα αὐτοὺς ἐν δεσμοῖς ἀγαπήσεώς μου καὶ ἔσομαι αὐτοῖς ὡς ῥαπίζων ἄνθρωπος ἐπὶ τὰς σιαγόνας αὐτοῦ καὶ ἐπιβλέψομαι πρὸς αὐτόν δυνήσομαι αὐτῷ.",
+          "alexandrie": "Dans la corruption des hommes je les ai déployés dans les liens de mon amour. Et je serai pour eux comme un homme qui donne une gifle sur ses joues et je tournerai mon regard vers lui ; j’aurai pouvoir sur lui.",
+          "name": "Osée 11:4",
+          "chapter": "11"
+        },
+        {
+          "verse": "5",
+          "text": "Éphraïm a demeuré en Égypte, et Assur lui-même a été son roi, parce qu'il n'a pas voulu se convertir.",
+          "grec": "κατῴκησεν Εφραιμ ἐν Αἰγύπτῳ καὶ Ασσουρ αὐτὸς βασιλεὺς αὐτοῦ ὅτι οὐκ ἠθέλησεν ἐπιστρέψαι.",
+          "alexandrie": "Éphraïm est allé habiter en Égypte ; et Assur, il est son roi, car il n’a pas voulu retourner.",
+          "name": "Osée 11:5",
+          "chapter": "11"
+        },
+        {
+          "verse": "6",
+          "text": "Et dans ses villes il a été vaincu par le glaive, et il a cessé de le tenir en ses mains ; et ils se nourriront des fruits de leurs conseils.",
+          "grec": "καὶ ἠσθένησεν ῥομφαία ἐν ταῖς πόλεσιν αὐτοῦ καὶ κατέπαυσεν ἐν ταῖς χερσὶν αὐτοῦ καὶ φάγονται ἐκ τῶν διαβουλίων αὐτῶν.",
+          "alexandrie": "Et l’épée s’est affaiblie dans ses villes et s’est arrêtée dans ses mains, et ils mangeront de leurs projets.",
+          "name": "Osée 11:6",
+          "chapter": "11"
+        },
+        {
+          "verse": "7",
+          "text": "Et le peuple de Dieu sera en suspens dans le lieu de son exil, et Dieu s'irritera des choses mêmes qu'ils estiment le plus, et Il ne l'exaltera point.",
+          "grec": "καὶ ὁ λαὸς αὐτοῦ ἐπικρεμάμενος ἐκ τῆς κατοικίας αὐτοῦ καὶ ὁ θεὸς ἐπὶ τὰ τίμια αὐτοῦ θυμωθήσεται καὶ οὐ μὴ ὑψώσῃ αὐτόν.",
+          "alexandrie": "Et son peuple, suspendu hors de son habitation... et Dieu contre ses choses précieuses se mettra en colère, et il ne l’élèvera plus.",
+          "name": "Osée 11:7",
+          "chapter": "11"
+        },
+        {
+          "verse": "8",
+          "text": "Que ferai-je avec toi, Éphraïm ? Serai-je ton protecteur ? Ô Israël, que ferai-je avec toi ? je te traiterai comme Adama et Seboïm. Mon cœur a changé pour toi, et tu as excité tous mes regrets.",
+          "grec": "τί σε διαθῶ Εφραιμ ὑπερασπιῶ σου Ισραηλ τί σε διαθῶ ὡς Αδαμα θήσομαί σε καὶ ὡς Σεβωιμ μετεστράφη ἡ καρδία μου ἐν τῷ αὐτῷ συνεταράχθη ἡ μεταμέλειά μου.",
+          "alexandrie": "Comment dois-je en disposer avec toi, Éphraïm, te serai-je un bouclier, Israël ? Comment dois-je en disposer avec toi ? Comme Adama je te rendrai et comme Séboïm. Mon cœur sur lui-même s’est retourné, mon regret s’est troublé.",
+          "name": "Osée 11:8",
+          "chapter": "11"
+        },
+        {
+          "verse": "9",
+          "text": "Mais je n'agirai point selon le courroux de mon âme ; je n'abandonnerai point Éphraïm, pour qu'il soit effacé ; car je suis Dieu, et non un homme ; un Saint est en toi, et je n'entrerai pas dans ta ville.",
+          "grec": "οὐ μὴ ποιήσω κατὰ τὴν ὀργὴν τοῦ θυμοῦ μου οὐ μὴ ἐγκαταλίπω τοῦ ἐξαλειφθῆναι τὸν Εφραιμ διότι θεὸς ἐγώ εἰμι καὶ οὐκ ἄνθρωπος ἐν σοὶ ἅγιος καὶ οὐκ εἰσελεύσομαι εἰς πόλιν.",
+          "alexandrie": "Je ne ferai plus selon la rage de ma colère ; je n’abandonnerai pas Éphraïm au point qu’il soit effacé. Car Dieu moi je suis - et non un homme -, saint parmi toi, et je n’entrerai pas dans une ville.",
+          "name": "Osée 11:9",
+          "chapter": "11"
+        },
+        {
+          "verse": "10",
+          "text": "Je marcherai après le Seigneur. Il rugira comme un lion ; il rugira, et les enfants des eaux seront saisis de stupeur.",
+          "grec": "ὀπίσω κυρίου πορεύσομαι ὡς λέων ἐρεύξεται ὅτι αὐτὸς ὠρύσεται καὶ ἐκστήσονται τέκνα ὑδάτων.",
+          "alexandrie": "Derrière le Seigneur je marcherai, comme un lion il hurlera, car lui rugira et les enfants des eaux seront stupéfaits.",
+          "name": "Osée 11:10",
+          "chapter": "11"
+        },
+        {
+          "verse": "11",
+          "text": "Les enfants de mon peuple aussi seront saisis de stupeur, et fuiront de l'Égypte comme un oiseau, et de la terre des Assyriens comme une colombe, et je les ferai rentrer dans leurs demeures, dit le Seigneur.",
+          "grec": "καὶ ἐκστήσονται ὡς ὄρνεον ἐξ Αἰγύπτου καὶ ὡς περιστερὰ ἐκ γῆς Ἀσσυρίων καὶ ἀποκαταστήσω αὐτοὺς εἰς τοὺς οἴκους αὐτῶν λέγει κύριος.",
+          "alexandrie": "Et ils seront stupéfaits comme un oiseau venant d’Égypte et comme une colombe venant du pays des Assyriens, et je les rétablirai dans leurs maisons, dit le Seigneur.",
+          "name": "Osée 11:11",
+          "chapter": "11"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "name": "Osée 12",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Éphraïm m'a entouré de ses mensonges, Israël et Juda de leurs impiétés ; maintenant Dieu les connaît, et le peuple saint s'appellera le peuple de Dieu.",
+          "grec": "ἐκύκλωσέν με ἐν ψεύδει Εφραιμ καὶ ἐν ἀσεβείαις οἶκος Ισραηλ καὶ Ιουδα νῦν ἔγνω αὐτοὺς ὁ θεός καὶ λαὸς ἅγιος κεκλήσεται θεοῦ.",
+          "alexandrie": "Ephraïm m’avait encerclé de mensonge, et la maison d’Israël et de Juda, d’impiété. Maintenant Dieu les a connus, et ils seront appelés « peuple saint de Dieu ».",
+          "name": "Osée 12:1",
+          "chapter": "12"
+        },
+        {
+          "verse": "2",
+          "text": "Éphraïm a poursuivi un vent funeste qui a fait durer tout le jour l'ardente chaleur ; il a multiplié les vanités et les folies ; il a fait alliance avec les Assyriens ; il a vendu de l'huile en Égypte.",
+          "grec": "ὁ δὲ Εφραιμ πονηρὸν πνεῦμα ἐδίωξεν καύσωνα ὅλην τὴν ἡμέραν κενὰ καὶ μάταια ἐπλήθυνεν καὶ διαθήκην μετὰ Ἀσσυρίων διέθετο καὶ ἔλαιον εἰς Αἴγυπτον ἐνεπορεύετο.",
+          "alexandrie": "Mais Ephraïm, esprit mauvais, a poursuivi le vent brûlant toute la journée. Il a multiplié les choses vides et vaines, avec les Assyriens a conclu une alliance, et en Égypte importait de l’huile.",
+          "name": "Osée 12:2",
+          "chapter": "12"
+        },
+        {
+          "verse": "3",
+          "text": "Et le Seigneur entrera en jugement avec Juda, afin de punir Jacob ; et Il le rétribuera selon ses voies et ses œuvres.",
+          "grec": "καὶ κρίσις τῷ κυρίῳ πρὸς Ιουδαν τοῦ ἐκδικῆσαι τὸν Ιακωβ κατὰ τὰς ὁδοὺς αὐτοῦ καὶ κατὰ τὰ ἐπιτηδεύματα αὐτοῦ ἀνταποδώσει αὐτῷ.",
+          "alexandrie": "Et il y a jugement pour le Seigneur contre Juda, pour tirer vengeance de Jacob selon ses chemins, et selon ses mœurs il lui rendra son dû.",
+          "name": "Osée 12:3",
+          "chapter": "12"
+        },
+        {
+          "verse": "4",
+          "text": "Dans les entrailles de sa mère, il supplanta son frère, et, de ses travaux, il fut fort contre Dieu.",
+          "grec": "ἐν τῇ κοιλίᾳ ἐπτέρνισεν τὸν ἀδελφὸν αὐτοῦ καὶ ἐν κόποις αὐτοῦ ἐνίσχυσεν πρὸς θεὸν.",
+          "alexandrie": "Dans le ventre il saisit le talon de son frère, et dans ses souffrances il fut fort contre Dieu.",
+          "name": "Osée 12:4",
+          "chapter": "12"
+        },
+        {
+          "verse": "5",
+          "text": "Il fut fort avec un ange, et il prévalut ; et ils pleurèrent, et ils me prièrent, ils me trouvèrent en la maison d'On ; et là il leur fut parlé.",
+          "grec": "καὶ ἐνίσχυσεν μετὰ ἀγγέλου καὶ ἠδυνάσθη ἔκλαυσαν καὶ ἐδεήθησάν μου ἐν τῷ οἴκῳ Ων εὕροσάν με καὶ ἐκεῖ ἐλαλήθη πρὸς αὐτόν.",
+          "alexandrie": "Et il fut fort avec un ange et l’emporta. Ils ont pleuré et m’ont prié, dans la maison de On ils m’ont trouvé et là on lui a parlé.",
+          "name": "Osée 12:5",
+          "chapter": "12"
+        },
+        {
+          "verse": "6",
+          "text": "Et le Seigneur Dieu Tout-Puissant sera son mémorial.",
+          "grec": "ὁ δὲ κύριος ὁ θεὸς ὁ παντοκράτωρ ἔσται μνημόσυνον αὐτοῦ.",
+          "alexandrie": "Mais le Seigneur, le Dieu Tout-Puissant, sera son mémorial.",
+          "name": "Osée 12:6",
+          "chapter": "12"
+        },
+        {
+          "verse": "7",
+          "text": "Et toi, Éphraïm, tu te convertiras à ton Dieu ; garde donc sa miséricorde et sa justice, et approche-toi toujours de ton Dieu.",
+          "grec": "καὶ σὺ ἐν θεῷ σου ἐπιστρέψεις ἔλεον καὶ κρίμα φυλάσσου καὶ ἔγγιζε πρὸς τὸν θεόν σου διὰ παντός.",
+          "alexandrie": "Et toi, par ton Dieu tu te retourneras, observe pitié et jugement et approche-toi de ton Dieu, toujours.",
+          "name": "Osée 12:7",
+          "chapter": "12"
+        },
+        {
+          "verse": "8",
+          "text": "Chanaan tient dans sa main une balance d'iniquité ; il a aimé à opprimer avec violence.",
+          "grec": "Χανααν ἐν χειρὶ αὐτοῦ ζυγὸς ἀδικίας καταδυναστεύειν ἠγάπησε.",
+          "alexandrie": "Canaan, dans sa main une balance d’injustice, a aimé opprimer.",
+          "name": "Osée 12:8",
+          "chapter": "12"
+        },
+        {
+          "verse": "9",
+          "text": "Et Éphraïm a dit : Cependant je me suis enrichi, je me suis acquis le repos. Mais aucun de ses labeurs ne lui sera compté, à cause des injustices qu'il a commises.",
+          "grec": "καὶ εἶπεν Εφραιμ πλὴν πεπλούτηκα εὕρηκα ἀναψυχὴν ἐμαυτῷ πάντες οἱ πόνοι αὐτοῦ οὐχ εὑρεθήσονται αὐτῷ δι' ἀδικίας ἃς ἥμαρτεν.",
+          "alexandrie": "Et Ephraïm a dit : « Au moins je me suis enrichi, j’ai trouvé un répit pour moi-même. » Aucun de ses efforts ne lui profitera à cause des injustices par lesquelles il a péché.",
+          "name": "Osée 12:9",
+          "chapter": "12"
+        },
+        {
+          "verse": "10",
+          "text": "Moi, le Seigneur ton Dieu, je t'ai fait sortir de l'Égypte ; je te ferai encore camper sous des tentes, comme dans les jours de fête.",
+          "grec": "ἐγὼ δὲ κύριος ὁ θεός σου ἀνήγαγόν σε ἐκ γῆς Αἰγύπτου ἔτι κατοικιῶ σε ἐν σκηναῖς καθὼς ἡμέρᾳ ἑορτῆς.",
+          "alexandrie": "Mais moi, le Seigneur ton Dieu, je t’ai fait monter du pays d’Egypte : « Je te ferai encore habiter dans des tentes comme en un jour de fête,",
+          "name": "Osée 12:10",
+          "chapter": "12"
+        },
+        {
+          "verse": "11",
+          "text": "J'ai parlé aux prophètes, et j'ai multiplié les visions, et j'ai parlé par la bouche des prophètes.",
+          "grec": "καὶ λαλήσω πρὸς προφήτας καὶ ἐγὼ ὁράσεις ἐπλήθυνα καὶ ἐν χερσὶν προφητῶν ὡμοιώθην.",
+          "alexandrie": "et je parlerai à des prophètes. » Et moi j’ai multiplié les visions, et par la main de prophètes j’ai fait l’objet de comparaisons.",
+          "name": "Osée 12:11",
+          "chapter": "12"
+        },
+        {
+          "verse": "12",
+          "text": "Si Galaad n'est plus, c'est qu'il y avait en Galaad des princes menteurs faisant des sacrifices, et leurs autels sont comme des amas de pierres dans un champ.",
+          "grec": "εἰ μὴ Γαλααδ ἔστιν ἄρα ψευδεῖς ἦσαν ἐν Γαλγαλ ἄρχοντες θυσιάζοντες καὶ τὰ θυσιαστήρια αὐτῶν ὡς χελῶναι ἐπὶ χέρσον ἀγροῦ.",
+          "alexandrie": "Si Galaad ne l’est pas, il y avait donc des menteurs à Galgal, des chefs qui sacrifiaient, et leurs autels comme des tortues dans un champ sec.",
+          "name": "Osée 12:12",
+          "chapter": "12"
+        },
+        {
+          "verse": "13",
+          "text": "Et Jacob se retira en Syrie, et Israël servit pour une femme, et pour une femme il garda les troupeaux.",
+          "grec": "καὶ ἀνεχώρησεν Ιακωβ εἰς πεδίον Συρίας καὶ ἐδούλευσεν Ισραηλ ἐν γυναικὶ καὶ ἐν γυναικὶ ἐφυλάξατο.",
+          "alexandrie": "Et Jacob se retira dans la plaine de Syrie, et Israël fut esclave pour une femme, et pour une femme fut gardien.",
+          "name": "Osée 12:13",
+          "chapter": "12"
+        },
+        {
+          "verse": "14",
+          "text": "Et par son prophète le Seigneur conduisit Israël hors de la terre d'Égypte, et c'est encore par son prophète qu'Il le sauva.",
+          "grec": "καὶ ἐν προφήτῃ ἀνήγαγεν κύριος τὸν Ισραηλ ἐξ Αἰγύπτου καὶ ἐν προφήτῃ διεφυλάχθη.",
+          "alexandrie": "Et par un prophète le Seigneur a fait monter Israël d’Égypte, et par un prophète il a été bien gardé.",
+          "name": "Osée 12:14",
+          "chapter": "12"
+        },
+        {
+          "verse": "15",
+          "text": "Et Éphraïm le provoqua et souleva sa colère; mais le sang versé par Éphraïm retombera sur sa tête, et le Seigneur le rétribuera selon son opprobre.",
+          "grec": "ἐθύμωσεν Εφραιμ καὶ παρώργισεν καὶ τὸ αἷμα αὐτοῦ ἐπ' αὐτὸν ἐκχυθήσεται καὶ τὸν ὀνειδισμὸν αὐτοῦ ἀνταποδώσει αὐτῷ κύριος.",
+          "alexandrie": "Éphraïm a provoqué la colère et l’exaspération et son sang se déversera sur lui, et le Seigneur lui rendra son outrage.",
+          "name": "Osée 12:15",
+          "chapter": "12"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "name": "Osée 13",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "À la parole de Jéroboam, Éphraïm a pris lui-même des commandements en Israël et les a mis devant Baal, et Éphraïm est mort.",
+          "grec": "κατὰ τὸν λόγον Εφραιμ δικαιώματα αὐτὸς ἔλαβεν ἐν τῷ Ισραηλ καὶ ἔθετο αὐτὰ τῇ Βααλ καὶ ἀπέθανεν.",
+          "alexandrie": "Selon la parole d’Éphraïm il a lui-même reçu des règles de droit en Israël, il les a déposées pour la Baal et il est mort.",
+          "name": "Osée 13:1",
+          "chapter": "13"
+        },
+        {
+          "verse": "2",
+          "text": "Et maintenant ils continuent de pécher, et ils se sont fait de leur argent des statues en fonte à l'image des idoles, œuvres accomplies d'un artiste ; et ils se disent entre eux : Sacrifiez des hommes, car il y a disette de bœufs !",
+          "grec": "καὶ προσέθετο τοῦ ἁμαρτάνειν ἔτι καὶ ἐποίησαν ἑαυτοῖς χώνευμα ἐκ τοῦ ἀργυρίου αὐτῶν κατ' εἰκόνα εἰδώλων ἔργα τεκτόνων συντετελεσμένα αὐτοῖς αὐτοὶ λέγουσιν θύσατε ἀνθρώπους μόσχοι γὰρ ἐκλελοίπασιν.",
+          "alexandrie": "Et ils ont continué à pécher et se sont fait un objet en métal fondu de leur argent, selon une image d’idoles, ouvrages d artisans achevés par eux. Eux disent : « Sacrifiez des hommes car les taurillons manquent. »",
+          "name": "Osée 13:2",
+          "chapter": "13"
+        },
+        {
+          "verse": "3",
+          "text": "À cause de cela, ils seront comme le nuage du matin, comme la rosée qui vient à l'aurore, comme la poudre que le vent emporte hors de l'aire, comme une vapeur de sauterelles.",
+          "grec": "διὰ τοῦτο ἔσονται ὡς νεφέλη πρωινὴ καὶ ὡς δρόσος ὀρθρινὴ πορευομένη ὥσπερ χνοῦς ἀποφυσώμενος ἀφ' ἅλωνος καὶ ὡς ἀτμὶς ἀπὸ ἀκρίδων.",
+          "alexandrie": "C’est pourquoi ils seront comme nuée matinale et comme rosée aurorale qui s’en va, comme baie s’envolant loin de l’aire et comme vapeur, loin des sauterelles.",
+          "name": "Osée 13:3",
+          "chapter": "13"
+        },
+        {
+          "verse": "4",
+          "text": "Moi, le Seigneur ton Dieu, qui ai affermi le ciel ; moi, le Créateur de la terre, moi, dont les mains ont créé toute l'armée céleste, je ne t'ai point montré ces créatures pour que tu chemines après elles ; c'est moi qui t'ai délivré de la terre d'Égypte, et tu ne connaîtras point d'autre Dieu que moi, et nul autre que moi ne sauve.",
+          "grec": "ἐγὼ δὲ κύριος ὁ θεός σου στερεῶν οὐρανὸν καὶ κτίζων γῆν οὗ αἱ χεῖρες ἔκτισαν πᾶσαν τὴν στρατιὰν τοῦ οὐρανοῦ καὶ οὐ παρέδειξά σοι αὐτὰ τοῦ πορεύεσθαι ὀπίσω αὐτῶν καὶ ἐγὼ ἀνήγαγόν σε ἐκ γῆς Αἰγύπτου καὶ θεὸν πλὴν ἐμοῦ οὐ γνώσῃ καὶ σῴζων οὐκ ἔστιν πάρεξ ἐμοῦ.",
+          "alexandrie": "Mais moi, le Seigneur ton Dieu, qui affermis le ciel et crée la terre, dont les mains ont créé toute l’armée du ciel ; eh bien, je ne t’ai pas montré ces choses pour aller derrière elles. Et moi je t’ai fait monter du pays d’Egypte : « Et de Dieu en dehors de moi tu ne connaîtras pas, et de sauveur il n’en est pas à part moi. »",
+          "name": "Osée 13:4",
+          "chapter": "13"
+        },
+        {
+          "verse": "5",
+          "text": "J'ai été ton pasteur dans le désert, en une terre inhabitée",
+          "grec": "ἐγὼ ἐποίμαινόν σε ἐν τῇ ἐρήμῳ ἐν γῇ ἀοικήτῳ.",
+          "alexandrie": "C’est moi qui te faisais paître dans le désert, dans un pays inhabité, le long de leurs pâturages.",
+          "name": "Osée 13:5",
+          "chapter": "13"
+        },
+        {
+          "verse": "6",
+          "text": "Et sans pâturages ; et ils s'y sont rassasiés et remplis, et leurs cœurs se sont enorgueillis, et à cause de cela ils m'ont oublié.",
+          "grec": "κατὰ τὰς νομὰς αὐτῶν καὶ ἐνεπλήσθησαν εἰς πλησμονήν καὶ ὑψώθησαν αἱ καρδίαι αὐτῶν ἕνεκα τούτου ἐπελάθοντό μου.",
+          "alexandrie": "Et ils se sont rassasiés à satiété et leurs cœurs se sont élevés, à cause de cela ils m’ont oublié.",
+          "name": "Osée 13:6",
+          "chapter": "13"
+        },
+        {
+          "verse": "7",
+          "text": "Et je serai pour eux comme une panthère et comme un léopard, sur la route de l'Assyrie.",
+          "grec": "καὶ ἔσομαι αὐτοῖς ὡς πανθὴρ καὶ ὡς πάρδαλις κατὰ τὴν ὁδὸν Ἀσσυρίων.",
+          "alexandrie": "Et je serai pour eux comme une panthère et comme un léopard, le long du chemin des Assyriens.",
+          "name": "Osée 13:7",
+          "chapter": "13"
+        },
+        {
+          "verse": "8",
+          "text": "J'accourrai au-devant d'eux comme une ourse affamée, et je briserai l'enveloppe de leurs cœurs, et les lionceaux de la forêt les dévoreront, et les bête fauves les mettront en lambeaux.",
+          "grec": "ἀπαντήσομαι αὐτοῖς ὡς ἄρκος ἀπορουμένη καὶ διαρρήξω συγκλεισμὸν καρδίας αὐτῶν καὶ καταφάγονται αὐτοὺς ἐκεῖ σκύμνοι δρυμοῦ θηρία ἀγροῦ διασπάσει αὐτούς.",
+          "alexandrie": "J’irai à leur rencontre comme un ours acculé, je fendrai l’enfermement de leur cœur ; et les lionceaux du fourré les dévoreront là, les bêtes des champs les mettront en pièces.",
+          "name": "Osée 13:8",
+          "chapter": "13"
+        },
+        {
+          "verse": "9",
+          "text": "En ta destruction, ô Israël, qui te portera secours ?",
+          "grec": "τῇ διαφθορᾷ σου Ισραηλ τίς βοηθήσει.",
+          "alexandrie": "À ta corruption, Israël, qui portera secours ?",
+          "name": "Osée 13:9",
+          "chapter": "13"
+        },
+        {
+          "verse": "10",
+          "text": "Où est celui-là ? Est-ce ton roi ? Qu'il te sauve en toutes tes villes ; qu'il te juge celui à qui tu as dit : Donne-moi un roi et un prince !",
+          "grec": "ποῦ ὁ βασιλεύς σου οὗτος καὶ διασωσάτω σε ἐν πάσαις ταῖς πόλεσίν σου κρινάτω σε ὃν εἶπας δός μοι βασιλέα καὶ ἄρχοντα.",
+          "alexandrie": "Où est ce roi qui est le tien ? Alors, qu’il te sauve dans toutes tes villes ; qu’il te juge, celui dont tu as dit : « Donne-moi un roi et un chef. »",
+          "name": "Osée 13:10",
+          "chapter": "13"
+        },
+        {
+          "verse": "11",
+          "text": "Je t'ai donné un roi dans ma colère, et je t'ai traité dans mon courroux.",
+          "grec": "καὶ ἔδωκά σοι βασιλέα ἐν ὀργῇ μου καὶ ἔσχον ἐν τῷ θυμῷ μου.",
+          "alexandrie": "Et je t’ai donné un roi dans ma rage, et ils ont eu dans ma colère un complot d’injustice.",
+          "name": "Osée 13:11",
+          "chapter": "13"
+        },
+        {
+          "verse": "12",
+          "text": "Éphraïm a fait un complot d'iniquité ; son impiété a été cachée.",
+          "grec": "συστροφὴν ἀδικίας Εφραιμ ἐγκεκρυμμένη ἡ ἁμαρτία αὐτοῦ.",
+          "alexandrie": "Éphraïm, enfoui est son péché.",
+          "name": "Osée 13:12",
+          "chapter": "13"
+        },
+        {
+          "verse": "13",
+          "text": "Les douleurs de la femme qui enfante lui viendront. celui-là est ton fils, le Sage, parce qu'il ne se tiendra pas immobile pendant le massacre de tes enfants.",
+          "grec": "ὠδῖνες ὡς τικτούσης ἥξουσιν αὐτῷ οὗτος ὁ υἱός σου οὐ φρόνιμος διότι οὐ μὴ ὑποστῇ ἐν συντριβῇ τέκνων.",
+          "alexandrie": "Des douleurs lui arriveront comme celles d’une femme qui enfante. Ce fils n’est pas avisé car il ne subsistera pas dans la ruine des enfants.",
+          "name": "Osée 13:13",
+          "chapter": "13"
+        },
+        {
+          "verse": "14",
+          "text": "Je les tirerai de l'enfer, dira-t-il; je les affranchirai tous de la mort. Ô mort, où est ta sentence ? Enfer, où est ton aiguillon ? Mais cette consolation est cachée à mes yeux.",
+          "grec": "ἐκ χειρὸς ᾅδου ῥύσομαι αὐτοὺς καὶ ἐκ θανάτου λυτρώσομαι αὐτούς ποῦ ἡ δίκη σου θάνατε ποῦ τὸ κέντρον σου ᾅδη παράκλησις κέκρυπται ἀπὸ ὀφθαλμῶν μου.",
+          "alexandrie": "De la main de l’Hadès je les délivrerai et de la mort je les rachèterai. Où est ta sentence, Mort ? où ton aiguillon, Hadès ? Le réconfort est caché loin de mes yeux.",
+          "name": "Osée 13:14",
+          "chapter": "13"
+        },
+        {
+          "verse": "15",
+          "text": "Et quand l'enfer sèmera la division entre les frères, le Seigneur enverra contre lui un vent brûlant du désert, et Il desséchera les veines de la mort, et Il tarira ses sources ; Lui-même fera de ses champs une terre aride, et enlèvera ses vases les plus précieux.",
+          "grec": "διότι οὗτος ἀνὰ μέσον ἀδελφῶν διαστελεῖ ἐπάξει ἄνεμον καύσωνα κύριος ἐκ τῆς ἐρήμου ἐπ' αὐτόν καὶ ἀναξηρανεῖ τὰς φλέβας αὐτοῦ ἐξερημώσει τὰς πηγὰς αὐτοῦ αὐτὸς καταξηρανεῖ τὴν γῆν αὐτοῦ καὶ πάντα τὰ σκεύη τὰ ἐπιθυμητὰ αὐτοῦ.",
+          "alexandrie": "Car celui-ci au milieu des frères fera une distinction ; le Seigneur fera venir un vent brûlant depuis le désert contre lui, desséchera ses fontaines et désolera ses sources, lui-même asséchera sa terre et tous les objets de son désir.",
+          "name": "Osée 13:15",
+          "chapter": "13"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "name": "Osée 14",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Samarie sera détruite, parce qu'elle s'est révoltée contre son Dieu. Ils périront par le glaive ; tous ses enfants à la mamelle seront écrasés à terre, et les femmes enceintes seront déchirées.",
+          "grec": "ἀφανισθήσεται Σαμάρεια ὅτι ἀντέστη πρὸς τὸν θεὸν αὐτῆς ἐν ῥομφαίᾳ πεσοῦνται αὐτοί καὶ τὰ ὑποτίτθια αὐτῶν ἐδαφισθήσονται καὶ αἱ ἐν γαστρὶ ἔχουσαι αὐτῶν διαρραγήσονται.",
+          "alexandrie": "Samarie sera détruite car elle s’est dressée contre son Dieu, par l’épée eux tomberont, leurs nourrissons seront écrasés et leurs femmes enceintes éventrées.",
+          "name": "Osée 14:1",
+          "chapter": "14"
+        },
+        {
+          "verse": "2",
+          "text": "Israël, reviens à ton Dieu ; car tes fils s'énervent, à cause de tes iniquités.",
+          "grec": "ἐπιστράφητι Ισραηλ πρὸς κύριον τὸν θεόν σου διότι ἠσθένησας ἐν ταῖς ἀδικίαις σου.",
+          "alexandrie": "Retourne, Israël, vers le Seigneur ton Dieu car tu as été affaibli dans tes injustices.",
+          "name": "Osée 14:2",
+          "chapter": "14"
+        },
+        {
+          "verse": "3",
+          "text": "Prenez avec vous de bonnes paroles, et convertissez-vous au Seigneur votre Dieu : dites-Lui que vous renoncez aux récompenses de l'iniquité pour choisir le bien ; dites-Lui : Nous t'offrons les fruits de nos lèvres !",
+          "grec": "λάβετε μεθ' ἑαυτῶν λόγους καὶ ἐπιστράφητε πρὸς κύριον τὸν θεὸν ὑμῶν εἴπατε αὐτῷ ὅπως μὴ λάβητε ἀδικίαν καὶ λάβητε ἀγαθά καὶ ἀνταποδώσομεν καρπὸν χειλέων ἡμῶν.",
+          "alexandrie": "Prenez avec vous des paroles et retournez vers le Seigneur votre Dieu. Dites-lui, afin de ne pas recevoir de l’injustice et de recevoir de bonnes choses : « Et nous rendrons le fruit de nos lèvres.",
+          "name": "Osée 14:3",
+          "chapter": "14"
+        },
+        {
+          "verse": "4",
+          "text": "Assur ne nous sauvera pas ; nous ne monterons plus à cheval ; nous ne dirons plus aux œuvres de nos mains : Vous êtes nos dieux ; celui qui est en toi, Seigneur, aura pitié de l'orphelin !",
+          "grec": "Ασσουρ οὐ μὴ σώσῃ ἡμᾶς ἐφ' ἵππον οὐκ ἀναβησόμεθα οὐκέτι μὴ εἴπωμεν θεοὶ ἡμῶν τοῖς ἔργοις τῶν χειρῶν ἡμῶν ὁ ἐν σοὶ ἐλεήσει ὀρφανόν.",
+          "alexandrie": "Assur ne nous sauvera pas, sur un cheval nous ne monterons pas ; jamais plus nous ne dirons “Nos dieux” aux ouvrages de nos mains. Celui qui est en toi aura pitié de l’orphelin. »",
+          "name": "Osée 14:4",
+          "chapter": "14"
+        },
+        {
+          "verse": "5",
+          "text": "Le Seigneur a dit : je restaurerai leurs demeures, je les aimerai manifestement, parce qu'ils ont détourné d'eux ma colère.",
+          "grec": "ἰάσομαι τὰς κατοικίας αὐτῶν ἀγαπήσω αὐτοὺς ὁμολόγως ὅτι ἀπέστρεψεν ἡ ὀργή μου ἀπ' αὐτῶν.",
+          "alexandrie": "Je guérirai leurs habitations, je les aimerai ouvertement car ma rage s’est détournée d’eux.",
+          "name": "Osée 14:5",
+          "chapter": "14"
+        },
+        {
+          "verse": "6",
+          "text": "Je serai pour Israël comme la rosée ; il fleurira comme le lis, et il jettera ses racines comme le cèdre du Liban.",
+          "grec": "ἔσομαι ὡς δρόσος τῷ Ισραηλ ἀνθήσει ὡς κρίνον καὶ βαλεῖ τὰς ῥίζας αὐτοῦ ὡς ὁ Λίβανος.",
+          "alexandrie": "Je serai comme la rosée pour Israël, il fleurira comme le lys et jettera ses racines comme l’arbre à encens.",
+          "name": "Osée 14:6",
+          "chapter": "14"
+        },
+        {
+          "verse": "7",
+          "text": "Ses rameaux s'étendront ; il sera chargé de fruits comme un olivier, et il répandra ses parfum comme l'encens.",
+          "grec": "πορεύσονται οἱ κλάδοι αὐτοῦ καὶ ἔσται ὡς ἐλαία κατάκαρπος καὶ ἡ ὀσφρασία αὐτοῦ ὡς Λιβάνου.",
+          "alexandrie": "Ses branches s’avanceront, il sera comme un olivier ployant sous les fruits et ses effluves seront comme ceux de l’encens.",
+          "name": "Osée 14:7",
+          "chapter": "14"
+        },
+        {
+          "verse": "8",
+          "text": "Les peuples se convertiront et viendront s'asseoir sous son ombre ; ils vivront et se rassasieront de son pain ; et son mémorial fleurira comme une vigne, comme le vin du Liban",
+          "grec": "ἐπιστρέψουσιν καὶ καθιοῦνται ὑπὸ τὴν σκέπην αὐτοῦ ζήσονται καὶ μεθυσθήσονται σίτῳ καὶ ἐξανθήσει ὡς ἄμπελος τὸ μνημόσυνον αὐτοῦ ὡς οἶνος Λιβάνου.",
+          "alexandrie": "Ils retourneront et s’assiéront sous son abri, ils vivront et s’enivreront de blé, et son mémorial comme une vigne se couvrira de fleurs, comme le vin du Liban.",
+          "name": "Osée 14:8",
+          "chapter": "14"
+        },
+        {
+          "verse": "9",
+          "text": "En Éphraïm, qu''y a-t-il encore de commun entre lui et les idoles ? je l'ai humilié, et je rétablirai ses forces. Je suis comme un genièvre touffu ; c'est de moi que viennent tes fruits.",
+          "grec": "τῷ Εφραιμ τί αὐτῷ ἔτι καὶ εἰδώλοις ἐγὼ ἐταπείνωσα αὐτόν καὶ ἐγὼ κατισχύσω αὐτόν ἐγὼ ὡς ἄρκευθος πυκάζουσα ἐξ ἐμοῦ ὁ καρπός σου εὕρηται.",
+          "alexandrie": "Éphraïm, qu’y a-t-il encore entre lui et les idoles ? C’est moi qui l’ai humilié et c’est moi qui le rendrai fort. Je suis comme un genévrier touffu, c’est venant de moi que ton fruit a été trouvé.",
+          "name": "Osée 14:9",
+          "chapter": "14"
+        },
+        {
+          "verse": "10",
+          "text": "Qui est sage et comprendra ces choses ? Qui est savant et les connaîtra ? Les voies du Seigneur sont étroites ; les justes y marchent, les impies y trébucheront.",
+          "grec": "τίς σοφὸς καὶ συνήσει ταῦτα ἢ συνετὸς καὶ ἐπιγνώσεται αὐτά διότι εὐθεῖαι αἱ ὁδοὶ τοῦ κυρίου καὶ δίκαιοι πορεύσονται ἐν αὐταῖς οἱ δὲ ἀσεβεῖς ἀσθενήσουσιν ἐν αὐταῖς.",
+          "alexandrie": "Qui est sage et en aura l’intelligence ? Qui est intelligent et le reconnaîtra ? Car droits sont les chemins du Seigneur et les justes y marcheront, mais les impies y seront affaiblis.",
+          "name": "Osée 14:10",
+          "chapter": "14"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "translation": "Septuaginta (Rahlfs) — traductions françaises de Giguet et d'Alexandrie",
+  "abbreviation": "SEF",
+  "lang": "fr",
+  "language": "français (avec le grec de la Septante)",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 35,
+  "name": "Habacuc",
+  "chapters": [
+    {
+      "chapter": 1,
+      "name": "Habacuc 1",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ce qu'a reçu en vision Habacuc, le prophète.",
+          "grec": "τὸ λῆμμα ὃ εἶδεν Αμβακουμ ὁ προφήτης.",
+          "alexandrie": "L’oracle que vit Ambakoum le prophète.",
+          "name": "Habacuc 1:1",
+          "chapter": "1"
+        },
+        {
+          "verse": "2",
+          "text": "Jusques à quand, Seigneur, crierai-je sans que tu m'écoutes ? Jusques à quand clamerai-je à l'injustice sans que tu me sauves ?",
+          "grec": "ἕως τίνος κύριε κεκράξομαι καὶ οὐ μὴ εἰσακούσῃς βοήσομαι πρὸς σὲ ἀδικούμενος καὶ οὐ σώσεις.",
+          "alexandrie": "Jusques à quand, Seigneur, vais-je m’écrier et tu ne m’entendras pas ? Vais-je crier vers toi, en subissant l’injustice, et tu ne viendras pas au secours ?",
+          "name": "Habacuc 1:2",
+          "chapter": "1"
+        },
+        {
+          "verse": "3",
+          "text": "Pourquoi m'as-tu affligé et m'as-tu donné la douleur de voir la misère et l'impiété ? je suis en procès, et le juge reçoit des présents.",
+          "grec": "ἵνα τί μοι ἔδειξας κόπους καὶ πόνους ἐπιβλέπειν ταλαιπωρίαν καὶ ἀσέβειαν ἐξ ἐναντίας μου γέγονεν κρίσις καὶ ὁ κριτὴς λαμβάνει.",
+          "alexandrie": "Pourquoi m’as-tu tant montré de souffrances et de peines que je regarde misère et impiété ? En face de moi a lieu un procès et le juge reçoit.",
+          "name": "Habacuc 1:3",
+          "chapter": "1"
+        },
+        {
+          "verse": "4",
+          "text": "À cause de cela, la loi a été déchirée, et le jugement n'arrivera pas à bonne fin, parce que l'impie opprime le juste, et la sentence sera torturée.",
+          "grec": "διὰ τοῦτο διεσκέδασται νόμος καὶ οὐ διεξάγεται εἰς τέλος κρίμα ὅτι ὁ ἀσεβὴς καταδυναστεύει τὸν δίκαιον ἕνεκεν τούτου ἐξελεύσεται τὸ κρίμα διεστραμμένον.",
+          "alexandrie": "Voici pourquoi la loi est rompue et le jugement n’est pas conduit à son terme : c’est que l’impie opprime le juste ; aussi le jugement sortira-t-il tordu.",
+          "name": "Habacuc 1:4",
+          "chapter": "1"
+        },
+        {
+          "verse": "5",
+          "text": "Voyez, contempteurs de la loi, regardez et admirez ces merveilles, et soyez anéantis : car, de vos jours, je vais faire une œuvre que vous ne croirez pas, quoiqu'on vous l'annonce.",
+          "grec": "ἴδετε οἱ καταφρονηταί καὶ ἐπιβλέψατε καὶ θαυμάσατε θαυμάσια καὶ ἀφανίσθητε διότι ἔργον ἐγὼ ἐργάζομαι ἐν ταῖς ἡμέραις ὑμῶν ὃ οὐ μὴ πιστεύσητε ἐάν τις ἐκδιηγῆται.",
+          "alexandrie": "Voyez, vous les contempteurs, et regardez ! Étonnez-vous d’un grand étonnement et soyez anéantis ! Car, moi, j’accomplis en vos jours une œuvre qu’assurément vous ne croiriez pas si on la racontait.",
+          "name": "Habacuc 1:5",
+          "chapter": "1"
+        },
+        {
+          "verse": "6",
+          "text": "Voilà que je vais susciter les Chaldéens, nation cruelle et rapide, qui marche sur les plaines de la terre, pour prendre possession de tentes qui ne sont point les siennes.",
+          "grec": "διότι ἰδοὺ ἐγὼ ἐξεγείρω ἐφ' ὑμᾶς τοὺς Χαλδαίους τοὺς μαχητάς τὸ ἔθνος τὸ πικρὸν καὶ τὸ ταχινὸν τὸ πορευόμενον ἐπὶ τὰ πλάτη τῆς γῆς τοῦ κατακληρονομῆσαι σκηνώματα οὐκ αὐτοῦ.",
+          "alexandrie": "Car voici, moi, je fais lever les Chaldéens, les guerriers, le peuple mordant et prompt qui parcourt les larges espaces du pays pour s’approprier des habitations qui ne sont pas les siennes.",
+          "name": "Habacuc 1:6",
+          "chapter": "1"
+        },
+        {
+          "verse": "7",
+          "text": "Redoutable et fameuse, c'est d'elle que le jugement procédera ; tout son butin proviendra d'elle-même.",
+          "grec": "φοβερὸς καὶ ἐπιφανής ἐστιν ἐξ αὐτοῦ τὸ κρίμα αὐτοῦ ἔσται καὶ τὸ λῆμμα αὐτοῦ ἐξ αὐτοῦ ἐξελεύσεται.",
+          "alexandrie": "Il est redoutable et éclatant ; c’est de lui que son jugement dépendra et son oracle proviendra de lui.",
+          "name": "Habacuc 1:7",
+          "chapter": "1"
+        },
+        {
+          "verse": "8",
+          "text": "Et ses chevaux s'élanceront plus agiles que le léopard ; ils courront plus rapides que les loups de l'Arabie. Et ses cavaliers sortiront à cheval, et ils prendront de loin leur élan, et ils se déploieront comme l'aigle ardent à dévorer sa proie.",
+          "grec": "καὶ ἐξαλοῦνται ὑπὲρ παρδάλεις οἱ ἵπποι αὐτοῦ καὶ ὀξύτεροι ὑπὲρ τοὺς λύκους τῆς Ἀραβίας καὶ ἐξιππάσονται οἱ ἱππεῖς αὐτοῦ καὶ ὁρμήσουσιν μακρόθεν καὶ πετασθήσονται ὡς ἀετὸς πρόθυμος εἰς τὸ φαγεῖν.",
+          "alexandrie": "Ses chevaux bondiront plus loin que les panthères et plus rapides que les loups d’Arabie ; Ses cavaliers monteront à cheval, ils s’élanceront de loin et se déploieront comme l’aigle avide de manger.",
+          "name": "Habacuc 1:8",
+          "chapter": "1"
+        },
+        {
+          "verse": "9",
+          "text": "La perdition tombera sur les impies qui leur feront face, et leur tiendront tête ; et l'envahisseur emmènera des captifs aussi nombreux que les grains de sable.",
+          "grec": "συντέλεια εἰς ἀσεβεῖς ἥξει ἀνθεστηκότας προσώποις αὐτῶν ἐξ ἐναντίας καὶ συνάξει ὡς ἄμμον αἰχμαλωσίαν.",
+          "alexandrie": "La destruction atteindra les impies qui auront résisté en s’opposant de face, et elle amassera comme sable les captifs.",
+          "name": "Habacuc 1:9",
+          "chapter": "1"
+        },
+        {
+          "verse": "10",
+          "text": "Et il se raillera des rois, et les tyrans seront pour lui des jouets, et il rira de chaque forteresse, et il l'entourera de levées de terre, et il la prendra de force.",
+          "grec": "καὶ αὐτὸς ἐν βασιλεῦσιν ἐντρυφήσει καὶ τύραννοι παίγνια αὐτοῦ καὶ αὐτὸς εἰς πᾶν ὀχύρωμα ἐμπαίξεται καὶ βαλεῖ χῶμα καὶ κρατήσει αὐτοῦ.",
+          "alexandrie": "Et lui, il se délectera des rois et les tyrans seront ses jouets ; et lui, il se jouera de toute forteresse, il",
+          "name": "Habacuc 1:10",
+          "chapter": "1"
+        },
+        {
+          "verse": "11",
+          "text": "Alors son esprit changera, et il se transformera, et il fera pitié ; telle est la force de mon Dieu.",
+          "grec": "τότε μεταβαλεῖ τὸ πνεῦμα καὶ διελεύσεται καὶ ἐξιλάσεται αὕτη ἡ ἰσχὺς τῷ θεῷ μου.",
+          "alexandrie": "Alors il fera tourner le souffle, il passera et s’apaisera : telle est la force de mon Dieu.",
+          "name": "Habacuc 1:11",
+          "chapter": "1"
+        },
+        {
+          "verse": "12",
+          "text": "Seigneur, mon Dieu et mon Saint, n'es-tu pas dès le commencement ? Est-ce que nous mourrons ? tu as établi ces choses pour le jugement, et tu m'as formé, Seigneur, pour annoncer ton châtiment.",
+          "grec": "οὐχὶ σὺ ἀπ' ἀρχῆς κύριε ὁ θεὸς ὁ ἅγιός μου καὶ οὐ μὴ ἀποθάνωμεν κύριε εἰς κρίμα τέταχας αὐτόν καὶ ἔπλασέν με τοῦ ἐλέγχειν παιδείαν αὐτοῦ.",
+          "alexandrie": "N’es-tu pas toi, Seigneur, depuis le début, le Dieu, mon Saint ? Non, assurément, nous ne mourrons pas ! Seigneur, pour le jugement tu l’as placé et il m’a façonné pour que j’atteste son enseignement.",
+          "name": "Habacuc 1:12",
+          "chapter": "1"
+        },
+        {
+          "verse": "13",
+          "text": "l'œil du Seigneur est trop dur pour regarder le mal et s'arrêter sur les labeurs de l'affliction. Pourquoi, Seigneur, considères-tu ceux qui te méprisent ? Pourquoi gardes-tu le silence quand l'impie dévore le juste ?",
+          "grec": "καθαρὸς ὀφθαλμὸς τοῦ μὴ ὁρᾶν πονηρά καὶ ἐπιβλέπειν ἐπὶ πόνους οὐ δυνήσῃ ἵνα τί ἐπιβλέπεις ἐπὶ καταφρονοῦντας παρασιωπήσῃ ἐν τῷ καταπίνειν ἀσεβῆ τὸν δίκαιον.",
+          "alexandrie": "Ton œil est pur et ne voit pas le mal ; et tu ne pourras pas regarder les peines. Pourquoi regardes-tu ceux qui méprisent ? Garderas-tu le silence pendant que l’impie avale le juste ?",
+          "name": "Habacuc 1:13",
+          "chapter": "1"
+        },
+        {
+          "verse": "14",
+          "text": "Traites-tu les hommes comme les poissons de la mer, ou comme les reptiles qui n'ont point de guide ?",
+          "grec": "καὶ ποιήσεις τοὺς ἀνθρώπους ὡς τοὺς ἰχθύας τῆς θαλάσσης καὶ ὡς τὰ ἑρπετὰ τὰ οὐκ ἔχοντα ἡγούμενον.",
+          "alexandrie": "Tu traiteras les hommes comme les poissons de la mer, comme les reptiles qui n’ont personne qui les dirige.",
+          "name": "Habacuc 1:14",
+          "chapter": "1"
+        },
+        {
+          "verse": "15",
+          "text": "Il a pris toute l'espèce à l'hameçon ; il en a tiré un avec le filet ; il en a enfermé un autre dans sa nasse. À cause de cela, il sera plein d'allégresse, et se réjouira en son cœur.",
+          "grec": "συντέλειαν ἐν ἀγκίστρῳ ἀνέσπασεν καὶ εἵλκυσεν αὐτὸν ἐν ἀμφιβλήστρῳ καὶ συνήγαγεν αὐτὸν ἐν ταῖς σαγήναις αὐτοῦ ἕνεκεν τούτου εὐφρανθήσεται καὶ χαρήσεται ἡ καρδία αὐτοῦ.",
+          "alexandrie": "Il a tiré la destruction avec un hameçon, il a traîné l’homme avec un filet et l’a rassemblé dans ses nasses.",
+          "name": "Habacuc 1:15",
+          "chapter": "1"
+        },
+        {
+          "verse": "16",
+          "text": "À cause de cela, il sacrifiera à sa nasse, il encensera son filet, parce qu'avec leur aide il aura engraissé sa part, et recueilli des aliments de choix.",
+          "grec": "ἕνεκεν τούτου θύσει τῇ σαγήνῃ αὐτοῦ καὶ θυμιάσει τῷ ἀμφιβλήστρῳ αὐτοῦ ὅτι ἐν αὐτοῖς ἐλίπανεν μερίδα αὐτοῦ καὶ τὰ βρώματα αὐτοῦ ἐκλεκτά.",
+          "alexandrie": "Voilà pourquoi il sera dans l’allégresse et son cœur se réjouira. C’est pourquoi il offrira un sacrifice pour sa nasse et brûlera du parfum pour son filet, car il s’en est servi pour engraisser sa part et ses aliments sont exquis.",
+          "name": "Habacuc 1:16",
+          "chapter": "1"
+        },
+        {
+          "verse": "17",
+          "text": "Et, à cause de cela, il jettera encore son filet, et ne se fera jamais faute de tuer les nations.",
+          "grec": "διὰ τοῦτο ἀμφιβαλεῖ τὸ ἀμφίβληστρον αὐτοῦ καὶ διὰ παντὸς ἀποκτέννειν ἔθνη οὐ φείσεται.",
+          "alexandrie": "C’est pourquoi il jettera son filet et n’épargnera pas sa peine pour massacrer sans cesse les nations.",
+          "name": "Habacuc 1:17",
+          "chapter": "1"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "name": "Habacuc 2",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "je me tiendrai en garde, et je monterai sur une roche, et je veillerai pour savoir ce qu'on dira contre moi, et ce que je répondrai quand je serai repris.",
+          "grec": "ἐπὶ τῆς φυλακῆς μου στήσομαι καὶ ἐπιβήσομαι ἐπὶ πέτραν καὶ ἀποσκοπεύσω τοῦ ἰδεῖν τί λαλήσει ἐν ἐμοὶ καὶ τί ἀποκριθῶ ἐπὶ τὸν ἔλεγχόν μου.",
+          "alexandrie": "À mon poste de garde je me tiendrai, et je monterai sur le rocher ; j’observerai pour voir ce qu'il dira en moi et ce que je répondrai à la réprimande qui me sera faite.",
+          "name": "Habacuc 2:1",
+          "chapter": "2"
+        },
+        {
+          "verse": "2",
+          "text": "Et le Seigneur me parla, et Il me dit : Écris ta vision, écris-la clairement sur une tablette, afin qu'on la lise couramment.",
+          "grec": "καὶ ἀπεκρίθη πρός με κύριος καὶ εἶπεν γράψον ὅρασιν καὶ σαφῶς ἐπὶ πυξίον ὅπως διώκῃ ὁ ἀναγινώσκων αὐτά.",
+          "alexandrie": "Le Seigneur me répondit et dit : Écris la vision — et clairement ! —, sur une tablette, afin que celui qui lira ces mots poursuive.",
+          "name": "Habacuc 2:2",
+          "chapter": "2"
+        },
+        {
+          "verse": "3",
+          "text": "Car ta vision est véritable ; elle se réalisera au temps marqué ; elle ne sera point vaine. S'il ne vient pas encore, attends-le ; car sûrement il viendra et ne tardera point.",
+          "grec": "διότι ἔτι ὅρασις εἰς καιρὸν καὶ ἀνατελεῖ εἰς πέρας καὶ οὐκ εἰς κενόν ἐὰν ὑστερήσῃ ὑπόμεινον αὐτόν ὅτι ἐρχόμενος ἥξει καὶ οὐ μὴ χρονίσῃ.",
+          "alexandrie": "Car il y a encore une vision pour le moment fixé et elle se lèvera au terme, et non pour rien. S’il est en retard, attends-le, car en venant il sera là, et assurément ne tardera pas.",
+          "name": "Habacuc 2:3",
+          "chapter": "2"
+        },
+        {
+          "verse": "4",
+          "text": "Celui qui se retire de moi, mon âme ne se complaira pas avec lui ; le juste vivra de sa foi en moi.",
+          "grec": "ἐὰν ὑποστείληται οὐκ εὐδοκεῖ ἡ ψυχή μου ἐν αὐτῷ ὁ δὲ δίκαιος ἐκ πίστεώς μου ζήσεται.",
+          "alexandrie": "S’il se dérobe, mon âme ne se complaît pas en lui, tandis que le juste vivra de la fidélité à mon égard.",
+          "name": "Habacuc 2:4",
+          "chapter": "2"
+        },
+        {
+          "verse": "5",
+          "text": "L'homme présomptueux, méprisant, imposteur, n'arrivera point à ses fins ; celui qui a rendu son âme vaste comme l'enfer est aussi insatiable que la mort ; il réunira sous lui toutes les nations, et il recevra sous lui tous les peuples.",
+          "grec": "ὁ δὲ κατοινωμένος καὶ καταφρονητὴς ἀνὴρ ἀλαζών οὐδὲν μὴ περάνῃ ὃς ἐπλάτυνεν καθὼς ὁ ᾅδης τὴν ψυχὴν αὐτοῦ καὶ οὗτος ὡς θάνατος οὐκ ἐμπιπλάμενος καὶ ἐπισυνάξει ἐπ' αὐτὸν πάντα τὰ ἔθνη καὶ εἰσδέξεται πρὸς αὐτὸν πάντας τοὺς λαούς.",
+          "alexandrie": "Mais l’homme arrogant et contempteur, le vantard, ne mènera rien à terme, lui qui comme l’Hadès a grand ouvert son âme ; et lui, comme la mort, il n’est jamais rassasié. Aussi rassemblera-t-il pour lui toutes les nations et recevra pour lui tous les peuples.",
+          "name": "Habacuc 2:5",
+          "chapter": "2"
+        },
+        {
+          "verse": "6",
+          "text": "Mais toutes ces choses ne feront-elles pas de lui un sujet d'histoires et de récits qu'on se répétera ? On dira : Malheur à l'homme qui, sans se lasser, accumule les biens d'autrui, et fait cruellement sentir le poids de son collier !",
+          "grec": "οὐχὶ ταῦτα πάντα παραβολὴν κατ' αὐτοῦ λήμψονται καὶ πρόβλημα εἰς διήγησιν αὐτοῦ καὶ ἐροῦσιν οὐαὶ ὁ πληθύνων ἑαυτῷ τὰ οὐκ ὄντα αὐτοῦ ἕως τίνος καὶ βαρύνων τὸν κλοιὸν αὐτοῦ στιβαρῶς.",
+          "alexandrie": "Tout cela, ne va-t-on pas le proférer contre lui en parabole et en énigme pour parler de lui ? Et l’on dira : Las ! Malheur à qui accumule pour lui-même ce qui n’est pas à lui (Jusques à quand ?) et alourdit son carcan avec dureté !",
+          "name": "Habacuc 2:6",
+          "chapter": "2"
+        },
+        {
+          "verse": "7",
+          "text": "Car soudain s'élèveront contre toi des gens qui te mordront, et autour de toi veilleront des assassins, et tu seras pour eux une proie.",
+          "grec": "ὅτι ἐξαίφνης ἀναστήσονται δάκνοντες αὐτόν καὶ ἐκνήψουσιν οἱ ἐπίβουλοί σου καὶ ἔσῃ εἰς διαρπαγὴν αὐτοῖς.",
+          "alexandrie": "Car soudain ils se lèveront en le mordant ; ils sortiront de la torpeur ceux qui complotent contre toi et tu seras pour eux un objet à piller.",
+          "name": "Habacuc 2:7",
+          "chapter": "2"
+        },
+        {
+          "verse": "8",
+          "text": "Parce que tu as pillé une multitude de nations, les peuples qui restent encore te pilleront à leur tour, à cause du sang des hommes, à cause de tes impiétés contre la terre, contre la ville et ses habitants.",
+          "grec": "διότι σὺ ἐσκύλευσας ἔθνη πολλά σκυλεύσουσίν σε πάντες οἱ ὑπολελειμμένοι λαοὶ δι' αἵματα ἀνθρώπων καὶ ἀσεβείας γῆς καὶ πόλεως καὶ πάντων τῶν κατοικούντων αὐτήν.",
+          "alexandrie": "Parce que, toi, tu as dépouillé bien des nations, ils te dépouilleront, tous les peuples qui subsistent, à cause du sang des hommes et de l’impiété envers la terre, la ville et tous ceux qui l’habitent.",
+          "name": "Habacuc 2:8",
+          "chapter": "2"
+        },
+        {
+          "verse": "9",
+          "text": "Malheur à celui qui, en sa maison, a de mauvaises convoitises, qui veut placer haut son nid, pour se délivrer de la main du malheur !",
+          "grec": "ὦ ὁ πλεονεκτῶν πλεονεξίαν κακὴν τῷ οἴκῳ αὐτοῦ τοῦ τάξαι εἰς ὕψος νοσσιὰν αὐτοῦ τοῦ ἐκσπασθῆναι ἐκ χειρὸς κακῶν.",
+          "alexandrie": "Malheur à qui, ambitieux, a la mauvaise ambition pour sa maison de placer son nid en hauteur pour être arraché à la main des méchants !",
+          "name": "Habacuc 2:9",
+          "chapter": "2"
+        },
+        {
+          "verse": "10",
+          "text": "Tu as médité la honte de ta maison, tu as épuisé beaucoup de peuples, et ton âme a péché.",
+          "grec": "ἐβουλεύσω αἰσχύνην τῷ οἴκῳ σου συνεπέρανας λαοὺς πολλούς καὶ ἐξήμαρτεν ἡ ψυχή σου.",
+          "alexandrie": "Tu as décidé la honte pour ta maison, tu as exterminé bien des peuples, et ton âme a commis des fautes.",
+          "name": "Habacuc 2:10",
+          "chapter": "2"
+        },
+        {
+          "verse": "11",
+          "text": "Aussi la pierre des murailles criera-t-elle contre toi, et l'escarbot du haut des solives lui fera écho.",
+          "grec": "διότι λίθος ἐκ τοίχου βοήσεται καὶ κάνθαρος ἐκ ξύλου φθέγξεται αὐτά.",
+          "alexandrie": "C’est pourquoi la pierre depuis le mur criera, et le scarabée depuis le bois prononcera ces mots.",
+          "name": "Habacuc 2:11",
+          "chapter": "2"
+        },
+        {
+          "verse": "12",
+          "text": "Malheur à celui qui bâtit une maison avec le sang, et qui la fonde avec l'iniquité !",
+          "grec": "οὐαὶ ὁ οἰκοδομῶν πόλιν ἐν αἵμασιν καὶ ἑτοιμάζων πόλιν ἐν ἀδικίαις.",
+          "alexandrie": "Las ! Malheur à qui construit une ville dans le sang, et édifie une ville sur des injustices !",
+          "name": "Habacuc 2:12",
+          "chapter": "2"
+        },
+        {
+          "verse": "13",
+          "text": "Ces choses ne sont-elles pas du Seigneur tout-puissant ? Maints peuples forts ont été épuisés par le feu, et maintes nations ont défailli,",
+          "grec": "οὐ ταῦτά ἐστιν παρὰ κυρίου παντοκράτορος καὶ ἐξέλιπον λαοὶ ἱκανοὶ ἐν πυρί καὶ ἔθνη πολλὰ ὠλιγοψύχησαν.",
+          "alexandrie": "Ceci ne vient-il pas du Seigneur tout-puissant ? Des peuples importants ont disparu dans le feu et bien des nations ont perdu cœur.",
+          "name": "Habacuc 2:13",
+          "chapter": "2"
+        },
+        {
+          "verse": "14",
+          "text": "Pour que la terre soit remplie de la connaissance de la gloire du Seigneur, qui la couvrira comme l'eau.",
+          "grec": "ὅτι πλησθήσεται ἡ γῆ τοῦ γνῶναι τὴν δόξαν κυρίου ὡς ὕδωρ κατακαλύψει αὐτούς.",
+          "alexandrie": "Car la terre sera remplie de la connaissance de la gloire du Seigneur, comme l’eau elle les recouvrira.",
+          "name": "Habacuc 2:14",
+          "chapter": "2"
+        },
+        {
+          "verse": "15",
+          "text": "Malheur à celui qui donne à boire à son ami de la lie de vin, et l'enivre pour voir dans ses cavernes !",
+          "grec": "ὦ ὁ ποτίζων τὸν πλησίον αὐτοῦ ἀνατροπῇ θολερᾷ καὶ μεθύσκων ὅπως ἐπιβλέπῃ ἐπὶ τὰ σπήλαια αὐτῶν.",
+          "alexandrie": "Malheur à qui abreuve son prochain d’une rasade trouble et l’enivre pour jeter un regard sur leurs cavernes !",
+          "name": "Habacuc 2:15",
+          "chapter": "2"
+        },
+        {
+          "verse": "16",
+          "text": "Toi aussi, bois, au lieu de gloire, la plénitude de la honte ; que ton cœur s'agite et tremble : te voilà plongé dans le calice que tient la main droite du Seigneur, et l'opprobre s'est amassé sur ta gloire ;",
+          "grec": "πλησμονὴν ἀτιμίας ἐκ δόξης πίε καὶ σὺ καὶ διασαλεύθητι καὶ σείσθητι ἐκύκλωσεν ἐπὶ σὲ ποτήριον δεξιᾶς κυρίου καὶ συνήχθη ἀτιμία ἐπὶ τὴν δόξαν σου.",
+          "alexandrie": "Un comble d’infamie, au lieu de gloire, bois, toi aussi, titube et sois ébranlé ! La coupe que tient la main droite du Seigneur a décrit un cercle contre toi et l’infamie a été rassemblée contre ta gloire.",
+          "name": "Habacuc 2:16",
+          "chapter": "2"
+        },
+        {
+          "verse": "17",
+          "text": "Car l'impiété du Liban te couvrira, et les ravages des bêtes fauves te feront trembler, à cause du sang des hommes et de tes impiétés contre la terre, contre la vile et tous ses habitants.",
+          "grec": "διότι ἀσέβεια τοῦ Λιβάνου καλύψει σε καὶ ταλαιπωρία θηρίων πτοήσει σε διὰ αἵματα ἀνθρώπων καὶ ἀσεβείας γῆς καὶ πόλεως καὶ πάντων τῶν κατοικούντων αὐτήν.",
+          "alexandrie": "Aussi l’impiété à l’égard du Liban te recouvrira et la misère des bêtes sauvages te frappera d’effroi à cause du sang des hommes et de l’impiété envers la terre, la ville et tous ceux qui l’habitent.",
+          "name": "Habacuc 2:17",
+          "chapter": "2"
+        },
+        {
+          "verse": "18",
+          "text": "À quoi peut servir une statue qu'eux-mêmes ont sculptée ? On l'a jetée en fonte, apparence mensongère, et, pour faire une idole muette, l'artiste a eu foi en l'œuvre qu'il a façonnée.",
+          "grec": "τί ὠφελεῖ γλυπτόν ὅτι ἔγλυψαν αὐτό ἔπλασαν αὐτὸ χώνευμα φαντασίαν ψευδῆ ὅτι πέποιθεν ὁ πλάσας ἐπὶ τὸ πλάσμα αὐτοῦ τοῦ ποιῆσαι εἴδωλα κωφά.",
+          "alexandrie": "À quoi sert une image gravée, qu’il l’ait gravée ? Il l’a façonnée, objet de métal, illusion trompeuse, car le façonneur s’est fié à son façonnage en créant des images muettes.",
+          "name": "Habacuc 2:18",
+          "chapter": "2"
+        },
+        {
+          "verse": "19",
+          "text": "Malheur à celui qui dit au bois : Sors de ton assoupissement, réveille-toi ; et à la pierre : Lève-toi ; car ce n'est qu'une image ; c'est de l'or ou de l'argent battus au marteau, et il n'y a en cette œuvre aucun esprit.",
+          "grec": "οὐαὶ ὁ λέγων τῷ ξύλῳ ἔκνηψον ἐξεγέρθητι καὶ τῷ λίθῳ ὑψώθητι καὶ αὐτό ἐστιν φαντασία τοῦτο δέ ἐστιν ἔλασμα χρυσίου καὶ ἀργυρίου καὶ πᾶν πνεῦμα οὐκ ἔστιν ἐν αὐτῷ.",
+          "alexandrie": "Las ! Malheur à qui dit au bois : sors de ta torpeur ! éveille-toi ! et à la pierre : dresse-toi ! Et c’est là une illusion, alors que cet objet est une lame d’or et d’argent et que nul souffle n’est en lui.",
+          "name": "Habacuc 2:19",
+          "chapter": "2"
+        },
+        {
+          "verse": "20",
+          "text": "Mais le Seigneur réside en son saint temple ; que toute la terre révère son visage !",
+          "grec": "ὁ δὲ κύριος ἐν ναῷ ἁγίῳ αὐτοῦ εὐλαβείσθω ἀπὸ προσώπου αὐτοῦ πᾶσα ἡ γῆ.",
+          "alexandrie": "Le Seigneur, lui, est dans son temple saint. Que toute la terre soit pleine de révérence devant sa face !",
+          "name": "Habacuc 2:20",
+          "chapter": "2"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "name": "Habacuc 3",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Seigneur, j'ai entendu ta voix, et j'ai eu crainte.",
+          "grec": "προσευχὴ Αμβακουμ τοῦ προφήτου μετὰ ᾠδῆς.",
+          "alexandrie": "Prière d’Ambakoum le prophète, avec chant.",
+          "name": "Habacuc 3:1",
+          "chapter": "3"
+        },
+        {
+          "verse": "2",
+          "text": "J'ai considéré tes œuvres, et je me suis extasié. Entre deux animaux tu te manifestes ; quand les années seront proches, on te connaîtra ; quand les temps seront venus, tu apparaîtras ; quand mon âme est troublée de ta colère, souviens-toi de ta miséricorde.",
+          "grec": "κύριε εἰσακήκοα τὴν ἀκοήν σου καὶ ἐφοβήθην κατενόησα τὰ ἔργα σου καὶ ἐξέστην ἐν μέσῳ δύο ζῴων γνωσθήσῃ ἐν τῷ ἐγγίζειν τὰ ἔτη ἐπιγνωσθήσῃ ἐν τῷ παρεῖναι τὸν καιρὸν ἀναδειχθήσῃ ἐν τῷ ταραχθῆναι τὴν ψυχήν μου ἐν ὀργῇ ἐλέους μνησθήσῃ.",
+          "alexandrie": "Seigneur, j’ai bien entendu ton message, et j’ai pris peur. J’ai considéré tes œuvres, et j’ai été saisi de stupeur. Au milieu de deux vivants, tu seras connu. A l’approche des années, tu seras reconnu. A la présence du moment, tu seras proclamé. Au trouble de mon âme, en colère, tu te souviendras de la miséricorde.",
+          "name": "Habacuc 3:2",
+          "chapter": "3"
+        },
+        {
+          "verse": "3",
+          "text": "Dieu viendra de Théman, et le Saint de la montagne ténébreuse de Pharan. sa vertu est le vêtement des cieux, et la terre est pleine de sa louange.",
+          "grec": "ὁ θεὸς ἐκ Θαιμαν ἥξει καὶ ὁ ἅγιος ἐξ ὄρους κατασκίου δασέος διάψαλμα ἐκάλυψεν οὐρανοὺς ἡ ἀρετὴ αὐτοῦ καὶ αἰνέσεως αὐτοῦ πλήρης ἡ γῆ.",
+          "alexandrie": "Dieu viendra de Thaiman et le saint, de la montagne ombreuse, épaisse. ~ Diapsalma ~ Sa valeur a recouvert les cieux et la terre est pleine de sa louange.",
+          "name": "Habacuc 3:3",
+          "chapter": "3"
+        },
+        {
+          "verse": "4",
+          "text": "Sa splendeur sera comme la lumière ; Il a dans sa main des cornes (de puissance), et de la force Il a fait un puissant amour.",
+          "grec": "καὶ φέγγος αὐτοῦ ὡς φῶς ἔσται κέρατα ἐν χερσὶν αὐτοῦ καὶ ἔθετο ἀγάπησιν κραταιὰν ἰσχύος αὐτοῦ.",
+          "alexandrie": "Son éclat sera comme la lumière. Des cornes dans ses mains et il a établi l’amour, puissance de sa force.",
+          "name": "Habacuc 3:4",
+          "chapter": "3"
+        },
+        {
+          "verse": "5",
+          "text": "Devant sa face ira une parole ; elle cheminera dans les plaines ; sur ses pieds",
+          "grec": "πρὸ προσώπου αὐτοῦ πορεύσεται λόγος καὶ ἐξελεύσεται ἐν πεδίλοις οἱ πόδες αὐτοῦ.",
+          "alexandrie": "Devant sa face s’avancera la parole et elle sortira, les pieds dans des sandales.",
+          "name": "Habacuc 3:5",
+          "chapter": "3"
+        },
+        {
+          "verse": "6",
+          "text": "Il s'est dressé, et la terre en a tremblé ; Il a regardé, et les nations se sont évanouies. les montagnes ont été violemment agitées ; les collines se sont fendues, sous les pas de sa marche éternelle.",
+          "grec": "ἔστη καὶ ἐσαλεύθη ἡ γῆ ἐπέβλεψεν καὶ διετάκη ἔθνη διεθρύβη τὰ ὄρη βίᾳ ἐτάκησαν βουνοὶ αἰώνιοι.",
+          "alexandrie": "Il s’est dressé, et la terre a été ébranlée. Il a jeté un regard, et les nations ont complètement fondu. Les montagnes ont été violemment brisées. Les collines éternelles ont fondu. Ses cheminement éternels",
+          "name": "Habacuc 3:6",
+          "chapter": "3"
+        },
+        {
+          "verse": "7",
+          "text": "À cause des troubles, j'ai vu les tentes des Éthiopiens renversées ; les tentes de la terre de Madian seront aussi frappées d'épouvante.",
+          "grec": "πορείας αἰωνίας αὐτοῦ ἀντὶ κόπων εἶδον σκηνώματα Αἰθιόπων πτοηθήσονται καὶ αἱ σκηναὶ γῆς Μαδιαμ.",
+          "alexandrie": "au lieu de souffrances, je [les] ai vus. Les campements des Ethiopiens seront remplis d’effroi ainsi que les tentes du pays de Madiam.",
+          "name": "Habacuc 3:7",
+          "chapter": "3"
+        },
+        {
+          "verse": "8",
+          "text": "Seigneur, est-ce contre les fleuves que tu es irrité ? Est-ce que ta colère s'en prend aux fleuves ? Attaques-tu la mer ? Car tu es monté sur ton char, et tes chevaux amènent le salut.",
+          "grec": "μὴ ἐν ποταμοῖς ὠργίσθης κύριε ἢ ἐν ποταμοῖς ὁ θυμός σου ἢ ἐν θαλάσσῃ τὸ ὅρμημά σου ὅτι ἐπιβήσῃ ἐπὶ τοὺς ἵππους σου καὶ ἡ ἱππασία σου σωτηρία.",
+          "alexandrie": "Serait-ce contre les fleuves que tu t’es mis en colère, Seigneur, ou ta fureur s’en est-elle prise aux fleuves, ou ton assaut s’en est-il pris à la mer ? Car tu monteras sur tes chevaux et ta cavalerie, c’est le salut.",
+          "name": "Habacuc 3:8",
+          "chapter": "3"
+        },
+        {
+          "verse": "9",
+          "text": "Tu as fortement tendu ton arc contre les sceptres, dit le Seigneur. le cours des fleuves sera déchiré.",
+          "grec": "ἐντείνων ἐντενεῖς τὸ τόξον σου ἐπὶ τὰ σκῆπτρα λέγει κύριος διάψαλμα ποταμῶν ῥαγήσεται γῆ.",
+          "alexandrie": "Tu tendras fortement ton arc contre les sceptres, dit le Seigneur. ~ Diapsalma ~ En fleuves la terre se fendra.",
+          "name": "Habacuc 3:9",
+          "chapter": "3"
+        },
+        {
+          "verse": "10",
+          "text": "Les peuples te verront, Seigneur, et ils auront des douleurs comme celles de l'enfantement. Quand tu détruis la voie par une inondation, l'abîme a fait entendre sa voix, et il a élevé ses vagues contre toi.",
+          "grec": "ὄψονταί σε καὶ ὠδινήσουσιν λαοί σκορπίζων ὕδατα πορείας αὐτοῦ ἔδωκεν ἡ ἄβυσσος φωνὴν αὐτῆς ὕψος φαντασίας αὐτῆς.",
+          "alexandrie": "Les peuples te verront et souffriront les douleurs de l’enfantement, il",
+          "name": "Habacuc 3:10",
+          "chapter": "3"
+        },
+        {
+          "verse": "11",
+          "text": "Le soleil s'est levé ; la lune s'est tenue au lieu qui lui est prescrit : tes rayons s'avanceront dans la lumière, à la lueur des éclairs qui jaillissent de tes armes.",
+          "grec": "ἐπήρθη ὁ ἥλιος καὶ ἡ σελήνη ἔστη ἐν τῇ τάξει αὐτῆς εἰς φῶς βολίδες σου πορεύσονται εἰς φέγγος ἀστραπῆς ὅπλων σου.",
+          "alexandrie": "Le soleil s’est élevé et la lune s’est fixée à sa place. Vers la lumière, tes flèches se dirigeront, vers l’éclair brillant de tes armes.",
+          "name": "Habacuc 3:11",
+          "chapter": "3"
+        },
+        {
+          "verse": "12",
+          "text": "Par tes menaces, tu abaisses la terre, et dans ton courroux tu abats les nations.",
+          "grec": "ἐν ἀπειλῇ ὀλιγώσεις γῆν καὶ ἐν θυμῷ κατάξεις ἔθνη.",
+          "alexandrie": "Par la menace tu amoindriras la terre et par la fureur tu abattras les nations.",
+          "name": "Habacuc 3:12",
+          "chapter": "3"
+        },
+        {
+          "verse": "13",
+          "text": "Tu es venu pour le salut de ton peuple, pour sauver ton Christ ; tu enverras la mort sur la tête des impies ; tu les as chargés de chaînes jusqu'au cou.",
+          "grec": "ἐξῆλθες εἰς σωτηρίαν λαοῦ σου τοῦ σῶσαι τοὺς χριστούς σου ἔβαλες εἰς κεφαλὰς ἀνόμων θάνατον ἐξήγειρας δεσμοὺς ἕως τραχήλου διάψαλμα.",
+          "alexandrie": "Tu es sorti pour le salut de ton peuple, pour sauver ceux qui de toi eurent l'onction. Tu as jeté la mort sur la tête des hommes iniques. Tu as fait lever des liens jusqu’au cou. ~ Diapsalma",
+          "name": "Habacuc 3:13",
+          "chapter": "3"
+        },
+        {
+          "verse": "14",
+          "text": "Tu as frappé de stupeur les bêtes des puissants ; ils en trembleront ; ils laisseront voir leur frein en ouvrant la bouche, comme un pauvre qui mange en se cachant.",
+          "grec": "διέκοψας ἐν ἐκστάσει κεφαλὰς δυναστῶν σεισθήσονται ἐν αὐτῇ διανοίξουσιν χαλινοὺς αὐτῶν ὡς ἔσθων πτωχὸς λάθρᾳ.",
+          "alexandrie": "Tu as tendu en les égarant la tète des puissants, ils en seront ébranlés. Ils ouvriront leurs mors comme miséreux qui mange en cachette.",
+          "name": "Habacuc 3:14",
+          "chapter": "3"
+        },
+        {
+          "verse": "15",
+          "text": "Et, monté sur tes chevaux, tu es entré dans la mer, et ils en ont troublé l'eau profonde.",
+          "grec": "καὶ ἐπεβίβασας εἰς θάλασσαν τοὺς ἵππους σου ταράσσοντας ὕδωρ πολύ.",
+          "alexandrie": "Et tu as tait monter vers la mer tes chevaux qui troublent l'eau abondante.",
+          "name": "Habacuc 3:15",
+          "chapter": "3"
+        },
+        {
+          "verse": "16",
+          "text": "J'ai veillé, et mes entrailles ont frémi au son de la prière de mes lèvres, et l'effroi est entré dans mes os, et tout mon être a été bouleversé. Je me reposerai au jour de l'affliction, et je monterai chez le peuple où je suis passager.",
+          "grec": "ἐφυλαξάμην καὶ ἐπτοήθη ἡ κοιλία μου ἀπὸ φωνῆς προσευχῆς χειλέων μου καὶ εἰσῆλθεν τρόμος εἰς τὰ ὀστᾶ μου καὶ ὑποκάτωθέν μου ἐταράχθη ἡ ἕξις μου ἀναπαύσομαι ἐν ἡμέρᾳ θλίψεως τοῦ ἀναβῆναι εἰς λαὸν παροικίας μου.",
+          "alexandrie": "J'ai pris la garde, et mon ventre a été saisi d'effroi au son de la prière de mes lèvres. Le tremblement est entré dans mes os, et sous moi mon assise a été troublée. Je serai en repos au jour de l’oppression pour monter vers le peuple de mon séjour.",
+          "name": "Habacuc 3:16",
+          "chapter": "3"
+        },
+        {
+          "verse": "17",
+          "text": "Car alors le figuier ne portera pas de fruits ; il n'y aura pas de raisin à la vigne ; l'œuvre de l'olivier sera trompeuse, et les champs ne produiront pas de nourriture. Les brebis manqueront de fourrage, et il n'y aura pas de bœufs à la crèche.",
+          "grec": "διότι συκῆ οὐ καρποφορήσει καὶ οὐκ ἔσται γενήματα ἐν ταῖς ἀμπέλοις ψεύσεται ἔργον ἐλαίας καὶ τὰ πεδία οὐ ποιήσει βρῶσιν ἐξέλιπον ἀπὸ βρώσεως πρόβατα καὶ οὐχ ὑπάρχουσιν βόες ἐπὶ φάτναις.",
+          "alexandrie": "Car le figuier ne portera pas de fruit et il n’y aura pas de produit dans les vignes. L’œuvre de l’olivier décevra et les champs ne donneront pas d’aliment. Les moutons ont défailli faute d’aliment et il n’y a pas de bœufs près des mangeoires.",
+          "name": "Habacuc 3:17",
+          "chapter": "3"
+        },
+        {
+          "verse": "18",
+          "text": "Pour moi, je tressaillirai dans le Seigneur ; je mettrai ma joie en Dieu, mon Sauveur.",
+          "grec": "ἐγὼ δὲ ἐν τῷ κυρίῳ ἀγαλλιάσομαι χαρήσομαι ἐπὶ τῷ θεῷ τῷ σωτῆρί μου.",
+          "alexandrie": "Mais moi, j’exulterai dans le Seigneur. Je me réjouirai dans le Dieu mon sauveur.",
+          "name": "Habacuc 3:18",
+          "chapter": "3"
+        },
+        {
+          "verse": "19",
+          "text": "Le Seigneur mon Dieu est ma force ; Il placera mes pieds sur une base inébranlable ; Il m'a fait monter sur les hautes cimes, pour chanter en son honneur un chant de triomphe.",
+          "grec": "κύριος ὁ θεὸς δύναμίς μου καὶ τάξει τοὺς πόδας μου εἰς συντέλειαν ἐπὶ τὰ ὑψηλὰ ἐπιβιβᾷ με τοῦ νικῆσαι ἐν τῇ ᾠδῇ αὐτοῦ.",
+          "alexandrie": "Le Seigneur Dieu est ma force et il réglera mes pas jusqu’à l’accomplissement. Sur les hauteurs il me fera monter pour vaincre par son chant.",
+          "name": "Habacuc 3:19",
+          "chapter": "3"
+        }
+      ]
+    }
+  ]
+}

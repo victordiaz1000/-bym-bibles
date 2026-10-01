@@ -1,0 +1,328 @@
+{
+  "translation": "Septuaginta (Rahlfs) — traductions françaises de Giguet et d'Alexandrie",
+  "abbreviation": "SEF",
+  "lang": "fr",
+  "language": "français (avec le grec de la Septante)",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 37,
+  "name": "Aggée",
+  "chapters": [
+    {
+      "chapter": 1,
+      "name": "Aggée 1",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "En la sixième année du règne de Darius, le sixième mois, le premier jour du mois, la parole du Seigneur vint à Aggée, le prophète, disant : Parle à Zorobabel, fils de Salathiel, de la tribu de Juda, et à Jésus, fils de Josédec, le grand prêtre, et dis",
+          "grec": "ἐν τῷ δευτέρῳ ἔτει ἐπὶ Δαρείου τοῦ βασιλέως ἐν τῷ μηνὶ τῷ ἕκτῳ μιᾷ τοῦ μηνὸς ἐγένετο λόγος κύριου ἐν χειρὶ Αγγαιου τοῦ προφήτου λέγων εἰπὸν δὴ πρὸς Ζοροβαβελ τὸν τοῦ Σαλαθιηλ ἐκ φυλῆς Ιουδα καὶ πρὸς Ἰησοῦν τὸν τοῦ Ιωσεδεκ τὸν ἱερέα τὸν μέγαν λέγων.",
+          "alexandrie": "La deuxième année sous le roi Darius, le sixième mois, le premier du mois, il y eut une parole du Seigneur, dans la main du prophète Aggée, et qui disait : Parle à Zorobabel, le fils de Salathiel, de la tribu de Juda, et à Ièsous, le fils de Josédec, le grand prêtre, en disant :",
+          "name": "Aggée 1:1",
+          "chapter": "1"
+        },
+        {
+          "verse": "2",
+          "text": "Voici ce que dit le Seigneur tout-puissant. Ils disent que le temps n'est pas venu de réédifier la maison du Seigneur.",
+          "grec": "τάδε λέγει κύριος παντοκράτωρ λέγων ὁ λαὸς οὗτος λέγουσιν οὐχ ἥκει ὁ καιρὸς τοῦ οἰκοδομῆσαι τὸν οἶκον κυρίου.",
+          "alexandrie": "Voici ce que dit le Seigneur tout-puissant, disant : « Ce peuple, ils disent : Il n’est pas venu, le moment d’édifier la maison du Seigneur. »",
+          "name": "Aggée 1:2",
+          "chapter": "1"
+        },
+        {
+          "verse": "3",
+          "text": "Or la parole du Seigneur est venue à Aggée, le prophète, disant",
+          "grec": "καὶ ἐγένετο λόγος κυρίου ἐν χειρὶ Αγγαιου τοῦ προφήτου λέγων.",
+          "alexandrie": "Et il y eut une parole du Seigneur dans la main du prophète Aggée, et qui disait :",
+          "name": "Aggée 1:3",
+          "chapter": "1"
+        },
+        {
+          "verse": "4",
+          "text": "Le temps est-il venu pour vous de demeurer en vos maisons lambrissées en voûte, quand ce temple est désert ?",
+          "grec": "εἰ καιρὸς ὑμῖν μέν ἐστιν τοῦ οἰκεῖν ἐν οἴκοις ὑμῶν κοιλοστάθμοις ὁ δὲ οἶκος οὗτος ἐξηρήμωται.",
+          "alexandrie": "« Est-ce le moment pour vous d’habiter dans vos maisons aux colonnes cannelées, alors que cette maison est désertée ?",
+          "name": "Aggée 1:4",
+          "chapter": "1"
+        },
+        {
+          "verse": "5",
+          "text": "Et maintenant, voici ce que dit le Seigneur tout-puissant. Dirigez vos cœurs en vos voies.",
+          "grec": "καὶ νῦν τάδε λέγει κύριος παντοκράτωρ τάξατε δὴ τὰς καρδίας ὑμῶν εἰς τὰς ὁδοὺς ὑμῶν.",
+          "alexandrie": "Et maintenant voici ce que dit le Seigneur tout-puissant : Disposez donc votre cœur en vos chemins.",
+          "name": "Aggée 1:5",
+          "chapter": "1"
+        },
+        {
+          "verse": "6",
+          "text": "Vous avez semé beaucoup, et peu recueilli ; vous avez mangé, mais pas à satiété ; vous avez bu, mais point jusqu'à l'ivresse ; vous vous êtes vêtus, et vous n'avez pas été réchauffés ; et celui qui a thésaurisé ses salaires, les a déposés dans un sac troué.",
+          "grec": "ἐσπείρατε πολλὰ καὶ εἰσηνέγκατε ὀλίγα ἐφάγετε καὶ οὐκ εἰς πλησμονήν ἐπίετε καὶ οὐκ εἰς μέθην περιεβάλεσθε καὶ οὐκ ἐθερμάνθητε ἐν αὐτοῖς καὶ ὁ τοὺς μισθοὺς συνάγων συνήγαγεν εἰς δεσμὸν τετρυπημένον.",
+          "alexandrie": "Vous avez semé beaucoup et emporté peu, vous avez mangé et non à satiété, vous avez bu et non jusqu’à l’ivresse, vous vous êtes revêtus et ne vous en êtes pas réchauffés, et celui qui ramasse les salaires les a ramassés dans une bourse percée.",
+          "name": "Aggée 1:6",
+          "chapter": "1"
+        },
+        {
+          "verse": "7",
+          "text": "Or voici ce que dit le Seigneur tout-puissant. Dirigez vos cœurs en vos voies ;",
+          "grec": "τάδε λέγει κύριος παντοκράτωρ θέσθε τὰς καρδίας ὑμῶν εἰς τὰς ὁδοὺς ὑμῶν.",
+          "alexandrie": "Voici ce que dit le Seigneur tout-puissant : Mettez votre cœur en vos chemins ;",
+          "name": "Aggée 1:7",
+          "chapter": "1"
+        },
+        {
+          "verse": "8",
+          "text": "Montez sur la montagne ; abattez des arbres, et réédifiez le temple ; et je m'y complairai, et je serai glorifié, dit le Seigneur.",
+          "grec": "ἀνάβητε ἐπὶ τὸ ὄρος καὶ κόψατε ξύλα καὶ οἰκοδομήσατε τὸν οἶκον καὶ εὐδοκήσω ἐν αὐτῷ καὶ ἐνδοξασθήσομαι εἶπεν κύριος.",
+          "alexandrie": "montez sur la montagne, coupez du bois et édifiez la maison, et j’en serai satisfait et glorifié, dit le Seigneur.",
+          "name": "Aggée 1:8",
+          "chapter": "1"
+        },
+        {
+          "verse": "9",
+          "text": "Vous avez convoité beaucoup, et peu vous est venu ; et ce peu vous l'avez emporté en vos maisons, et d'un souffle je l'en ai fait sortir ; c'est pourquoi voici ce que dit le Seigneur tout-puissant En punition de ce que ma demeure est déserte, et que chacun de vous court à sa demeure,",
+          "grec": "ἐπεβλέψατε εἰς πολλά καὶ ἐγένετο ὀλίγα καὶ εἰσηνέχθη εἰς τὸν οἶκον καὶ ἐξεφύσησα αὐτά διὰ τοῦτο τάδε λέγει κύριος παντοκράτωρ ἀνθ' ὧν ὁ οἶκός μού ἐστιν ἔρημος ὑμεῖς δὲ διώκετε ἕκαστος εἰς τὸν οἶκον αὐτοῦ.",
+          "alexandrie": "Vous avez porté vos regards sur beaucoup, et il y eut peu ; et ce fut apporté dans la maison, et je l’ai dispersé en soufflant. C’est pourquoi voici ce que dit le Seigneur tout-puissant : c’est parce que ma maison est déserte, alors que vous vous agitez chacun pour sa maison,",
+          "name": "Aggée 1:9",
+          "chapter": "1"
+        },
+        {
+          "verse": "10",
+          "text": "Le ciel vous refusera sa rosée, et la terre vous retirera ses fruits.",
+          "grec": "διὰ τοῦτο ἀνέξει ὁ οὐρανὸς ἀπὸ δρόσου καὶ ἡ γῆ ὑποστελεῖται τὰ ἐκφόρια αὐτῆς.",
+          "alexandrie": "que le ciel suspendra la rosée et que la terre retiendra ses produits ;",
+          "name": "Aggée 1:10",
+          "chapter": "1"
+        },
+        {
+          "verse": "11",
+          "text": "Et je ferai passer un glaive sur la terre et sur les montagnes, sur le blé et sur le vin, sur l'huile et sur les fruits de la terre, sur les hommes, leur bétail et tous les travaux de leurs mains.",
+          "grec": "καὶ ἐπάξω ῥομφαίαν ἐπὶ τὴν γῆν καὶ ἐπὶ τὰ ὄρη καὶ ἐπὶ τὸν σῖτον καὶ ἐπὶ τὸν οἶνον καὶ ἐπὶ τὸ ἔλαιον καὶ ὅσα ἐκφέρει ἡ γῆ καὶ ἐπὶ τοὺς ἀνθρώπους καὶ ἐπὶ τὰ κτήνη καὶ ἐπὶ πάντας τοὺς πόνους τῶν χειρῶν αὐτῶν.",
+          "alexandrie": "et je pointerai la lance sur la terre, sur les montagnes, sur le blé, sur le vin, sur l’huile, sur tout ce que produit la terre, sur les hommes, sur le bétail et sur tous les travaux de leurs mains. »",
+          "name": "Aggée 1:11",
+          "chapter": "1"
+        },
+        {
+          "verse": "12",
+          "text": "Et Zorobabel, fils de Salathiel, de la tribu de Juda, et jésus, fils de Josédec, le grand prêtre, et tout le reste du peuple entendirent la voix du Seigneur leur Dieu, et les paroles d'Aggée, le prophète, telles que par lui le Seigneur, leur Dieu, les leur avait envoyées. Et le peuple révéra la face du Seigneur.",
+          "grec": "καὶ ἤκουσεν Ζοροβαβελ ὁ τοῦ Σαλαθιηλ ἐκ φυλῆς Ιουδα καὶ Ἰησοῦς ὁ τοῦ Ιωσεδεκ ὁ ἱερεὺς ὁ μέγας καὶ πάντες οἱ κατάλοιποι τοῦ λαοῦ τῆς φωνῆς κυρίου τοῦ θεοῦ αὐτῶν καὶ τῶν λόγων Αγγαιου τοῦ προφήτου καθότι ἐξαπέστειλεν αὐτὸν κύριος ὁ θεὸς αὐτῶν πρὸς αὐτούς καὶ ἐφοβήθη ὁ λαὸς ἀπὸ προσώπου κυρίου.",
+          "alexandrie": "Et Zorobabel, le fils de Salathiel, de la tribu de Juda, ainsi que lèsous, le fils de Josédec, le grand prêtre, et tout le reste du peuple entendirent la voix du Seigneur leur Dieu et les paroles du prophète Aggée, comme le leur avait dépêché le Seigneur, et le peuple eut peur devant le Seigneur.",
+          "name": "Aggée 1:12",
+          "chapter": "1"
+        },
+        {
+          "verse": "13",
+          "text": "Et Aggée, le messager du Seigneur, rapporta au peuple le message du Seigneur, disant : Je suis avec vous, dit le Seigneur.",
+          "grec": "καὶ εἶπεν Αγγαιος ὁ ἄγγελος κυρίου τῷ λαῷ ἐγώ εἰμι μεθ' ὑμῶν λέγει κύριος.",
+          "alexandrie": "Et Aggée, le messager du Seigneur, dit au peuple : Je suis avec vous, dit le Seigneur.",
+          "name": "Aggée 1:13",
+          "chapter": "1"
+        },
+        {
+          "verse": "14",
+          "text": "Et le Seigneur suscita l'esprit de Zorobabel, fils de Salathiel, de la tribu de Juda, et l'esprit de Jésus, fils de Josédec, le grand prêtre, et l'esprit du reste du peuple ; et ils entrèrent dans le temple du Seigneur, leur Dieu tout-puissant, et ils y firent des travaux,",
+          "grec": "καὶ ἐξήγειρεν κύριος τὸ πνεῦμα Ζοροβαβελ τοῦ Σαλαθιηλ ἐκ φυλῆς Ιουδα καὶ τὸ πνεῦμα Ἰησοῦ τοῦ Ιωσεδεκ τοῦ ἱερέως τοῦ μεγάλου καὶ τὸ πνεῦμα τῶν καταλοίπων παντὸς τοῦ λαοῦ καὶ εἰσῆλθον καὶ ἐποίουν ἔργα ἐν τῷ οἴκῳ κυρίου παντοκράτορος θεοῦ αὐτῶν.",
+          "alexandrie": "Et le Seigneur éveilla l’esprit de Zorobabel, le fils de Sala-thiel, de la tribu de Juda et l’esprit de lèsous, le fils de Josédec, le grand prêtre, et l’esprit du reste de tout le peuple, ils pénétrèrent et firent des travaux dans la maison du Seigneur tout-puissant leur Dieu",
+          "name": "Aggée 1:14",
+          "chapter": "1"
+        },
+        {
+          "verse": "15",
+          "text": "Le vingt-quatrième jour du sixième mois, la seconde année du règne de Darius.",
+          "grec": "τῇ τετράδι καὶ εἰκάδι τοῦ μηνὸς τοῦ ἕκτου τῷ δευτέρῳ ἔτει ἐπὶ Δαρείου τοῦ βασιλέως.",
+          "alexandrie": "le vingt-quatrième jour du sixième mois, la deuxième année sous le roi Darius.",
+          "name": "Aggée 1:15",
+          "chapter": "1"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "name": "Aggée 2",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Le vingt-huitième jour du septième mois, le Seigneur confia sa parole aux mains d'Aggée, le prophète, disant",
+          "grec": "τῷ ἑβδόμῳ μηνὶ μιᾷ καὶ εἰκάδι τοῦ μηνὸς ἐλάλησεν κύριος ἐν χειρὶ Αγγαιου τοῦ προφήτου λέγων.",
+          "alexandrie": "Le septième mois, le vingt et un du mois, le Seigneur parla dans la main du prophète Aggée, disant :",
+          "name": "Aggée 2:1",
+          "chapter": "2"
+        },
+        {
+          "verse": "2",
+          "text": "Parle à Zorobabel, fils de Salathiel, de la tribu de Juda, et à Jésus, fils de Josédec, le grand prêtre, et à tout le reste du peuple, disant",
+          "grec": "εἰπὸν δὴ πρὸς Ζοροβαβελ τὸν τοῦ Σαλαθιηλ ἐκ φυλῆς Ιουδα καὶ πρὸς Ἰησοῦν τὸν τοῦ Ιωσεδεκ τὸν ἱερέα τὸν μέγαν καὶ πρὸς πάντας τοὺς καταλοίπους τοῦ λαοῦ λέγων.",
+          "alexandrie": "« Parle donc à Zorobabel, le fils de Salathiel, de la tribu de Juda, et à Ièsous, le fils de Josédec, le grand prêtre, et à tout le reste du peuple, en disant :",
+          "name": "Aggée 2:2",
+          "chapter": "2"
+        },
+        {
+          "verse": "3",
+          "text": "Qui de vous a vu ce temple en sa première gloire ? Et comment le voyez-vous aujourd'hui ? N'est-il pas devant vous comme n'étant point ?",
+          "grec": "τίς ἐξ ὑμῶν ὃς εἶδεν τὸν οἶκον τοῦτον ἐν τῇ δόξῃ αὐτοῦ τῇ ἔμπροσθεν καὶ πῶς ὑμεῖς βλέπετε αὐτὸν νῦν καθὼς οὐχ ὑπάρχοντα ἐνώπιον ὑμῶν.",
+          "alexandrie": "Quel est celui d’entre vous qui a vu cette maison en sa gloire passée ? Et comment la regardez-vous à présent ? Comme si elle n’existait pas face à vous.",
+          "name": "Aggée 2:3",
+          "chapter": "2"
+        },
+        {
+          "verse": "4",
+          "text": "Et maintenant arme-toi de force, Zorobabel, fils de Salathiel, de la tribu de Juda ; arme-toi de force, Jésus, fils de Josédec, le grand-prêtre ; arme-toi de force, peuple de la terre, dit le Seigneur, et travaille ; car je suis avec vous, dit le Seigneur tout-puissant.",
+          "grec": "καὶ νῦν κατίσχυε Ζοροβαβελ λέγει κύριος καὶ κατίσχυε Ἰησοῦ ὁ τοῦ Ιωσεδεκ ὁ ἱερεὺς ὁ μέγας καὶ κατισχυέτω πᾶς ὁ λαὸς τῆς γῆς λέγει κύριος καὶ ποιεῖτε διότι μεθ' ὑμῶν ἐγώ εἰμι λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "Et maintenant sois fort, Zorobabel, dit le Seigneur, et sois fort, Ièsous, fils de Josédec, grand prêtre, et que soit fort tout le peuple du pays, dit le Seigneur, et agissez : car je suis avec vous, dit le Seigneur tout-puissant,",
+          "name": "Aggée 2:4",
+          "chapter": "2"
+        },
+        {
+          "verse": "5",
+          "text": "Et mon Esprit est debout au milieu de vous ; ayez confiance ;",
+          "grec": "καὶ τὸ πνεῦμά μου ἐφέστηκεν ἐν μέσῳ ὑμῶν θαρσεῖτε.",
+          "alexandrie": "et mon esprit s’est posé au milieu de vous ; ayez confiance.",
+          "name": "Aggée 2:5",
+          "chapter": "2"
+        },
+        {
+          "verse": "6",
+          "text": "Car voici ce que dit le Seigneur tout-puissant. Encore une fois, j'ébranlerai le ciel et la terre, la mer et le désert ;",
+          "grec": "διότι τάδε λέγει κύριος παντοκράτωρ ἔτι ἅπαξ ἐγὼ σείσω τὸν οὐρανὸν καὶ τὴν γῆν καὶ τὴν θάλασσαν καὶ τὴν ξηράν.",
+          "alexandrie": "Car voici ce que dit le Seigneur tout-puissant : une fois pour toutes, moi je secouerai le ciel, la terre, la mer et la terre sèche ,",
+          "name": "Aggée 2:6",
+          "chapter": "2"
+        },
+        {
+          "verse": "7",
+          "text": "Et j'ébranlerai toutes les nations ; et celles des nations que j'aurai élevées viendront ; et je remplirai de gloire le temple, dit le Seigneur tout-puissant.",
+          "grec": "καὶ συσσείσω πάντα τὰ ἔθνη καὶ ἥξει τὰ ἐκλεκτὰ πάντων τῶν ἐθνῶν καὶ πλήσω τὸν οἶκον τοῦτον δόξης λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "et je secouerai en même temps toutes les nations, et il viendra, le meilleur de toutes les nations, et j’emplirai cette maison de gloire, dit le Seigneur tout-puissant.",
+          "name": "Aggée 2:7",
+          "chapter": "2"
+        },
+        {
+          "verse": "8",
+          "text": "À moi est l'or, à moi l'argent, dit le Seigneur tout-puissant.",
+          "grec": "ἐμὸν τὸ ἀργύριον καὶ ἐμὸν τὸ χρυσίον λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "Il est à moi, l’argent, il est à moi, l’or, dit le Seigneur tout-puissant.",
+          "name": "Aggée 2:8",
+          "chapter": "2"
+        },
+        {
+          "verse": "9",
+          "text": "La gloire de ce temple sera grande ; mais celle de la fin surpassera celle du commencement, dit le Seigneur Dieu tout-puissant ; et à cette terre je donnerai la paix, dit le Seigneur Dieu tout-puissant, et je donnerai la paix en ce lieu à tous ceux qui travaillent à réédifier le temple.",
+          "grec": "διότι μεγάλη ἔσται ἡ δόξα τοῦ οἴκου τούτου ἡ ἐσχάτη ὑπὲρ τὴν πρώτην λέγει κύριος παντοκράτωρ καὶ ἐν τῷ τόπῳ τούτῳ δώσω εἰρήνην λέγει κύριος παντοκράτωρ καὶ εἰρήνην ψυχῆς εἰς περιποίησιν παντὶ τῷ κτίζοντι τοῦ ἀναστῆσαι τὸν ναὸν τοῦτον.",
+          "alexandrie": "Car grande sera la gloire de cette maison, cette dernière gloire qui surpassera la première, dit le Seigneur tout-puissant ; et en ce lieu je donnerai la paix, dit le Seigneur tout-puissant, et la paix de l’âme pour sauvegarde, à tout bâtisseur, pour relever ce temple. »",
+          "name": "Aggée 2:9",
+          "chapter": "2"
+        },
+        {
+          "verse": "10",
+          "text": "Le vingt-troisième jour du neuvième mois de la seconde année du règne de Darius, la parole du Seigneur vint à Aggée, le prophète, disant :",
+          "grec": "τετράδι καὶ εἰκάδι τοῦ ἐνάτου μηνὸς ἔτους δευτέρου ἐπὶ Δαρείου ἐγένετο λόγος κυρίου πρὸς Αγγαιον τὸν προφήτην λέγων.",
+          "alexandrie": "Le vingt-quatre du neuvième mois de la deuxième année sous Darius, il y eut une parole du Seigneur au prophète Aggée, et qui disait :",
+          "name": "Aggée 2:10",
+          "chapter": "2"
+        },
+        {
+          "verse": "11",
+          "text": "Voici ce que dit le Seigneur, maître de toutes choses : Consulte les prêtres sur la loi ; dis-leur :",
+          "grec": "τάδε λέγει κύριος παντοκράτωρ ἐπερώτησον τοὺς ἱερεῖς νόμον λέγων.",
+          "alexandrie": "Voici ce que dit le Seigneur tout-puissant : « Interroge les prêtres sur la loi en disant :",
+          "name": "Aggée 2:11",
+          "chapter": "2"
+        },
+        {
+          "verse": "12",
+          "text": "Si un homme prend dans le coin de son manteau de la chair consacrée, et si le coin de son manteau touche du pain ou de la viande cuite, du vin ou de l'huile, ou tout autre aliment, cet aliment sera-t-il sanctifié ? Et les prêtres répondirent et dirent : Non.",
+          "grec": "ἐὰν λάβῃ ἄνθρωπος κρέας ἅγιον ἐν τῷ ἄκρῳ τοῦ ἱματίου αὐτοῦ καὶ ἅψηται τὸ ἄκρον τοῦ ἱματίου αὐτοῦ ἄρτου ἢ ἑψέματος ἢ οἴνου ἢ ἐλαίου ἢ παντὸς βρώματος εἰ ἁγιασθήσεται καὶ ἀπεκρίθησαν οἱ ἱερεῖς καὶ εἶπαν οὔ.",
+          "alexandrie": "Si un homme prend une viande consacrée dans le bord de son manteau et que le bord de son manteau touche du pain, un mets cuit, du vin, de l’huile, n’importe quelle nourriture, sera-ce alors consacré ? » Et les prêtres répondirent et dirent : Non.",
+          "name": "Aggée 2:12",
+          "chapter": "2"
+        },
+        {
+          "verse": "13",
+          "text": "Et Aggée dit : Si un homme souillé et non purifié en son âme touche l'une de ces choses, sera-t-elle souillée ? Et les prêtres répondirent et dirent : Elle sera souillée.",
+          "grec": "καὶ εἶπεν Αγγαιος ἐὰν ἅψηται μεμιαμμένος ἐπὶ ψυχῇ ἀπὸ παντὸς τούτων εἰ μιανθήσεται καὶ ἀπεκρίθησαν οἱ ἱερεῖς καὶ εἶπαν μιανθήσεται.",
+          "alexandrie": "Et Aggée dit : Si quelqu’un, souillé au contact d’un cadavre, touche quoi que ce soit de cela, sera-ce alors souillé ? Et les prêtres répondirent et dirent : Ce sera souillé.",
+          "name": "Aggée 2:13",
+          "chapter": "2"
+        },
+        {
+          "verse": "14",
+          "text": "Et Aggée reprit, et dit : Tel est ce peuple ; telle est cette nation devant moi, dit le Seigneur ; telles sont toutes les œuvres de leurs mains ; tel est celui qui approchera de ce lieu souillé à cause des présents qu'il a reçus le matin ; et ils souffriront à l'aspect de leurs travaux ; et ils ont haï celui qui les a réprimandés devant les portes de la ville.",
+          "grec": "καὶ ἀπεκρίθη Αγγαιος καὶ εἶπεν οὕτως ὁ λαὸς οὗτος καὶ οὕτως τὸ ἔθνος τοῦτο ἐνώπιον ἐμοῦ λέγει κύριος καὶ οὕτως πάντα τὰ ἔργα τῶν χειρῶν αὐτῶν καὶ ὃς ἐὰν ἐγγίσῃ ἐκεῖ μιανθήσεται ἕνεκεν τῶν λημμάτων αὐτῶν τῶν ὀρθρινῶν ὀδυνηθήσονται ἀπὸ προσώπου πόνων αὐτῶν καὶ ἐμισεῖτε ἐν πύλαις ἐλέγχοντας.",
+          "alexandrie": "Et Aggée répondit et dit : Il en est ainsi de ce peuple, ainsi de cette nation devant moi ! dit le Seigneur, et ainsi de toutes les œuvres de leurs mains, et qui s’approchera là sera souillé à cause de leurs profits matutinaux, et ils souffriront du fait de leurs labeurs ; et, aux portes, vous haïssiez les réprobateurs.",
+          "name": "Aggée 2:14",
+          "chapter": "2"
+        },
+        {
+          "verse": "15",
+          "text": "Et maintenant, en vos cœurs, remontez dans le passé à partir de ce jour, avant qu'on eût posé pierre sur pierre dans le temple du Seigneur ;",
+          "grec": "καὶ νῦν θέσθε δὴ εἰς τὰς καρδίας ὑμῶν ἀπὸ τῆς ἡμέρας ταύτης καὶ ὑπεράνω πρὸ τοῦ θεῖναι λίθον ἐπὶ λίθον ἐν τῷ ναῷ κυρίου.",
+          "alexandrie": "Et maintenant mettez donc ceci en votre cœur, de ce jour et dorénavant, avant de mettre pierre sur pierre dans le temple du Seigneur :",
+          "name": "Aggée 2:15",
+          "chapter": "2"
+        },
+        {
+          "verse": "16",
+          "text": "Qui étiez-vous ? lorsque vous jetiez dans le coffre à orge vingt mesures de grain, et qu'elles se réduisaient à dix ; lorsque vous alliez à la cuve, sous le pressoir, pour y puiser vingt-cinq mesures, et qu'il n'y en avait plus que vingt.",
+          "grec": "τίνες ἦτε ὅτε ἐνεβάλλετε εἰς κυψέλην κριθῆς εἴκοσι σάτα καὶ ἐγένετο κριθῆς δέκα σάτα καὶ εἰσεπορεύεσθε εἰς τὸ ὑπολήνιον ἐξαντλῆσαι πεντήκοντα μετρητάς καὶ ἐγένοντο εἴκοσι.",
+          "alexandrie": "Qui étiez-vous ? Quand vous jetiez dans un coffre vingt boisseaux d’orge, alors il y eut dix boisseaux d’orge ; et quand vous veniez au pressoir y puiser cinquante muids, alors il y en eut vingt.",
+          "name": "Aggée 2:16",
+          "chapter": "2"
+        },
+        {
+          "verse": "17",
+          "text": "Je vous ai frappés par la stérilité ; j'ai frappé les œuvres de vos mains par les ravages du vent et par la grêle ; et vous ne vous êtes point convertis à moi, dit le Seigneur.",
+          "grec": "ἐπάταξα ὑμᾶς ἐν ἀφορίᾳ καὶ ἐν ἀνεμοφθορίᾳ καὶ ἐν χαλάζῃ πάντα τὰ ἔργα τῶν χειρῶν ὑμῶν καὶ οὐκ ἐπεστρέψατε πρός με λέγει κύριος.",
+          "alexandrie": "Je vous ai frappés de stérilité, de vent destructeur et de grêle, en toutes les œuvres de vos mains, et vous ne vous êtes pas retournés vers moi, dit le Seigneur.",
+          "name": "Aggée 2:17",
+          "chapter": "2"
+        },
+        {
+          "verse": "18",
+          "text": "Pensez donc en vos cœurs, à partir de ce jour et au delà, à partir du vingt-troisième jour du neuvième mois, et du jour où le temple du Seigneur a été fondé ; considérez en vos cœurs",
+          "grec": "ὑποτάξατε δὴ τὰς καρδίας ὑμῶν ἀπὸ τῆς ἡμέρας ταύτης καὶ ἐπέκεινα ἀπὸ τῆς τετράδος καὶ εἰκάδος τοῦ ἐνάτου μηνὸς καὶ ἀπὸ τῆς ἡμέρας ἧς ἐθεμελιώθη ὁ ναὸς κυρίου θέσθε ἐν ταῖς καρδίαις ὑμῶν.",
+          "alexandrie": "Soumettez donc votre cœur, de ce jour et au-delà ; depuis le vingt-quatre du neuvième mois et de ce jour, où ont été établies les bases du temple du Seigneur, mettez ceci en votre cœur :",
+          "name": "Aggée 2:18",
+          "chapter": "2"
+        },
+        {
+          "verse": "19",
+          "text": "Si l'on voit pareille chose dans les granges ; vigne, figuier, grenadier ou olivier, rien n'a encore porté des fruits ; mais à partir de ce jour je vous bénirai.",
+          "grec": "εἰ ἔτι ἐπιγνωσθήσεται ἐπὶ τῆς ἅλω καὶ εἰ ἔτι ἡ ἄμπελος καὶ ἡ συκῆ καὶ ἡ ῥόα καὶ τὰ ξύλα τῆς ἐλαίας τὰ οὐ φέροντα καρπόν ἀπὸ τῆς ἡμέρας ταύτης εὐλογήσω.",
+          "alexandrie": "Si on reconnaît encore sur l’aire, si on reconnaît encore la vigne, la figue, la grenade, les branches de l’olivier qui ne portent pas de fruit, de ce jour je bénirai. »",
+          "name": "Aggée 2:19",
+          "chapter": "2"
+        },
+        {
+          "verse": "20",
+          "text": "Et la parole du Seigneur vint une seconde fois à Aggée, le prophète, le vingt-quatrième jour du moi, disant :",
+          "grec": "καὶ ἐγένετο λόγος κυρίου ἐκ δευτέρου πρὸς Αγγαιον τὸν προφήτην τετράδι καὶ εἰκάδι τοῦ μηνὸς λέγων.",
+          "alexandrie": "Et il y eut une parole du Seigneur pour la seconde fois au prophète Aggée, le vingt-quatrième du mois, et qui disait :",
+          "name": "Aggée 2:20",
+          "chapter": "2"
+        },
+        {
+          "verse": "21",
+          "text": "Parle à Zorobabel, fils de Salathiel, de la tribu de Juda ; dis-lui j'ébranlerai le ciel et la terre, la mer et le désert,",
+          "grec": "εἰπὸν πρὸς Ζοροβαβελ τὸν τοῦ Σαλαθιηλ ἐκ φυλῆς Ιουδα λέγων ἐγὼ σείω τὸν οὐρανὸν καὶ τὴν γῆν καὶ τὴν θάλασσαν καὶ τὴν ξηρὰν.",
+          "alexandrie": "Parle à Zorobabel, le fils de Salathiel, de la tribu de Juda, en disant : « Moi, je secoue le ciel, la terre, la mer et la terre sèche",
+          "name": "Aggée 2:21",
+          "chapter": "2"
+        },
+        {
+          "verse": "22",
+          "text": "Et je renverserai le trône des rois, et je détruirai la puissance des rois des nations, et je ferai tomber leurs chars et leurs écuyers ; et les chevaux et leurs cavaliers seront abattus ; et le frère frappera du glaive son frère.",
+          "grec": "καὶ καταστρέψω θρόνους βασιλέων καὶ ὀλεθρεύσω δύναμιν βασιλέων τῶν ἐθνῶν καὶ καταστρέψω ἅρματα καὶ ἀναβάτας καὶ καταβήσονται ἵπποι καὶ ἀναβάται αὐτῶν ἕκαστος ἐν ῥομφαίᾳ πρὸς τὸν ἀδελφὸν αὐτοῦ.",
+          "alexandrie": "et je renverserai les trônes des rois, je détruirai la puissance des rois des nations, je renverserai chars et cavaliers, et tomberont chevaux et leurs cavaliers, chacun sous la lance de son frère.",
+          "name": "Aggée 2:22",
+          "chapter": "2"
+        },
+        {
+          "verse": "23",
+          "text": "Or, en ce jour-là, dit le Seigneur, maître de toutes choses, je protégerai Zorobabel, fils de Salathiel, mon serviteur, dit le Seigneur Dieu ; et tu seras pour moi comme un sceau d'alliance, parce que je t'ai choisi, dit le Seigneur tout-puissant.",
+          "grec": "ἐν τῇ ἡμέρᾳ ἐκείνῃ λέγει κύριος παντοκράτωρ λήμψομαί σε Ζοροβαβελ τὸν τοῦ Σαλαθιηλ τὸν δοῦλόν μου λέγει κύριος καὶ θήσομαί σε ὡς σφραγῖδα διότι σὲ ᾑρέτισα λέγει κύριος παντοκράτωρ.",
+          "alexandrie": "Ce jour-là, dit le Seigneur tout-puissant, je te prendrai, Zorobabel, fils de Salathiel, mon esclave, dit le Seigneur, et je disposerai de toi comme d’un sceau, car c’est toi que j’ai choisi, dit le Seigneur tout-puissant. »",
+          "name": "Aggée 2:23",
+          "chapter": "2"
+        }
+      ]
+    }
+  ]
+}

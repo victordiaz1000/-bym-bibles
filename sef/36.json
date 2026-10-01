@@ -1,0 +1,454 @@
+{
+  "translation": "Septuaginta (Rahlfs) — traductions françaises de Giguet et d'Alexandrie",
+  "abbreviation": "SEF",
+  "lang": "fr",
+  "language": "français (avec le grec de la Septante)",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 36,
+  "name": "Sophonie",
+  "chapters": [
+    {
+      "chapter": 1,
+      "name": "Sophonie 1",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Parole du Seigneur, qui vint à Sophonie, fils de Chusi, fils de Godolias, fils d'Amorias, fils d'Ézécias, durant les jours de Josias, fils d'Amon, roi de Juda.",
+          "grec": "λόγος κυρίου ὃς ἐγενήθη πρὸς Σοφονιαν τὸν τοῦ Χουσι υἱὸν Γοδολιου τοῦ Αμαριου τοῦ Εζεκιου ἐν ἡμέραις Ιωσιου υἱοῦ Αμων βασιλέως Ιουδα.",
+          "alexandrie": "Parole du Seigneur qui fut adressée à Sophonie, fils de Khousi, [fils] de Godolias, [fils] d’Amarias, [fils] d’Ezékias, aux jours de Jôsias, fils d’Amôn, roi de Juda.",
+          "name": "Sophonie 1:1",
+          "chapter": "1"
+        },
+        {
+          "verse": "2",
+          "text": "Que toute chose tombe de défaillance sur la face de la terre, dit le Seigneur.",
+          "grec": "ἐκλείψει ἐκλιπέτω πάντα ἀπὸ προσώπου τῆς γῆς λέγει κύριος.",
+          "alexandrie": "Oui, vraiment, que disparaisse de la surface de la terre, dit le Seigneur,",
+          "name": "Sophonie 1:2",
+          "chapter": "1"
+        },
+        {
+          "verse": "3",
+          "text": "Que l'homme et les bêtes disparaissent ; que disparaissent les oiseaux du ciel et les poissons de la mer ; et les impies seront sans force, et je chasserai les pécheurs de la face de la terre, dit le Seigneur.",
+          "grec": "ἐκλιπέτω ἄνθρωπος καὶ κτήνη ἐκλιπέτω τὰ πετεινὰ τοῦ οὐρανοῦ καὶ οἱ ἰχθύες τῆς θαλάσσης καὶ ἐξαρῶ τοὺς ἀνθρώπους ἀπὸ προσώπου τῆς γῆς λέγει κύριος.",
+          "alexandrie": "que disparaisse l’homme ainsi que le bétail, que disparaissent les oiseaux du ciel ainsi que les poissons de la mer ! Et j’arracherai les hommes iniques de la surface de la terre, dit le Seigneur.",
+          "name": "Sophonie 1:3",
+          "chapter": "1"
+        },
+        {
+          "verse": "4",
+          "text": "Et j'étendrai ma main sur Juda et sur les habitants de Jérusalem ; et j'effacerai de ce lieu les noms de Baal et de ses prêtres,",
+          "grec": "καὶ ἐκτενῶ τὴν χεῖρά μου ἐπὶ Ιουδαν καὶ ἐπὶ πάντας τοὺς κατοικοῦντας Ιερουσαλημ καὶ ἐξαρῶ ἐκ τοῦ τόπου τούτου τὰ ὀνόματα τῆς Βααλ καὶ τὰ ὀνόματα τῶν ἱερέων.",
+          "alexandrie": "J’étendrai la main contre Juda et contre tous ceux qui habitent Jérusalem, j’arracherai de ce lieu les noms de la Baal et les noms des prêtres,",
+          "name": "Sophonie 1:4",
+          "chapter": "1"
+        },
+        {
+          "verse": "5",
+          "text": "Et ceux qui adorent sur leurs terrasses l'armée du ciel, et se prosternent en jurant par le Seigneur, et ceux qui jurent par leur roi,",
+          "grec": "καὶ τοὺς προσκυνοῦντας ἐπὶ τὰ δώματα τῇ στρατιᾷ τοῦ οὐρανοῦ καὶ τοὺς ὀμνύοντας κατὰ τοῦ κυρίου καὶ τοὺς ὀμνύοντας κατὰ τοῦ βασιλέως αὐτῶν.",
+          "alexandrie": "ceux qui se prosternent sur les toits devant l’armée du ciel, ceux qui jurent par le Seigneur et ceux qui jurent par leur roi,",
+          "name": "Sophonie 1:5",
+          "chapter": "1"
+        },
+        {
+          "verse": "6",
+          "text": "Et ceux qui s'éloignent du Seigneur, et ceux qui ne cherchent pas le Seigneur, et ceux qui ne s'attachent pas au Seigneur.",
+          "grec": "καὶ τοὺς ἐκκλίνοντας ἀπὸ τοῦ κυρίου καὶ τοὺς μὴ ζητήσαντας τὸν κύριον καὶ τοὺς μὴ ἀντεχομένους τοῦ κυρίου.",
+          "alexandrie": "ceux qui dévient loin du Seigneur, ceux qui ne cherchent pas le Seigneur et ne s’attachent pas au Seigneur.",
+          "name": "Sophonie 1:6",
+          "chapter": "1"
+        },
+        {
+          "verse": "7",
+          "text": "Craignez la face du Seigneur Dieu ; car le jour du Seigneur est proche, et le Seigneur a préparé sa victoire, et Il a sanctifié ses invités.",
+          "grec": "εὐλαβεῖσθε ἀπὸ προσώπου κυρίου τοῦ θεοῦ διότι ἐγγὺς ἡ ἡμέρα τοῦ κυρίου ὅτι ἡτοίμακεν κύριος τὴν θυσίαν αὐτοῦ ἡγίακεν τοὺς κλητοὺς αὐτοῦ.",
+          "alexandrie": "Soyez plein de révérence devant la face du Seigneur Dieu, car proche est le jour du Seigneur ; car le Seigneur tient prêt son sacrifice, il a sanctifié ses appelés.",
+          "name": "Sophonie 1:7",
+          "chapter": "1"
+        },
+        {
+          "verse": "8",
+          "text": "Et il arrivera que, le jour du sacrifice du Seigneur, je tirerai vengeance des princes et de la maison du roi, et de tous ceux qui ont porté des vêtements étrangers.",
+          "grec": "καὶ ἔσται ἐν ἡμέρᾳ θυσίας κυρίου καὶ ἐκδικήσω ἐπὶ τοὺς ἄρχοντας καὶ ἐπὶ τὸν οἶκον τοῦ βασιλέως καὶ ἐπὶ πάντας τοὺς ἐνδεδυμένους ἐνδύματα ἀλλότρια.",
+          "alexandrie": "Et il arrivera au jour du sacrifice du Seigneur que je tirerai vengeance de leurs chefs, de la maison du roi et de tous ceux qui ont revêtu des vêtements étrangers ;",
+          "name": "Sophonie 1:8",
+          "chapter": "1"
+        },
+        {
+          "verse": "9",
+          "text": "Et ce jour-là je tirerai dans les parvis une vengeance éclatante de ceux qui remplissent d'impiété et de fraude le temple du Seigneur leur Dieu.",
+          "grec": "καὶ ἐκδικήσω ἐπὶ πάντας ἐμφανῶς ἐπὶ τὰ πρόπυλα ἐν ἐκείνῃ τῇ ἡμέρᾳ τοὺς πληροῦντας τὸν οἶκον κυρίου τοῦ θεοῦ αὐτῶν ἀσεβείας καὶ δόλου.",
+          "alexandrie": "je tirerai vengeance de tous ceux qui sont bien en vue devant les grandes portes, en ce jour-là, de ceux qui remplissent la maison du Seigneur leur Dieu d’impiété et de ruse.",
+          "name": "Sophonie 1:9",
+          "chapter": "1"
+        },
+        {
+          "verse": "10",
+          "text": "Et ce jour-là, dit le Seigneur, il y aura des cris à la porte des Assaillants, des hurlements à la seconde porte, et de grands brisements de cœur sur les collines.",
+          "grec": "καὶ ἔσται ἐν ἐκείνῃ τῇ ἡμέρᾳ λέγει κύριος φωνὴ κραυγῆς ἀπὸ πύλης ἀποκεντούντων καὶ ὀλολυγμὸς ἀπὸ τῆς δευτέρας καὶ συντριμμὸς μέγας ἀπὸ τῶν βουνῶν.",
+          "alexandrie": "Et il arrivera en ce jour-là, dit le Seigneur, un bruit de clameur venant de la porte de ceux qui transpercent, un gémissement venant de la seconde porte, et un grand piétinement venant des collines.",
+          "name": "Sophonie 1:10",
+          "chapter": "1"
+        },
+        {
+          "verse": "11",
+          "text": "Pleurez, vous qui habitez cette ville abattue ; car tout le peuple est devenu comme Chanaan, et tous ceux qui se glorifiaient de leur argent ont été exterminés.",
+          "grec": "θρηνήσατε οἱ κατοικοῦντες τὴν κατακεκομμένην ὅτι ὡμοιώθη πᾶς ὁ λαὸς Χανααν ἐξωλεθρεύθησαν πάντες οἱ ἐπηρμένοι ἀργυρίῳ.",
+          "alexandrie": "Lamentez-vous, vous qui habitez le pays dévasté, car tout le peuple s’est rendu semblable à Canaan ; tous ceux que l’argent a excités ont été exterminés.",
+          "name": "Sophonie 1:11",
+          "chapter": "1"
+        },
+        {
+          "verse": "12",
+          "text": "Et en ce jour-là, je chercherai Jérusalem la lampe à la main, et je tirerai vengeance des hommes qui méprisent mes commandements, et qui disent en leur cœur : Le Seigneur ne fera pas de bien, Il ne fera pas de mal.",
+          "grec": "καὶ ἔσται ἐν ἐκείνῃ τῇ ἡμέρᾳ ἐξερευνήσω τὴν Ιερουσαλημ μετὰ λύχνου καὶ ἐκδικήσω ἐπὶ τοὺς ἄνδρας τοὺς καταφρονοῦντας ἐπὶ τὰ φυλάγματα αὐτῶν οἱ λέγοντες ἐν ταῖς καρδίαις αὐτῶν οὐ μὴ ἀγαθοποιήσῃ κύριος οὐδ' οὐ μὴ κακώσῃ.",
+          "alexandrie": "Et il arrivera qu’en ce jour-là je fouillerai Jérusalem avec une torche ; et je tirerai vengeance des hommes qui se montrent méprisants à l’égard des préceptes reçus, eux qui disent dans leur cœur : Non, assurément, le Seigneur ne peut pas faire du bien pas plus qu’il ne peut faire du mal.",
+          "name": "Sophonie 1:12",
+          "chapter": "1"
+        },
+        {
+          "verse": "13",
+          "text": "Leur richesse sera mise au pillage, et leurs maisons en ruines. Ils se bâtiront des demeures, et ils ne les habiteront pas ; ils planteront des vignes, et ils n'en boiront pas le vin.",
+          "grec": "καὶ ἔσται ἡ δύναμις αὐτῶν εἰς διαρπαγὴν καὶ οἱ οἶκοι αὐτῶν εἰς ἀφανισμόν καὶ οἰκοδομήσουσιν οἰκίας καὶ οὐ μὴ κατοικήσουσιν ἐν αὐταῖς καὶ καταφυτεύσουσιν ἀμπελῶνας καὶ οὐ μὴ πίωσιν τὸν οἶνον αὐτῶν.",
+          "alexandrie": "Leur richesse sera vouée au pillage et leurs maisons à l’anéantissement. Ils construiront des maisons et, assurément, ils ne les habiteront pas ; ils planteront des vignes et, assurément, ils n’en boiront pas le vin.",
+          "name": "Sophonie 1:13",
+          "chapter": "1"
+        },
+        {
+          "verse": "14",
+          "text": "Car le grand jour du Seigneur est proche ; il est proche, il accourt. Le bruit du jour du Seigneur est lamentable et terrible.",
+          "grec": "ὅτι ἐγγὺς ἡ ἡμέρα κυρίου ἡ μεγάλη ἐγγὺς καὶ ταχεῖα σφόδρα φωνὴ ἡμέρας κυρίου πικρὰ καὶ σκληρά τέτακται δυνατή.",
+          "alexandrie": "Car proche est le jour du Seigneur, le grand jour, proche et rapide, extrêmement ! La voix du jour du Seigneur est aigre et dure, elle est en ordre, puissante.",
+          "name": "Sophonie 1:14",
+          "chapter": "1"
+        },
+        {
+          "verse": "15",
+          "text": "Le jour de sa colère est un grand jour ; ce jour-là est un jour d'affliction et de calamité ; c'est un jour d'angoisse et d'extermination, un jour d'ombre et de ténèbres, un jour de nuages et de vapeurs.",
+          "grec": "ἡμέρα ὀργῆς ἡ ἡμέρα ἐκείνη ἡμέρα θλίψεως καὶ ἀνάγκης ἡμέρα ἀωρίας καὶ ἀφανισμοῦ ἡμέρα σκότους καὶ γνόφου ἡμέρα νεφέλης καὶ ὁμίχλης.",
+          "alexandrie": "Jour de colère ce jour-là ! Jour d’oppression et d’angoisse, jour de noir et d’anéantissement, jour d’obscurité et de ténèbres, jour de nuée et de brouillard,",
+          "name": "Sophonie 1:15",
+          "chapter": "1"
+        },
+        {
+          "verse": "16",
+          "text": "En ce jour-là, sur les villes fortes et sur les cimes élevées, les cris et les trompettes retentissent.",
+          "grec": "ἡμέρα σάλπιγγος καὶ κραυγῆς ἐπὶ τὰς πόλεις τὰς ὀχυρὰς καὶ ἐπὶ τὰς γωνίας τὰς ὑψηλάς.",
+          "alexandrie": "jour de trompette et de clameur contre les villes fortes et contre les saillants élevés !",
+          "name": "Sophonie 1:16",
+          "chapter": "1"
+        },
+        {
+          "verse": "17",
+          "text": "Et j'écraserai tous les hommes, et ils marcheront comme des aveugles ; car ils ont péché contre le Seigneur ; et Il répandra leur sang comme la poussière, et leurs chairs comme le fumier.",
+          "grec": "καὶ ἐκθλίψω τοὺς ἀνθρώπους καὶ πορεύσονται ὡς τυφλοί ὅτι τῷ κυρίῳ ἐξήμαρτον καὶ ἐκχεεῖ τὸ αἷμα αὐτῶν ὡς χοῦν καὶ τὰς σάρκας αὐτῶν ὡς βόλβιτα.",
+          "alexandrie": "J’écraserai les hommes sous l’oppression et ils chemineront comme des aveugles, car ils ont péché contre le Seigneur. Et il versera leur sang comme de la poussière, et leurs chairs comme des fientes.",
+          "name": "Sophonie 1:17",
+          "chapter": "1"
+        },
+        {
+          "verse": "18",
+          "text": "Et au jour de la colère du Seigneur, ni leur argent ni leur or ne pourront les sauver ; et, dans le feu de son zèle, toute la terre périra, car Il aura hâte d'exterminer jusqu'au dernier de tous ceux qui l'habitent.",
+          "grec": "καὶ τὸ ἀργύριον αὐτῶν καὶ τὸ χρυσίον αὐτῶν οὐ μὴ δύνηται ἐξελέσθαι αὐτοὺς ἐν ἡμέρᾳ ὀργῆς κυρίου καὶ ἐν πυρὶ ζήλους αὐτοῦ καταναλωθήσεται πᾶσα ἡ γῆ διότι συντέλειαν καὶ σπουδὴν ποιήσει ἐπὶ πάντας τοὺς κατοικοῦντας τὴν γῆν.",
+          "alexandrie": "Assurément leur argent et leur or ne pourront les soustraire au jour de la colère du Seigneur. Par le feu de son amour jaloux toute la terre sera dévorée, car il provoquera destruction et fébrilité sur tous ceux qui habitent la terre.",
+          "name": "Sophonie 1:18",
+          "chapter": "1"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "name": "Sophonie 2",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Rassemblez-vous et priez en commun, ô nation sans éducation,",
+          "grec": "συνάχθητε καὶ συνδέθητε τὸ ἔθνος τὸ ἀπαίδευτον.",
+          "alexandrie": "Rassemblez-vous et attachez-vous, nation qui n’a pas été éduquée,",
+          "name": "Sophonie 2:1",
+          "chapter": "2"
+        },
+        {
+          "verse": "2",
+          "text": "Avant qu'il soit de vous comme de la fleur qui passe, avant que la colère du Seigneur fonde sur vous, avant que n'arrive sur vous le jour de la colère du Seigneur.",
+          "grec": "πρὸ τοῦ γενέσθαι ὑμᾶς ὡς ἄνθος παραπορευόμενον πρὸ τοῦ ἐπελθεῖν ἐφ' ὑμᾶς ὀργὴν κυρίου πρὸ τοῦ ἐπελθεῖν ἐφ' ὑμᾶς ἡμέραν θυμοῦ κυρίου.",
+          "alexandrie": "avant que vous ne deveniez comme fleur qui passe, avant que ne vous assaille la colère du Seigneur, avant que ne vous assaille le jour de la fureur du Seigneur !",
+          "name": "Sophonie 2:2",
+          "chapter": "2"
+        },
+        {
+          "verse": "3",
+          "text": "Cherchez tous le Seigneur, ô vous humbles de la terre, pratiquez la justice, interrogez l'équité, et répondez-lui, afin d'être abrités au jour de la colère du Seigneur ;",
+          "grec": "ζητήσατε τὸν κύριον πάντες ταπεινοὶ γῆς κρίμα ἐργάζεσθε καὶ δικαιοσύνην ζητήσατε καὶ ἀποκρίνεσθε αὐτά ὅπως σκεπασθῆτε ἐν ἡμέρᾳ ὀργῆς κυρίου.",
+          "alexandrie": "Cherchez le Seigneur, vous tous, les humbles de la terre ! Accomplissez le jugement, cherchez la justice et faites cette réponse pour être protégés au jour de la colère du Seigneur.",
+          "name": "Sophonie 2:3",
+          "chapter": "2"
+        },
+        {
+          "verse": "4",
+          "text": "Car Gaza sera pillée, Ascalon sera détruite, Azot tombera en plein midi, et Accaron sera déracinée.",
+          "grec": "διότι Γάζα διηρπασμένη ἔσται καὶ Ἀσκαλὼν ἔσται εἰς ἀφανισμόν καὶ Ἄζωτος μεσημβρίας ἐκριφήσεται καὶ Ακκαρων ἐκριζωθήσεται.",
+          "alexandrie": "C’est que Gaza sera pillée, Askalôn voué à l’anéantissement, Azôtos abattu en plein midi et Akkarôn déraciné.",
+          "name": "Sophonie 2:4",
+          "chapter": "2"
+        },
+        {
+          "verse": "5",
+          "text": "Malheur à vous, qui habitez les rivages de la mer, colons des Crétois. La parole du Seigneur est contre vous, Chanaan, terre des Philistins, et je vous chasserai de vos demeures.",
+          "grec": "οὐαὶ οἱ κατοικοῦντες τὸ σχοίνισμα τῆς θαλάσσης πάροικοι Κρητῶν λόγος κυρίου ἐφ' ὑμᾶς Χανααν γῆ ἀλλοφύλων καὶ ἀπολῶ ὑμᾶς ἐκ κατοικίας.",
+          "alexandrie": "Malheur à ceux qui habitent le cordon littoral, colons de Crète ! La parole du Seigneur est contre vous, Canaan, terre des Étrangers ! Et je vous ferai périr en vous chassant de chez vous.",
+          "name": "Sophonie 2:5",
+          "chapter": "2"
+        },
+        {
+          "verse": "6",
+          "text": "Et votre territoire sera un pâturage pour les troupeaux, un parc pour les brebis.",
+          "grec": "καὶ ἔσται Κρήτη νομὴ ποιμνίων καὶ μάνδρα προβάτων.",
+          "alexandrie": "La Crète sera pâturage de troupeaux et enclos de moutons,",
+          "name": "Sophonie 2:6",
+          "chapter": "2"
+        },
+        {
+          "verse": "7",
+          "text": "Et le rivage de la mer appartiendra aux restes de la maison de Juda ; ceux-ci seront nourris dans les demeures d'Ascalon, et ils s'y reposeront le soir, loin de la face des fils de Juda ; car le Seigneur leur Dieu les a visités, et Il les fera revenir de la captivité.",
+          "grec": "καὶ ἔσται τὸ σχοίνισμα τῆς θαλάσσης τοῖς καταλοίποις οἴκου Ιουδα ἐπ' αὐτοὺς νεμήσονται ἐν τοῖς οἴκοις Ἀσκαλῶνος δείλης καταλύσουσιν ἀπὸ προσώπου υἱῶν Ιουδα ὅτι ἐπέσκεπται αὐτοὺς κύριος ὁ θεὸς αὐτῶν καὶ ἀπέστρεψε τὴν αἰχμαλωσίαν αὐτῶν.",
+          "alexandrie": "et le cordon littoral appartiendra à ceux qui resteront de la maison de Juda ; sur eux ils mèneront paître ; dans les maisons d’Askalôn, le soir, ils se retireront loin des fils de Juda, car leur Seigneur Dieu les a visités et a ramené leurs captifs.",
+          "name": "Sophonie 2:7",
+          "chapter": "2"
+        },
+        {
+          "verse": "8",
+          "text": "J'ai entendu les injures de Moab, et les outrages des fils d'Ammon ; ils ont insulté mon peuple, et se sont glorifiés sur mes frontières.",
+          "grec": "ἤκουσα ὀνειδισμοὺς Μωαβ καὶ κονδυλισμοὺς υἱῶν Αμμων ἐν οἷς ὠνείδιζον τὸν λαόν μου καὶ ἐμεγαλύνοντο ἐπὶ τὰ ὅριά μου.",
+          "alexandrie": "J’ai entendu les insultes de Moab et les sarcasmes des fils d’Ammôn dont ils usaient pour insulter mon peuple et se vanter aux dépens de mon territoire.",
+          "name": "Sophonie 2:8",
+          "chapter": "2"
+        },
+        {
+          "verse": "9",
+          "text": "À cause de cela, par ma vie, dit le Seigneur d'Israël, Dieu des armées, Moab sera comme Sodome, et les fils d'Ammon comme Gomorrhe, et Damas disparaîtra comme le monceau de blé d'une aire, et elle sera effacée pour jamais. Et les restes de mon peuple les pilleront, et les restes de ma nation posséderont leur héritage.",
+          "grec": "διὰ τοῦτο ζῶ ἐγώ λέγει κύριος τῶν δυνάμεων ὁ θεὸς Ισραηλ διότι Μωαβ ὡς Σοδομα ἔσται καὶ οἱ υἱοὶ Αμμων ὡς Γομορρα καὶ Δαμασκὸς ἐκλελειμμένη ὡς θιμωνιὰ ἅλωνος καὶ ἠφανισμένη εἰς τὸν αἰῶνα καὶ οἱ κατάλοιποι λαοῦ μου διαρπῶνται αὐτούς καὶ οἱ κατάλοιποι ἔθνους μου κληρονομήσουσιν αὐτούς.",
+          "alexandrie": "C’est pourquoi, aussi vrai que je suis vivant, moi, dit le Seigneur Dieu d’Israël, voici que Moab sera comme Sodome, les fils d’Ammôn comme Gomorrhe, et Damas abandonnée comme tas de sel, anéantie à jamais ; ceux qui resteront de mon peuple les pilleront, et ceux qui resteront de ma nation les recevront en héritage.",
+          "name": "Sophonie 2:9",
+          "chapter": "2"
+        },
+        {
+          "verse": "10",
+          "text": "Voilà comment sera punie leur insolence ; car en se glorifiant ils ont outragé le Seigneur, maître de toutes choses.",
+          "grec": "αὕτη αὐτοῖς ἀντὶ τῆς ὕβρεως αὐτῶν διότι ὠνείδισαν καὶ ἐμεγαλύνθησαν ἐπὶ τὸν κύριον τὸν παντοκράτορα.",
+          "alexandrie": "Tel sera leur sort en échange de leur orgueil. parce qu'ils ont lancé des insultes et se sont vantés aux dépens du Seigneur tout-puissant.",
+          "name": "Sophonie 2:10",
+          "chapter": "2"
+        },
+        {
+          "verse": "11",
+          "text": "Le Seigneur se manifestera contre eux, et Il anéantira tous les dieux de la terre et tout homme, en son pays, et toutes les îles des nations finiront par l'adorer.",
+          "grec": "ἐπιφανήσεται κύριος ἐπ' αὐτοὺς καὶ ἐξολεθρεύσει πάντας τοὺς θεοὺς τῶν ἐθνῶν τῆς γῆς καὶ προσκυνήσουσιν αὐτῷ ἕκαστος ἐκ τοῦ τόπου αὐτοῦ πᾶσαι αἱ νῆσοι τῶν ἐθνῶν.",
+          "alexandrie": "Le Seigneur se manifestera contre eux. il exterminera tous les dieux des nations de la terre, et elles se prosterneront devant lui — chacun depuis sa place — toutes les îles des nations.",
+          "name": "Sophonie 2:11",
+          "chapter": "2"
+        },
+        {
+          "verse": "12",
+          "text": "Et vous, Éthiopiens, vous serez aussi blessés de mon glaive.",
+          "grec": "καὶ ὑμεῖς Αἰθίοπες τραυματίαι ῥομφαίας μού ἐστε.",
+          "alexandrie": "Et vous, Éthiopiens, soyez les blessés de mon épée !",
+          "name": "Sophonie 2:12",
+          "chapter": "2"
+        },
+        {
+          "verse": "13",
+          "text": "Et le Seigneur étendra la main vers l'Aquilon, et Il détruira l'Assyrien, et Il fera de Ninive une ruine sans eau, comme un désert.",
+          "grec": "καὶ ἐκτενεῖ τὴν χεῖρα αὐτοῦ ἐπὶ βορρᾶν καὶ ἀπολεῖ τὸν Ἀσσύριον καὶ θήσει τὴν Νινευη εἰς ἀφανισμὸν ἄνυδρον ὡς ἔρημον.",
+          "alexandrie": "Il étendra la main contre le nord, il fera périr l’Assyrien et réduira Ninive à l’anéantissement, sans eau comme un désert ;",
+          "name": "Sophonie 2:13",
+          "chapter": "2"
+        },
+        {
+          "verse": "14",
+          "text": "Et les troupeaux viendront paître au milieu d'elle ; et toutes les bêtes fauves de la contrée, et les caméléons, et les hérissons coucheront dans ses palais, et les bêtes farouches hurleront dans ses fossés, et les corbeaux croasseront sur ses portes, elle maintenant aussi altière que le cèdre.",
+          "grec": "καὶ νεμήσονται ἐν μέσῳ αὐτῆς ποίμνια καὶ πάντα τὰ θηρία τῆς γῆς καὶ χαμαιλέοντες καὶ ἐχῖνοι ἐν τοῖς φατνώμασιν αὐτῆς κοιτασθήσονται καὶ θηρία φωνήσει ἐν τοῖς διορύγμασιν αὐτῆς κόρακες ἐν τοῖς πυλῶσιν αὐτῆς διότι κέδρος τὸ ἀνάστημα αὐτῆς.",
+          "alexandrie": "au milieu d’elle iront paître des troupeaux et toutes les bêtes de la terre, les caméléons et les hérissons, dormiront dans ses caissons, et les bêtes crieront dans ses ouvertures, les corbeaux dans ses portes, parce que son élévation est en cèdre.",
+          "name": "Sophonie 2:14",
+          "chapter": "2"
+        },
+        {
+          "verse": "15",
+          "text": "Voilà cette ville si méprisante, qui se reposait dans sa confiance et disait en son cœur : j'existe, et il n'est point de ville telle que moi. Comment est-elle devenue une solitude, un repaire de bêtes fauves ? Et celui qui passera par là sifflera et battra des mains.",
+          "grec": "αὕτη ἡ πόλις ἡ φαυλίστρια ἡ κατοικοῦσα ἐπ' ἐλπίδι ἡ λέγουσα ἐν καρδίᾳ αὐτῆς ἐγώ εἰμι καὶ οὐκ ἔστιν μετ' ἐμὲ ἔτι πῶς ἐγενήθη εἰς ἀφανισμόν νομὴ θηρίων πᾶς ὁ διαπορευόμενος δι' αὐτῆς συριεῖ καὶ κινήσει τὰς χεῖρας αὐτοῦ.",
+          "alexandrie": "Voici la ville dédaigneuse, celle qui habitait avec assurance, celle qui disait dans son cœur : C’est moi qui suis, et il n’en est plus après moi ! Comme elle a été vouée à l’anéantissement, devenue pâture des bêtes ! Quiconque la traversa sifflera et agitera les mains.",
+          "name": "Sophonie 2:15",
+          "chapter": "2"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "name": "Sophonie 3",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ô ville insigne et mise à rançon ! ville de la colombe !",
+          "grec": "ὦ ἡ ἐπιφανὴς καὶ ἀπολελυτρωμένη ἡ πόλις ἡ περιστερά.",
+          "alexandrie": "Ô l’éclatante et la rachetée, la ville colombe !",
+          "name": "Sophonie 3:1",
+          "chapter": "3"
+        },
+        {
+          "verse": "2",
+          "text": "Elle n'a pas entendu ma voix ni recueilli l'avertissement ; elle n'a point eu foi au Seigneur, et ne s'est point approchée de son Dieu.",
+          "grec": "οὐκ εἰσήκουσεν φωνῆς οὐκ ἐδέξατο παιδείαν ἐπὶ τῷ κυρίῳ οὐκ ἐπεποίθει καὶ πρὸς τὸν θεὸν αὐτῆς οὐκ ἤγγισεν.",
+          "alexandrie": "Elle n’a pas écouté la voix, elle n’a pas accepté la leçon, elle ne mettait pas sa confiance dans le Seigneur et elle ne s’est pas approchée de son Dieu.",
+          "name": "Sophonie 3:2",
+          "chapter": "3"
+        },
+        {
+          "verse": "3",
+          "text": "Ses princes sont, au milieu d'elle, comme des lions rugissants, et ses juges comme des loups d'Arabie ; et ils n'ont pas subsisté jusqu'à l'aurore.",
+          "grec": "οἱ ἄρχοντες αὐτῆς ἐν αὐτῇ ὡς λέοντες ὠρυόμενοι οἱ κριταὶ αὐτῆς ὡς λύκοι τῆς Ἀραβίας οὐχ ὑπελίποντο εἰς τὸ πρωί.",
+          "alexandrie": "Ses chefs, en elle, comme des Eons rugissants ! Ses juges, comme des loups de l’Arabie et ils ne se sont rien laissé pour l’aube !",
+          "name": "Sophonie 3:3",
+          "chapter": "3"
+        },
+        {
+          "verse": "4",
+          "text": "Ses prophètes, hommes méprisants, sont inspirés par le mauvais esprit ; ses prêtres profanent les choses saintes, et ne respectent point la loi.",
+          "grec": "οἱ προφῆται αὐτῆς πνευματοφόροι ἄνδρες καταφρονηταί οἱ ἱερεῖς αὐτῆς βεβηλοῦσιν τὰ ἅγια καὶ ἀσεβοῦσιν νόμον.",
+          "alexandrie": "Ses prophètes, des porteurs de vent, des hommes contempteurs ! Ses prêtres profanent les choses saintes et violent la loi.",
+          "name": "Sophonie 3:4",
+          "chapter": "3"
+        },
+        {
+          "verse": "5",
+          "text": "Mais le Seigneur juste est au milieu d'elles, et Il ne fera rien d'inique ; demain Il produira son jugement à la lumière : car Dieu ne se cache point ; Il ne connaît l'iniquité ni par exaction ni par violence.",
+          "grec": "ὁ δὲ κύριος δίκαιος ἐν μέσῳ αὐτῆς καὶ οὐ μὴ ποιήσῃ ἄδικον πρωὶ πρωὶ δώσει κρίμα αὐτοῦ εἰς φῶς καὶ οὐκ ἀπεκρύβη καὶ οὐκ ἔγνω ἀδικίαν ἐν ἀπαιτήσει καὶ οὐκ εἰς νεῖκος ἀδικίαν.",
+          "alexandrie": "Mais le Seigneur est juste, au milieu d’elle, et, assurément, il ne commettra rien d’injuste. À l’aube, à l’aube, il donnera son jugement et ne laissera pas l’injustice triompher.",
+          "name": "Sophonie 3:5",
+          "chapter": "3"
+        },
+        {
+          "verse": "6",
+          "text": "J'ai attiré les superbes dans la ruine ; leurs tours sont en poussière ; je ferai leurs rues si désertes, que nul n'y passera ; leurs villes ont dépéri, parce qu'il n'y a plus personne qui vive et demeure en elles.",
+          "grec": "ἐν διαφθορᾷ κατέσπασα ὑπερηφάνους ἠφανίσθησαν γωνίαι αὐτῶν ἐξερημώσω τὰς ὁδοὺς αὐτῶν τὸ παράπαν τοῦ μὴ διοδεύειν ἐξέλιπον αἱ πόλεις αὐτῶν παρὰ τὸ μηδένα ὑπάρχειν μηδὲ κατοικεῖν.",
+          "alexandrie": "Dans la ruine j’ai traîné les arrogants, leurs saillants ont été anéantis ; j’ai rendu désertes leurs routes, totalement, de sorte qu’on n’y passe plus ; leurs villes ont disparu et, d’ailleurs, personne ne s’y trouve, nul n’y habite.",
+          "name": "Sophonie 3:6",
+          "chapter": "3"
+        },
+        {
+          "verse": "7",
+          "text": "J'ai dit : Craignez-moi, recueillez mon enseignement, et vous ne serez pas exterminés de la face de la terre, partout où je me suis vengé d'elle ; tiens-toi prêt, lève-toi et fuis dès l'aurore, car tous leurs raisins sont gâtés.",
+          "grec": "εἶπα πλὴν φοβεῖσθέ με καὶ δέξασθε παιδείαν καὶ οὐ μὴ ἐξολεθρευθῆτε ἐξ ὀφθαλμῶν αὐτῆς πάντα ὅσα ἐξεδίκησα ἐπ' αὐτήν ἑτοιμάζου ὄρθρισον διέφθαρται πᾶσα ἡ ἐπιφυλλὶς αὐτῶν.",
+          "alexandrie": "J’ai dit : Au moins, craignez-moi, acceptez la leçon et, assurément, vous ne serez pas exterminés loin de ses yeux ! — toutes les vengeances que j’ai exercées contre elle ! Tiens-toi prêt ! Sois matinal ! Voilà détruit tout leur grappillage.",
+          "name": "Sophonie 3:7",
+          "chapter": "3"
+        },
+        {
+          "verse": "8",
+          "text": "Attends-moi, dit le Seigneur ; jusqu'au jour de ma résurrection, où je rendrai témoignage ; car mon jugement s'exercera dans l'assemblée des nations pour y recevoir les rois et répandre sur eux toute ma colère, parce que dans le feu de mon zèle toute la terre périra.",
+          "grec": "διὰ τοῦτο ὑπόμεινόν με λέγει κύριος εἰς ἡμέραν ἀναστάσεώς μου εἰς μαρτύριον διότι τὸ κρίμα μου εἰς συναγωγὰς ἐθνῶν τοῦ εἰσδέξασθαι βασιλεῖς τοῦ ἐκχέαι ἐπ' αὐτοὺς πᾶσαν ὀργὴν θυμοῦ μου διότι ἐν πυρὶ ζήλους μου καταναλωθήσεται πᾶσα ἡ γῆ.",
+          "alexandrie": "C’est pourquoi attends-moi, dit le Seigneur, au jour de mon lever pour un témoignage, parce que mon jugement s’adressera aux assemblées des nations pour recevoir les rois, pour déverser sur eux toute la colère de ma fureur. Par le feu de mon amour jaloux toute la terre sera dévorée.",
+          "name": "Sophonie 3:8",
+          "chapter": "3"
+        },
+        {
+          "verse": "9",
+          "text": "Alors je rendrai aux peuples une langue comme à l'origine, afin que tous invoquent le nom du Seigneur, et le servent sous un joug unique.",
+          "grec": "ὅτι τότε μεταστρέψω ἐπὶ λαοὺς γλῶσσαν εἰς γενεὰν αὐτῆς τοῦ ἐπικαλεῖσθαι πάντας τὸ ὄνομα κυρίου τοῦ δουλεύειν αὐτῷ ὑπὸ ζυγὸν ἕνα.",
+          "alexandrie": "Car alors, pour les peuples je transformerai la langue, pour sa descendance, afin qu’ils invoquent tous le nom du Seigneur, afin qu’ils le servent sous un joug unique.",
+          "name": "Sophonie 3:9",
+          "chapter": "3"
+        },
+        {
+          "verse": "10",
+          "text": "Depuis les sources des fleuves de l'Éthiopie, ils m'apporteront des sacrifices.",
+          "grec": "ἐκ περάτων ποταμῶν Αἰθιοπίας οἴσουσιν θυσίας μοι.",
+          "alexandrie": "Des extrémités des fleuves d’Éthiopie, ils m’apporteront des sacrifices.",
+          "name": "Sophonie 3:10",
+          "chapter": "3"
+        },
+        {
+          "verse": "11",
+          "text": "En ce jour, tu n'auras plus à rougir des œuvres où tu as prévariqué contre moi ; car alors je t'aurai ôté de ton orgueil dédaigneux, et tu ne continueras plus de te glorifier sur la montagne de mon sanctuaire.",
+          "grec": "ἐν τῇ ἡμέρᾳ ἐκείνῃ οὐ μὴ καταισχυνθῇς ἐκ πάντων τῶν ἐπιτηδευμάτων σου ὧν ἠσέβησας εἰς ἐμέ ὅτι τότε περιελῶ ἀπὸ σοῦ τὰ φαυλίσματα τῆς ὕβρεώς σου καὶ οὐκέτι μὴ προσθῇς τοῦ μεγαλαυχῆσαι ἐπὶ τὸ ὄρος τὸ ἅγιόν μου.",
+          "alexandrie": "En ce jour-là, assurément, tu ne rougiras pas de tous tes comportements, de tes actes d’impiété envers moi ; car, alors, j’arracherai de toi les dédains de ton orgueil et, assurément, tu ne continueras plus à t’enorgueillir sur ma montagne sainte.",
+          "name": "Sophonie 3:11",
+          "chapter": "3"
+        },
+        {
+          "verse": "12",
+          "text": "Et je trouverai en toi un peuple rempli d'humilité et de douceur ; et ils auront en vénération le nom du Seigneur,",
+          "grec": "καὶ ὑπολείψομαι ἐν σοὶ λαὸν πραῢν καὶ ταπεινόν καὶ εὐλαβηθήσονται ἀπὸ τοῦ ὀνόματος κυρίου.",
+          "alexandrie": "Je laisserai en toi un peuple doux et humble ; et ils seront pleins de révérence devant le nom du Seigneur",
+          "name": "Sophonie 3:12",
+          "chapter": "3"
+        },
+        {
+          "verse": "13",
+          "text": "Ceux qui resteront encore d'Israël ; et ils ne feront plus d'iniquité ; et ils ne parleront plus de vanités, et, dans leur bouche, la langue ne sera plus trouvée trompeuse ; et mon troupeau pourra paître et se reposer sans être effrayé de personne.",
+          "grec": "οἱ κατάλοιποι τοῦ Ισραηλ καὶ οὐ ποιήσουσιν ἀδικίαν καὶ οὐ λαλήσουσιν μάταια καὶ οὐ μὴ εὑρεθῇ ἐν τῷ στόματι αὐτῶν γλῶσσα δολία διότι αὐτοὶ νεμήσονται καὶ κοιτασθήσονται καὶ οὐκ ἔσται ὁ ἐκφοβῶν αὐτούς.",
+          "alexandrie": "ceux qui resteront d’Israël ; ils ne commettront pas l’injustice, ils ne proféreront pas de vaines paroles et, assurément, jamais on ne trouve dans leur bouche une langue trompeuse, parce qu’ils s’en iront, eux, paître et dormir et qu’il n’y aura personne pour les effrayer.",
+          "name": "Sophonie 3:13",
+          "chapter": "3"
+        },
+        {
+          "verse": "14",
+          "text": "Réjouis-toi, Sion, ma fille ; proclame ton allégresse, Jérusalem, ma fille ; tressaille et réjouis-toi de tout ton cœur, Jérusalem, ma fille.",
+          "grec": "χαῖρε σφόδρα θύγατερ Σιων κήρυσσε θύγατερ Ιερουσαλημ εὐφραίνου καὶ κατατέρπου ἐξ ὅλης τῆς καρδίας σου θύγατερ Ιερουσαλημ.",
+          "alexandrie": "Réjouis-toi, fille de Sion ! Proclame, fille de Jérusalem ! Sois dans l’allégresse et délecte-toi de tout ton cœur, fille de Jérusalem !",
+          "name": "Sophonie 3:14",
+          "chapter": "3"
+        },
+        {
+          "verse": "15",
+          "text": "Le Seigneur t'a remis tes iniquités ; Il t'a racheté des mains de tes ennemis ; le roi d'Israël, qui est le Seigneur, est au milieu de toi : tu ne verras plus de malheurs.",
+          "grec": "περιεῖλεν κύριος τὰ ἀδικήματά σου λελύτρωταί σε ἐκ χειρὸς ἐχθρῶν σου βασιλεὺς Ισραηλ κύριος ἐν μέσῳ σου οὐκ ὄψῃ κακὰ οὐκέτι.",
+          "alexandrie": "Le Seigneur a arraché tes injustices, il t’a rachetée en te soustrayant à la main de tes ennemis ; Roi d’Israël, le Seigneur est au milieu de toi ; non, tu ne verras plus les malheurs.",
+          "name": "Sophonie 3:15",
+          "chapter": "3"
+        },
+        {
+          "verse": "16",
+          "text": "En ce temps-là, le Seigneur dira à Jérusalem : Rassure-toi, Sion, que tes mains ne soient pas défaillantes.",
+          "grec": "ἐν τῷ καιρῷ ἐκείνῳ ἐρεῖ κύριος τῇ Ιερουσαλημ θάρσει Σιων μὴ παρείσθωσαν αἱ χεῖρές σου.",
+          "alexandrie": "À ce moment-là, le Seigneur dira à Jérusalem : Courage ! Sion ! Que tes mains ne se relâchent pas !",
+          "name": "Sophonie 3:16",
+          "chapter": "3"
+        },
+        {
+          "verse": "17",
+          "text": "Le Seigneur ton Dieu est avec toi ; le Tout-Puissant te sauvera : Il te rendra la joie ; Il te rajeunira de son amour ; en toi Il sera ravi de joie, comme en un jour de fête.",
+          "grec": "κύριος ὁ θεός σου ἐν σοί δυνατὸς σώσει σε ἐπάξει ἐπὶ σὲ εὐφροσύνην καὶ καινιεῖ σε ἐν τῇ ἀγαπήσει αὐτοῦ καὶ εὐφρανθήσεται ἐπὶ σὲ ἐν τέρψει ὡς ἐν ἡμέρᾳ ἑορτῆς.",
+          "alexandrie": "Le Seigneur ton Dieu est en toi, puissant, il te sauvera ; il amènera sur toi l’allégresse, il te renouvellera par son amour, il sera dans l’allégresse pour toi, avec délectation, comme au jour de fête.",
+          "name": "Sophonie 3:17",
+          "chapter": "3"
+        },
+        {
+          "verse": "18",
+          "text": "Et je rassemblerai tes affligés ; malheur à qui l'a outragée !",
+          "grec": "καὶ συνάξω τοὺς συντετριμμένους οὐαί τίς ἔλαβεν ἐπ' αὐτὴν ὀνειδισμόν.",
+          "alexandrie": "Je rassemblerai les opprimés. Malheur ! Qui a proféré une insulte contre elle ?",
+          "name": "Sophonie 3:18",
+          "chapter": "3"
+        },
+        {
+          "verse": "19",
+          "text": "Voilà que j'agirai en toi, pour l'amour de toi, en ce temps-là, dit le Seigneur ; et je sauverai celle qui a été opprimée, et je recueillerai celle qui a été répudiée, et je glorifierai ses fils, et ils auront un nom par toute la terre.",
+          "grec": "ἰδοὺ ἐγὼ ποιῶ ἐν σοὶ ἕνεκεν σοῦ ἐν τῷ καιρῷ ἐκείνῳ λέγει κύριος καὶ σώσω τὴν ἐκπεπιεσμένην καὶ τὴν ἀπωσμένην εἰσδέξομαι καὶ θήσομαι αὐτοὺς εἰς καύχημα καὶ ὀνομαστοὺς ἐν πάσῃ τῇ γῇ.",
+          "alexandrie": "Voici que moi j’agis en toi, en faveur de toi, à ce moment-là, dit le Seigneur ; je sauverai celle qu’on a piétinée, et celle qu’on a repoussée, je la recevrai ; je les rendrai fiers et célèbres sur toute la terre.",
+          "name": "Sophonie 3:19",
+          "chapter": "3"
+        },
+        {
+          "verse": "20",
+          "text": "En ce temps-là vos ennemis seront confondus lorsque j'en userai ainsi avec vous, et que je vous aurai bien accueillis ; car je vous donnerai un nom célèbre, et vous serez glorifiés par tous les peuples de la terre, après que je vous aurai ramené tous vos captifs, dit le Seigneur.",
+          "grec": "καὶ καταισχυνθήσονται ἐν τῷ καιρῷ ἐκείνῳ ὅταν καλῶς ὑμῖν ποιήσω καὶ ἐν τῷ καιρῷ ὅταν εἰσδέξωμαι ὑμᾶς διότι δώσω ὑμᾶς ὀνομαστοὺς καὶ εἰς καύχημα ἐν πᾶσιν τοῖς λαοῖς τῆς γῆς ἐν τῷ ἐπιστρέφειν με τὴν αἰχμαλωσίαν ὑμῶν ἐνώπιον ὑμῶν λέγει κύριος.",
+          "alexandrie": "Ils rougiront au moment où je vous ferai du bien, au moment où je vous recevrai. Car je vous ferai célèbres et fiers parmi tous les peuples de la terre, en ramenant vos captifs devant vous, dit le Seigneur.",
+          "name": "Sophonie 3:20",
+          "chapter": "3"
+        }
+      ]
+    }
+  ]
+}

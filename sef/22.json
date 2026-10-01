@@ -1,0 +1,879 @@
+{
+  "translation": "Septuaginta (Rahlfs) — traductions françaises de Giguet et d'Alexandrie",
+  "abbreviation": "SEF",
+  "lang": "fr",
+  "language": "français (avec le grec de la Septante)",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 22,
+  "name": "Cantique des Cantiques",
+  "chapters": [
+    {
+      "chapter": 1,
+      "name": "Cantique des Cantiques 1",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Cantique des cantiques, qui est de Salomon.",
+          "grec": "ᾆσμα ᾀσμάτων ὅ ἐστιν τῷ Σαλωμων.",
+          "name": "Cantique des Cantiques 1:1",
+          "chapter": "1"
+        },
+        {
+          "verse": "2",
+          "text": "Qu'il m'embrasse des baisers de sa bouche ; car tes mamelles sont meilleures que le vin.",
+          "grec": "φιλησάτω με ἀπὸ φιλημάτων στόματος αὐτοῦ ὅτι ἀγαθοὶ μαστοί σου ὑπὲρ οἶνον.",
+          "name": "Cantique des Cantiques 1:2",
+          "chapter": "1"
+        },
+        {
+          "verse": "3",
+          "text": "Et la senteur de tes parfums l'emporte sur tous les aromates ; ton nom verse tout le parfum : voilà pourquoi les jeunes filles t'aiment.",
+          "grec": "καὶ ὀσμὴ μύρων σου ὑπὲρ πάντα τὰ ἀρώματα μύρον ἐκκενωθὲν ὄνομά σου διὰ τοῦτο νεάνιδες ἠγάπησάν σε.",
+          "name": "Cantique des Cantiques 1:3",
+          "chapter": "1"
+        },
+        {
+          "verse": "4",
+          "text": "Elles t'attirent, et à ta suite sous courons aux senteurs de tes parfums. Le roi m'a introduite dans sa chambre secrète ; nous tressaillirons, nous nous réjouirons en toi ; nous aimerons tes mamelles plus que le vin ; la droiture t'a chéri.",
+          "grec": "εἵλκυσάν σε ὀπίσω σου εἰς ὀσμὴν μύρων σου δραμοῦμεν εἰσήνεγκέν με ὁ βασιλεὺς εἰς τὸ ταμίειον αὐτοῦ ἀγαλλιασώμεθα καὶ εὐφρανθῶμεν ἐν σοί ἀγαπήσομεν μαστούς σου ὑπὲρ οἶνον εὐθύτης ἠγάπησέν σε.",
+          "name": "Cantique des Cantiques 1:4",
+          "chapter": "1"
+        },
+        {
+          "verse": "5",
+          "text": "Filles de Jérusalem, je suis noire, et je suis belle, comme les tentes de Cédar, comme les tentures de Salomon.",
+          "grec": "μέλαινά εἰμι καὶ καλή θυγατέρες Ιερουσαλημ ὡς σκηνώματα Κηδαρ ὡς δέρρεις Σαλωμων.",
+          "name": "Cantique des Cantiques 1:5",
+          "chapter": "1"
+        },
+        {
+          "verse": "6",
+          "text": "Ne me regardez pas, car je suis noire ; c'est parce que le soleil m'a observé ardemment. Les fils de ma mère se sont levés contre moi ; ils m'avaient fait la gardienne des vignes, et ma propre vigne, je ne l'aie point gardée.",
+          "grec": "μὴ βλέψητέ με ὅτι ἐγώ εἰμι μεμελανωμένη ὅτι παρέβλεψέν με ὁ ἥλιος υἱοὶ μητρός μου ἐμαχέσαντο ἐν ἐμοί ἔθεντό με φυλάκισσαν ἐν ἀμπελῶσιν ἀμπελῶνα ἐμὸν οὐκ ἐφύλαξα.",
+          "name": "Cantique des Cantiques 1:6",
+          "chapter": "1"
+        },
+        {
+          "verse": "7",
+          "text": "Ô toi que mon âme a aimé, indique-moi où tu pais ton troupeau, où tu reposes à midi, de peur que peut-être je ne m'égare à la suite des troupeaux de tes compagnons.",
+          "grec": "ἀπάγγειλόν μοι ὃν ἠγάπησεν ἡ ψυχή μου ποῦ ποιμαίνεις ποῦ κοιτάζεις ἐν μεσημβρίᾳ μήποτε γένωμαι ὡς περιβαλλομένη ἐπ' ἀγέλαις ἑταίρων σου.",
+          "name": "Cantique des Cantiques 1:7",
+          "chapter": "1"
+        },
+        {
+          "verse": "8",
+          "text": "Ô toi, la plus belle des femmes, si tu ne te connais toi-même, suis les talons de mes troupeaux, et pais tes chevreaux près des tentes de mes pasteurs.",
+          "grec": "ἐὰν μὴ γνῷς σεαυτήν ἡ καλὴ ἐν γυναιξίν ἔξελθε σὺ ἐν πτέρναις τῶν ποιμνίων καὶ ποίμαινε τὰς ἐρίφους σου ἐπὶ σκηνώμασιν τῶν ποιμένων.",
+          "name": "Cantique des Cantiques 1:8",
+          "chapter": "1"
+        },
+        {
+          "verse": "9",
+          "text": "Ma compagne, je t'ai comparée à ma cavale parmi les chars de Pharaon.",
+          "grec": "τῇ ἵππῳ μου ἐν ἅρμασιν Φαραω ὡμοίωσά σε ἡ πλησίον μου.",
+          "name": "Cantique des Cantiques 1:9",
+          "chapter": "1"
+        },
+        {
+          "verse": "10",
+          "text": "Tes joues sont belles comme des colombes, et ton cou, comme des colliers.",
+          "grec": "τί ὡραιώθησαν σιαγόνες σου ὡς τρυγόνες τράχηλός σου ὡς ὁρμίσκοι.",
+          "name": "Cantique des Cantiques 1:10",
+          "chapter": "1"
+        },
+        {
+          "verse": "11",
+          "text": "Nous te ferons des ornements d'or émaillés d'argent.",
+          "grec": "ὁμοιώματα χρυσίου ποιήσομέν σοι μετὰ στιγμάτων τοῦ ἀργυρίου.",
+          "name": "Cantique des Cantiques 1:11",
+          "chapter": "1"
+        },
+        {
+          "verse": "12",
+          "text": "Aussi longtemps que le roi a été à table, mon nard a répandu son parfum.",
+          "grec": "ἕως οὗ ὁ βασιλεὺς ἐν ἀνακλίσει αὐτοῦ νάρδος μου ἔδωκεν ὀσμὴν αὐτοῦ.",
+          "name": "Cantique des Cantiques 1:12",
+          "chapter": "1"
+        },
+        {
+          "verse": "13",
+          "text": "Mon frère bien-aimé est pour moi un bouquet de myrrhe ; il reposera entre mes mamelles.",
+          "grec": "ἀπόδεσμος τῆς στακτῆς ἀδελφιδός μου ἐμοί ἀνὰ μέσον τῶν μαστῶν μου αὐλισθήσεται.",
+          "name": "Cantique des Cantiques 1:13",
+          "chapter": "1"
+        },
+        {
+          "verse": "14",
+          "text": "Mon frère bien-aimé est pour moi une grappe de henné dans la vigne d'Engaddi.",
+          "grec": "βότρυς τῆς κύπρου ἀδελφιδός μου ἐμοὶ ἐν ἀμπελῶσιν Εγγαδδι.",
+          "name": "Cantique des Cantiques 1:14",
+          "chapter": "1"
+        },
+        {
+          "verse": "15",
+          "text": "Que tu es belle, ô ma compagne, que tu es belle ! Tes yeux sont ceux d'une colombe.",
+          "grec": "ἰδοὺ εἶ καλή ἡ πλησίον μου ἰδοὺ εἶ καλή ὀφθαλμοί σου περιστεραί.",
+          "name": "Cantique des Cantiques 1:15",
+          "chapter": "1"
+        },
+        {
+          "verse": "16",
+          "text": "Et toi, que tu es beau, mon frère bien-aimé ! Que tu es charmant à l'ombre de notre couche !",
+          "grec": "ἰδοὺ εἶ καλός ὁ ἀδελφιδός μου καί γε ὡραῖος πρὸς κλίνη ἡμῶν σύσκιος.",
+          "name": "Cantique des Cantiques 1:16",
+          "chapter": "1"
+        },
+        {
+          "verse": "17",
+          "text": "Les solives de nos demeures sont de cèdre, et ses lambris de cyprès.",
+          "grec": "δοκοὶ οἴκων ἡμῶν κέδροι φατνώματα ἡμῶν κυπάρισσοι.",
+          "name": "Cantique des Cantiques 1:17",
+          "chapter": "1"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "name": "Cantique des Cantiques 2",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Je suis la fleur des champs et le lis des vallées.",
+          "grec": "ἐγὼ ἄνθος τοῦ πεδίου κρίνον τῶν κοιλάδων.",
+          "name": "Cantique des Cantiques 2:1",
+          "chapter": "2"
+        },
+        {
+          "verse": "2",
+          "text": "Comme le lis des vallées au milieu des épines, ainsi est ma compagne au milieu des jeunes filles.",
+          "grec": "ὡς κρίνον ἐν μέσῳ ἀκανθῶν οὕτως ἡ πλησίον μου ἀνὰ μέσον τῶν θυγατέρων.",
+          "name": "Cantique des Cantiques 2:2",
+          "chapter": "2"
+        },
+        {
+          "verse": "3",
+          "text": "Comme le pommier parmi les arbres de la forêt, ainsi est mon frère bien-aimé parmi les fils. J'ai désiré son ombre, et je m'y suis assise, et son fruit est doux à mon palais.",
+          "grec": "ὡς μῆλον ἐν τοῖς ξύλοις τοῦ δρυμοῦ οὕτως ἀδελφιδός μου ἀνὰ μέσον τῶν υἱῶν ἐν τῇ σκιᾷ αὐτοῦ ἐπεθύμησα καὶ ἐκάθισα καὶ καρπὸς αὐτοῦ γλυκὺς ἐν λάρυγγί μου.",
+          "name": "Cantique des Cantiques 2:3",
+          "chapter": "2"
+        },
+        {
+          "verse": "4",
+          "text": "Introduisez-moi dans le cellier au vin ; placez sur moi l'amour.",
+          "grec": "εἰσαγάγετέ με εἰς οἶκον τοῦ οἴνου τάξατε ἐπ' ἐμὲ ἀγάπην.",
+          "name": "Cantique des Cantiques 2:4",
+          "chapter": "2"
+        },
+        {
+          "verse": "5",
+          "text": "Soutenez-moi avec des parfums ; entourez-moi de fruits, car je suis blessée d'amour.",
+          "grec": "στηρίσατέ με ἐν ἀμόραις στοιβάσατέ με ἐν μήλοις ὅτι τετρωμένη ἀγάπης ἐγώ.",
+          "name": "Cantique des Cantiques 2:5",
+          "chapter": "2"
+        },
+        {
+          "verse": "6",
+          "text": "Sa main gauche sera sous ma tête, et de sa droite il m'embrassera.",
+          "grec": "εὐώνυμος αὐτοῦ ὑπὸ τὴν κεφαλήν μου καὶ ἡ δεξιὰ αὐτοῦ περιλήμψεταί με.",
+          "name": "Cantique des Cantiques 2:6",
+          "chapter": "2"
+        },
+        {
+          "verse": "7",
+          "text": "Filles de Jérusalem, je vous adjure, par les puissances et les vertus de la campagne, n'éveillez pas, ne réveillez pas ma bien-aimée, qu'elle-même ne le désire.",
+          "grec": "ὥρκισα ὑμᾶς θυγατέρες Ιερουσαλημ ἐν ταῖς δυνάμεσιν καὶ ἐν ταῖς ἰσχύσεσιν τοῦ ἀγροῦ ἐὰν ἐγείρητε καὶ ἐξεγείρητε τὴν ἀγάπην ἕως οὗ θελήσῃ.",
+          "name": "Cantique des Cantiques 2:7",
+          "chapter": "2"
+        },
+        {
+          "verse": "8",
+          "text": "C'est la voix de mon bien-aimé ; le voilà qui vient en bondissant sur les monts, en franchissant les collines.",
+          "grec": "φωνὴ ἀδελφιδοῦ μου ἰδοὺ οὗτος ἥκει πηδῶν ἐπὶ τὰ ὄρη διαλλόμενος ἐπὶ τοὺς βουνούς.",
+          "name": "Cantique des Cantiques 2:8",
+          "chapter": "2"
+        },
+        {
+          "verse": "9",
+          "text": "Mon frère bien-aimé ressemble au chevreuil ou au jeune faon sur les montagnes de Béthel. le voilà derrière notre mur ; il se penche par la fenêtre, il regarde à travers le treillis.",
+          "grec": "ὅμοιός ἐστιν ἀδελφιδός μου τῇ δορκάδι ἢ νεβρῷ ἐλάφων ἐπὶ τὰ ὄρη Βαιθηλ ἰδοὺ οὗτος ἕστηκεν ὀπίσω τοῦ τοίχου ἡμῶν παρακύπτων διὰ τῶν θυρίδων ἐκκύπτων διὰ τῶν δικτύων.",
+          "name": "Cantique des Cantiques 2:9",
+          "chapter": "2"
+        },
+        {
+          "verse": "10",
+          "text": "Mon frère bien-aimé me répond, et me dit : Lève-toi, ma compagne ; viens, ô ma belle, ô ma colombe.",
+          "grec": "ἀποκρίνεται ἀδελφιδός μου καὶ λέγει μοι ἀνάστα ἐλθέ ἡ πλησίον μου καλή μου περιστερά μου.",
+          "name": "Cantique des Cantiques 2:10",
+          "chapter": "2"
+        },
+        {
+          "verse": "11",
+          "text": "Car voilà que l'hiver est passé ; la pluie s'en est allée, elle est partie.",
+          "grec": "ὅτι ἰδοὺ ὁ χειμὼν παρῆλθεν ὁ ὑετὸς ἀπῆλθεν ἐπορεύθη ἑαυτῷ.",
+          "name": "Cantique des Cantiques 2:11",
+          "chapter": "2"
+        },
+        {
+          "verse": "12",
+          "text": "Les fleurs se montrent sur la terre ; le temps de tailler est venu ; le roucoulement de la tourterelle s'entend sur notre terre.",
+          "grec": "τὰ ἄνθη ὤφθη ἐν τῇ γῇ καιρὸς τῆς τομῆς ἔφθακεν φωνὴ τοῦ τρυγόνος ἠκούσθη ἐν τῇ γῇ ἡμῶν.",
+          "name": "Cantique des Cantiques 2:12",
+          "chapter": "2"
+        },
+        {
+          "verse": "13",
+          "text": "Les jeunes figues montrent leurs bourgeons ; les vignes sont en fleur et donnent leur parfum. Lève-toi, ma compagne ; viens ô ma belle, ô ma colombe.",
+          "grec": "ἡ συκῆ ἐξήνεγκεν ὀλύνθους αὐτῆς αἱ ἄμπελοι κυπρίζουσιν ἔδωκαν ὀσμήν ἀνάστα ἐλθέ ἡ πλησίον μου καλή μου περιστερά μου.",
+          "name": "Cantique des Cantiques 2:13",
+          "chapter": "2"
+        },
+        {
+          "verse": "14",
+          "text": "Viens, toi ma colombe, à l'abri sous les roches, dans le creux des murs. Montre-moi ton visage, que j'entende ta voix ; car ta voix est douce, et ton visage est plein de grâces.",
+          "grec": "καὶ ἐλθὲ σύ περιστερά μου ἐν σκέπῃ τῆς πέτρας ἐχόμενα τοῦ προτειχίσματος δεῖξόν μοι τὴν ὄψιν σου καὶ ἀκούτισόν με τὴν φωνήν σου ὅτι ἡ φωνή σου ἡδεῖα καὶ ἡ ὄψις σου ὡραία.",
+          "name": "Cantique des Cantiques 2:14",
+          "chapter": "2"
+        },
+        {
+          "verse": "15",
+          "text": "Prenez les jeunes renards, qui ravagent les vignes, quand nos vignes sont en fleur.",
+          "grec": "πιάσατε ἡμῖν ἀλώπεκας μικροὺς ἀφανίζοντας ἀμπελῶνας καὶ αἱ ἄμπελοι ἡμῶν κυπρίζουσιν.",
+          "name": "Cantique des Cantiques 2:15",
+          "chapter": "2"
+        },
+        {
+          "verse": "16",
+          "text": "Mon frère bien-aimé est à moi, et moi à lui ; et il fait paître son troupeau parmi les lis,",
+          "grec": "ἀδελφιδός μου ἐμοί κἀγὼ αὐτῷ ὁ ποιμαίνων ἐν τοῖς κρίνοις.",
+          "name": "Cantique des Cantiques 2:16",
+          "chapter": "2"
+        },
+        {
+          "verse": "17",
+          "text": "Jusqu'à ce que se lèvent les premières brises du jour et que les ténèbres se dissipent. Reviens, mon frère bien-aimé ; accours comme le chevreuil ou le jeune faon sur les ravins des montagnes.",
+          "grec": "ἕως οὗ διαπνεύσῃ ἡ ἡμέρα καὶ κινηθῶσιν αἱ σκιαί ἀπόστρεψον ὁμοιώθητι σύ ἀδελφιδέ μου τῷ δόρκωνι ἢ νεβρῷ ἐλάφων ἐπὶ ὄρη κοιλωμάτων.",
+          "name": "Cantique des Cantiques 2:17",
+          "chapter": "2"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "name": "Cantique des Cantiques 3",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Sur ma couche, la nuit, j'ai désiré celui qu'aime mon âme ; je l'ai cherché, et ne l'ai point trouvé ; je l'ai appelé, et il ne m'a pas écouté.",
+          "grec": "ἐπὶ κοίτην μου ἐν νυξὶν ἐζήτησα ὃν ἠγάπησεν ἡ ψυχή μου ἐζήτησα αὐτὸν καὶ οὐχ εὗρον αὐτόν ἐκάλεσα αὐτόν καὶ οὐχ ὑπήκουσέν μου.",
+          "name": "Cantique des Cantiques 3:1",
+          "chapter": "3"
+        },
+        {
+          "verse": "2",
+          "text": "Je me lèverai donc ; j'irai par la ville, les marchés, les places, et je chercherai celui qu'aime mon âme. Je l'ai cherché, et ne l'ai point trouvé.",
+          "grec": "ἀναστήσομαι δὴ καὶ κυκλώσω ἐν τῇ πόλει ἐν ταῖς ἀγοραῖς καὶ ἐν ταῖς πλατείαις καὶ ζητήσω ὃν ἠγάπησεν ἡ ψυχή μου ἐζήτησα αὐτὸν καὶ οὐχ εὗρον αὐτόν.",
+          "name": "Cantique des Cantiques 3:2",
+          "chapter": "3"
+        },
+        {
+          "verse": "3",
+          "text": "Les gardiens m'ont rencontrée, en faisant la ronde dans la ville : N'avez-vous pas vu celui qu'aime mon âme ?",
+          "grec": "εὕροσάν με οἱ τηροῦντες οἱ κυκλοῦντες ἐν τῇ πόλει μὴ ὃν ἠγάπησεν ἡ ψυχή μου εἴδετε.",
+          "name": "Cantique des Cantiques 3:3",
+          "chapter": "3"
+        },
+        {
+          "verse": "4",
+          "text": "À peine éloignée d'eux, j'ai trouvé celui qu'aime mon âme ; je l'ai pris par la main, et ne l'ai point quitté que je ne l'eusse introduit dans la maison de ma mère, dans la chambre de celle qui m'a conçue.",
+          "grec": "ὡς μικρὸν ὅτε παρῆλθον ἀπ' αὐτῶν ἕως οὗ εὗρον ὃν ἠγάπησεν ἡ ψυχή μου ἐκράτησα αὐτὸν καὶ οὐκ ἀφήσω αὐτόν ἕως οὗ εἰσήγαγον αὐτὸν εἰς οἶκον μητρός μου καὶ εἰς ταμίειον τῆς συλλαβούσης με.",
+          "name": "Cantique des Cantiques 3:4",
+          "chapter": "3"
+        },
+        {
+          "verse": "5",
+          "text": "Filles de Jérusalem, je vous adjure par les puissances et les vertus des campagnes, n'éveillez pas, ne réveillez pas ma bien-aimée, qu'elle ne le désire.",
+          "grec": "ὥρκισα ὑμᾶς θυγατέρες Ιερουσαλημ ἐν ταῖς δυνάμεσιν καὶ ἐν ταῖς ἰσχύσεσιν τοῦ ἀγροῦ ἐὰν ἐγείρητε καὶ ἐξεγείρητε τὴν ἀγάπην ἕως ἂν θελήσῃ.",
+          "name": "Cantique des Cantiques 3:5",
+          "chapter": "3"
+        },
+        {
+          "verse": "6",
+          "text": "Qui est celle qui monte du désert, comme une colonne de fumée sortant de l'encens et de la myrrhe, et de toutes les poudres dont se composent les parfums ?",
+          "grec": "τίς αὕτη ἡ ἀναβαίνουσα ἀπὸ τῆς ἐρήμου ὡς στελέχη καπνοῦ τεθυμιαμένη σμύρναν καὶ λίβανον ἀπὸ πάντων κονιορτῶν μυρεψοῦ.",
+          "name": "Cantique des Cantiques 3:6",
+          "chapter": "3"
+        },
+        {
+          "verse": "7",
+          "text": "Voilà la couche de Salomon ; soixante vaillants des forts d'Israël sont rangés en cercle autour d'elle.",
+          "grec": "ἰδοὺ ἡ κλίνη τοῦ Σαλωμων ἑξήκοντα δυνατοὶ κύκλῳ αὐτῆς ἀπὸ δυνατῶν Ισραηλ.",
+          "name": "Cantique des Cantiques 3:7",
+          "chapter": "3"
+        },
+        {
+          "verse": "8",
+          "text": "Tous exercés aux combats, ils ont l'épée au côté, pour en écarter les terreurs de la nuit.",
+          "grec": "πάντες κατέχοντες ῥομφαίαν δεδιδαγμένοι πόλεμον ἀνὴρ ῥομφαία αὐτοῦ ἐπὶ μηρὸν αὐτοῦ ἀπὸ θάμβους ἐν νυξίν.",
+          "name": "Cantique des Cantiques 3:8",
+          "chapter": "3"
+        },
+        {
+          "verse": "9",
+          "text": "Le roi Salomon s'est fait un lit de cèdres du Liban.",
+          "grec": "φορεῖον ἐποίησεν ἑαυτῷ ὁ βασιλεὺς Σαλωμων ἀπὸ ξύλων τοῦ Λιβάνου.",
+          "name": "Cantique des Cantiques 3:9",
+          "chapter": "3"
+        },
+        {
+          "verse": "10",
+          "text": "Les montants en sont d'argent, et le siège est d'or ; le marchepied est de porphyre, et l'intérieur est pavé de pierres précieuses, amour des filles de Jérusalem.",
+          "grec": "στύλους αὐτοῦ ἐποίησεν ἀργύριον καὶ ἀνάκλιτον αὐτοῦ χρύσεον ἐπίβασις αὐτοῦ πορφυρᾶ ἐντὸς αὐτοῦ λιθόστρωτον ἀγάπην ἀπὸ θυγατέρων Ιερουσαλημ.",
+          "name": "Cantique des Cantiques 3:10",
+          "chapter": "3"
+        },
+        {
+          "verse": "11",
+          "text": "Filles de Sion, sortez, contemplez le roi Salomon avec la couronne que lui a posée sa mère le jour de son mariage, le jour de la joie de son cœur.",
+          "grec": "ἐξέλθατε καὶ ἴδετε ἐν τῷ βασιλεῖ Σαλωμων ἐν τῷ στεφάνῳ ᾧ ἐστεφάνωσεν αὐτὸν ἡ μήτηρ αὐτοῦ ἐν ἡμέρᾳ νυμφεύσεως αὐτοῦ καὶ ἐν ἡμέρᾳ εὐφροσύνης καρδίας αὐτοῦ.",
+          "name": "Cantique des Cantiques 3:11",
+          "chapter": "3"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "name": "Cantique des Cantiques 4",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Que tu es belle, ô ma compagne ! Que tu es belle ! Tes yeux sont ceux des colombes, sans parler de tes beautés cachées. Ta chevelure est comme la toison des troupeaux de chèvres qu'on voit en Galaad.",
+          "grec": "ἰδοὺ εἶ καλή ἡ πλησίον μου ἰδοὺ εἶ καλή ὀφθαλμοί σου περιστεραὶ ἐκτὸς τῆς σιωπήσεώς σου τρίχωμά σου ὡς ἀγέλαι τῶν αἰγῶν αἳ ἀπεκαλύφθησαν ἀπὸ τοῦ Γαλααδ.",
+          "name": "Cantique des Cantiques 4:1",
+          "chapter": "4"
+        },
+        {
+          "verse": "2",
+          "text": "Tes dents sont comme des brebis tondues sortant du lavoir après la tonte ; toutes ont deux petits, et nulle n'est stérile.",
+          "grec": "ὀδόντες σου ὡς ἀγέλαι τῶν κεκαρμένων αἳ ἀνέβησαν ἀπὸ τοῦ λουτροῦ αἱ πᾶσαι διδυμεύουσαι καὶ ἀτεκνοῦσα οὐκ ἔστιν ἐν αὐταῖς.",
+          "name": "Cantique des Cantiques 4:2",
+          "chapter": "4"
+        },
+        {
+          "verse": "3",
+          "text": "Tes lèvres sont comme un ruban écarlate, et ton langage est plein de grâce ; tes joues sont comme la peau de la grenade, sans parler de tes beautés cachées.",
+          "grec": "ὡς σπαρτίον τὸ κόκκινον χείλη σου καὶ ἡ λαλιά σου ὡραία ὡς λέπυρον τῆς ῥόας μῆλόν σου ἐκτὸς τῆς σιωπήσεώς σου.",
+          "name": "Cantique des Cantiques 4:3",
+          "chapter": "4"
+        },
+        {
+          "verse": "4",
+          "text": "Ton cou est comme la tour de David, qu'il a bâtie pour être un arsenal ; mille boucliers y sont suspendus, et tous les javelots des vaillants.",
+          "grec": "ὡς πύργος Δαυιδ τράχηλός σου ὁ ᾠκοδομημένος εἰς θαλπιωθ χίλιοι θυρεοὶ κρέμανται ἐπ' αὐτόν πᾶσαι βολίδες τῶν δυνατῶν.",
+          "name": "Cantique des Cantiques 4:4",
+          "chapter": "4"
+        },
+        {
+          "verse": "5",
+          "text": "Tes deux mamelles sont comme deux faons jumeaux du chevreuil, paissant parmi les lis,",
+          "grec": "δύο μαστοί σου ὡς δύο νεβροὶ δίδυμοι δορκάδος οἱ νεμόμενοι ἐν κρίνοις.",
+          "name": "Cantique des Cantiques 4:5",
+          "chapter": "4"
+        },
+        {
+          "verse": "6",
+          "text": "Jusqu'à ce que se lèvent les premières brises du jour, et que les ténèbres se dissipent. J'irai à la montagne de myrrhe et à la colline d'encens.",
+          "grec": "ἕως οὗ διαπνεύσῃ ἡ ἡμέρα καὶ κινηθῶσιν αἱ σκιαί πορεύσομαι ἐμαυτῷ πρὸς τὸ ὄρος τῆς σμύρνης καὶ πρὸς τὸν βουνὸν τοῦ Λιβάνου.",
+          "name": "Cantique des Cantiques 4:6",
+          "chapter": "4"
+        },
+        {
+          "verse": "7",
+          "text": "Tu es toute belle, ô ma compagne ; et il n'est point de tache en toi.",
+          "grec": "ὅλη καλὴ εἶ ἡ πλησίον μου καὶ μῶμος οὐκ ἔστιν ἐν σοί.",
+          "name": "Cantique des Cantiques 4:7",
+          "chapter": "4"
+        },
+        {
+          "verse": "8",
+          "text": "Viens du Liban, ma fiancée, viens du Liban ; tu iras du puits du serment aux cimes de Sanir et d'Hermon, des antres des lions aux montagnes des panthères.",
+          "grec": "δεῦρο ἀπὸ Λιβάνου νύμφη δεῦρο ἀπὸ Λιβάνου ἐλεύσῃ καὶ διελεύσῃ ἀπὸ ἀρχῆς πίστεως ἀπὸ κεφαλῆς Σανιρ καὶ Ερμων ἀπὸ μανδρῶν λεόντων ἀπὸ ὀρέων παρδάλεων.",
+          "name": "Cantique des Cantiques 4:8",
+          "chapter": "4"
+        },
+        {
+          "verse": "9",
+          "text": "Tu m'as ravi mon cœur, ma sœur, ma fiancée ; tu m'as ravi mon cœur d'un seul de tes regards, d'un seul des cheveux de ton cou.",
+          "grec": "ἐκαρδίωσας ἡμᾶς ἀδελφή μου νύμφη ἐκαρδίωσας ἡμᾶς ἑνὶ ἀπὸ ὀφθαλμῶν σου ἐν μιᾷ ἐνθέματι τραχήλων σου.",
+          "name": "Cantique des Cantiques 4:9",
+          "chapter": "4"
+        },
+        {
+          "verse": "10",
+          "text": "Que tes mamelles sont belles, ma sœur, ma fiancée ! Tes mamelles sont plus précieuses que le vin ; et les senteurs de tes vêtements plus douces que tous les aromates.",
+          "grec": "τί ἐκαλλιώθησαν μαστοί σου ἀδελφή μου νύμφη τί ἐκαλλιώθησαν μαστοί σου ἀπὸ οἴνου καὶ ὀσμὴ ἱματίων σου ὑπὲρ πάντα τὰ ἀρώματα.",
+          "name": "Cantique des Cantiques 4:10",
+          "chapter": "4"
+        },
+        {
+          "verse": "11",
+          "text": "De tes lèvres découlent des rayons de miel, ô ma fiancée ; le miel et le lait sont sous ta langue, et l'odeur de tes vêtements est comme l'odeur de l'encens.",
+          "grec": "κηρίον ἀποστάζουσιν χείλη σου νύμφη μέλι καὶ γάλα ὑπὸ τὴν γλῶσσάν σου καὶ ὀσμὴ ἱματίων σου ὡς ὀσμὴ Λιβάνου.",
+          "name": "Cantique des Cantiques 4:11",
+          "chapter": "4"
+        },
+        {
+          "verse": "12",
+          "text": "Ma sœur, ma fiancée, est un jardin enclos ; c'est un jardin enclos, une fontaine scellée.",
+          "grec": "κῆπος κεκλεισμένος ἀδελφή μου νύμφη κῆπος κεκλεισμένος πηγὴ ἐσφραγισμένη.",
+          "name": "Cantique des Cantiques 4:12",
+          "chapter": "4"
+        },
+        {
+          "verse": "13",
+          "text": "Tes rejetons forment un jardin de grenades avec les fruits du noyer, du henné et du nard,",
+          "grec": "ἀποστολαί σου παράδεισος ῥοῶν μετὰ καρποῦ ἀκροδρύων κύπροι μετὰ νάρδων.",
+          "name": "Cantique des Cantiques 4:13",
+          "chapter": "4"
+        },
+        {
+          "verse": "14",
+          "text": "Du nard et du safran, de la canne et du cinnamome, de tous les arbres du Liban, de la myrrhe, de l'aloès, et des parfums les plus exquis.",
+          "grec": "νάρδος καὶ κρόκος κάλαμος καὶ κιννάμωμον μετὰ πάντων ξύλων τοῦ Λιβάνου σμύρνα αλωθ μετὰ πάντων πρώτων μύρων.",
+          "name": "Cantique des Cantiques 4:14",
+          "chapter": "4"
+        },
+        {
+          "verse": "15",
+          "text": "La fontaine de ce jardin est un puits d'eau vive, qui jaillit du Liban.",
+          "grec": "πηγὴ κήπων φρέαρ ὕδατος ζῶντος καὶ ῥοιζοῦντος ἀπὸ τοῦ Λιβάνου.",
+          "name": "Cantique des Cantiques 4:15",
+          "chapter": "4"
+        },
+        {
+          "verse": "16",
+          "text": "Fuis d'ici, vent du nord ; viens, vent du midi, souffle sur mon jardin, et que mes parfums en découlent. Que mon frère bien-aimé descende en son jardin, qu'il mange de ses fruits.",
+          "grec": "ἐξεγέρθητι βορρᾶ καὶ ἔρχου νότε διάπνευσον κῆπόν μου καὶ ῥευσάτωσαν ἀρώματά μου καταβήτω ἀδελφιδός μου εἰς κῆπον αὐτοῦ καὶ φαγέτω καρπὸν ἀκροδρύων αὐτοῦ.",
+          "name": "Cantique des Cantiques 4:16",
+          "chapter": "4"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "name": "Cantique des Cantiques 5",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Je suis entré dans mon jardin, ma sœur, ma fiancée ; j'ai récolté ma myrrhe et mes parfums ; j'ai mangé mon pain avec un rayon de miel ; j'ai bu mon vin et mon lait. Mangez, ô mes amis ; buvez, mes frères, et enivrez-vous.",
+          "grec": "εἰσῆλθον εἰς κῆπόν μου ἀδελφή μου νύμφη ἐτρύγησα σμύρναν μου μετὰ ἀρωμάτων μου ἔφαγον ἄρτον μου μετὰ μέλιτός μου ἔπιον οἶνόν μου μετὰ γάλακτός μου φάγετε πλησίοι καὶ πίετε καὶ μεθύσθητε ἀδελφοί.",
+          "name": "Cantique des Cantiques 5:1",
+          "chapter": "5"
+        },
+        {
+          "verse": "2",
+          "text": "Pour moi, je dors, et mon cœur veille. C'est la voix de mon frère bien-aimé ; il heurte à la porte : Ouvre-moi, dit-il, ma compagne, ma sœur, ma colombe, ma parfaite ; ma tête est pleine de rosée, et mes boucles humides des gouttes de la nuit.",
+          "grec": "ἐγὼ καθεύδω καὶ ἡ καρδία μου ἀγρυπνεῖ φωνὴ ἀδελφιδοῦ μου κρούει ἐπὶ τὴν θύραν ἄνοιξόν μοι ἀδελφή μου ἡ πλησίον μου περιστερά μου τελεία μου ὅτι ἡ κεφαλή μου ἐπλήσθη δρόσου καὶ οἱ βόστρυχοί μου ψεκάδων νυκτός.",
+          "name": "Cantique des Cantiques 5:2",
+          "chapter": "5"
+        },
+        {
+          "verse": "3",
+          "text": "J'ai ôté ma tunique ; comment la revêtirai-je ? Je me suis lavé les pieds ; comment puis-je maintenant les salir ?",
+          "grec": "ἐξεδυσάμην τὸν χιτῶνά μου πῶς ἐνδύσωμαι αὐτόν ἐνιψάμην τοὺς πόδας μου πῶς μολυνῶ αὐτούς.",
+          "name": "Cantique des Cantiques 5:3",
+          "chapter": "5"
+        },
+        {
+          "verse": "4",
+          "text": "Mon frère bien-aimé a passé la main dans l'ouverture de la porte, et si près de mon bien-aimé mes entrailles ont tressailli.",
+          "grec": "ἀδελφιδός μου ἀπέστειλεν χεῖρα αὐτοῦ ἀπὸ τῆς ὀπῆς καὶ ἡ κοιλία μου ἐθροήθη ἐπ' αὐτόν.",
+          "name": "Cantique des Cantiques 5:4",
+          "chapter": "5"
+        },
+        {
+          "verse": "5",
+          "text": "Je me suis levée pour ouvrir à mon frère bien-aimé ; mes mains ont distillé la myrrhe ; mes doigts ont rempli de myrrhe la poignée du verrou.",
+          "grec": "ἀνέστην ἐγὼ ἀνοῖξαι τῷ ἀδελφιδῷ μου χεῖρές μου ἔσταξαν σμύρναν δάκτυλοί μου σμύρναν πλήρη ἐπὶ χεῖρας τοῦ κλείθρου.",
+          "name": "Cantique des Cantiques 5:5",
+          "chapter": "5"
+        },
+        {
+          "verse": "6",
+          "text": "Et j'ai ouvert à mon frère bien-aimé, et mon frère bien-aimé n'était plus là ; et mon âme était défaillante pendant qu'il parlait. Je l'ai cherché, et ne l'ai point trouvé ; je l'ai appelé, et il ne m'a point entendue.",
+          "grec": "ἤνοιξα ἐγὼ τῷ ἀδελφιδῷ μου ἀδελφιδός μου παρῆλθεν ψυχή μου ἐξῆλθεν ἐν λόγῳ αὐτοῦ ἐζήτησα αὐτὸν καὶ οὐχ εὗρον αὐτόν ἐκάλεσα αὐτόν καὶ οὐχ ὑπήκουσέν μου.",
+          "name": "Cantique des Cantiques 5:6",
+          "chapter": "5"
+        },
+        {
+          "verse": "7",
+          "text": "Les gardes m'ont rencontrée, en faisant la ronde dans la ville ; ils m'ont battue et meurtrie ; les sentinelles des remparts m'ont dépouillée de mon manteau.",
+          "grec": "εὕροσάν με οἱ φύλακες οἱ κυκλοῦντες ἐν τῇ πόλει ἐπάταξάν με ἐτραυμάτισάν με ἦραν τὸ θέριστρόν μου ἀπ' ἐμοῦ φύλακες τῶν τειχέων.",
+          "name": "Cantique des Cantiques 5:7",
+          "chapter": "5"
+        },
+        {
+          "verse": "8",
+          "text": "Filles de Jérusalem, je vous adjure par les puissances et les vertus des campagnes, si vous avez trouvé mon frère bien-aimé, que lui direz-vous ? Dites-lui que je suis blessée d'amour.",
+          "grec": "ὥρκισα ὑμᾶς θυγατέρες Ιερουσαλημ ἐν ταῖς δυνάμεσιν καὶ ἐν ταῖς ἰσχύσεσιν τοῦ ἀγροῦ ἐὰν εὕρητε τὸν ἀδελφιδόν μου τί ἀπαγγείλητε αὐτῷ ὅτι τετρωμένη ἀγάπης εἰμὶ ἐγώ.",
+          "name": "Cantique des Cantiques 5:8",
+          "chapter": "5"
+        },
+        {
+          "verse": "9",
+          "text": "Qu'est donc ton frère bien-aimé auprès d'un autre frère, ô toi belle entre toutes les femmes ? Qu'est ton frère bien-aimé auprès d'un autre frère, pour que tu nous adjure ainsi ?",
+          "grec": "τί ἀδελφιδός σου ἀπὸ ἀδελφιδοῦ ἡ καλὴ ἐν γυναιξίν τί ἀδελφιδός σου ἀπὸ ἀδελφιδοῦ ὅτι οὕτως ὥρκισας ἡμᾶς.",
+          "name": "Cantique des Cantiques 5:9",
+          "chapter": "5"
+        },
+        {
+          "verse": "10",
+          "text": "Mon frère bien-aimé est blanc et rose, choisi entre dix mille.",
+          "grec": "ἀδελφιδός μου λευκὸς καὶ πυρρός ἐκλελοχισμένος ἀπὸ μυριάδων.",
+          "name": "Cantique des Cantiques 5:10",
+          "chapter": "5"
+        },
+        {
+          "verse": "11",
+          "text": "Sa tête est de l'or fin de Céphaz ; ses cheveux sont souples, et noirs comme le corbeau.",
+          "grec": "κεφαλὴ αὐτοῦ χρυσίον καὶ φαζ βόστρυχοι αὐτοῦ ἐλάται μέλανες ὡς κόραξ.",
+          "name": "Cantique des Cantiques 5:11",
+          "chapter": "5"
+        },
+        {
+          "verse": "12",
+          "text": "Ses yeux sont comme ceux des colombes sur des étangs pleins d'eau, lavées dans le lait, se reposant sur les étangs.",
+          "grec": "ὀφθαλμοὶ αὐτοῦ ὡς περιστεραὶ ἐπὶ πληρώματα ὑδάτων λελουσμέναι ἐν γάλακτι καθήμεναι ἐπὶ πληρώματα ὑδάτων.",
+          "name": "Cantique des Cantiques 5:12",
+          "chapter": "5"
+        },
+        {
+          "verse": "13",
+          "text": "Ses joues sont comme des vases d'aromates exhalant des parfums ; ses lèvres sont des lis distillant la myrrhe la plus pure.",
+          "grec": "σιαγόνες αὐτοῦ ὡς φιάλαι τοῦ ἀρώματος φύουσαι μυρεψικά χείλη αὐτοῦ κρίνα στάζοντα σμύρναν πλήρη.",
+          "name": "Cantique des Cantiques 5:13",
+          "chapter": "5"
+        },
+        {
+          "verse": "14",
+          "text": "Ses mains sont gracieuses et d'or, et pleines de béryl ; son abdomen est une tablette d'ivoire sur une pierre de saphir.",
+          "grec": "χεῖρες αὐτοῦ τορευταὶ χρυσαῖ πεπληρωμέναι θαρσις κοιλία αὐτοῦ πυξίον ἐλεφάντινον ἐπὶ λίθου σαπφείρου.",
+          "name": "Cantique des Cantiques 5:14",
+          "chapter": "5"
+        },
+        {
+          "verse": "15",
+          "text": "Ses jambes sont des colonnes de marbre posées sur des bases d'or ; sa beauté est celle du Liban : elle excelle comme le cèdre.",
+          "grec": "κνῆμαι αὐτοῦ στῦλοι μαρμάρινοι τεθεμελιωμένοι ἐπὶ βάσεις χρυσᾶς εἶδος αὐτοῦ ὡς Λίβανος ἐκλεκτὸς ὡς κέδροι.",
+          "name": "Cantique des Cantiques 5:15",
+          "chapter": "5"
+        },
+        {
+          "verse": "16",
+          "text": "Sa bouche est pleine de douceur, et fait naître les désirs ; tel est mon frère bien-aimé, tel est mon ami, filles de Jérusalem.",
+          "grec": "φάρυγξ αὐτοῦ γλυκασμοὶ καὶ ὅλος ἐπιθυμία οὗτος ἀδελφιδός μου καὶ οὗτος πλησίον μου θυγατέρες Ιερουσαλημ.",
+          "name": "Cantique des Cantiques 5:16",
+          "chapter": "5"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "name": "Cantique des Cantiques 6",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Où est allé ton frère bien-aimé, ô toi belle entre toutes les femmes ? Où ton frère bien-aimé a-t-il porté ses regards ? Et nous le chercherons avec toi.",
+          "grec": "ποῦ ἀπῆλθεν ὁ ἀδελφιδός σου ἡ καλὴ ἐν γυναιξίν ποῦ ἀπέβλεψεν ὁ ἀδελφιδός σου καὶ ζητήσομεν αὐτὸν μετὰ σοῦ.",
+          "name": "Cantique des Cantiques 6:1",
+          "chapter": "6"
+        },
+        {
+          "verse": "2",
+          "text": "Mon frère bien-aimé est descendu dans son jardin parmi les fioles d'aromates, pour paître son troupeau dans les jardins, et y cueillir des lis.",
+          "grec": "ἀδελφιδός μου κατέβη εἰς κῆπον αὐτοῦ εἰς φιάλας τοῦ ἀρώματος ποιμαίνειν ἐν κήποις καὶ συλλέγειν κρίνα.",
+          "name": "Cantique des Cantiques 6:2",
+          "chapter": "6"
+        },
+        {
+          "verse": "3",
+          "text": "Je suis à mon frère bien-aimé, et mon frère bien-aimé est à moi ; il fait paître son troupeau parmi les lis.",
+          "grec": "ἐγὼ τῷ ἀδελφιδῷ μου καὶ ἀδελφιδός μου ἐμοὶ ὁ ποιμαίνων ἐν τοῖς κρίνοις.",
+          "name": "Cantique des Cantiques 6:3",
+          "chapter": "6"
+        },
+        {
+          "verse": "4",
+          "text": "Tu es belle, ô ma compagne, comme la tendresse, gracieuse comme Jérusalem, terrible comme une armée en bataille.",
+          "grec": "καλὴ εἶ ἡ πλησίον μου ὡς εὐδοκία ὡραία ὡς Ιερουσαλημ θάμβος ὡς τεταγμέναι.",
+          "name": "Cantique des Cantiques 6:4",
+          "chapter": "6"
+        },
+        {
+          "verse": "5",
+          "text": "Détourne de moi tes yeux, car ils m'ont transporté ; ta chevelure est comme les troupeaux de chèvres que l'on voit en Galaad.",
+          "grec": "ἀπόστρεψον ὀφθαλμούς σου ἀπεναντίον μου ὅτι αὐτοὶ ἀνεπτέρωσάν με τρίχωμά σου ὡς ἀγέλαι τῶν αἰγῶν αἳ ἀνεφάνησαν ἀπὸ τοῦ Γαλααδ.",
+          "name": "Cantique des Cantiques 6:5",
+          "chapter": "6"
+        },
+        {
+          "verse": "6",
+          "text": "Tes dents sont comme la toison des brebis sortant du lavoir après la tonte, qui toutes ont deux petits, et dont nulle n'est stérile.",
+          "grec": "ὀδόντες σου ὡς ἀγέλαι τῶν κεκαρμένων αἳ ἀνέβησαν ἀπὸ τοῦ λουτροῦ αἱ πᾶσαι διδυμεύουσαι καὶ ἀτεκνοῦσα οὐκ ἔστιν ἐν αὐταῖς.",
+          "name": "Cantique des Cantiques 6:6",
+          "chapter": "6"
+        },
+        {
+          "verse": "7",
+          "text": "Tes lèvres sont comme un ruban d'écarlate, et ton langage est plein de grâce. Tes joues sont comme la peau de la grenade, sans parler de tes beautés cachées.",
+          "grec": "ὡς σπαρτίον τὸ κόκκινον χείλη σου καὶ ἡ λαλιά σου ὡραία ὡς λέπυρον τῆς ῥόας μῆλόν σου ἐκτὸς τῆς σιωπήσεώς σου.",
+          "name": "Cantique des Cantiques 6:7",
+          "chapter": "6"
+        },
+        {
+          "verse": "8",
+          "text": "Il y a soixante reines et quatre-vingt concubines, et des jeunes filles sans nombre.",
+          "grec": "ἑξήκοντά εἰσιν βασίλισσαι καὶ ὀγδοήκοντα παλλακαί καὶ νεάνιδες ὧν οὐκ ἔστιν ἀριθμός.",
+          "name": "Cantique des Cantiques 6:8",
+          "chapter": "6"
+        },
+        {
+          "verse": "9",
+          "text": "Mais ma colombe, ma parfaite est unique ; elle est l'unique de sa mère ; elle est l'élue de celle qui l'a enfantée. Les jeunes filles l'ont vue, et la déclarent heureuse ; les reines et les concubines la loueront.",
+          "grec": "μία ἐστὶν περιστερά μου τελεία μου μία ἐστὶν τῇ μητρὶ αὐτῆς ἐκλεκτή ἐστιν τῇ τεκούσῃ αὐτῆς εἴδοσαν αὐτὴν θυγατέρες καὶ μακαριοῦσιν αὐτήν βασίλισσαι καὶ παλλακαὶ καὶ αἰνέσουσιν αὐτήν.",
+          "name": "Cantique des Cantiques 6:9",
+          "chapter": "6"
+        },
+        {
+          "verse": "10",
+          "text": "Quelle est celle qui surgit dehors comme le matin ; belle comme la lune, élue comme le soleil, terrible comme une armée en bataille ?",
+          "grec": "τίς αὕτη ἡ ἐκκύπτουσα ὡσεὶ ὄρθρος καλὴ ὡς σελήνη ἐκλεκτὴ ὡς ὁ ἥλιος θάμβος ὡς τεταγμέναι.",
+          "name": "Cantique des Cantiques 6:10",
+          "chapter": "6"
+        },
+        {
+          "verse": "11",
+          "text": "Je suis descendu au jardin des noyers, pour voir les fruits du vallon ; si la vigne est en fleur, et si les grenades sont fleuries. Là je te donnerai mes mamelles.",
+          "grec": "εἰς κῆπον καρύας κατέβην ἰδεῖν ἐν γενήμασιν τοῦ χειμάρρου ἰδεῖν εἰ ἤνθησεν ἡ ἄμπελος ἐξήνθησαν αἱ ῥόαι ἐκεῖ δώσω τοὺς μαστούς μου σοί.",
+          "name": "Cantique des Cantiques 6:11",
+          "chapter": "6"
+        },
+        {
+          "verse": "12",
+          "text": "Mon âme n'a rien su, et j'ai été comme emportée par les chars d'Aminadab.",
+          "grec": "οὐκ ἔγνω ἡ ψυχή μου ἔθετό με ἅρματα Αμιναδαβ.",
+          "name": "Cantique des Cantiques 6:12",
+          "chapter": "6"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "name": "Cantique des Cantiques 7",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Reviens, reviens, ma Sulamite ; reviens, reviens, et nous te verrons. Que verrez-vous en la Sulamite, qui vient comme les rangs d'une armée ?",
+          "grec": "ἐπίστρεφε ἐπίστρεφε ἡ Σουλαμῖτις ἐπίστρεφε ἐπίστρεφε καὶ ὀψόμεθα ἐν σοί τί ὄψεσθε ἐν τῇ Σουλαμίτιδι ἡ ἐρχομένη ὡς χοροὶ τῶν παρεμβολῶν.",
+          "name": "Cantique des Cantiques 7:1",
+          "chapter": "7"
+        },
+        {
+          "verse": "2",
+          "text": "Fille de Nadab, que les sandales donnent grâce à tes pas ! Les contours de tes cuisses ressemblent à des colliers, chef-d'œuvre d'un artiste.",
+          "grec": "τί ὡραιώθησαν διαβήματά σου ἐν ὑποδήμασιν θύγατερ Ναδαβ ῥυθμοὶ μηρῶν σου ὅμοιοι ὁρμίσκοις ἔργῳ χειρῶν τεχνίτου.",
+          "name": "Cantique des Cantiques 7:2",
+          "chapter": "7"
+        },
+        {
+          "verse": "3",
+          "text": "Ton nombril est comme un cratère ciselé, où le vin ne manque jamais. Ton ventre est comme un monceau de froment enveloppé de lis.",
+          "grec": "ὀμφαλός σου κρατὴρ τορευτὸς μὴ ὑστερούμενος κρᾶμα κοιλία σου θιμωνιὰ σίτου πεφραγμένη ἐν κρίνοις.",
+          "name": "Cantique des Cantiques 7:3",
+          "chapter": "7"
+        },
+        {
+          "verse": "4",
+          "text": "Tes deux mamelles sont comme les deux faons jumeaux d'un chevreuil.",
+          "grec": "δύο μαστοί σου ὡς δύο νεβροὶ δίδυμοι δορκάδος.",
+          "name": "Cantique des Cantiques 7:4",
+          "chapter": "7"
+        },
+        {
+          "verse": "5",
+          "text": "Ton cou est comme une tour d'ivoire, tes yeux comme des étangs d'Hésebon, près des portes de la fille issue de beaucoup de peuples. Ton nez est comme la tour du Liban qui regarde Damas.",
+          "grec": "τράχηλός σου ὡς πύργος ἐλεφάντινος ὀφθαλμοί σου ὡς λίμναι ἐν Εσεβων ἐν πύλαις θυγατρὸς πολλῶν μυκτήρ σου ὡς πύργος τοῦ Λιβάνου σκοπεύων πρόσωπον Δαμασκοῦ.",
+          "name": "Cantique des Cantiques 7:5",
+          "chapter": "7"
+        },
+        {
+          "verse": "6",
+          "text": "Ta tête est posée sur toi semblable au Mont Carmel, et ta chevelure est comme de la pourpre ; le roi est retenu dans tes galeries.",
+          "grec": "κεφαλή σου ἐπὶ σὲ ὡς Κάρμηλος καὶ πλόκιον κεφαλῆς σου ὡς πορφύρα βασιλεὺς δεδεμένος ἐν παραδρομαῖς.",
+          "name": "Cantique des Cantiques 7:6",
+          "chapter": "7"
+        },
+        {
+          "verse": "7",
+          "text": "Ô ma bien-aimée, que de grâce, que de suavité en tes délices !",
+          "grec": "τί ὡραιώθης καὶ τί ἡδύνθης ἀγάπη ἐν τρυφαῖς σου.",
+          "name": "Cantique des Cantiques 7:7",
+          "chapter": "7"
+        },
+        {
+          "verse": "8",
+          "text": "Ta stature est celle d'un palmier ; tes mamelles sont comme des grappes de raisins.",
+          "grec": "τοῦτο μέγεθός σου ὡμοιώθη τῷ φοίνικι καὶ οἱ μαστοί σου τοῖς βότρυσιν.",
+          "name": "Cantique des Cantiques 7:8",
+          "chapter": "7"
+        },
+        {
+          "verse": "9",
+          "text": "J'ai dit : Je monterai au palmier ; j'atteindrai à son faîte, et tes mamelles seront comme les grappes de la vigne, l'odeur de tes narines comme celle des pommes,",
+          "grec": "εἶπα ἀναβήσομαι ἐν τῷ φοίνικι κρατήσω τῶν ὕψεων αὐτοῦ καὶ ἔσονται δὴ μαστοί σου ὡς βότρυες τῆς ἀμπέλου καὶ ὀσμὴ ῥινός σου ὡς μῆλα.",
+          "name": "Cantique des Cantiques 7:9",
+          "chapter": "7"
+        },
+        {
+          "verse": "10",
+          "text": "Et ton gosier comme le bon vin, — qui coule droit à mon frère bien-aimé —, et qui pconvient à mes dents et à mes lèvres.",
+          "grec": "καὶ λάρυγξ σου ὡς οἶνος ὁ ἀγαθὸς πορευόμενος τῷ ἀδελφιδῷ μου εἰς εὐθύθητα ἱκανούμενος χείλεσίν μου καὶ ὀδοῦσιν.",
+          "name": "Cantique des Cantiques 7:10",
+          "chapter": "7"
+        },
+        {
+          "verse": "11",
+          "text": "Je suis à mon frère bien-aimé, et son regard est tourné vers moi.",
+          "grec": "ἐγὼ τῷ ἀδελφιδῷ μου καὶ ἐπ' ἐμὲ ἡ ἐπιστροφὴ αὐτοῦ.",
+          "name": "Cantique des Cantiques 7:11",
+          "chapter": "7"
+        },
+        {
+          "verse": "12",
+          "text": "Viens, mon frère bien-aimé, allons aux champs, dormons dans les bourgades.",
+          "grec": "ἐλθέ ἀδελφιδέ μου ἐξέλθωμεν εἰς ἀγρόν αὐλισθῶμεν ἐν κώμαις.",
+          "name": "Cantique des Cantiques 7:12",
+          "chapter": "7"
+        },
+        {
+          "verse": "13",
+          "text": "Levons-nous dès l'aurore pour aller aux vignes ; voyons si le raisin est en fleur, si les grains sont en fleur, si les grenades fleurissent : c'est là que je te donnerai mes mamelles.",
+          "grec": "ὀρθρίσωμεν εἰς ἀμπελῶνας ἴδωμεν εἰ ἤνθησεν ἡ ἄμπελος ἤνθησεν ὁ κυπρισμός ἤνθησαν αἱ ῥόαι ἐκεῖ δώσω τοὺς μαστούς μου σοί.",
+          "name": "Cantique des Cantiques 7:13",
+          "chapter": "7"
+        },
+        {
+          "verse": "14",
+          "text": "Les mandragores ont donné leur senteur, et, au seuil de nos portes, tous les fruits verts et mûrs, ô mon frère bien-aimé, je les ai gardés pour toi.",
+          "grec": "οἱ μανδραγόραι ἔδωκαν ὀσμήν καὶ ἐπὶ θύραις ἡμῶν πάντα ἀκρόδρυα νέα πρὸς παλαιά ἀδελφιδέ μου ἐτήρησά σοι.",
+          "name": "Cantique des Cantiques 7:14",
+          "chapter": "7"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "name": "Cantique des Cantiques 8",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Ô mon frère bien-aimé, si quelqu'un pouvait t'accorder que tu as sucé les mamelles de ma mère ! Alors, te trouvant dehors, je te baiserai, et nul ne me mépriserait.",
+          "grec": "τίς δῴη σε ἀδελφιδόν μου θηλάζοντα μαστοὺς μητρός μου εὑροῦσά σε ἔξω φιλήσω σε καί γε οὐκ ἐξουδενώσουσίν μοι.",
+          "name": "Cantique des Cantiques 8:1",
+          "chapter": "8"
+        },
+        {
+          "verse": "2",
+          "text": "Je te prendrai par la main, je t'introduirai dans la maison de ma mère, dans la chambre de celle qui m'a conçu. Je te ferai boire du vin parfumé, et du jus de mes grenades.",
+          "grec": "παραλήμψομαί σε εἰσάξω σε εἰς οἶκον μητρός μου καὶ εἰς ταμίειον τῆς συλλαβούσης με ποτιῶ σε ἀπὸ οἴνου τοῦ μυρεψικοῦ ἀπὸ νάματος ῥοῶν μου.",
+          "name": "Cantique des Cantiques 8:2",
+          "chapter": "8"
+        },
+        {
+          "verse": "3",
+          "text": "Il posera sa main gauche sur ma tête, et, de la droite, il m'embrassera.",
+          "grec": "εὐώνυμος αὐτοῦ ὑπὸ τὴν κεφαλήν μου καὶ ἡ δεξιὰ αὐτοῦ περιλήμψεταί με.",
+          "name": "Cantique des Cantiques 8:3",
+          "chapter": "8"
+        },
+        {
+          "verse": "4",
+          "text": "Je vous adjure, filles de Jérusalem, par les vertus de la campagne, n'éveillez pas, ne réveillez pas ma bien-aimée qu'elle ne le désire.",
+          "grec": "ὥρκισα ὑμᾶς θυγατέρες Ιερουσαλημ ἐν ταῖς δυνάμεσιν καὶ ἐν ταῖς ἰσχύσεσιν τοῦ ἀγροῦ τί ἐγείρητε καὶ τί ἐξεγείρητε τὴν ἀγάπην ἕως ἂν θελήσῃ.",
+          "name": "Cantique des Cantiques 8:4",
+          "chapter": "8"
+        },
+        {
+          "verse": "5",
+          "text": "Quelle est celle qui se lève blanche comme l'aubépine, appuyée sur son frère bien-aimé ? Je t'ai réveillée sous un pommier ; c'est là que ta mère t'a enfantée ; c'est là que t'a enfantée celle qui t'a conçu.",
+          "grec": "τίς αὕτη ἡ ἀναβαίνουσα λελευκανθισμένη ἐπιστηριζομένη ἐπὶ τὸν ἀδελφιδὸν αὐτῆς ὑπὸ μῆλον ἐξήγειρά σε ἐκεῖ ὠδίνησέν σε ἡ μήτηρ σου ἐκεῖ ὠδίνησέν σε ἡ τεκοῦσά σου.",
+          "name": "Cantique des Cantiques 8:5",
+          "chapter": "8"
+        },
+        {
+          "verse": "6",
+          "text": "Mets-moi comme un sceau sur ton cœur, et comme un sceau sur ton bras. Car l'amour est fort comme la mort, et la jalousie est cruelle comme l'enfer ; ses traits sont des traits de feu, ce sont des flammes.",
+          "grec": "θές με ὡς σφραγῖδα ἐπὶ τὴν καρδίαν σου ὡς σφραγῖδα ἐπὶ τὸν βραχίονά σου ὅτι κραταιὰ ὡς θάνατος ἀγάπη σκληρὸς ὡς ᾅδης ζῆλος περίπτερα αὐτῆς περίπτερα πυρός φλόγες αὐτῆς.",
+          "name": "Cantique des Cantiques 8:6",
+          "chapter": "8"
+        },
+        {
+          "verse": "7",
+          "text": "Des torrents d'eau ne pourront point éteindre l'amour, ni les fleuves le submerger. Si un homme donnait tout son bien en échange de l'amour, les autres hommes auront pour lui le dernier mépris.",
+          "grec": "ὕδωρ πολὺ οὐ δυνήσεται σβέσαι τὴν ἀγάπην καὶ ποταμοὶ οὐ συγκλύσουσιν αὐτήν ἐὰν δῷ ἀνὴρ τὸν πάντα βίον αὐτοῦ ἐν τῇ ἀγάπῃ ἐξουδενώσει ἐξουδενώσουσιν αὐτόν.",
+          "name": "Cantique des Cantiques 8:7",
+          "chapter": "8"
+        },
+        {
+          "verse": "8",
+          "text": "Notre sœur est petite, et n'a point de mamelles ; que ferons-nous pour notre sœur, le jour où je viendrai lui parler ?",
+          "grec": "ἀδελφὴ ἡμῖν μικρὰ καὶ μαστοὺς οὐκ ἔχει τί ποιήσωμεν τῇ ἀδελφῇ ἡμῶν ἐν ἡμέρᾳ ᾗ ἐὰν λαληθῇ ἐν αὐτῇ.",
+          "name": "Cantique des Cantiques 8:8",
+          "chapter": "8"
+        },
+        {
+          "verse": "9",
+          "text": "Si elle est un mur, couronnons-la de créneaux d'argent ; si elle est une porte, incrustons-la de bois de cèdre.",
+          "grec": "εἰ τεῖχός ἐστιν οἰκοδομήσωμεν ἐπ' αὐτὴν ἐπάλξεις ἀργυρᾶς καὶ εἰ θύρα ἐστίν διαγράψωμεν ἐπ' αὐτὴν σανίδα κεδρίνην.",
+          "name": "Cantique des Cantiques 8:9",
+          "chapter": "8"
+        },
+        {
+          "verse": "10",
+          "text": "Moi, je suis un mur, et mes mamelles sont comme des tours ; et j'ai été à leurs yeux comme ayant trouvé la paix.",
+          "grec": "ἐγὼ τεῖχος καὶ μαστοί μου ὡς πύργοι ἐγὼ ἤμην ἐν ὀφθαλμοῖς αὐτοῦ ὡς εὑρίσκουσα εἰρήνην.",
+          "name": "Cantique des Cantiques 8:10",
+          "chapter": "8"
+        },
+        {
+          "verse": "11",
+          "text": "Salomon avait une vigne en Béelamon ; il a donné sa vigne à ceux qui la gardent ; chacun rendra de ses fruits mille sicles d'argent.",
+          "grec": "ἀμπελὼν ἐγενήθη τῷ Σαλωμων ἐν Βεελαμων ἔδωκεν τὸν ἀμπελῶνα αὐτοῦ τοῖς τηροῦσιν ἀνὴρ οἴσει ἐν καρπῷ αὐτοῦ χιλίους ἀργυρίου.",
+          "name": "Cantique des Cantiques 8:11",
+          "chapter": "8"
+        },
+        {
+          "verse": "12",
+          "text": "Ma vigne est à moi ; elle est devant mes yeux ; que Salomon en ait mille sicles ; que ceux qui gardent ses fruits en aient deux cents.",
+          "grec": "ἀμπελών μου ἐμὸς ἐνώπιόν μου οἱ χίλιοι σοί Σαλωμων καὶ οἱ διακόσιοι τοῖς τηροῦσι τὸν καρπὸν αὐτοῦ.",
+          "name": "Cantique des Cantiques 8:12",
+          "chapter": "8"
+        },
+        {
+          "verse": "13",
+          "text": "Ô toi qui demeures dans les jardins, mes compagnes écoutent ta voix ; fais-la-moi entendre.",
+          "grec": "ὁ καθήμενος ἐν κήποις ἑταῖροι προσέχοντες τῇ φωνῇ σου ἀκούτισόν με.",
+          "name": "Cantique des Cantiques 8:13",
+          "chapter": "8"
+        },
+        {
+          "verse": "14",
+          "text": "Fuis, mon frère bien-aimé ; et, rapide comme le chevreuil ou comme le faon de la biche, fuis dans les montagnes des parfums.",
+          "grec": "φύγε ἀδελφιδέ μου καὶ ὁμοιώθητι τῇ δορκάδι ἢ τῷ νεβρῷ τῶν ἐλάφων ἐπὶ ὄρη ἀρωμάτων.",
+          "name": "Cantique des Cantiques 8:14",
+          "chapter": "8"
+        }
+      ]
+    }
+  ]
+}

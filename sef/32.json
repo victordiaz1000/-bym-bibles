@@ -1,0 +1,420 @@
+{
+  "translation": "Septuaginta (Rahlfs) — traductions françaises de Giguet et d'Alexandrie",
+  "abbreviation": "SEF",
+  "lang": "fr",
+  "language": "français (avec le grec de la Septante)",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 32,
+  "name": "Jonas",
+  "chapters": [
+    {
+      "chapter": 1,
+      "name": "Jonas 1",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et la parole du Seigneur vint à Jonas, fils d'Amathi, disant",
+          "grec": "καὶ ἐγένετο λόγος κυρίου πρὸς Ιωναν τὸν τοῦ Αμαθι λέγων.",
+          "alexandrie": "Et il y eut une parole du Seigneur adressée à Jonas, fils d’Amathi, disant :",
+          "name": "Jonas 1:1",
+          "chapter": "1"
+        },
+        {
+          "verse": "2",
+          "text": "Lève-toi, et pars pour Ninive, la grande ville, et proclame dans ses murs que le cri de sa méchanceté est monté jusqu'à moi.",
+          "grec": "ἀνάστηθι καὶ πορεύθητι εἰς Νινευη τὴν πόλιν τὴν μεγάλην καὶ κήρυξον ἐν αὐτῇ ὅτι ἀνέβη ἡ κραυγὴ τῆς κακίας αὐτῆς πρός με.",
+          "alexandrie": "« Lève-toi et va à Ninive la grande ville, et fais-y une proclamation, car le cri dénonçant sa malignité est monté vers moi. »",
+          "name": "Jonas 1:2",
+          "chapter": "1"
+        },
+        {
+          "verse": "3",
+          "text": "Et Jonas se leva pour s'enfuir à Tharsis, loin de la face du Seigneur ; et il descendit à Joppé ; il y trouva une barque allant à Tharsis, et il paya son passage, et il s'embarqua pour naviguer avec les matelots, jusqu'à Tharsis, loin de la face du Seigneur.",
+          "grec": "καὶ ἀνέστη Ιωνας τοῦ φυγεῖν εἰς Θαρσις ἐκ προσώπου κυρίου καὶ κατέβη εἰς Ιοππην καὶ εὗρεν πλοῖον βαδίζον εἰς Θαρσις καὶ ἔδωκεν τὸ ναῦλον αὐτοῦ καὶ ἐνέβη εἰς αὐτὸ τοῦ πλεῦσαι μετ' αὐτῶν εἰς Θαρσις ἐκ προσώπου κυρίου.",
+          "alexandrie": "Et Jonas se leva pour fuir vers Tharsis, loin de la face du Seigneur, descendit à Joppè, trouva un bateau en partance pour Tharsis, paya son passage et y embarqua pour naviguer avec eux vers Tharsis, loin de la face du Seigneur.",
+          "name": "Jonas 1:3",
+          "chapter": "1"
+        },
+        {
+          "verse": "4",
+          "text": "Et le Seigneur excita un grand vent sur la mer, et les vagues s'élevèrent, et la barque fut en danger de se rompre.",
+          "grec": "καὶ κύριος ἐξήγειρεν πνεῦμα εἰς τὴν θάλασσαν καὶ ἐγένετο κλύδων μέγας ἐν τῇ θαλάσσῃ καὶ τὸ πλοῖον ἐκινδύνευεν συντριβῆναι.",
+          "alexandrie": "Et le Seigneur fit lever un souffle sur la mer, et il y eut une forte houle en mer, et le bateau risquait de se disloquer.",
+          "name": "Jonas 1:4",
+          "chapter": "1"
+        },
+        {
+          "verse": "5",
+          "text": "Et les matelots eurent crainte, et ils crièrent chacun vers son dieu, et ils lancèrent à la mer le chargement de la barque, pour s'en alléger. Jonas descendit à fond de cale, et là il s'endormit, et il ronfla.",
+          "grec": "καὶ ἐφοβήθησαν οἱ ναυτικοὶ καὶ ἀνεβόων ἕκαστος πρὸς τὸν θεὸν αὐτῶν καὶ ἐκβολὴν ἐποιήσαντο τῶν σκευῶν τῶν ἐν τῷ πλοίῳ εἰς τὴν θάλασσαν τοῦ κουφισθῆναι ἀπ' αὐτῶν Ιωνας δὲ κατέβη εἰς τὴν κοίλην τοῦ πλοίου καὶ ἐκάθευδεν καὶ ἔρρεγχεν.",
+          "alexandrie": "Et les matelots eurent peur, appelaient au secours chacun son dieu, et ils jetèrent la cargaison du bateau à la mer afin de l’en alléger ; Jonas, lui, était descendu dans la cale du bateau, il dormait et ronflait.",
+          "name": "Jonas 1:5",
+          "chapter": "1"
+        },
+        {
+          "verse": "6",
+          "text": "Et le pilote l'alla trouver, et il lui dit : Pourquoi ronfles-tu ? Lève-toi, et invoque ton Dieu, afin que Dieu nous sauve, et que nous ne mourions pas.",
+          "grec": "καὶ προσῆλθεν πρὸς αὐτὸν ὁ πρωρεὺς καὶ εἶπεν αὐτῷ τί σὺ ῥέγχεις ἀνάστα καὶ ἐπικαλοῦ τὸν θεόν σου ὅπως διασώσῃ ὁ θεὸς ἡμᾶς καὶ μὴ ἀπολώμεθα.",
+          "alexandrie": "Et l’homme de proue s’approcha de lui et lui dit : « Qu’as-tu à ronfler, toi ? Lève-toi et invoque ton dieu, afin que le dieu nous préserve et que nous ne périssions pas. »",
+          "name": "Jonas 1:6",
+          "chapter": "1"
+        },
+        {
+          "verse": "7",
+          "text": "Et chacun des matelots dit à son voisin : Allons, agitons les sorts, et sachons par qui ce malheur nous arrive. Et ils agitèrent des sorts, et le sort tomba sur Jonas.",
+          "grec": "καὶ εἶπεν ἕκαστος πρὸς τὸν πλησίον αὐτοῦ δεῦτε βάλωμεν κλήρους καὶ ἐπιγνῶμεν τίνος ἕνεκεν ἡ κακία αὕτη ἐστὶν ἐν ἡμῖν καὶ ἔβαλον κλήρους καὶ ἔπεσεν ὁ κλῆρος ἐπὶ Ιωναν.",
+          "alexandrie": "Et chacun dit à son voisin : « Allons, tirons au sort et découvrons la cause de ce malheur qui est sur nous. » Et ils tirèrent au sort, et le sort tomba sur Jonas.",
+          "name": "Jonas 1:7",
+          "chapter": "1"
+        },
+        {
+          "verse": "8",
+          "text": "Et ils lui dirent : Déclare-nous quel est ton métier ; d'où viens-tu ? de quelle contrée, de quel peuple es-tu ?",
+          "grec": "καὶ εἶπον πρὸς αὐτόν ἀπάγγειλον ἡμῖν τίνος ἕνεκεν ἡ κακία αὕτη ἐστὶν ἐν ἡμῖν τίς σου ἡ ἐργασία ἐστίν καὶ πόθεν ἔρχῃ καὶ ἐκ ποίας χώρας καὶ ἐκ ποίου λαοῦ εἶ σύ.",
+          "alexandrie": "Et ils lui dirent : « Annonce-nous la cause de ce malheur qui est sur nous. Quelle est ton activité ? D’où viens-tu ? De quel pays et de quel peuple es-tu, toi ?»",
+          "name": "Jonas 1:8",
+          "chapter": "1"
+        },
+        {
+          "verse": "9",
+          "text": "Et il leur dit : je suis un serviteur du Seigneur ; j'adore le Seigneur Dieu du ciel, qui a créé la mer et la terre.",
+          "grec": "καὶ εἶπεν πρὸς αὐτούς δοῦλος κυρίου ἐγώ εἰμι καὶ τὸν κύριον θεὸν τοῦ οὐρανοῦ ἐγὼ σέβομαι ὃς ἐποίησεν τὴν θάλασσαν καὶ τὴν ξηράν.",
+          "alexandrie": "Et il leur dit : « Moi, je suis serviteur du Seigneur et je vénère, moi, le Seigneur Dieu du ciel, qui a fait la mer et la terre ferme. »",
+          "name": "Jonas 1:9",
+          "chapter": "1"
+        },
+        {
+          "verse": "10",
+          "text": "Et ces hommes eurent grande crainte, et ils lui dirent : Pourquoi as-tu fait cela ? Car ces hommes connurent qu'il fuyait loin de la face du Seigneur ; car il le leur avait déclaré.",
+          "grec": "καὶ ἐφοβήθησαν οἱ ἄνδρες φόβον μέγαν καὶ εἶπαν πρὸς αὐτόν τί τοῦτο ἐποίησας διότι ἔγνωσαν οἱ ἄνδρες ὅτι ἐκ προσώπου κυρίου ἦν φεύγων ὅτι ἀπήγγειλεν αὐτοῖς.",
+          "alexandrie": "Et les hommes eurent peur, grand peur, et lui dirent : « Qu’as-tu fait là ? » Parce que ces hommes savaient qu’il était en fuite loin de la face du Seigneur, car il le leur avait annoncé.",
+          "name": "Jonas 1:10",
+          "chapter": "1"
+        },
+        {
+          "verse": "11",
+          "text": "Et ils lui dirent : Que te ferons-nous, afin que pour nous la mer se calme ? Car la mer allait, et soulevait encore plus de vagues.",
+          "grec": "καὶ εἶπαν πρὸς αὐτόν τί σοι ποιήσωμεν καὶ κοπάσει ἡ θάλασσα ἀφ' ἡμῶν ὅτι ἡ θάλασσα ἐπορεύετο καὶ ἐξήγειρεν μᾶλλον κλύδωνα.",
+          "alexandrie": "Et ils lui dirent : « Que devons-nous te faire pour qu’alors la mer s’apaise en nous épargnant ? » Car la mer continuait de soulever davantage sa houle.",
+          "name": "Jonas 1:11",
+          "chapter": "1"
+        },
+        {
+          "verse": "12",
+          "text": "Et Jonas leur dit : Prenez-moi et jetez-moi à la mer, et la mer se calmera pour vous ; car je sais que c'est à cause de moi qu'il y a contre vous ces grandes vagues.",
+          "grec": "καὶ εἶπεν Ιωνας πρὸς αὐτούς ἄρατέ με καὶ ἐμβάλετέ με εἰς τὴν θάλασσαν καὶ κοπάσει ἡ θάλασσα ἀφ' ὑμῶν διότι ἔγνωκα ἐγὼ ὅτι δι' ἐμὲ ὁ κλύδων ὁ μέγας οὗτος ἐφ' ὑμᾶς ἐστιν.",
+          "alexandrie": "Et Jonas leur dit : « Prenez-moi, jetez-moi à la mer, et la mer s’apaisera en vous épargnant ; parce que moi j’ai compris que cette grande houle est sur vous à cause de moi. »",
+          "name": "Jonas 1:12",
+          "chapter": "1"
+        },
+        {
+          "verse": "13",
+          "text": "Et ces hommes s'efforcèrent de retourner à la côte ; mais ils ne le purent, parce que la mer allait et soulevait contre eux toujours plus de vagues.",
+          "grec": "καὶ παρεβιάζοντο οἱ ἄνδρες τοῦ ἐπιστρέψαι πρὸς τὴν γῆν καὶ οὐκ ἠδύναντο ὅτι ἡ θάλασσα ἐπορεύετο καὶ ἐξηγείρετο μᾶλλον ἐπ' αὐτούς.",
+          "alexandrie": "Et les hommes se démenaient pour revenir vers la terre et ne le pouvaient pas, car la mer continuait de se soulever davantage contre eux.",
+          "name": "Jonas 1:13",
+          "chapter": "1"
+        },
+        {
+          "verse": "14",
+          "text": "Et ils crièrent au Seigneur, et ils dirent : Non, Seigneur, que nous ne périssions pas pour la vie de cet homme ; ne fais pas retomber sur nous un sang innocent ; car, Seigneur, Tu as fait selon ta volonté.",
+          "grec": "καὶ ἀνεβόησαν πρὸς κύριον καὶ εἶπαν μηδαμῶς κύριε μὴ ἀπολώμεθα ἕνεκεν τῆς ψυχῆς τοῦ ἀνθρώπου τούτου καὶ μὴ δῷς ἐφ' ἡμᾶς αἷμα δίκαιον ὅτι σύ κύριε ὃν τρόπον ἐβούλου πεποίηκας.",
+          "alexandrie": "Et ils appelèrent le Seigneur au secours et dirent : « Non, Seigneur, ne périssons pas pour la vie de cet homme, et ne mets pas sur nous un sang juste, car c’est toi, Seigneur, qui as agi de la façon que tu voulais. »",
+          "name": "Jonas 1:14",
+          "chapter": "1"
+        },
+        {
+          "verse": "15",
+          "text": "Et ils prirent Jonas, et ils le lancèrent à la mer ; et la mer cessa de s'agiter.",
+          "grec": "καὶ ἔλαβον τὸν Ιωναν καὶ ἐξέβαλον αὐτὸν εἰς τὴν θάλασσαν καὶ ἔστη ἡ θάλασσα ἐκ τοῦ σάλου αὐτῆς.",
+          "alexandrie": "Et ils prirent Jonas et le jetèrent à la mer, et la mer s’arrêta, cessant ses secousses.",
+          "name": "Jonas 1:15",
+          "chapter": "1"
+        },
+        {
+          "verse": "16",
+          "text": "Et ces hommes eurent grande crainte du Seigneur ; et ils offrirent au Seigneur un sacrifice, et ils Lui firent des vœux.",
+          "grec": "καὶ ἐφοβήθησαν οἱ ἄνδρες φόβῳ μεγάλῳ τὸν κύριον καὶ ἔθυσαν θυσίαν τῷ κυρίῳ καὶ εὔξαντο εὐχάς.",
+          "alexandrie": "Et les hommes eurent peur du Seigneur, d’une grande peur, offrirent un sacrifice au Seigneur et s’engagèrent par des vœux.",
+          "name": "Jonas 1:16",
+          "chapter": "1"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "name": "Jonas 2",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et le Seigneur prescrivit à une grande baleine d'avaler Jonas, et Jonas fut dans le ventre de la baleine trois jours et trois nuits.",
+          "grec": "καὶ προσέταξεν κύριος κήτει μεγάλῳ καταπιεῖν τὸν Ιωναν καὶ ἦν Ιωνας ἐν τῇ κοιλίᾳ τοῦ κήτους τρεῖς ἡμέρας καὶ τρεῖς νύκτας.",
+          "alexandrie": "Et le Seigneur ordonna à un grand monstre marin d’avaler Jonas ; et Jonas fut dans le ventre du monstre trois jours et trois nuits.",
+          "name": "Jonas 2:1",
+          "chapter": "2"
+        },
+        {
+          "verse": "2",
+          "text": "Et Jonas pria le Seigneur son Dieu, dans le ventre de la baleine.",
+          "grec": "καὶ προσηύξατο Ιωνας πρὸς κύριον τὸν θεὸν αὐτοῦ ἐκ τῆς κοιλίας τοῦ κήτους.",
+          "alexandrie": "Et Jonas fit une prière au Seigneur son Dieu, depuis le ventre du monstre,",
+          "name": "Jonas 2:2",
+          "chapter": "2"
+        },
+        {
+          "verse": "3",
+          "text": "Et il dit : j'ai crié dans ma tribulation au Seigneur mon Dieu, et Il m'a exaucé ; mon cri est parti des entrailles de l'enfer, et Tu as écouté ma voix ;",
+          "grec": "καὶ εἶπεν ἐβόησα ἐν θλίψει μου πρὸς κύριον τὸν θεόν μου καὶ εἰσήκουσέν μου ἐκ κοιλίας ᾅδου κραυγῆς μου ἤκουσας φωνῆς μου.",
+          "alexandrie": "et il dit : J’ai appelé au secours, dans ma détresse, le Seigneur mon Dieu, et il m’a bien entendu ; mon cri depuis le ventre de l’Hadès, tu l’as entendu, ma voix.",
+          "name": "Jonas 2:3",
+          "chapter": "2"
+        },
+        {
+          "verse": "4",
+          "text": "Tu m'as précipité au plus profond du cœur de la mer ; et les fleuves m'ont enveloppé, et toutes tes grandes vagues, tous tes flots ont passé sur moi.",
+          "grec": "ἀπέρριψάς με εἰς βάθη καρδίας θαλάσσης καὶ ποταμοί με ἐκύκλωσαν πάντες οἱ μετεωρισμοί σου καὶ τὰ κύματά σου ἐπ' ἐμὲ διῆλθον.",
+          "alexandrie": "Tu m’avais précipité dans les profondeurs du cœur de la mer, et des courants m’ont encerclé ; tous les soulèvements et les gonflements de tes flots ont déferlé sur moi.",
+          "name": "Jonas 2:4",
+          "chapter": "2"
+        },
+        {
+          "verse": "5",
+          "text": "Et j'ai dit : C'est moi qui me suis éloigné de tes yeux ; me permettras-Tu de voir encore ton saint temple ?",
+          "grec": "καὶ ἐγὼ εἶπα ἀπῶσμαι ἐξ ὀφθαλμῶν σου ἆρα προσθήσω τοῦ ἐπιβλέψαι πρὸς τὸν ναὸν τὸν ἅγιόν σου.",
+          "alexandrie": "Et moi j’ai dit : Me voilà repoussé loin de tes yeux ; continuerai-je encore à regarder vers ton temple saint ?",
+          "name": "Jonas 2:5",
+          "chapter": "2"
+        },
+        {
+          "verse": "6",
+          "text": "L'eau s'est répandue autour de moi, jusqu'à l'âme ; l'abîme le plus profond m'a enclos, et ma tête a plongé dans les crevasses des montagnes",
+          "grec": "περιεχύθη ὕδωρ μοι ἕως ψυχῆς ἄβυσσος ἐκύκλωσέν με ἐσχάτη ἔδυ ἡ κεφαλή μου εἰς σχισμὰς ὀρέων.",
+          "alexandrie": "L’eau s’est déversée autour de moi jusqu’à l’âme, l’abîme le plus profond m’a encerclé, ma tête s’est enfoncée dans les failles des montagnes.",
+          "name": "Jonas 2:6",
+          "chapter": "2"
+        },
+        {
+          "verse": "7",
+          "text": "Je suis descendu sous la terre, dont les verrous sont des barrières éternelles. Seigneur mon Dieu, que la destruction de ma vie remonte à la surface des flots.",
+          "grec": "κατέβην εἰς γῆν ἧς οἱ μοχλοὶ αὐτῆς κάτοχοι αἰώνιοι καὶ ἀναβήτω φθορὰ ζωῆς μου κύριε ὁ θεός μου.",
+          "alexandrie": "Je suis descendu jusqu’au sol, dont les barres sont d’éternels verrous. Que remonte la corruption de ma vie, Seigneur mon Dieu !",
+          "name": "Jonas 2:7",
+          "chapter": "2"
+        },
+        {
+          "verse": "8",
+          "text": "En la défaillance de mon âme, je me suis souvenu de toi, Seigneur ; que ma prière arrive à toi dans ton saint temple !",
+          "grec": "ἐν τῷ ἐκλείπειν ἀπ' ἐμοῦ τὴν ψυχήν μου τοῦ κυρίου ἐμνήσθην καὶ ἔλθοι πρὸς σὲ ἡ προσευχή μου εἰς ναὸν ἅγιόν σου.",
+          "alexandrie": "Tandis que mon âme me quittait, je me suis souvenu du Seigneur. Puisse ma prière aller jusqu’à toi dans ton temple saint !",
+          "name": "Jonas 2:8",
+          "chapter": "2"
+        },
+        {
+          "verse": "9",
+          "text": "Ceux-là seuls qui s'attachent aux vanités et aux mensonges ont renoncé à leur miséricorde.",
+          "grec": "φυλασσόμενοι μάταια καὶ ψευδῆ ἔλεος αὐτῶν ἐγκατέλιπον.",
+          "alexandrie": "En gardant vanités et mensonges, ils ont abandonné la pitié dont ils étaient l’objet.",
+          "name": "Jonas 2:9",
+          "chapter": "2"
+        },
+        {
+          "verse": "10",
+          "text": "Pour moi, je t'offrirai dans mes chants un sacrifice de louanges et d'admiration ; je rendrai au Seigneur les vœux que je Lui ai faits pour mon salut.",
+          "grec": "ἐγὼ δὲ μετὰ φωνῆς αἰνέσεως καὶ ἐξομολογήσεως θύσω σοι ὅσα ηὐξάμην ἀποδώσω σοι σωτηρίου τῷ κυρίῳ.",
+          "alexandrie": "Mais moi, en exprimant louange et action de grâces, je t’offrirai un sacrifice ; tous les vœux que j’ai faits, je m’en acquitterai pour mon salut auprès du Seigneur.",
+          "name": "Jonas 2:10",
+          "chapter": "2"
+        },
+        {
+          "verse": "11",
+          "text": "Et le Seigneur donna ordre à la baleine, et elle rejeta Jonas sur la terre ferme.",
+          "grec": "καὶ προσετάγη τῷ κήτει καὶ ἐξέβαλεν τὸν Ιωναν ἐπὶ τὴν ξηράν.",
+          "alexandrie": "Et l’ordre fut donné au monstre, et il rejeta Jonas sur la terre ferme.",
+          "name": "Jonas 2:11",
+          "chapter": "2"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "name": "Jonas 3",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et la parole du Seigneur vint à Jonas pour la seconde fois, disant",
+          "grec": "καὶ ἐγένετο λόγος κυρίου πρὸς Ιωναν ἐκ δευτέρου λέγων.",
+          "alexandrie": "Et il y eut une parole du Seigneur adressée à Jonas pour la deuxième fois, disant :",
+          "name": "Jonas 3:1",
+          "chapter": "3"
+        },
+        {
+          "verse": "2",
+          "text": "Lève-toi, et pars pour Ninive, la grande ville, et proclame dans ses murs la prédiction que je t'ai déjà prescrit de proclamer.",
+          "grec": "ἀνάστηθι καὶ πορεύθητι εἰς Νινευη τὴν πόλιν τὴν μεγάλην καὶ κήρυξον ἐν αὐτῇ κατὰ τὸ κήρυγμα τὸ ἔμπροσθεν ὃ ἐγὼ ἐλάλησα πρὸς σέ.",
+          "alexandrie": "« Lève-toi, va à Ninive la grande ville et fais-y une proclamation conforme à la proclamation précédente que je t’avais dite. »",
+          "name": "Jonas 3:2",
+          "chapter": "3"
+        },
+        {
+          "verse": "3",
+          "text": "Et Jonas se leva ; et il s'en alla à Ninive, comme lui avait dit le Seigneur. Or la ville de Ninive était grande de trois jours de marche.",
+          "grec": "καὶ ἀνέστη Ιωνας καὶ ἐπορεύθη εἰς Νινευη καθὼς ἐλάλησεν κύριος ἡ δὲ Νινευη ἦν πόλις μεγάλη τῷ θεῷ ὡσεὶ πορείας ὁδοῦ ἡμερῶν τριῶν.",
+          "alexandrie": "Et Jonas se leva et alla à Ninive, comme l’avait dit le Seigneur ; or Ninive était une ville importante pour Dieu, environ trois jours de marche.",
+          "name": "Jonas 3:3",
+          "chapter": "3"
+        },
+        {
+          "verse": "4",
+          "text": "Et Jonas commença par entrer dans la ville et par faire environ un jour de marche, et il cria, et il dit : Encore trois jours, et Ninive sera détruite !",
+          "grec": "καὶ ἤρξατο Ιωνας τοῦ εἰσελθεῖν εἰς τὴν πόλιν ὡσεὶ πορείαν ἡμέρας μιᾶς καὶ ἐκήρυξεν καὶ εἶπεν ἔτι τρεῖς ἡμέραι καὶ Νινευη καταστραφήσεται.",
+          "alexandrie": "Et Jonas commença à pénétrer dans la ville sur environ un jour de marche, fît une proclamation et dit : « Encore trois jours et Ninive sera détruite. »",
+          "name": "Jonas 3:4",
+          "chapter": "3"
+        },
+        {
+          "verse": "5",
+          "text": "Et les hommes de Ninive crurent en Dieu, et ils proclamèrent un jeûne, et ils se ceignirent de cilices, depuis le grand jusqu'au petit.",
+          "grec": "καὶ ἐνεπίστευσαν οἱ ἄνδρες Νινευη τῷ θεῷ καὶ ἐκήρυξαν νηστείαν καὶ ἐνεδύσαντο σάκκους ἀπὸ μεγάλου αὐτῶν ἕως μικροῦ αὐτῶν.",
+          "alexandrie": "Et les hommes de Ninive crurent en Dieu, proclamèrent un jeûne et revêtirent des habits de deuil, du plus grand au plus petit.",
+          "name": "Jonas 3:5",
+          "chapter": "3"
+        },
+        {
+          "verse": "6",
+          "text": "Et la parole de Jonas arriva au roi de Ninive, et il se leva de son trône, et il ôta sa robe, et il se ceignit d'un cilice, et il s'assit sur la cendre.",
+          "grec": "καὶ ἤγγισεν ὁ λόγος πρὸς τὸν βασιλέα τῆς Νινευη καὶ ἐξανέστη ἀπὸ τοῦ θρόνου αὐτοῦ καὶ περιείλατο τὴν στολὴν αὐτοῦ ἀφ' ἑαυτοῦ καὶ περιεβάλετο σάκκον καὶ ἐκάθισεν ἐπὶ σποδοῦ.",
+          "alexandrie": "Et la parole parvint jusqu’au roi de Ninive, il se leva de son trône, se dépouilla de sa robe, se couvrit d’un habit de deuil et s’assit sur la cendre.",
+          "name": "Jonas 3:6",
+          "chapter": "3"
+        },
+        {
+          "verse": "7",
+          "text": "Et il fut proclamé, et il fut dit en Ninive de la part du roi et de la part de ses grands, ce qui suit : Que ni hommes, ni bêtes, ni bœufs, ni brebis ne mangent, ne paissent, ne boivent même de l'eau.",
+          "grec": "καὶ ἐκηρύχθη καὶ ἐρρέθη ἐν τῇ Νινευη παρὰ τοῦ βασιλέως καὶ παρὰ τῶν μεγιστάνων αὐτοῦ λέγων οἱ ἄνθρωποι καὶ τὰ κτήνη καὶ οἱ βόες καὶ τὰ πρόβατα μὴ γευσάσθωσαν μηδὲν μηδὲ νεμέσθωσαν μηδὲ ὕδωρ πιέτωσαν.",
+          "alexandrie": "Et il fut proclamé et dit dans Ninive de la part du roi et de ses grands : « Que les hommes et les bêtes, bovins et moutons, ne mangent rien, ne paissent point, ne boivent pas d’eau. »",
+          "name": "Jonas 3:7",
+          "chapter": "3"
+        },
+        {
+          "verse": "8",
+          "text": "Et les hommes et les bêtes furent couverts de cilices, et les hommes crièrent sans relâche au Seigneur. Et chacun revint de sa voie coupable et de l'iniquité de ses mains, disant",
+          "grec": "καὶ περιεβάλοντο σάκκους οἱ ἄνθρωποι καὶ τὰ κτήνη καὶ ἀνεβόησαν πρὸς τὸν θεὸν ἐκτενῶς καὶ ἀπέστρεψαν ἕκαστος ἀπὸ τῆς ὁδοῦ αὐτοῦ τῆς πονηρᾶς καὶ ἀπὸ τῆς ἀδικίας τῆς ἐν χερσὶν αὐτῶν λέγοντες.",
+          "alexandrie": "Et les hommes et les bêtes se couvrirent d’habits de deuil, et ils appelèrent Dieu au secours, avec force ; et ils se détournèrent chacun de sa route mauvaise et de l’injustice que portaient leurs mains, disant :",
+          "name": "Jonas 3:8",
+          "chapter": "3"
+        },
+        {
+          "verse": "9",
+          "text": "Qui sait si le Seigneur ne se repentira pas, et s'Il ne calmera pas les transports de sa colère, pour que nous ne périssions point ?",
+          "grec": "τίς οἶδεν εἰ μετανοήσει ὁ θεὸς καὶ ἀποστρέψει ἐξ ὀργῆς θυμοῦ αὐτοῦ καὶ οὐ μὴ ἀπολώμεθα.",
+          "alexandrie": "« Qui sait ? Peut-être que Dieu se ravisera et se détournera de la colère de sa fureur ; alors, assurément, nous ne périrons pas. »",
+          "name": "Jonas 3:9",
+          "chapter": "3"
+        },
+        {
+          "verse": "10",
+          "text": "Et Dieu vit leurs œuvres ; Il vit qu'ils revenaient de leurs voies coupables ; et Dieu se repentit du mal qu'Il avait voulu leur faire, et Il ne le leur fit pas.",
+          "grec": "καὶ εἶδεν ὁ θεὸς τὰ ἔργα αὐτῶν ὅτι ἀπέστρεψαν ἀπὸ τῶν ὁδῶν αὐτῶν τῶν πονηρῶν καὶ μετενόησεν ὁ θεὸς ἐπὶ τῇ κακίᾳ ᾗ ἐλάλησεν τοῦ ποιῆσαι αὐτοῖς καὶ οὐκ ἐποίησεν.",
+          "alexandrie": "Et Dieu vit leurs actions : ils s’étaient détournés de leurs routes mauvaises, et Dieu se ravisa pour le mal qu’il avait dit qu’il leur ferait, et il ne le fit pas.",
+          "name": "Jonas 3:10",
+          "chapter": "3"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "name": "Jonas 4",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et Jonas fut affligé d'une grande tristesse, et il fut confondu,",
+          "grec": "καὶ ἐλυπήθη Ιωνας λύπην μεγάλην καὶ συνεχύθη.",
+          "alexandrie": "Et Jonas fut peiné d’une grande peine et tout confondu.",
+          "name": "Jonas 4:1",
+          "chapter": "4"
+        },
+        {
+          "verse": "2",
+          "text": "Et il pria le Seigneur, et il dit : Seigneur, n'est-ce pas là ce que je disais, quand j'étais encore en mon pays ? je m'étais hâté de fuir à Tharsis, parce que je te sais plein de clémence et de compassion, patient et abondant en miséricorde, et que tu te repens du mal que tu voulais faire aux hommes.",
+          "grec": "καὶ προσεύξατο πρὸς κύριον καὶ εἶπεν ὦ κύριε οὐχ οὗτοι οἱ λόγοι μου ἔτι ὄντος μου ἐν τῇ γῇ μου διὰ τοῦτο προέφθασα τοῦ φυγεῖν εἰς Θαρσις διότι ἔγνων ὅτι σὺ ἐλεήμων καὶ οἰκτίρμων μακρόθυμος καὶ πολυέλεος καὶ μετανοῶν ἐπὶ ταῖς κακίαις.",
+          "alexandrie": "Et il adressa une prière au Seigneur et dit : « Ô Seigneur, n’étaient-ce pas là mes paroles quand j’étais encore dans mon pays ? Voici pourquoi j’ai pris les devants pour fuir vers Tharsis : j’ai reconnu que tu es enclin à la pitié et à la miséricorde, lon-ganime et de grande pitié, et prêt à te raviser devant les malheurs.",
+          "name": "Jonas 4:2",
+          "chapter": "4"
+        },
+        {
+          "verse": "3",
+          "text": "Maintenant donc, Seigneur mon maître, prends-moi ma vie ; car il vaut mieux pour moi mourir que vivre.",
+          "grec": "καὶ νῦν δέσποτα κύριε λαβὲ τὴν ψυχήν μου ἀπ' ἐμοῦ ὅτι καλὸν τὸ ἀποθανεῖν με ἢ ζῆν με.",
+          "alexandrie": "Et maintenant, Seigneur Maître, prends-moi ma vie, car il est bon que je meure plutôt que de vivre. »",
+          "name": "Jonas 4:3",
+          "chapter": "4"
+        },
+        {
+          "verse": "4",
+          "text": "Et le Seigneur dit à Jonas : Pourquoi es-tu si vivement contristé ?",
+          "grec": "καὶ εἶπεν κύριος πρὸς Ιωναν εἰ σφόδρα λελύπησαι σύ.",
+          "alexandrie": "Et le Seigneur dit à Jonas : « Te voilà fort peiné ?»",
+          "name": "Jonas 4:4",
+          "chapter": "4"
+        },
+        {
+          "verse": "5",
+          "text": "Et Jonas sortit de Ninive, et il s'assit en face de la ville, et là il se fit une tente et il s'y établit, jusqu'à ce qu'il eut vu de loin ce qui arriverait à la ville.",
+          "grec": "καὶ ἐξῆλθεν Ιωνας ἐκ τῆς πόλεως καὶ ἐκάθισεν ἀπέναντι τῆς πόλεως καὶ ἐποίησεν ἑαυτῷ ἐκεῖ σκηνὴν καὶ ἐκάθητο ὑποκάτω αὐτῆς ἐν σκιᾷ ἕως οὗ ἀπίδῃ τί ἔσται τῇ πόλει.",
+          "alexandrie": "Et Jonas sortit de la ville et s’assit en face de la ville ; et il se fit là une cabane et il y restait assis, à l’ombre, attendant de voir ce qu’il arriverait à la ville.",
+          "name": "Jonas 4:5",
+          "chapter": "4"
+        },
+        {
+          "verse": "6",
+          "text": "Et le Seigneur Dieu donna ordre à une gourde, et sa tige et ses feuilles montèrent au-dessus de la tête de Jonas pour l'ombrager et le préserver de tout mal. Et Jonas eut une grande joie de cette gourde.",
+          "grec": "καὶ προσέταξεν κύριος ὁ θεὸς κολοκύνθῃ καὶ ἀνέβη ὑπὲρ κεφαλῆς τοῦ Ιωνα τοῦ εἶναι σκιὰν ὑπεράνω τῆς κεφαλῆς αὐτοῦ τοῦ σκιάζειν αὐτῷ ἀπὸ τῶν κακῶν αὐτοῦ καὶ ἐχάρη Ιωνας ἐπὶ τῇ κολοκύνθῃ χαρὰν μεγάλην.",
+          "alexandrie": "Et le Seigneur Dieu donna ordre à une coloquinte, et elle s’éleva au-dessus de la tête de Jonas, pour qu’il y eût de l’ombre sur sa tête, afin de lui faire une ombre contre ses maux ; et Jonas se réjouit de cette coloquinte avec grande joie.",
+          "name": "Jonas 4:6",
+          "chapter": "4"
+        },
+        {
+          "verse": "7",
+          "text": "Et Dieu donna ordre dès l'aurore à un ver qui rongea la gourde, et elle se dessécha.",
+          "grec": "καὶ προσέταξεν ὁ θεὸς σκώληκι ἑωθινῇ τῇ ἐπαύριον καὶ ἐπάταξεν τὴν κολόκυνθαν καὶ ἀπεξηράνθη.",
+          "alexandrie": "Et Dieu donna ordre à un ver, le lendemain à l’aube, il attaqua la coloquinte et elle se dessécha.",
+          "name": "Jonas 4:7",
+          "chapter": "4"
+        },
+        {
+          "verse": "8",
+          "text": "Et il arriva, aux premiers rayons du soleil, que Dieu donna ordre à un vent chaud et ardent, et le soleil frappa sur la tête de Jonas, et celui-ci défaillit, et il désespéra de sa vie, et il dit : Mieux vaut pour moi mourir que vivre.",
+          "grec": "καὶ ἐγένετο ἅμα τῷ ἀνατεῖλαι τὸν ἥλιον καὶ προσέταξεν ὁ θεὸς πνεύματι καύσωνος συγκαίοντι καὶ ἐπάταξεν ὁ ἥλιος ἐπὶ τὴν κεφαλὴν Ιωνα καὶ ὠλιγοψύχησεν καὶ ἀπελέγετο τὴν ψυχὴν αὐτοῦ καὶ εἶπεν καλόν μοι ἀποθανεῖν με ἢ ζῆν.",
+          "alexandrie": "Et il arriva qu’au lever du soleil, alors Dieu donna ordre à un souffle de sirocco brûlant, et le soleil s’attaqua à la tête de Jonas ; et son âme défaillit, il renonça à son âme et dit : « Il est bon que je meure plutôt que de vivre. »",
+          "name": "Jonas 4:8",
+          "chapter": "4"
+        },
+        {
+          "verse": "9",
+          "text": "Et le Seigneur dit à Jonas : Est-ce à cause de la gourde que tu es si fortement contristé ? Et il répondit : je suis triste jusqu'à la mort.",
+          "grec": "καὶ εἶπεν ὁ θεὸς πρὸς Ιωναν εἰ σφόδρα λελύπησαι σὺ ἐπὶ τῇ κολοκύνθῃ καὶ εἶπεν σφόδρα λελύπημαι ἐγὼ ἕως θανάτου.",
+          "alexandrie": "Et Dieu dit à Jonas : « Te voilà fort peiné à cause de la coloquinte ? » Et il dit : « Oui, me voilà fort peiné, jusqu’à la mort. »",
+          "name": "Jonas 4:9",
+          "chapter": "4"
+        },
+        {
+          "verse": "10",
+          "text": "Et le Seigneur dit : tu as grande pitié pour une gourde qui ne t'avait donné aucune peine, que tu n'avais point cultivé, qui était venue en une nuit, et qui en une nuit a été détruite.",
+          "grec": "καὶ εἶπεν κύριος σὺ ἐφείσω ὑπὲρ τῆς κολοκύνθης ὑπὲρ ἧς οὐκ ἐκακοπάθησας ἐπ' αὐτὴν καὶ οὐκ ἐξέθρεψας αὐτήν ἣ ἐγενήθη ὑπὸ νύκτα καὶ ὑπὸ νύκτα ἀπώλετο.",
+          "alexandrie": "Et le Seigneur dit : « Toi, tu voulais conserver la coloquinte, pour laquelle tu n’as eu aucune peine, et tu ne l’as pas nourrie, elle qui est née en une nuit et a péri en une nuit ;",
+          "name": "Jonas 4:10",
+          "chapter": "4"
+        },
+        {
+          "verse": "11",
+          "text": "Et moi, je n'épargnerai pas Ninive la grande ville, où demeurent plus de douze myriades d'hommes, qui ne savent pas distinguer leur main droite de leur main gauche ; et des troupeaux si nombreux !",
+          "grec": "ἐγὼ δὲ οὐ φείσομαι ὑπὲρ Νινευη τῆς πόλεως τῆς μεγάλης ἐν ᾗ κατοικοῦσιν πλείους ἢ δώδεκα μυριάδες ἀνθρώπων οἵτινες οὐκ ἔγνωσαν δεξιὰν αὐτῶν ἢ ἀριστερὰν αὐτῶν καὶ κτήνη πολλά.",
+          "alexandrie": "et moi, je n’épargnerai pas Ninive la grande ville, où habitent plus de douze myriades d’hommes, qui ne connaissent pas leur droite de leur gauche, et des bêtes en grand nombre ? »",
+          "name": "Jonas 4:11",
+          "chapter": "4"
+        }
+      ]
+    }
+  ]
+}

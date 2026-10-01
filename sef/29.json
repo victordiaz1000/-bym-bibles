@@ -1,0 +1,620 @@
+{
+  "translation": "Septuaginta (Rahlfs) — traductions françaises de Giguet et d'Alexandrie",
+  "abbreviation": "SEF",
+  "lang": "fr",
+  "language": "français (avec le grec de la Septante)",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "nr": 29,
+  "name": "Joël",
+  "chapters": [
+    {
+      "chapter": 1,
+      "name": "Joël 1",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Parole du Seigneur qui vint à Joël, fils de Bathuel.",
+          "grec": "λόγος κυρίου ὃς ἐγενήθη πρὸς Ιωηλ τὸν τοῦ Βαθουηλ.",
+          "alexandrie": "Parole du Seigneur qui fut adressée à Joël, fils de Bathouël.",
+          "name": "Joël 1:1",
+          "chapter": "1"
+        },
+        {
+          "verse": "2",
+          "text": "Écoutez ce que je vais dire, vieillards ; prêtez l'oreille, vous tous qui habitez la terre : Est-il rien arrivé de pareil, soit de nos jours, soit du temps de nos pères ?",
+          "grec": "ἀκούσατε δὴ ταῦτα οἱ πρεσβύτεροι καὶ ἐνωτίσασθε πάντες οἱ κατοικοῦντες τὴν γῆν εἰ γέγονεν τοιαῦτα ἐν ταῖς ἡμέραις ὑμῶν ἢ ἐν ταῖς ἡμέραις τῶν πατέρων ὑμῶν.",
+          "alexandrie": "Écoutez ceci, les anciens, et prêtez l’oreille, vous tous qui habitez la terre : est-il rien arrivé de pareil en vos jours ou dans les jours de vos pères ?",
+          "name": "Joël 1:2",
+          "chapter": "1"
+        },
+        {
+          "verse": "3",
+          "text": "Plus que vos pères, vous aurez à raconter à vos enfants, et plus encore vos enfants à leurs enfants, et ceux-ci plus encore à la génération suivante.",
+          "grec": "ὑπὲρ αὐτῶν τοῖς τέκνοις ὑμῶν διηγήσασθε καὶ τὰ τέκνα ὑμῶν τοῖς τέκνοις αὐτῶν καὶ τὰ τέκνα αὐτῶν εἰς γενεὰν ἑτέραν.",
+          "alexandrie": "Faites-en le récit à vos enfants, vos enfants à leurs enfants, et leurs enfants à la génération suivante.",
+          "name": "Joël 1:3",
+          "chapter": "1"
+        },
+        {
+          "verse": "4",
+          "text": "La sauterelle a dévoré ce qu'avait laissé la chenille ; la grosse sauterelle a dévoré ce qu'avait laissé la sauterelle ; la nielle a dévoré ce qu'avait laissé la grosse sauterelle.",
+          "grec": "τὰ κατάλοιπα τῆς κάμπης κατέφαγεν ἡ ἀκρίς καὶ τὰ κατάλοιπα τῆς ἀκρίδος κατέφαγεν ὁ βροῦχος καὶ τὰ κατάλοιπα τοῦ βρούχου κατέφαγεν ἡ ἐρυσίβη.",
+          "alexandrie": "Ce que la chenille a laissé, la sauterelle l’a dévoré, ce que la sauterelle a laissé, la bruche l’a dévoré, ce que la bruche a laissé, la nielle l’a dévoré.",
+          "name": "Joël 1:4",
+          "chapter": "1"
+        },
+        {
+          "verse": "5",
+          "text": "Réveillez-vous, ô vous qui vous enivrez de votre vin, et pleurez. Lamentez-vous, ô vous qui buvez du vin jusqu'à l'ivresse ; car la gaieté et la joie sont ôtées de vos lèvres.",
+          "grec": "ἐκνήψατε οἱ μεθύοντες ἐξ οἴνου αὐτῶν καὶ κλαύσατε θρηνήσατε πάντες οἱ πίνοντες οἶνον εἰς μέθην ὅτι ἐξῆρται ἐκ στόματος ὑμῶν εὐφροσύνη καὶ χαρά.",
+          "alexandrie": "Dégrisez-vous, vous qui êtes ivres, [de leur vin,] et pleurez. Lamentez-vous, vous tous qui buvez du vin jusqu’à l’ivresse, car sont arrachées de votre bouche allégresse et joie.",
+          "name": "Joël 1:5",
+          "chapter": "1"
+        },
+        {
+          "verse": "6",
+          "text": "Une nation puissante et innombrable est montée sur ma terre ; ses dents sont des dents de lion, et ses mâchoires des mâchoires de lionceaux.",
+          "grec": "ὅτι ἔθνος ἀνέβη ἐπὶ τὴν γῆν μου ἰσχυρὸν καὶ ἀναρίθμητον οἱ ὀδόντες αὐτοῦ ὀδόντες λέοντος καὶ αἱ μύλαι αὐτοῦ σκύμνου.",
+          "alexandrie": "Car une nation est montée contre ma terre, forte et innombrable ; ses dents sont des dents de lion et ses molaires d’un lionceau.",
+          "name": "Joël 1:6",
+          "chapter": "1"
+        },
+        {
+          "verse": "7",
+          "text": "Elle a rasé ma vigne, elle a brisé mon figuier, elle a cherché ma vigne et l'a tout arrachée ; elle a pelé les rameaux de mon figuier.",
+          "grec": "ἔθετο τὴν ἄμπελόν μου εἰς ἀφανισμὸν καὶ τὰς συκᾶς μου εἰς συγκλασμόν ἐρευνῶν ἐξηρεύνησεν αὐτὴν καὶ ἔρριψεν ἐλεύκανεν κλήματα αὐτῆς.",
+          "alexandrie": "Elle a livré ma vigne à l’anéantissement et mes figuiers au saccage. Cherchant, elle l’a cherchée et l’a jetée à terre ; ses sarments ont blanchi.",
+          "name": "Joël 1:7",
+          "chapter": "1"
+        },
+        {
+          "verse": "8",
+          "text": "Pleurez avec moi, plus que la jeune femme ceinte d'un cilice ne pleure l'époux de sa virginité.",
+          "grec": "θρήνησον πρός με ὑπὲρ νύμφην περιεζωσμένην σάκκον ἐπὶ τὸν ἄνδρα αὐτῆς τὸν παρθενικόν.",
+          "alexandrie": "Lamente-toi en t’adressant à moi, plus qu’une jeune mariée ceinte de l’habit de deuil, sur son époux, l’homme de sa jeunesse.",
+          "name": "Joël 1:8",
+          "chapter": "1"
+        },
+        {
+          "verse": "9",
+          "text": "La victime et les libations ont été enlevées du temple du Seigneur ; pleurez, prêtres, qui serviez l'autel du Seigneur ;",
+          "grec": "ἐξῆρται θυσία καὶ σπονδὴ ἐξ οἴκου κυρίου πενθεῖτε οἱ ἱερεῖς οἱ λειτουργοῦντες θυσιαστηρίῳ.",
+          "alexandrie": "Sacrifice et libation sont arrachés de la maison du Seigneur. Soyez en deuil, vous les prêtres qui servez à l’autel,",
+          "name": "Joël 1:9",
+          "chapter": "1"
+        },
+        {
+          "verse": "10",
+          "text": "Car les champs sont désolés. Que la terre soit en deuil, car le blé manque, les sources du vin sont desséchées, l'olivier est stérile,",
+          "grec": "ὅτι τεταλαιπώρηκεν τὰ πεδία πενθείτω ἡ γῆ ὅτι τεταλαιπώρηκεν σῖτος ἐξηράνθη οἶνος ὠλιγώθη ἔλαιον.",
+          "alexandrie": "car voilà les plaines devenues misérables ; que la terre soit en deuil, car voilà le blé devenu misérable, le vin a séché, l’huile a diminué.",
+          "name": "Joël 1:10",
+          "chapter": "1"
+        },
+        {
+          "verse": "11",
+          "text": "Les laboureurs sont épuisés. Pleurez vos richesses, votre froment, votre orge ; car dans les champs la récolte a péri.",
+          "grec": "ἐξηράνθησαν οἱ γεωργοί θρηνεῖτε κτήματα ὑπὲρ πυροῦ καὶ κριθῆς ὅτι ἀπόλωλεν τρυγητὸς ἐξ ἀγροῦ.",
+          "alexandrie": "Les laboureurs ont séché ; lamentez-vous, domaines, sur le blé et sur l’orge, car a péri la récolte que donnaient les champs.",
+          "name": "Joël 1:11",
+          "chapter": "1"
+        },
+        {
+          "verse": "12",
+          "text": "La vigne a été desséchée, les figuiers ont perdu leur fertilité ; le grenadier, le palmier, le pommier, tous les arbres fruitiers de la campagne sont morts, parce que les fils des hommes sont confondus dans leur joie.",
+          "grec": "ἡ ἄμπελος ἐξηράνθη καὶ αἱ συκαῖ ὠλιγώθησαν ῥόα καὶ φοῖνιξ καὶ μῆλον καὶ πάντα τὰ ξύλα τοῦ ἀγροῦ ἐξηράνθησαν ὅτι ᾔσχυναν χαρὰν οἱ υἱοὶ τῶν ἀνθρώπων.",
+          "alexandrie": "La vigne a séché et les figuiers sont fanés ; grenadier, palmier, pommier, et tous les arbres des champs ont séché, car les fils des hommes ont déshonoré la joie.",
+          "name": "Joël 1:12",
+          "chapter": "1"
+        },
+        {
+          "verse": "13",
+          "text": "Prêtres, ceignez-vous, frappez-vous la poitrine ; pleurez, vous qui servez à l'autel. Entrez et dormez avec vos cilices, ministres de Dieu, parce que les victimes et les libations sont ravies au temple de Dieu.",
+          "grec": "περιζώσασθε καὶ κόπτεσθε οἱ ἱερεῖς θρηνεῖτε οἱ λειτουργοῦντες θυσιαστηρίῳ εἰσέλθατε ὑπνώσατε ἐν σάκκοις λειτουργοῦντες θεῷ ὅτι ἀπέσχηκεν ἐξ οἴκου θεοῦ ὑμῶν θυσία καὶ σπονδή.",
+          "alexandrie": "Ceignez-vous, frappez-vous, vous les prêtres, lamentez-vous, vous qui servez à l’autel ; entrez, dormez dans vos habits de deuil, vous qui servez Dieu, car se sont retirés de la maison de votre Dieu sacrifice et libation.",
+          "name": "Joël 1:13",
+          "chapter": "1"
+        },
+        {
+          "verse": "14",
+          "text": "Sanctifiez le jeûne, proclamez le service du Seigneur ; rassemblez dans le temple de notre Dieu les anciens de tout le peuple de la terre, et criez sans relâche au Seigneur",
+          "grec": "ἁγιάσατε νηστείαν κηρύξατε θεραπείαν συναγάγετε πρεσβυτέρους πάντας κατοικοῦντας γῆν εἰς οἶκον θεοῦ ὑμῶν καὶ κεκράξατε πρὸς κύριον ἐκτενῶς.",
+          "alexandrie": "Sanctifiez un jeûne, proclamez un culte, réunissez les anciens, tous ceux qui habitent la terre, dans la maison de votre Dieu, et criez vers le Seigneur avec force.",
+          "name": "Joël 1:14",
+          "chapter": "1"
+        },
+        {
+          "verse": "15",
+          "text": "Malheur, malheur, malheur en ce jour ! Car le jour du Seigneur approche, et il viendra comme une calamité naissant d'une calamité.",
+          "grec": "οἴμμοι οἴμμοι οἴμμοι εἰς ἡμέραν ὅτι ἐγγὺς ἡμέρα κυρίου καὶ ὡς ταλαιπωρία ἐκ ταλαιπωρίας ἥξει.",
+          "alexandrie": "Hélas ! Hélas ! Hélas ! pour le jour, car proche est le jour du Seigneur et, telle misère de misère, il sera là.",
+          "name": "Joël 1:15",
+          "chapter": "1"
+        },
+        {
+          "verse": "16",
+          "text": "Sous vos yeux, votre subsistance a été détruite ; et les réjouissances et la joie ont disparu du temple de votre Dieu.",
+          "grec": "κατέναντι τῶν ὀφθαλμῶν ὑμῶν βρώματα ἐξωλεθρεύθη ἐξ οἴκου θεοῦ ὑμῶν εὐφροσύνη καὶ χαρά.",
+          "alexandrie": "Devant nos yeux les aliments ont été détruits, bannies de la maison de notre Dieu, allégresse et joie.",
+          "name": "Joël 1:16",
+          "chapter": "1"
+        },
+        {
+          "verse": "17",
+          "text": "Les génisses ont bondi devant leurs crèches vides ; les trésors de vos granges sont dissipés ; les pressoirs sont détruits ; les froments desséchés.",
+          "grec": "ἐσκίρτησαν δαμάλεις ἐπὶ ταῖς φάτναις αὐτῶν ἠφανίσθησαν θησαυροί κατεσκάφησαν ληνοί ὅτι ἐξηράνθη σῖτος.",
+          "alexandrie": "Les génisses près de leurs mangeoires ont bondi, les réserves ont été anéanties, les auges ont été renversées, car le froment a séché.",
+          "name": "Joël 1:17",
+          "chapter": "1"
+        },
+        {
+          "verse": "18",
+          "text": "Que mettrons-nous en réserve pour nous ? Les bœufs du troupeau ont mugi, parce qu'ils n'avaient plus de pâturage, et les petits des agneaux ont entièrement péri.",
+          "grec": "τί ἀποθήσομεν ἑαυτοῖς ἔκλαυσαν βουκόλια βοῶν ὅτι οὐχ ὑπῆρχεν νομὴ αὐτοῖς καὶ τὰ ποίμνια τῶν προβάτων ἠφανίσθησαν.",
+          "alexandrie": "Qu’y mettrons-nous de côté ? Les troupeaux de bœufs ont pleuré, car il n’y avait plus pour eux de pâture, et les troupeaux de moutons ont été anéantis.",
+          "name": "Joël 1:18",
+          "chapter": "1"
+        },
+        {
+          "verse": "19",
+          "text": "Je crierai vers Toi, Seigneur ; car le feu a consumé les beautés du désert, et la flamme tous les arbres des champs.",
+          "grec": "πρὸς σέ κύριε βοήσομαι ὅτι πῦρ ἀνήλωσεν τὰ ὡραῖα τῆς ἐρήμου καὶ φλὸξ ἀνῆψεν πάντα τὰ ξύλα τοῦ ἀγροῦ.",
+          "alexandrie": "Vers toi, Seigneur, je crierai, car le feu a consumé la floraison du désert et la flamme a brûlé tous les arbres des champs.",
+          "name": "Joël 1:19",
+          "chapter": "1"
+        },
+        {
+          "verse": "20",
+          "text": "Et les bêtes de la plaine ont tourné les yeux vers Toi, parce que les cours d'eau étaient à sec, et que le feu a dévoré les beautés du désert.",
+          "grec": "καὶ τὰ κτήνη τοῦ πεδίου ἀνέβλεψαν πρὸς σέ ὅτι ἐξηράνθησαν ἀφέσεις ὑδάτων καὶ πῦρ κατέφαγεν τὰ ὡραῖα τῆς ἐρήμου.",
+          "alexandrie": "Et les bêtes de la plaine ont levé les yeux vers toi, car les cours d’eau ont séché, et le feu a dévoré la floraison du désert.",
+          "name": "Joël 1:20",
+          "chapter": "1"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "name": "Joël 2",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Sonnez de la trompette du haut de Sion, publiez à grands cris sur la montagne sainte ; et que tous ceux qui habitent la terre soient confondus, parce que voilà le jour du Seigneur ; il est près de vous,",
+          "grec": "σαλπίσατε σάλπιγγι ἐν Σιων κηρύξατε ἐν ὄρει ἁγίῳ μου καὶ συγχυθήτωσαν πάντες οἱ κατοικοῦντες τὴν γῆν διότι πάρεστιν ἡμέρα κυρίου ὅτι ἐγγύς.",
+          "alexandrie": "Sonnez de la trompette à Sion, proclamez sur ma montagne sainte, et que tous ceux qui habitent la terre soient bouleversés, parce qu’il est là le jour du Seigneur, car proche est",
+          "name": "Joël 2:1",
+          "chapter": "2"
+        },
+        {
+          "verse": "2",
+          "text": "Ce jour d'obscurité et de ténèbres, ce jour de nuées et de brouillards. Un peuple nombreux et puissant va se répandre sur les montagnes, comme la lumière du matin ; jamais, dans les temps passés, on n'a vu son pareil, et après lui on n'en verra point de semblable durant les années, de générations en générations.",
+          "grec": "ἡμέρα σκότους καὶ γνόφου ἡμέρα νεφέλης καὶ ὁμίχλης ὡς ὄρθρος χυθήσεται ἐπὶ τὰ ὄρη λαὸς πολὺς καὶ ἰσχυρός ὅμοιος αὐτῷ οὐ γέγονεν ἀπὸ τοῦ αἰῶνος καὶ μετ' αὐτὸν οὐ προστεθήσεται ἕως ἐτῶν εἰς γενεὰς γενεῶν.",
+          "alexandrie": "le jour d’obscurité et de ténèbre, jour de nuée et de brouillard. Telle l’aurore, se répandra sur les montagnes un peuple nombreux et fort ; de semblable à lui il n’y en a pas eu de toute éternité et, après lui, il n’en sera pas ajouté jusqu’aux années qui durent de générations en générations.",
+          "name": "Joël 2:2",
+          "chapter": "2"
+        },
+        {
+          "verse": "3",
+          "text": "Ce qui marche devant lui est un feu dévorant ; ce qui marche à sa suite est une flamme ardente. La terre, avant qu'il arrive, était comme un jardin de délices ; quand il fut passé, c'était un champ désert, et nul ne lui échappera.",
+          "grec": "τὰ ἔμπροσθεν αὐτοῦ πῦρ ἀναλίσκον καὶ τὰ ὀπίσω αὐτοῦ ἀναπτομένη φλόξ ὡς παράδεισος τρυφῆς ἡ γῆ πρὸ προσώπου αὐτοῦ καὶ τὰ ὄπισθεν αὐτοῦ πεδίον ἀφανισμοῦ καὶ ἀνασῳζόμενος οὐκ ἔσται αὐτῷ.",
+          "alexandrie": "Ses avants, un feu consumant ; et ses arrières, une flamme allumée ; la terre devant sa face, tel un jardin de délices ; et derrière lui, une plaine d’anéantissement, et il n’y a personne qui sera sauvé.",
+          "name": "Joël 2:3",
+          "chapter": "2"
+        },
+        {
+          "verse": "4",
+          "text": "Ils apparaîtront comme une vision de chevaux ; ils courront comme des cavaliers.",
+          "grec": "ὡς ὅρασις ἵππων ἡ ὄψις αὐτῶν καὶ ὡς ἱππεῖς οὕτως καταδιώξονται.",
+          "alexandrie": "Tel l’aspect de chevaux, tel leur aspect, et tels des cavaliers, ainsi ils mèneront la poursuite.",
+          "name": "Joël 2:4",
+          "chapter": "2"
+        },
+        {
+          "verse": "5",
+          "text": "Ils s'élanceront sur les cimes des montagnes, comme un bruit de chars, comme un bruit de flammes dévorant des maisons, comme un peuple puissant et nombreux se rangeant en bataille.",
+          "grec": "ὡς φωνὴ ἁρμάτων ἐπὶ τὰς κορυφὰς τῶν ὀρέων ἐξαλοῦνται καὶ ὡς φωνὴ φλογὸς πυρὸς κατεσθιούσης καλάμην καὶ ὡς λαὸς πολὺς καὶ ἰσχυρὸς παρατασσόμενος εἰς πόλεμον.",
+          "alexandrie": "Tel un bruit de chars sur les cimes des monts, ils s’élanceront, tel un bruit de flamme de feu qui dévore du chaume, et tel un peuple nombreux et fort qui se range pour la guerre.",
+          "name": "Joël 2:5",
+          "chapter": "2"
+        },
+        {
+          "verse": "6",
+          "text": "Devant leur force, les peuples seront broyés ; tout visage sera comme le côté brûlé d'une chaudière.",
+          "grec": "ἀπὸ προσώπου αὐτοῦ συντριβήσονται λαοί πᾶν πρόσωπον ὡς πρόσκαυμα χύτρας.",
+          "alexandrie": "Devant sa face, des peuples seront brisés : tout visage tel un fond de marmite.",
+          "name": "Joël 2:6",
+          "chapter": "2"
+        },
+        {
+          "verse": "7",
+          "text": "Ils courront comme des combattants ; ils escaladeront les murailles comme des hommes de guerre ; et chacun d'eux marchera dans sa voie, et ils ne dévieront pas de leurs sentiers ;",
+          "grec": "ὡς μαχηταὶ δραμοῦνται καὶ ὡς ἄνδρες πολεμισταὶ ἀναβήσονται ἐπὶ τὰ τείχη καὶ ἕκαστος ἐν τῇ ὁδῷ αὐτοῦ πορεύσεται καὶ οὐ μὴ ἐκκλίνωσιν τὰς τρίβους αὐτῶν.",
+          "alexandrie": "Tels des combattants ils courront ; et tels des guerriers ils monteront sur les remparts, ils chemineront chacun sur sa route, assurément ils ne dévieront pas de leur chemin,",
+          "name": "Joël 2:7",
+          "chapter": "2"
+        },
+        {
+          "verse": "8",
+          "text": "Et nul ne s'écartera de son frère ; ils marcheront chargés de leurs armes ; ils tomberont avec leurs traits, et ils ne seront pas détruits.",
+          "grec": "καὶ ἕκαστος ἀπὸ τοῦ ἀδελφοῦ αὐτοῦ οὐκ ἀφέξεται καταβαρυνόμενοι ἐν τοῖς ὅπλοις αὐτῶν πορεύσονται καὶ ἐν τοῖς βέλεσιν αὐτῶν πεσοῦνται καὶ οὐ μὴ συντελεσθῶσιν.",
+          "alexandrie": "et nul ne s’éloignera de son frère ; alourdis par leurs armes, ils chemineront ; par leurs projectiles ils tomberont et assurément ils n’arriveront pas au bout.",
+          "name": "Joël 2:8",
+          "chapter": "2"
+        },
+        {
+          "verse": "9",
+          "text": "Ils prendront la ville ; ils courront sur les remparts ; ils monteront sur les maisons ; ils entreront comme des larrons par les fenêtres.",
+          "grec": "τῆς πόλεως ἐπιλήμψονται καὶ ἐπὶ τῶν τειχέων δραμοῦνται καὶ ἐπὶ τὰς οἰκίας ἀναβήσονται καὶ διὰ θυρίδων εἰσελεύσονται ὡς κλέπται.",
+          "alexandrie": "Ils s’empareront de la ville, ils courront sur les remparts, ils monteront sur les maisons, et par les fenêtres ils entreront comme des voleurs.",
+          "name": "Joël 2:9",
+          "chapter": "2"
+        },
+        {
+          "verse": "10",
+          "text": "Devant leur face, la terre sera confondue, et le ciel tremblera, le soleil et la lune seront voilés de ténèbres, et les étoiles retireront leur lumière.",
+          "grec": "πρὸ προσώπου αὐτῶν συγχυθήσεται ἡ γῆ καὶ σεισθήσεται ὁ οὐρανός ὁ ἥλιος καὶ ἡ σελήνη συσκοτάσουσιν καὶ τὰ ἄστρα δύσουσιν τὸ φέγγος αὐτῶν.",
+          "alexandrie": "Devant leur face, la terre sera bouleversée et le ciel sera ébranlé ; le soleil et la lune s’obscurciront et les astres enfouiront leur éclat.",
+          "name": "Joël 2:10",
+          "chapter": "2"
+        },
+        {
+          "verse": "11",
+          "text": "Et le Seigneur fera entendre sa voix devant son armée, car son camp est très nombreux, et les œuvres qui accomplissent ses paroles sont puissantes, et le jour du Seigneur est un grand jour : il est éclatant ; et qui sera capable de le soutenir ?",
+          "grec": "καὶ κύριος δώσει φωνὴν αὐτοῦ πρὸ προσώπου δυνάμεως αὐτοῦ ὅτι πολλή ἐστιν σφόδρα ἡ παρεμβολὴ αὐτοῦ ὅτι ἰσχυρὰ ἔργα λόγων αὐτοῦ διότι μεγάλη ἡ ἡμέρα τοῦ κυρίου μεγάλη καὶ ἐπιφανὴς σφόδρα καὶ τίς ἔσται ἱκανὸς αὐτῇ.",
+          "alexandrie": "Et le Seigneur donnera de sa voix devant la face de son armée, car son camp est extrêmement nombreux, car les œuvres de ses paroles sont fortes. Parce qu’il est grand le jour du Seigneur, grand et éclatant, extrêmement, et qui sera à sa mesure ?",
+          "name": "Joël 2:11",
+          "chapter": "2"
+        },
+        {
+          "verse": "12",
+          "text": "Et maintenant le Seigneur Dieu vous dit : Convertissez-vous à moi de toute votre ; âme ; jeûnez, pleurez, frappez-vous la poitrine.",
+          "grec": "καὶ νῦν λέγει κύριος ὁ θεὸς ὑμῶν ἐπιστράφητε πρός με ἐξ ὅλης τῆς καρδίας ὑμῶν καὶ ἐν νηστείᾳ καὶ ἐν κλαυθμῷ καὶ ἐν κοπετῷ.",
+          "alexandrie": "Et maintenant le Seigneur votre Dieu dit : Tournez-vous vers moi de tout votre cœur, par le jeûne, par les pleurs et par les coups sur la poitrine.",
+          "name": "Joël 2:12",
+          "chapter": "2"
+        },
+        {
+          "verse": "13",
+          "text": "Déchirez vos cœurs, et non vos vêtements. Et convertissez-vous au Seigneur votre Dieu, parce qu'Il est plein de clémence et de compassion, patient, abondant en miséricorde, et repentant des maux qu'Il fait en punissant.",
+          "grec": "καὶ διαρρήξατε τὰς καρδίας ὑμῶν καὶ μὴ τὰ ἱμάτια ὑμῶν καὶ ἐπιστράφητε πρὸς κύριον τὸν θεὸν ὑμῶν ὅτι ἐλεήμων καὶ οἰκτίρμων ἐστίν μακρόθυμος καὶ πολυέλεος καὶ μετανοῶν ἐπὶ ταῖς κακίαις.",
+          "alexandrie": "Déchirez vos cœurs et non vos vêtements et tournez-vous vers le Seigneur votre Dieu, car il est enclin à la pitié et à la miséricorde, longamme et de grande pitié, et prêt à se raviser devant les malheurs.",
+          "name": "Joël 2:13",
+          "chapter": "2"
+        },
+        {
+          "verse": "14",
+          "text": "Qui sait s'Il ne se repentira pas, s'Il ne laissera pas après Lui des bénédictions, des offrandes et des libations pour le Seigneur votre Dieu.",
+          "grec": "τίς οἶδεν εἰ ἐπιστρέψει καὶ μετανοήσει καὶ ὑπολείψεται ὀπίσω αὐτοῦ εὐλογίαν θυσίαν καὶ σπονδὴν κυρίῳ τῷ θεῷ ἡμῶν.",
+          "alexandrie": "Qui sait ? Peut-être qu’il se tournera, se ravisera et laissera derrière lui bénédiction, sacrifice et libation pour le Seigneur votre Dieu ?",
+          "name": "Joël 2:14",
+          "chapter": "2"
+        },
+        {
+          "verse": "15",
+          "text": "Sonnez de la trompette en Sion ; sanctifiez le jeûne ; publiez le service de Dieu ;",
+          "grec": "σαλπίσατε σάλπιγγι ἐν Σιων ἁγιάσατε νηστείαν κηρύξατε θεραπείαν.",
+          "alexandrie": "Sonnez de la trompette à Sion, sanctifiez un jeûne, proclamez un culte,",
+          "name": "Joël 2:15",
+          "chapter": "2"
+        },
+        {
+          "verse": "16",
+          "text": "réunissez le peuple ; sanctifiez l'assemblée ; rassemblez les anciens ; rassemblez les enfants à la mamelle ; que l'époux quitte sa couche, et la femme son lit nuptial.",
+          "grec": "συναγάγετε λαόν ἁγιάσατε ἐκκλησίαν ἐκλέξασθε πρεσβυτέρους συναγάγετε νήπια θηλάζοντα μαστούς ἐξελθάτω νυμφίος ἐκ τοῦ κοιτῶνος αὐτοῦ καὶ νύμφη ἐκ τοῦ παστοῦ αὐτῆς.",
+          "alexandrie": "réunissez le peuple, sanctifiez l’assemblée, accueillez les vieillards, réunissez les petits qui tètent le sein ; que le jeune marié sorte de sa chambre et la jeune mariée de son alcôve.",
+          "name": "Joël 2:16",
+          "chapter": "2"
+        },
+        {
+          "verse": "17",
+          "text": "Que les prêtres qui servent le Seigneur pleurent au pied de l'autel ; qu'ils disent : Seigneur, épargne ton peuple ; ne livre pas ton héritage à l'opprobre ; ne laisse pas les gentils dominer sur lui, de peur que l'on ne dise parmi les nations : Où est leur Dieu ?",
+          "grec": "ἀνὰ μέσον τῆς κρηπῖδος τοῦ θυσιαστηρίου κλαύσονται οἱ ἱερεῖς οἱ λειτουργοῦντες κυρίῳ καὶ ἐροῦσιν φεῖσαι κύριε τοῦ λαοῦ σου καὶ μὴ δῷς τὴν κληρονομίαν σου εἰς ὄνειδος τοῦ κατάρξαι αὐτῶν ἔθνη ὅπως μὴ εἴπωσιν ἐν τοῖς ἔθνεσιν ποῦ ἐστιν ὁ θεὸς αὐτῶν.",
+          "alexandrie": "Entre la dalle et l’autel, les prêtres, qui servent le Seigneur, pleureront et diront : « Épargne, Seigneur, ton peuple ; ne livre pas ton héritage à l’opprobre de la domination des nations sur eux, afin qu’on ne dise pas parmi les nations : “Où est leur Dieu ?” »",
+          "name": "Joël 2:17",
+          "chapter": "2"
+        },
+        {
+          "verse": "18",
+          "text": "Mais le Seigneur a été jaloux de sa terre, et Il a épargné son peuple.",
+          "grec": "καὶ ἐζήλωσεν κύριος τὴν γῆν αὐτοῦ καὶ ἐφείσατο τοῦ λαοῦ αὐτοῦ.",
+          "alexandrie": "Et le Seigneur s’est pris d’un amour jaloux pour sa terre et a épargné son peuple.",
+          "name": "Joël 2:18",
+          "chapter": "2"
+        },
+        {
+          "verse": "19",
+          "text": "Et le Seigneur a parlé, et Il a dit à son peuple : Voilà que je vous enverrai du blé, du vin et de l'huile, et vous vous en rassasierez, et je ne vous livrerai pas plus longtemps aux opprobres des gentils.",
+          "grec": "καὶ ἀπεκρίθη κύριος καὶ εἶπεν τῷ λαῷ αὐτοῦ ἰδοὺ ἐγὼ ἐξαποστέλλω ὑμῖν τὸν σῖτον καὶ τὸν οἶνον καὶ τὸ ἔλαιον καὶ ἐμπλησθήσεσθε αὐτῶν καὶ οὐ δώσω ὑμᾶς οὐκέτι εἰς ὀνειδισμὸν ἐν τοῖς ἔθνεσι.",
+          "alexandrie": "Et le Seigneur a répondu et a dit à son peuple : Voici que moi, je vous envoie le blé, le vin et l’huile, vous en serez repus, et je ne vous livrerai plus à la réprobation parmi les nations.",
+          "name": "Joël 2:19",
+          "chapter": "2"
+        },
+        {
+          "verse": "20",
+          "text": "Et je chasserai loin de vous celui qui est venu de l'aquilon; je le repousserai dans une contrée aride, et je ferai disparaître sa tête dans la première mer, et sa queue dans la dernière; et sa pourriture montera, et son infection s'élèvera; car il s'est glorifié de ses œuvres.",
+          "grec": "καὶ τὸν ἀπὸ βορρᾶ ἐκδιώξω ἀφ' ὑμῶν καὶ ἐξώσω αὐτὸν εἰς γῆν ἄνυδρον καὶ ἀφανιῶ τὸ πρόσωπον αὐτοῦ εἰς τὴν θάλασσαν τὴν πρώτην καὶ τὰ ὀπίσω αὐτοῦ εἰς τὴν θάλασσαν τὴν ἐσχάτην καὶ ἀναβήσεται ἡ σαπρία αὐτοῦ καὶ ἀναβήσεται ὁ βρόμος αὐτοῦ ὅτι ἐμεγάλυνεν τὰ ἔργα αὐτοῦ.",
+          "alexandrie": "Et je chasserai loin de vous celui qui vient du nord, je le repousserai vers une terre sans eau, j’anéantirai son avant-garde vers la mer la plus proche et son arrière-garde vers la mer la plus éloignée, sa putréfaction montera et sa puanteur montera, car il a amplifié ses œuvres.",
+          "name": "Joël 2:20",
+          "chapter": "2"
+        },
+        {
+          "verse": "21",
+          "text": "Rassure-toi, terre; réjouis-toi et tressaille d'allégresse, parce que je Seigneur se glorifie d'agir.",
+          "grec": "θάρσει γῆ χαῖρε καὶ εὐφραίνου ὅτι ἐμεγάλυνεν κύριος τοῦ ποιῆσαι.",
+          "alexandrie": "Courage, terre, réjouis-toi et sois dans l’allégresse, car le Seigneur a amplifié son action.",
+          "name": "Joël 2:21",
+          "chapter": "2"
+        },
+        {
+          "verse": "22",
+          "text": "Rassurez-vous, bêtes des champs, les plaines du désert ont bourgeonné; les arbres ont porté leurs fruits; le figuier et a vigne ont donné toute leur force.",
+          "grec": "θαρσεῖτε κτήνη τοῦ πεδίου ὅτι βεβλάστηκεν πεδία τῆς ἐρήμου ὅτι ξύλον ἤνεγκεν τὸν καρπὸν αὐτοῦ ἄμπελος καὶ συκῆ ἔδωκαν τὴν ἰσχὺν αὐτῶν.",
+          "alexandrie": "Courage, bêtes de la plaine, car les plaines du désert ont bourgeonné, car l’arbre a produit son fruit, la vigne et le figuier ont donné leur force.",
+          "name": "Joël 2:22",
+          "chapter": "2"
+        },
+        {
+          "verse": "23",
+          "text": "Et vous, enfants de Sion, réjouissez-vous, tressaillez d'allégresse dans le Seigneur votre Dieu; Il vous a donné abondance de vivres; Il fera pleuvoir pour vous, comme autrefois, les pluies du printemps et de l'automne.",
+          "grec": "καὶ τὰ τέκνα Σιων χαίρετε καὶ εὐφραίνεσθε ἐπὶ τῷ κυρίῳ θεῷ ὑμῶν διότι ἔδωκεν ὑμῖν τὰ βρώματα εἰς δικαιοσύνην καὶ βρέξει ὑμῖν ὑετὸν πρόιμον καὶ ὄψιμον καθὼς ἔμπροσθεν.",
+          "alexandrie": "Et vous, enfants de Sion, réjouissez-vous et soyez dans l’allégresse à propos du Seigneur votre Dieu, parce qu’il vous a donné la nourriture pour justice, et il fera pleuvoir sur vous la pluie précoce et la pluie tardive comme auparavant,",
+          "name": "Joël 2:23",
+          "chapter": "2"
+        },
+        {
+          "verse": "24",
+          "text": "Et vos granges seront remplies de blé ; et vos pressoirs regorgeront de vin et d'huile",
+          "grec": "καὶ πλησθήσονται αἱ ἅλωνες σίτου καὶ ὑπερεκχυθήσονται αἱ ληνοὶ οἴνου καὶ ἐλαίου.",
+          "alexandrie": "les aires seront emplies de blé et les pressoirs déborderont de vin et d’huile.",
+          "name": "Joël 2:24",
+          "chapter": "2"
+        },
+        {
+          "verse": "25",
+          "text": "Et je vous dédommagerai des ravages que pendant des années ont faits la sauterelle et la grande sauterelle, la nielle et la chenille, ma grande armée que j'ai envoyée contre vous.",
+          "grec": "καὶ ἀνταποδώσω ὑμῖν ἀντὶ τῶν ἐτῶν ὧν κατέφαγεν ἡ ἀκρὶς καὶ ὁ βροῦχος καὶ ἡ ἐρυσίβη καὶ ἡ κάμπη ἡ δύναμίς μου ἡ μεγάλη ἣν ἐξαπέστειλα εἰς ὑμᾶς.",
+          "alexandrie": "Et je vous gratifierai en échange des années dévorées par la sauterelle, la bruche, la nielle et la chenille, la grande armée que j’avais envoyée contre vous.",
+          "name": "Joël 2:25",
+          "chapter": "2"
+        },
+        {
+          "verse": "26",
+          "text": "Et vous mangerez, et vous serez rassasiés, et vous louerez le nom du Seigneur votre Dieu, à cause des prodiges qu'en votre faveur Il aura faits. Et mon peuple ne sera plus humilié.",
+          "grec": "καὶ φάγεσθε ἐσθίοντες καὶ ἐμπλησθήσεσθε καὶ αἰνέσετε τὸ ὄνομα κυρίου τοῦ θεοῦ ὑμῶν ἃ ἐποίησεν μεθ' ὑμῶν εἰς θαυμάσια καὶ οὐ μὴ καταισχυνθῇ ὁ λαός μου εἰς τὸν αἰῶνα.",
+          "alexandrie": "Et vous mangerez à votre faim, vous serez repus et vous louerez le nom du Seigneur votre Dieu, pour ce qu’il a fait chez vous d’admirable, et assurément mon peuple ne connaîtra pas la honte, à jamais.",
+          "name": "Joël 2:26",
+          "chapter": "2"
+        },
+        {
+          "verse": "27",
+          "text": "Et vous connaîtrez que je suis au milieu d'Israël, et que je suis le Seigneur votre Dieu, et qu'il n'est point d'autre Dieu que moi, et mon peuple ne sera plus humilié à jamais.",
+          "grec": "καὶ ἐπιγνώσεσθε ὅτι ἐν μέσῳ τοῦ Ισραηλ ἐγώ εἰμι καὶ ἐγὼ κύριος ὁ θεὸς ὑμῶν καὶ οὐκ ἔστιν ἔτι πλὴν ἐμοῦ καὶ οὐ μὴ καταισχυνθῶσιν οὐκέτι πᾶς ὁ λαός μου εἰς τὸν αἰῶνα.",
+          "alexandrie": "Et vous reconnaîtrez qu’au milieu d’Israël moi je suis, que c’est moi le Seigneur votre Dieu et, désormais, qu’il n’y en a pas en dehors de moi, et assurément tout mon peuple ne connaîtra plus la honte, à jamais.",
+          "name": "Joël 2:27",
+          "chapter": "2"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "name": "Joël 3",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Et ensuite, voici ce qui arrivera : je répandrai mon Esprit sur toute chair; et vos fils prophétiseront, et vos anciens auront des songes, et vos jeunes hommes des visions.",
+          "grec": "καὶ ἔσται μετὰ ταῦτα καὶ ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα καὶ προφητεύσουσιν οἱ υἱοὶ ὑμῶν καὶ αἱ θυγατέρες ὑμῶν καὶ οἱ πρεσβύτεροι ὑμῶν ἐνύπνια ἐνυπνιασθήσονται καὶ οἱ νεανίσκοι ὑμῶν ὁράσεις ὄψονται.",
+          "alexandrie": "Et il arrivera après cela que je déverserai de mon esprit sur toute chair, que vos fils et vos filles prophétiseront, que vos vieillards auront des songes et vos jeunes gens des visions.",
+          "name": "Joël 3:1",
+          "chapter": "3"
+        },
+        {
+          "verse": "2",
+          "text": "Et en ce jour-là je répandrai mon Esprit sur mes serviteurs et sur mes servantes.",
+          "grec": "καὶ ἐπὶ τοὺς δούλους καὶ ἐπὶ τὰς δούλας ἐν ταῖς ἡμέραις ἐκείναις ἐκχεῶ ἀπὸ τοῦ πνεύματός μου.",
+          "alexandrie": "Et sur les serviteurs et sur les servantes, en ces jours-là, je déverserai de mon esprit.",
+          "name": "Joël 3:2",
+          "chapter": "3"
+        },
+        {
+          "verse": "3",
+          "text": "Et je mettrai des signes au ciel ; et sur la terre, du sang, du feu et de la fumée.",
+          "grec": "καὶ δώσω τέρατα ἐν τῷ οὐρανῷ καὶ ἐπὶ τῆς γῆς αἷμα καὶ πῦρ καὶ ἀτμίδα καπνοῦ.",
+          "alexandrie": "Et je donnerai des prodiges dans le ciel et sur la terre : sang, feu et vapeur de fumée.",
+          "name": "Joël 3:3",
+          "chapter": "3"
+        },
+        {
+          "verse": "4",
+          "text": "Le soleil sera changé en ténèbres, et la lune en sang, avant qu'arrive le grand jour, le jour éclatant du Seigneur.",
+          "grec": "ὁ ἥλιος μεταστραφήσεται εἰς σκότος καὶ ἡ σελήνη εἰς αἷμα πρὶν ἐλθεῖν ἡμέραν κυρίου τὴν μεγάλην καὶ ἐπιφανῆ.",
+          "alexandrie": "Le soleil tournera en obscurité et la lune en sang avant que vienne le jour du Seigneur, grand et éclatant.",
+          "name": "Joël 3:4",
+          "chapter": "3"
+        },
+        {
+          "verse": "5",
+          "text": "Et il arrivera que quiconque invoquera le Nom du Seigneur sera sauvé; car alors sera sauvé tout ce qui sera sur la montagne de Sion et de Jérusalem, et avec eux tous les évangélisés que le Seigneur a élus, comme l'a dit le Seigneur.",
+          "grec": "καὶ ἔσται πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται ὅτι ἐν τῷ ὄρει Σιων καὶ ἐν Ιερουσαλημ ἔσται ἀνασῳζόμενος καθότι εἶπεν κύριος καὶ εὐαγγελιζόμενοι οὓς κύριος προσκέκληται.",
+          "alexandrie": "Et alors quiconque invoquera le nom du Seigneur sera sauvé ; car sur la montagne de Sion et à Jérusalem il y en aura qui seront sauvés, selon ce qu’a dit le Seigneur, et qui seront des messagers de bonne nouvelle, ceux que le Seigneur a appelés.",
+          "name": "Joël 3:5",
+          "chapter": "3"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "name": "Joël 4",
+      "verses": [
+        {
+          "verse": "1",
+          "text": "Car voici qu'en ce temps, et en ces jours-là, quand j'aurai fait revenir de la captivité Juda et Jérusalem,",
+          "grec": "διότι ἰδοὺ ἐγὼ ἐν ταῖς ἡμέραις ἐκείναις καὶ ἐν τῷ καιρῷ ἐκείνῳ ὅταν ἐπιστρέψω τὴν αἰχμαλωσίαν Ιουδα καὶ Ιερουσαλημ.",
+          "alexandrie": "C’est que voici, moi, en ces jours-là et à ce moment-là, quand je ferai revenir les captifs de Juda et de Jérusalem,",
+          "name": "Joël 4:1",
+          "chapter": "4"
+        },
+        {
+          "verse": "2",
+          "text": "J'assemblerai toutes les nations et les conduirai dans la vallée de Josaphat ; là je plaiderai avec elles pour mon peuple et pour Israël, mon héritage : car elles l'ont dispersé parmi les Gentils, qui se sont partagé ma terre.",
+          "grec": "καὶ συνάξω πάντα τὰ ἔθνη καὶ κατάξω αὐτὰ εἰς τὴν κοιλάδα Ιωσαφατ καὶ διακριθήσομαι πρὸς αὐτοὺς ἐκεῖ ὑπὲρ τοῦ λαοῦ μου καὶ τῆς κληρονομίας μου Ισραηλ οἳ διεσπάρησαν ἐν τοῖς ἔθνεσιν καὶ τὴν γῆν μου καταδιείλαντο.",
+          "alexandrie": "je rassemblerai toutes les nations, je les ferai descendre dans le ravin de Josaphat et je me déterminerai face à elles pour décider de mon peuple et de mon héritage Israël, eux qui ont été dispersés parmi les nations ; elles se sont partagé ma terre",
+          "name": "Joël 4:2",
+          "chapter": "4"
+        },
+        {
+          "verse": "3",
+          "text": "Et ils ont tiré mon peuple au sort, et ils ont livré des enfants à la prostitution, et ils ont vendu des jeunes filles pour du vin, et ils ont bu.",
+          "grec": "καὶ ἐπὶ τὸν λαόν μου ἔβαλον κλήρους καὶ ἔδωκαν τὰ παιδάρια πόρναις καὶ τὰ κοράσια ἐπώλουν ἀντὶ οἴνου καὶ ἔπινον.",
+          "alexandrie": "et ont mis au sort mon peuple ; elles ont donné les jeunes garçons à des prostituées, vendaient les petites filles pour du vin et buvaient.",
+          "name": "Joël 4:3",
+          "chapter": "4"
+        },
+        {
+          "verse": "4",
+          "text": "Or, qu'y a-t-il entre vous et moi, Tyr, Sidon, Galilée des Philistins ? Est-ce que vous pourrez user de représailles avec moi ? Ou me garderez-vous rancune en votre cœur ? je vous rétribuerai, moi, vite et sévèrement, sur vos têtes",
+          "grec": "καὶ τί καὶ ὑμεῖς ἐμοί Τύρος καὶ Σιδὼν καὶ πᾶσα Γαλιλαία ἀλλοφύλων μὴ ἀνταπόδομα ὑμεῖς ἀνταποδίδοτέ μοι ἢ μνησικακεῖτε ὑμεῖς ἐπ' ἐμοὶ ὀξέως καὶ ταχέως ἀνταποδώσω τὸ ἀνταπόδομα ὑμῶν εἰς κεφαλὰς ὑμῶν.",
+          "alexandrie": "Et vous, qu’êtes-vous pour moi, Tyr et Sidon et toute la Galilée des Étrangers ? Est-ce que vous allez me rendre le paiement qui m’est dû ? Est-ce que vous me garderez une vive rancune ? Alors, aussitôt, je vous ferai payer sur vos têtes,",
+          "name": "Joël 4:4",
+          "chapter": "4"
+        },
+        {
+          "verse": "5",
+          "text": "Parce que vous avez pris mon argent et mon or ; parce que vous avez porté dans vos temples mes ornements précieux ;",
+          "grec": "ἀνθ' ὧν τὸ ἀργύριόν μου καὶ τὸ χρυσίον μου ἐλάβετε καὶ τὰ ἐπίλεκτά μου καὶ τὰ καλὰ εἰσηνέγκατε εἰς τοὺς ναοὺς ὑμῶν.",
+          "alexandrie": "en retour de l’argent et de l’or que vous m’avez pris, de mes trésors et de mes richesses que vous avez apportés dans vos temples,",
+          "name": "Joël 4:5",
+          "chapter": "4"
+        },
+        {
+          "verse": "6",
+          "text": "parce que vous avez vendu aux fils des Grecs les fils de Juda et les fils de Jérusalem, pour les chasser de leurs frontières.",
+          "grec": "καὶ τοὺς υἱοὺς Ιουδα καὶ τοὺς υἱοὺς Ιερουσαλημ ἀπέδοσθε τοῖς υἱοῖς τῶν Ἑλλήνων ὅπως ἐξώσητε αὐτοὺς ἐκ τῶν ὁρίων αὐτῶν.",
+          "alexandrie": "des fils de Juda et des fils d’Israël que vous avez vendus aux fils des Hellènes, de façon à les expulser hors de leurs frontières.",
+          "name": "Joël 4:6",
+          "chapter": "4"
+        },
+        {
+          "verse": "7",
+          "text": "Mais voilà que je les ramènerai des contrées où vous les avez conduits, et je vous rétribuerai sur vos têtes.",
+          "grec": "ἰδοὺ ἐγὼ ἐξεγείρω αὐτοὺς ἐκ τοῦ τόπου οὗ ἀπέδοσθε αὐτοὺς ἐκεῖ καὶ ἀνταποδώσω τὸ ἀνταπόδομα ὑμῶν εἰς κεφαλὰς ὑμῶν.",
+          "alexandrie": "Voici, moi, je les fais lever du lieu où vous les avez vendus là-bas, et je vous ferai payer sur vos têtes,",
+          "name": "Joël 4:7",
+          "chapter": "4"
+        },
+        {
+          "verse": "8",
+          "text": "Et je donnerai vos fils et vos filles aux fils de Juda, pour qu'ils les vendent comme captifs chez une nation lointaine ; ainsi a parlé le Seigneur.",
+          "grec": "καὶ ἀποδώσομαι τοὺς υἱοὺς ὑμῶν καὶ τὰς θυγατέρας ὑμῶν εἰς χεῖρας υἱῶν Ιουδα καὶ ἀποδώσονται αὐτοὺς εἰς αἰχμαλωσίαν εἰς ἔθνος μακρὰν ἀπέχον ὅτι κύριος ἐλάλησεν.",
+          "alexandrie": "je vendrai vos fils et vos filles aux mains des fils de Juda, et ils les vendront pour la captivité à un peuple qui se trouve à grande distance, car le Seigneur a parlé.",
+          "name": "Joël 4:8",
+          "chapter": "4"
+        },
+        {
+          "verse": "9",
+          "text": "Publiez ces choses parmi les Gentils ; sanctifiés la guerre ; excitez les combattants, vous tous hommes exercés aux armes ; rassemblez-vous, et partez.",
+          "grec": "κηρύξατε ταῦτα ἐν τοῖς ἔθνεσιν ἁγιάσατε πόλεμον ἐξεγείρατε τοὺς μαχητάς προσαγάγετε καὶ ἀναβαίνετε πάντες ἄνδρες πολεμισταί.",
+          "alexandrie": "Proclamez cela parmi les nations, sanctifiez une guerre, faites lever les combattants, avancez-vous et montez, tous les guerriers.",
+          "name": "Joël 4:9",
+          "chapter": "4"
+        },
+        {
+          "verse": "10",
+          "text": "Forgez des glaives avec vos socs de charrue, et, avec vos faux, des javelines. Que le faible lui-même dise : je suis fort.",
+          "grec": "συγκόψατε τὰ ἄροτρα ὑμῶν εἰς ῥομφαίας καὶ τὰ δρέπανα ὑμῶν εἰς σειρομάστας ὁ ἀδύνατος λεγέτω ὅτι ἰσχύω ἐγώ.",
+          "alexandrie": "Forgez vos charrues pour en faire des épées et vos faucilles pour en faire des lances ; que le faible dise : « Moi, je suis fort. »",
+          "name": "Joël 4:10",
+          "chapter": "4"
+        },
+        {
+          "verse": "11",
+          "text": "Venez tous ensemble et entrez, vous nations d'alentour ; vous, fils d'Israël, réunissez-vous là : que l'homme pacifique devienne un guerrier.",
+          "grec": "συναθροίζεσθε καὶ εἰσπορεύεσθε πάντα τὰ ἔθνη κυκλόθεν καὶ συνάχθητε ἐκεῖ ὁ πραῢς ἔστω μαχητής.",
+          "alexandrie": "Attroupez-vous et entrez, toutes les nations d’alentour, et réunissez-vous là ; que le doux soit un combattant.",
+          "name": "Joël 4:11",
+          "chapter": "4"
+        },
+        {
+          "verse": "12",
+          "text": "Que toutes les nations se lèvent ; qu'elles se rendent dans la vallée de Josaphat ; c'est là que je siège pour juger les nations d'alentour.",
+          "grec": "ἐξεγειρέσθωσαν καὶ ἀναβαινέτωσαν πάντα τὰ ἔθνη εἰς τὴν κοιλάδα Ιωσαφατ διότι ἐκεῖ καθιῶ τοῦ διακρῖναι πάντα τὰ ἔθνη κυκλόθεν.",
+          "alexandrie": "Qu’elles se lèvent et qu’elles montent, toutes les nations, vers le ravin de Josaphat, parce que là, je siégerai pour décider de toutes les nations d’alentour.",
+          "name": "Joël 4:12",
+          "chapter": "4"
+        },
+        {
+          "verse": "13",
+          "text": "Envoyez des faucilles, car le vendangeur est prêt ; entrez et foulez aux pieds les grappes, car le pressoir est plein ; laissez déborder les cuves, car leur méchanceté a comble la mesure.",
+          "grec": "ἐξαποστείλατε δρέπανα ὅτι παρέστηκεν τρύγητος εἰσπορεύεσθε πατεῖτε διότι πλήρης ἡ ληνός ὑπερεκχεῖται τὰ ὑπολήνια ὅτι πεπλήθυνται τὰ κακὰ αὐτῶν.",
+          "alexandrie": "Lancez les faucilles, car la récolte est là ; entrez, foulez, parce que le pressoir est plein ; les cuves déborderont, car ils ont fait leur plein de vices.",
+          "name": "Joël 4:13",
+          "chapter": "4"
+        },
+        {
+          "verse": "14",
+          "text": "Les échos ont retenti dans la vallée du jugement ; car le jour du Seigneur est proche dans la vallée du jugement.",
+          "grec": "ἦχοι ἐξήχησαν ἐν τῇ κοιλάδι τῆς δίκης ὅτι ἐγγὺς ἡμέρα κυρίου ἐν τῇ κοιλάδι τῆς δίκης.",
+          "alexandrie": "Des bruits ont résonné dans le ravin de la justice, car proche est le jour du Seigneur dans le ravin de la justice.",
+          "name": "Joël 4:14",
+          "chapter": "4"
+        },
+        {
+          "verse": "15",
+          "text": "Le soleil et la terre seront enveloppés de ténèbres, et les étoiles retireront leur lumière.",
+          "grec": "ὁ ἥλιος καὶ ἡ σελήνη συσκοτάσουσιν καὶ οἱ ἀστέρες δύσουσιν φέγγος αὐτῶν.",
+          "alexandrie": "Le soleil et la lune s’obscurciront et les étoiles enfouiront leur éclat.",
+          "name": "Joël 4:15",
+          "chapter": "4"
+        },
+        {
+          "verse": "16",
+          "text": "Le Seigneur jettera de grands cris du haut de Sion ; Il fera entendre sa voix du haut de Jérusalem ; le ciel et la terre trembleront ; mais le Seigneur épargnera son peuple, et Il fortifiera les fils d'Israël.",
+          "grec": "ὁ δὲ κύριος ἐκ Σιων ἀνακεκράξεται καὶ ἐξ Ιερουσαλημ δώσει φωνὴν αὐτοῦ καὶ σεισθήσεται ὁ οὐρανὸς καὶ ἡ γῆ ὁ δὲ κύριος φείσεται τοῦ λαοῦ αὐτοῦ καὶ ἐνισχύσει κύριος τοὺς υἱοὺς Ισραηλ.",
+          "alexandrie": "Alors, le Seigneur lancera son cri depuis Sion, depuis Jérusalem il donnera de sa voix, et le ciel et la terre seront ébranlés. Alors, le Seigneur épargnera son peuple et le Seigneur rendra forts les fils d’Israël.",
+          "name": "Joël 4:16",
+          "chapter": "4"
+        },
+        {
+          "verse": "17",
+          "text": "Et vous connaîtrez que je suis le Seigneur votre Dieu, qui réside en Sion, sur la montagne sainte ; et Jérusalem sera sainte, et les étrangers n'y passeront plus.",
+          "grec": "καὶ ἐπιγνώσεσθε διότι ἐγὼ κύριος ὁ θεὸς ὑμῶν ὁ κατασκηνῶν ἐν Σιων ἐν ὄρει ἁγίῳ μου καὶ ἔσται Ιερουσαλημ πόλις ἁγία καὶ ἀλλογενεῖς οὐ διελεύσονται δι' αὐτῆς οὐκέτι.",
+          "alexandrie": "Et vous reconnaîtrez que c’est moi, le Seigneur votre Dieu, qui réside à Sion, sur ma montagne sainte ; et Jérusalem sera sainte et les gens d’une autre origine ne la traverseront plus.",
+          "name": "Joël 4:17",
+          "chapter": "4"
+        },
+        {
+          "verse": "18",
+          "text": "Et il arrivera qu'en ce jour-là les montagnes ruisselleront de douceur, et les collines des lait ; et l'eau coulera de toutes les sources de Juda, et une fontaine jaillira de la maison du Seigneur, et elle abreuvera le val des joncs.",
+          "grec": "καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ ἀποσταλάξει τὰ ὄρη γλυκασμόν καὶ οἱ βουνοὶ ῥυήσονται γάλα καὶ πᾶσαι αἱ ἀφέσεις Ιουδα ῥυήσονται ὕδατα καὶ πηγὴ ἐξ οἴκου κυρίου ἐξελεύσεται καὶ ποτιεῖ τὸν χειμάρρουν τῶν σχοίνων.",
+          "alexandrie": "Et il arrivera en ce jour-là que les montagnes dégoutteront de crème, les collines ruisselleront de lait, tous les cours d’eau de Juda ruisselleront d’eau, une source sortira de la maison du Seigneur et elle abreuvera le torrent des Joncs.",
+          "name": "Joël 4:18",
+          "chapter": "4"
+        },
+        {
+          "verse": "19",
+          "text": "L'Égypte sera mise à néant ; l'Idumée sera un champs de désolation, à cause des iniquités des ses fils contre Juda, parce qu'ils ont versé le sang innocent sur leur terre.",
+          "grec": "Αἴγυπτος εἰς ἀφανισμὸν ἔσται καὶ ἡ Ιδουμαία εἰς πεδίον ἀφανισμοῦ ἔσται ἐξ ἀδικιῶν υἱῶν Ιουδα ἀνθ' ὧν ἐξέχεαν αἷμα δίκαιον ἐν τῇ γῇ αὐτῶν.",
+          "alexandrie": "L’Egypte sera vouée à l’anéantissement et l’Idumée deviendra une plaine d’anéantissement à cause des injustices commises envers les fils de Juda, pour payer le sang juste qu’ils ont répandu sur leur terre.",
+          "name": "Joël 4:19",
+          "chapter": "4"
+        },
+        {
+          "verse": "20",
+          "text": "Et la Judée sera habitée dans tous les siècles, et Jérusalem dans les générations des générations.",
+          "grec": "ἡ δὲ Ιουδαία εἰς τὸν αἰῶνα κατοικηθήσεται καὶ Ιερουσαλημ εἰς γενεὰς γενεῶν.",
+          "alexandrie": "Alors, la Judée sera habitée à jamais et Jérusalem pour des générations de générations.",
+          "name": "Joël 4:20",
+          "chapter": "4"
+        },
+        {
+          "verse": "21",
+          "text": "Et je rechercherai leur sang, et je n'absoudrai point ceux qui l'ont versé, et le Seigneur aura son tabernacle en Sion.",
+          "grec": "καὶ ἐκδικήσω τὸ αἷμα αὐτῶν καὶ οὐ μὴ ἀθῳώσω καὶ κύριος κατασκηνώσει ἐν Σιων.",
+          "alexandrie": "Et je tirerai vengeance de leur sang, et assurément je ne les laisserai pas impunis. Et le Seigneur installera sa tente à Sion.",
+          "name": "Joël 4:21",
+          "chapter": "4"
+        }
+      ]
+    }
+  ]
+}
