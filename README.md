@@ -58,11 +58,12 @@ ne pourrait pas aboutir.
 
 Le schéma de `sef/` enrichit le précédent — un verset y porte en plus `grec`
 (la ligne grecque, affichée au-dessus du français), `alexandrie` (la seconde
-traduction française quand elle existe), `notes` (les pieds de page de la
-source, `•`-listés et sans ancrage mot) et `section` (titres de section).
-`text` reste le français affiché (Giguet) ; un verset où seul le grec subsiste
-garde `text` vide plutôt que de disparaître. Au niveau fichier, `copyright`
-répète les droits du texte (voir plus bas).
+traduction française, affichée sous la première quand elle existe), `notes`
+(les pieds de page de la source, `•`-listés et sans ancrage mot : conservés
+en données, jamais affichés par l'application) et `section` (titres de
+section). `text` reste le français affiché (Giguet) ; un verset où seul le
+grec subsiste garde `text` vide plutôt que de disparaître. Au niveau fichier,
+`copyright` répète les droits du texte (voir plus bas).
 
 ## Conversion
 
@@ -105,4 +106,8 @@ poussé **et** l'entrée correspondante de `bible_app/lib/data/version_catalog.d
   portent pour copyright le nom du logiciel, **Biblia Universalis 3**
   (Laurent SOUFFLET) — relevé sur la page « Septante traduite en langue
   française » du corpus source. Chaque fichier de `sef/` le répète dans son
-  champ `copyright`.
+  champ `copyright`. Les traducteurs, eux, sont ceux que le corpus nomme :
+  **Pierre Giguet** (1794-1883) et l'équipe de la Bible d'Alexandrie
+  (Éditions du Cerf, sous la direction de Marguerite Harl, Gilles Dorival,
+  Olivier Munnich, avec Cécile Dogniez) — ces noms accompagnent la carte de
+  la version dans l'application.
