@@ -15,7 +15,7 @@ version dans l'application.
 | Sainte Bible néo-Crampon Libre | [`neocrampon/`](neocrampon/) | 66 | CC BY-SA 4.0 |
 | Bible Chouraqui (André Chouraqui, 1987) | [`chouraqui/`](chouraqui/) | 66 | © Desclée de Brouwer |
 | King James Française (2006) | [`kjf/`](kjf/) | 66 | © Nadine L. Stratford |
-| Septuaginta (Rahlfs) — grec et deux traductions françaises | [`sef/`](sef/) | 39 (AT) | © 1935, 1979 Deutsche Bibelgesellschaft (grec) · traductions Giguet et Alexandrie |
+| Septuaginta (Rahlfs) — grec et deux traductions françaises | [`sef/`](sef/) | 39 (AT) | © 1935, 1979 Deutsche Bibelgesellschaft (grec) · © Biblia Universalis 3 (traductions) |
 
 ## Format
 
@@ -61,7 +61,8 @@ Le schéma de `sef/` enrichit le précédent — un verset y porte en plus `grec
 traduction française quand elle existe), `notes` (les pieds de page de la
 source, `•`-listés et sans ancrage mot) et `section` (titres de section).
 `text` reste le français affiché (Giguet) ; un verset où seul le grec subsiste
-garde `text` vide plutôt que de disparaître.
+garde `text` vide plutôt que de disparaître. Au niveau fichier, `copyright`
+répète les droits du texte (voir plus bas).
 
 ## Conversion
 
@@ -99,7 +100,9 @@ poussé **et** l'entrée correspondante de `bible_app/lib/data/version_catalog.d
   l'index du corpus source.
 - **Septuaginta** : © 1935 Württembergische Bibelanstalt ; © 1979 Deutsche
   Bibelgesellschaft, Stuttgart — grec d'Alfred Rahlfs, copyright relevé sur
-  l'index du corpus source. Les traductions françaises de Giguet et
-  d'Alexandrie sont publiées dans le corpus source sans mention de droits :
-  leurs droits ne sont pas renseignés par la source, et rien ici ne les
-  déclare libres.
+  l'index du corpus source. Les deux traductions françaises, Pierre Giguet
+  (affichée en bleu) et la Bible d'Alexandrie (partiellement, en vert),
+  portent pour copyright le nom du logiciel, **Biblia Universalis 3**
+  (Laurent SOUFFLET) — relevé sur la page « Septante traduite en langue
+  française » du corpus source. Chaque fichier de `sef/` le répète dans son
+  champ `copyright`.
