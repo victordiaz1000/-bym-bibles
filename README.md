@@ -16,6 +16,7 @@ version dans l'application.
 | Bible Chouraqui (André Chouraqui, 1987) | [`chouraqui/`](chouraqui/) | 66 | © Desclée de Brouwer |
 | King James Française (2006) | [`kjf/`](kjf/) | 66 | © Nadine L. Stratford |
 | Septuaginta (Rahlfs) — grec et deux traductions françaises | [`sef/`](sef/) | 39 (AT) | © 1935, 1979 Deutsche Bibelgesellschaft (grec) · © Biblia Universalis 3 (traductions) |
+| Ancien Testament Interlinéaire (mot à mot hébreu-français) | [`ati/`](ati/) | 39 (AT) | © Biblia Universalis · texte hébreu : Biblia Hebraica Stuttgartensia |
 
 ## Format
 
@@ -65,9 +66,22 @@ section). `text` reste le français affiché (Giguet) ; un verset où seul le
 grec subsiste garde `text` vide plutôt que de disparaître. Au niveau fichier,
 `copyright` répète les droits du texte (voir plus bas).
 
+`ati/` change de schéma, et c'est le seul dossier qui ne porte pas de texte à
+afficher tel quel : un verset y est une **liste de mots**, chacun avec sept
+champs — numéro Strong (`s`), translittération (`t`), hébreu vocalisé (`h`),
+découpage morphologique (`d`), glose française (`f`), analyse grammaticale
+(`g`, `a`, index dans les tables `ca` / `cg` portées par le livre) et renvoi de
+glossaire (`n`). Le fichier est nommé par le **numéro standard** du livre
+(`1.json` = Genèse, `39.json` = Malachie) et porte aussi `bym_index` (l'ordre
+du canon hébreu, celui de la navigation de l'application). Un `notes.json`
+unique reçoit les 37 pages de glossaire que les `n` viennent y chercher.
+L'application n'affiche pas l'interlinéaire : elle joint les gloses françaises
+en une ligne de texte, la donnée complète restant en réserve pour le rendu en
+colonnes.
+
 ## Conversion
 
-Trois scripts du dépôt BYM produisent ce dossier ; tous retirent le balisage
+Quatre scripts du dépôt BYM produisent ce dossier ; tous retirent le balisage
 pour ne laisser que du texte nu, et comparent les comptes chapitre par
 chapitre au corpus BYM.
 
@@ -84,6 +98,12 @@ chapitre au corpus BYM.
   pieds de page extraits des balises `<span class="note">`, sous-versets de la
   source (« 46a », « 11-13 », « 1 = 2.35c ») **fusionnés sur leur numéro de
   tête** pour rester aligné sur le comparateur.
+- `ATI/ati_to_json.py` — extraction de `ATI.xml` (Biblia Universalis 3,
+  `ATI/extrait/`) → `ati/`. Colonnes de mots hébreux parsées champ par champ,
+  analyses grammaticales mises en table de codes (les mêmes libellés reviennent
+  des milliers de fois), glossaire sorti dans `notes.json`. Numérotation des
+  chapitres déjà celle de l'application : aucun renumérotage ; une seule
+  correction déclarée (Job 40, un verset étiqueté « 4 » pour « 28 »).
 
 Une conversion ne devient une version de l'application qu'une fois le dépôt
 poussé **et** l'entrée correspondante de `bible_app/lib/data/version_catalog.dart`
@@ -111,3 +131,9 @@ poussé **et** l'entrée correspondante de `bible_app/lib/data/version_catalog.d
   (Éditions du Cerf, sous la direction de Marguerite Harl, Gilles Dorival,
   Olivier Munnich, avec Cécile Dogniez) — ces noms accompagnent la carte de
   la version dans l'application.
+- **Ancien Testament Interlinéaire** : © Biblia Universalis — mention relevée
+  sur la fiche du corpus source (« Biblia Universalis », 2024), même logiciel
+  que la Septuaginta. La fiche nomme aussi le texte hébreu sous-jacent, la
+  **Biblia Hebraica Stuttgartensia**. La glose française mot à mot vient du
+  même corpus ; elle est jointe en une ligne dans l'application, les sept
+  champs par mot restant en données dans le fichier.
