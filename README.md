@@ -17,6 +17,7 @@ version dans l'application.
 | King James Française (2006) | [`kjf/`](kjf/) | 66 | © Nadine L. Stratford |
 | Septuaginta (Rahlfs) — grec et deux traductions françaises | [`sef/`](sef/) | 39 (AT) | © 1935, 1979 Deutsche Bibelgesellschaft (grec) · © Biblia Universalis 3 (traductions) |
 | Ancien Testament Interlinéaire (mot à mot hébreu-français) | [`ati/`](ati/) | 39 (AT) | © Biblia Universalis · texte hébreu : Biblia Hebraica Stuttgartensia |
+| Bible Darby + Strong (1890, numéros Strong) | [`dbs/`](dbs/) | 66 | Domaine public · taggage Strong : © Biblia Universalis 3 |
 
 ## Format
 
@@ -104,6 +105,16 @@ chapitre au corpus BYM.
   des milliers de fois), glossaire sorti dans `notes.json`. Numérotation des
   chapitres déjà celle de l'application : aucun renumérotage ; une seule
   correction déclarée (Job 40, un verset étiqueté « 4 » pour « 28 »).
+- `DBS/dbs_to_json.py` — extraction de `DBS.xml` (Biblia Universalis 3, Darby +
+  Strong) → `dbs/`. Même moteur que `extraction/extract_lgs_lss.py` : le
+  premier marqueur de chaque chapitre est toujours `<span class="cn">1</span>`
+  (il ouvre le verset 1, il ne porte pas le n° de chapitre), les suivants sont
+  des `vn` numérotés 1..N sans écart. Notes Darby (`<span class="note">`,
+  `<span class="nn">`) et astérisques de tête retirés. Les codes Strong sont
+  gardés **inline** dans `text` (« Dieu H0430 », rembourrés à quatre chiffres),
+  comme la LSGS embarquée : l'application les rend cliquables sans nouveau
+  format. Un mot français portant deux codes hébreux/grecs (nombres composés
+  « 23 », « d'où ») donne deux codes à la suite (« 23 H6242 H7969 »).
 
 Une conversion ne devient une version de l'application qu'une fois le dépôt
 poussé **et** l'entrée correspondante de `bible_app/lib/data/version_catalog.dart`
@@ -137,3 +148,8 @@ poussé **et** l'entrée correspondante de `bible_app/lib/data/version_catalog.d
   **Biblia Hebraica Stuttgartensia**. La glose française mot à mot vient du
   même corpus ; elle est jointe en une ligne dans l'application, les sept
   champs par mot restant en données dans le fichier.
+- **Bible Darby + Strong** : texte biblique dans le **domaine public** (Darby
+  1890). Le taggage Strong mot à mot vient de **Biblia Universalis 3**
+  (Laurent SOUFFLET) — même logiciel que la Septuaginta et l'interlinéaire.
+  Les codes sont gardés inline dans `text`, au format qu'attend le lecteur
+  (`H0430`, quatre chiffres).
