@@ -17,6 +17,7 @@ version dans l'application.
 | King James Française (2006) | [`kjf/`](kjf/) | 66 | © Nadine L. Stratford |
 | Septuaginta (Rahlfs) — grec et deux traductions françaises | [`sef/`](sef/) | 39 (AT) | © 1935, 1979 Deutsche Bibelgesellschaft (grec) · © Biblia Universalis 3 (traductions) |
 | Ancien Testament Interlinéaire (mot à mot hébreu-français) | [`ati/`](ati/) | 39 (AT) | © Biblia Universalis · texte hébreu : Biblia Hebraica Stuttgartensia |
+| Septuaginta grec + Strong (mot à mot grec, sans français) | [`ses/`](ses/) | 39 (AT + Psaume 151) | © Biblia Universalis |
 | Bible Darby + Strong (1890, numéros Strong) | [`dbs/`](dbs/) | 66 | Domaine public · taggage Strong : © Biblia Universalis 3 |
 
 ## Format
@@ -80,9 +81,17 @@ L'application n'affiche pas l'interlinéaire : elle joint les gloses françaises
 en une ligne de texte, la donnée complète restant en réserve pour le rendu en
 colonnes.
 
+`ses/` applique le même schéma au grec de la Septante : un mot y porte sa
+forme imprimée (`m`), son numéro Strong (`s`) et son analyse morphologique
+(`g`, `a`, mêmes tables `cg` / `ca`) — sans lemme, sans koinè et surtout sans
+glose française, que la source ne porte pas. La ligne aplatie est donc vide,
+et ce sont les colonnes que le lecteur pose ; les numéros s'y cliquent vers
+les fiches du lexique comme sur les deux autres interlinéaires. Ancien
+Testament seul, Psaume 151 compris (151 chapitres aux Psaumes).
+
 ## Conversion
 
-Quatre scripts du dépôt BYM produisent ce dossier ; tous retirent le balisage
+Six scripts du dépôt BYM produisent ce dossier ; tous retirent le balisage
 pour ne laisser que du texte nu, et comparent les comptes chapitre par
 chapitre au corpus BYM.
 
@@ -105,6 +114,13 @@ chapitre au corpus BYM.
   des milliers de fois), glossaire sorti dans `notes.json`. Numérotation des
   chapitres déjà celle de l'application : aucun renumérotage ; une seule
   correction déclarée (Job 40, un verset étiqueté « 4 » pour « 28 »).
+- `SES/ses_to_json.py` — extraction de `SES.xml` (Biblia Universalis 3,
+  Septante grecque + Strong) → `ses/`. Tables à trois rangées (mot imprimé,
+  Strong, analyse) lues par rôle ; tables mal fermées découpées sur leurs
+  ouvertures ; Strong 0 abandonné ; sous-versets (`46-a`) fusionnés sur leur
+  numéro de tête comme la SEF ; doublon du Psaume 151 en fin de PSA/150.html
+  écarté (le psaume a son chapitre 151). Sans français dans la source, sans
+  glose dans les fichiers.
 - `DBS/dbs_to_json.py` — extraction de `DBS.xml` (Biblia Universalis 3, Darby +
   Strong) → `dbs/`. Même moteur que `extraction/extract_lgs_lss.py` : le
   premier marqueur de chaque chapitre est toujours `<span class="cn">1</span>`
@@ -148,6 +164,9 @@ poussé **et** l'entrée correspondante de `bible_app/lib/data/version_catalog.d
   **Biblia Hebraica Stuttgartensia**. La glose française mot à mot vient du
   même corpus ; elle est jointe en une ligne dans l'application, les sept
   champs par mot restant en données dans le fichier.
+- **Septuaginta grec + Strong** : © Biblia Universalis — même logiciel que
+  l'interlinéaire. Le grec de la Septante mot à mot, chaque mot avec son
+  numéro Strong et son analyse morphologique, sans traduction française.
 - **Bible Darby + Strong** : texte biblique dans le **domaine public** (Darby
   1890). Le taggage Strong mot à mot vient de **Biblia Universalis 3**
   (Laurent SOUFFLET) — même logiciel que la Septuaginta et l'interlinéaire.
