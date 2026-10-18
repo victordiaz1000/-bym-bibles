@@ -9504,6 +9504,7 @@
           "verse": "1",
           "text": "Psaume d'Asaph. Que Dieu est bon pour Israël, pour ceux qui sont droits en leur cœur !",
           "grec": "ψαλμὸς τῷ Ασαφ ὡς ἀγαθὸς τῷ Ισραηλ ὁ θεός τοῖς εὐθέσι τῇ καρδίᾳ.",
+          "alexandrie": "Les hymnes de David le fils de Jessai ont fait défaut [à partir d'ici]. Psaume. À Asaph. Comme Dieu [est] bon pour Israël, Pour ceux qui sont droits par le cœur.",
           "name": "Psaumes 73:1",
           "chapter": "73"
         },
@@ -9511,6 +9512,7 @@
           "verse": "2",
           "text": "Peu s'en est fallu que mes pieds n'aient chancelé ; peu s'en est fallu que mes pieds n'aient glissé.",
           "grec": "ἐμοῦ δὲ παρὰ μικρὸν ἐσαλεύθησαν οἱ πόδες παρ' ὀλίγον ἐξεχύθη τὰ διαβήματά μου.",
+          "alexandrie": "Mais peu s'en fallut que mes pieds n'aient été secoués ; Pour un peu mes pas auraient versé.",
           "name": "Psaumes 73:2",
           "chapter": "73"
         },
@@ -9518,6 +9520,7 @@
           "verse": "3",
           "text": "Car à voir la paix des pécheurs, je les avais enviés.",
           "grec": "ὅτι ἐζήλωσα ἐπὶ τοῖς ἀνόμοις εἰρήνην ἁμαρτωλῶν θεωρῶν.",
+          "alexandrie": "Car j'ai jalousé ceux qui agissent illégalement Quand je contemplais la paix des pécheurs ;",
           "name": "Psaumes 73:3",
           "chapter": "73"
         },
@@ -9525,6 +9528,7 @@
           "verse": "4",
           "text": "En effet, à leur mort ils ne font point paraître qu'ils la refusent, et ils ont de la fermeté en leurs châtiments.",
           "grec": "ὅτι οὐκ ἔστιν ἀνάνευσις τῷ θανάτῳ αὐτῶν καὶ στερέωμα ἐν τῇ μάστιγι αὐτῶν.",
+          "alexandrie": "Car il n'y a pas de dénégation à leur mort Et l'affermissement [est] dans leur fouet.",
           "name": "Psaumes 73:4",
           "chapter": "73"
         },
@@ -9532,6 +9536,7 @@
           "verse": "5",
           "text": "Ils n'ont point les peines des autres hommes, et comme les autres hommes ils ne seront point flagellés.",
           "grec": "ἐν κόποις ἀνθρώπων οὐκ εἰσὶν καὶ μετὰ ἀνθρώπων οὐ μαστιγωθήσονται.",
+          "alexandrie": "Aux coups des hommes ils ne sont pas [sujets] Et avec les hommes ils ne seront pas fouettés.",
           "name": "Psaumes 73:5",
           "chapter": "73"
         },
@@ -9539,6 +9544,7 @@
           "verse": "6",
           "text": "A cause de cela l'orgueil les possède ; ils se sont revêtus de leur injustice et de leur impiété.",
           "grec": "διὰ τοῦτο ἐκράτησεν αὐτοὺς ἡ ὑπερηφανία περιεβάλοντο ἀδικίαν καὶ ἀσέβειαν αὐτῶν.",
+          "alexandrie": "C'est pourquoi l'arrogance s'est emparée d'eux ; Ils se sont revêtus de leur injustice et impiété.",
           "name": "Psaumes 73:6",
           "chapter": "73"
         },
@@ -9546,6 +9552,7 @@
           "verse": "7",
           "text": "Leur injustice suinte comme sortant de leur graisse ; ils se sont adonnés aux caprices de leur cœur.",
           "grec": "ἐξελεύσεται ὡς ἐκ στέατος ἡ ἀδικία αὐτῶν διήλθοσαν εἰς διάθεσιν καρδίας.",
+          "alexandrie": "Leur injustice sortira comme de la pâte ; Ils ont traversé vers la disposition du cœur.",
           "name": "Psaumes 73:7",
           "chapter": "73"
         },
@@ -9553,6 +9560,7 @@
           "verse": "8",
           "text": "Ils ont pensé et parlé méchamment ; ils ont parlé du Très-Haut avec injustice.",
           "grec": "διενοήθησαν καὶ ἐλάλησαν ἐν πονηρίᾳ ἀδικίαν εἰς τὸ ὕψος ἐλάλησαν.",
+          "alexandrie": "Ils ont fait des plans et proféré avec méchanceté ; L'injustice, vers la hauteur, ils l'ont proférée.",
           "name": "Psaumes 73:8",
           "chapter": "73"
         },
@@ -9560,6 +9568,7 @@
           "verse": "9",
           "text": "Ils ont fait usage de leur bouche contre le ciel, et leur langue a parcouru la terre.",
           "grec": "ἔθεντο εἰς οὐρανὸν τὸ στόμα αὐτῶν καὶ ἡ γλῶσσα αὐτῶν διῆλθεν ἐπὶ τῆς γῆς.",
+          "alexandrie": "Ils ont placé vers le ciel leur bouche Et leur langue a traversé sur la terre.",
           "name": "Psaumes 73:9",
           "chapter": "73"
         },
@@ -9567,6 +9576,7 @@
           "verse": "10",
           "text": "A cause de cela mon peuple y retournera, et une grande plénitude de jours sera trouvée en eux.",
           "grec": "διὰ τοῦτο ἐπιστρέψει ὁ λαός μου ἐνταῦθα καὶ ἡμέραι πλήρεις εὑρεθήσονται αὐτοῖς.",
+          "alexandrie": "C'est pourquoi mon peuple retournera ici ; Et il se trouvera des jours pleins pour eux.",
           "name": "Psaumes 73:10",
           "chapter": "73"
         },
@@ -9574,6 +9584,7 @@
           "verse": "11",
           "text": "Ils ont dit : Que sait Dieu ? et comment y a-t-il quelque science dans le Très -Haut ?",
           "grec": "καὶ εἶπαν πῶς ἔγνω ὁ θεός καὶ εἰ ἔστιν γνῶσις ἐν τῷ ὑψίστῳ.",
+          "alexandrie": "Et ils ont dit : « Comment Dieu a-t-il connu ? Et y a-t-il une connaissance chez le Très-Haut ? »",
           "name": "Psaumes 73:11",
           "chapter": "73"
         },
@@ -9581,6 +9592,7 @@
           "verse": "12",
           "text": "Voilà les pécheurs dans l'abondance ; ils possèdent toujours les richesses.",
           "grec": "ἰδοὺ οὗτοι ἁμαρτωλοὶ καὶ εὐθηνοῦνται εἰς τὸν αἰῶνα κατέσχον πλούτου.",
+          "alexandrie": "Voici, ceux-ci [sont] les pécheurs et ils prospèrent ; Pour l'éternité ils ont détenu la richesse.",
           "name": "Psaumes 73:12",
           "chapter": "73"
         },
@@ -9588,6 +9600,7 @@
           "verse": "13",
           "text": "Et moi-même j'ai dit : J'ai donc vainement rendu juste mon cœur, et levé mes mains parmi les innocents !",
           "grec": "καὶ εἶπα ἄρα ματαίως ἐδικαίωσα τὴν καρδίαν μου καὶ ἐνιψάμην ἐν ἀθῴοις τὰς χεῖράς μου.",
+          "alexandrie": "Et j'ai dit : « Donc pour de vaines raisons, j'ai rendu juste mon cœur Et j'ai nettoyé mes mains parmi les non-coupables.",
           "name": "Psaumes 73:13",
           "chapter": "73"
         },
@@ -9595,6 +9608,7 @@
           "verse": "14",
           "text": "J'ai été châtié tout le jour, et réprimandé tous les matins.",
           "grec": "καὶ ἐγενόμην μεμαστιγωμένος ὅλην τὴν ἡμέραν καὶ ὁ ἔλεγχός μου εἰς τὰς πρωίας.",
+          "alexandrie": "Et j'ai subi le fouet tout le jour Et mon reproche [a lieu] jusqu'aux matins.",
           "name": "Psaumes 73:14",
           "chapter": "73"
         },
@@ -9602,6 +9616,7 @@
           "verse": "15",
           "text": "Si j'avais dit : Je parlerai comme eux ! voilà que j'aurais trahi la race de tes fils.",
           "grec": "εἰ ἔλεγον διηγήσομαι οὕτως ἰδοὺ τῇ γενεᾷ τῶν υἱῶν σου ἠσυνθέτηκα.",
+          "alexandrie": "Si je disais : 'Je raconterai ainsi', Voici, j'ai bel et bien trahi la génération de tes fils.",
           "name": "Psaumes 73:15",
           "chapter": "73"
         },
@@ -9609,6 +9624,7 @@
           "verse": "16",
           "text": "Et J'ai entrepris de comprendre ces choses ; mais ce pénible travail reste devant moi,",
           "grec": "καὶ ὑπέλαβον τοῦ γνῶναι τοῦτο κόπος ἐστὶν ἐναντίον μου.",
+          "alexandrie": "Et j'ai réfléchi pour connaître cela ; Le coup est devant moi,",
           "name": "Psaumes 73:16",
           "chapter": "73"
         },
@@ -9616,6 +9632,7 @@
           "verse": "17",
           "text": "Tant que je n'aurai pas pénétré dans le sanctuaire de Dieu ; car c'est ainsi que je comprendrai les choses de la fin.",
           "grec": "ἕως εἰσέλθω εἰς τὸ ἁγιαστήριον τοῦ θεοῦ καὶ συνῶ εἰς τὰ ἔσχατα αὐτῶν.",
+          "alexandrie": "Jusqu'à ce que j'entre dans le sanctuaire de Dieu Et que j'aie la compréhension pour leurs choses ultimes.",
           "name": "Psaumes 73:17",
           "chapter": "73"
         },
@@ -9623,6 +9640,7 @@
           "verse": "18",
           "text": "Oui, à cause de leurs fourberies tu as placé un obstacle devant eux ; et tandis qu'ils s'élevaient, tu les as renversés.",
           "grec": "πλὴν διὰ τὰς δολιότητας ἔθου αὐτοῖς κατέβαλες αὐτοὺς ἐν τῷ ἐπαρθῆναι.",
+          "alexandrie": "Mais à cause de [leurs] fourberies tu as établi pour eux ; Tu les as jetés à terre au moment où ils étaient élevés.",
           "name": "Psaumes 73:18",
           "chapter": "73"
         },
@@ -9630,6 +9648,7 @@
           "verse": "19",
           "text": "Comment sont-ils soudain tombés dans la désolation ? Ils ont disparu ; ils ont péri à cause de leur iniquité.",
           "grec": "πῶς ἐγένοντο εἰς ἐρήμωσιν ἐξάπινα ἐξέλιπον ἀπώλοντο διὰ τὴν ἀνομίαν αὐτῶν.",
+          "alexandrie": "Comme ils sont tombés dans la désolation subitement ! Ils ont défailli, ils ont péri à cause de leur action illégale.",
           "name": "Psaumes 73:19",
           "chapter": "73"
         },
@@ -9637,6 +9656,7 @@
           "verse": "20",
           "text": "Comme le songe d'un homme qui s'éveille, Seigneur, dans ta cité tu mets à néant leur image.",
           "grec": "ὡσεὶ ἐνύπνιον ἐξεγειρομένου κύριε ἐν τῇ πόλει σου τὴν εἰκόνα αὐτῶν ἐξουδενώσεις.",
+          "alexandrie": "Comme le songe de qui se réveille, Seigneur, dans ta cité tu réduiras à rien leur image.",
           "name": "Psaumes 73:20",
           "chapter": "73"
         },
@@ -9644,6 +9664,7 @@
           "verse": "21",
           "text": "C'est pourquoi mon cœur brûlait, et mes reins se renouvelaient.",
           "grec": "ὅτι ἐξεκαύθη ἡ καρδία μου, καὶ οἱ νεφροί μου ἠλλοιώθησαν,",
+          "alexandrie": "Car mon cœur a été brûlé Et mes reins ont été faits autres.",
           "name": "Psaumes 73:21",
           "chapter": "73"
         },
@@ -9651,6 +9672,7 @@
           "verse": "22",
           "text": "Parce que moi aussi j'avais été mis à néant, et j'en ignorais la cause ; devant toi, j'étais devenu comme une brute.",
           "grec": "καὶ ἐγὼ ἐξουδενωμένος καὶ οὐκ ἔγνων, κτηνώδης ἐγενόμην παρὰ σοί.",
+          "alexandrie": "Et moi [j'étais] réduit à rien et je n'ai pas connu ; Je suis devenu une tête de bétail chez toi.",
           "name": "Psaumes 73:22",
           "chapter": "73"
         },
@@ -9658,6 +9680,7 @@
           "verse": "23",
           "text": "Et je restai sans cesse avec toi, mais tu m'as pris par la main droite,",
           "grec": "καὶ ἐγὼ διὰ παντὸς μετὰ σοῦ, ἐκράτησας τῆς χειρὸς τῆς δεξιᾶς μου,",
+          "alexandrie": "Et moi [j'étais] tout le temps avec toi ; Tu t'es emparé de ma main droite.",
           "name": "Psaumes 73:23",
           "chapter": "73"
         },
@@ -9665,6 +9688,7 @@
           "verse": "24",
           "text": "Tu m'as conduit selon ta volonté ; tu m'as accueilli avec honneur.",
           "grec": "ἐν τῇ βουλῇ σου ὡδήγησάς με καὶ μετὰ δόξης προσελάβου με.",
+          "alexandrie": "Par ton conseil tu m'as conduit Et avec gloire tu m'as pris pour toi.",
           "name": "Psaumes 73:24",
           "chapter": "73"
         },
@@ -9672,6 +9696,7 @@
           "verse": "25",
           "text": "Or, qu'ai-je au ciel ? Et après toi, qu'ai-je désiré sur la terre ?",
           "grec": "τί γάρ μοι ὑπάρχει ἐν τῷ οὐρανῷ, καὶ παρὰ σοῦ τί ἠθέλησα ἐπὶ τῆς γῆς;",
+          "alexandrie": "Qu'est-ce qui est donc à moi dans le ciel ? Et de ta part qu'ai-je voulu sur la terre ?",
           "name": "Psaumes 73:25",
           "chapter": "73"
         },
@@ -9679,6 +9704,7 @@
           "verse": "26",
           "text": "Ma chair et mon cœur ont défailli, ô Dieu de mon cœur, et Dieu qui sera mon partage pour toujours.",
           "grec": "ἐξέλιπεν ἡ καρδία μου καὶ ἡ σάρξ μου, ὁ θεὸς τῆς καρδίας μου καὶ ἡ μερίς μου ὁ θεὸς εἰς τὸν αἰῶνα.",
+          "alexandrie": "Mon cœur a défailli, et ma chair ; [Tu es] le Dieu de mon cœur et ma part, Dieu pour l'éternité.",
           "name": "Psaumes 73:26",
           "chapter": "73"
         },
@@ -9686,6 +9712,7 @@
           "verse": "27",
           "text": "Car voici, ceux qui se sont éloignés de toi périront, et tu as exterminé tous ceux qui se prostituaient loin de toi.",
           "grec": "ὅτι ἰδοὺ οἱ μακρύνοντες ἑαυτοὺς ἀπὸ σοῦ ἀπολοῦνται, ἐξωλέθρευσας πάντα τὸν πορνεύοντα ἀπὸ σοῦ.",
+          "alexandrie": "Car voici ceux qui s'éloignent de toi périront, Tu as exterminé tout homme qui se prostitue en s'éloignant de toi.",
           "name": "Psaumes 73:27",
           "chapter": "73"
         },
@@ -9693,6 +9720,7 @@
           "verse": "28",
           "text": "Pour moi, il est bon que je m'attache à Dieu, que je place en Dieu mon espérance, que je chante ses louanges aux portes de la fille de Sion.",
           "grec": "ἐμοὶ δὲ τὸ προσκολλᾶσθαι τῷ θεῷ ἀγαθόν ἐστιν, τίθεσθαι ἐν τῷ κυρίῳ τὴν ἐλπίδα μου τοῦ ἐξαγγεῖλαι πάσας τὰς αἰνέσεις σου ἐν ταῖς πύλαις τῆς θυγατρὸς Σιων.",
+          "alexandrie": "Mais pour moi être collé à Dieu est bien, Placer dans le Seigneur mon espoir, Afin d'énoncer toutes tes louanges Dans les portes de la fille de Sion. »",
           "name": "Psaumes 73:28",
           "chapter": "73"
         }
@@ -9706,6 +9734,7 @@
           "verse": "1",
           "text": "Un Psaume de méditation d'Asaph. Pourquoi, mon Dieu, m'as-tu repoussé pour toujours ? Pourquoi ta colère est-elle excitée contre les brebis de tes pâturages ?",
           "grec": "συνέσεως τῷ Ασαφ ἵνα τί ἀπώσω ὁ θεός εἰς τέλος ὠργίσθη ὁ θυμός σου ἐπὶ πρόβατα νομῆς σου.",
+          "alexandrie": "D'intelligence. À Asaph. Pourquoi as-tu repoussé, Dieu, à jamais ? [Pourquoi] ton emportement s'est-il mis en colère contre les brebis de ton pâturage ?",
           "name": "Psaumes 74:1",
           "chapter": "74"
         },
@@ -9713,6 +9742,7 @@
           "verse": "2",
           "text": "Souviens-toi du troupeau que, dès le commencement, tu as acquis ; tu as racheté le rameau de ton héritage, cette montagne de Sion, où tu as dressé ton tabernacle.",
           "grec": "μνήσθητι τῆς συναγωγῆς σου ἧς ἐκτήσω ἀπ' ἀρχῆς ἐλυτρώσω ῥάβδον κληρονομίας σου ὄρος Σιων τοῦτο ὃ κατεσκήνωσας ἐν αὐτῷ.",
+          "alexandrie": "Souviens-toi de ton rassemblement, que tu as acquis depuis le commencement. Tu as racheté le bâton de ton lot d'héritage. C'[est] la montagne de Sion, dans laquelle tu as érigé ta demeure.",
           "name": "Psaumes 74:2",
           "chapter": "74"
         },
@@ -9720,6 +9750,7 @@
           "verse": "3",
           "text": "Lève les mains pour mettre fin à leur orgueil ; que de mal a fait l'ennemi en tes lieux saints !",
           "grec": "ἔπαρον τὰς χεῖράς σου ἐπὶ τὰς ὑπερηφανίας αὐτῶν εἰς τέλος ὅσα ἐπονηρεύσατο ὁ ἐχθρὸς ἐν τοῖς ἁγίοις σου.",
+          "alexandrie": "Élève tes mains contre leurs arrogances à jamais, Tant l'ennemi a été malfaisant dans tes lieux saints.",
           "name": "Psaumes 74:3",
           "chapter": "74"
         },
@@ -9727,6 +9758,7 @@
           "verse": "4",
           "text": "Comme ceux qui te haïssent se sont glorifiés au milieu de tes fêtes ! Ils ont posé leurs étendards, comme des signaux, et ils ne savaient ce qu'ils faisaient.",
           "grec": "καὶ ἐνεκαυχήσαντο οἱ μισοῦντές σε ἐν μέσῳ τῆς ἑορτῆς σου ἔθεντο τὰ σημεῖα αὐτῶν σημεῖα καὶ οὐκ ἔγνωσαν.",
+          "alexandrie": "Et ceux qui te haïssent ont fait les fiers au milieu de ta fête ; Ils ont placé comme enseignes leurs enseignes, et ils ne [t'] ont pas connu,",
           "name": "Psaumes 74:4",
           "chapter": "74"
         },
@@ -9734,6 +9766,7 @@
           "verse": "5",
           "text": "Comme à la porte d'en haut,",
           "grec": "ὡς εἰς τὴν εἴσοδον ὑπεράνω.",
+          "alexandrie": "Comme vers l'entrée très au-dessus,",
           "name": "Psaumes 74:5",
           "chapter": "74"
         },
@@ -9741,6 +9774,7 @@
           "verse": "6",
           "text": "Comme dans une forêt, avec des haches, ils ont frappé les battants de cette porte au même endroit ; ils l'ont brisée avec la hache et le levier.",
           "grec": "ὡς ἐν δρυμῷ ξύλων ἀξίναις ἐξέκοψαν τὰς θύρας αὐτῆς ἐπὶ τὸ αὐτὸ ἐν πελέκει καὶ λαξευτηρίῳ κατέρραξαν αὐτήν.",
+          "alexandrie": "Comme dans une forêt boisée, à coups de cognées, ils ont découpé ses portes ; Ensemble, à coups de hache et d'herminette, ils l'ont abattue.",
           "name": "Psaumes 74:6",
           "chapter": "74"
         },
@@ -9748,6 +9782,7 @@
           "verse": "7",
           "text": "Ils ont brûlé par le feu ton sanctuaire sur la terre ; ils ont souillé le tabernacle de ton nom.",
           "grec": "ἐνεπύρισαν ἐν πυρὶ τὸ ἁγιαστήριόν σου εἰς τὴν γῆν ἐβεβήλωσαν τὸ σκήνωμα τοῦ ὀνόματός σου.",
+          "alexandrie": "Ils ont mis le feu par le feu à ton sanctuaire ; Vers la terre ils ont profané la tente de ton nom.",
           "name": "Psaumes 74:7",
           "chapter": "74"
         },
@@ -9755,6 +9790,7 @@
           "verse": "8",
           "text": "Ils ont dit en leur cœur, et leur race, réunie au même lieu, a dit : Allons, brûlons en cette terre les fêtes du Seigneur !",
           "grec": "εἶπαν ἐν τῇ καρδίᾳ αὐτῶν ἡ συγγένεια αὐτῶν ἐπὶ τὸ αὐτό δεῦτε καὶ κατακαύσωμεν πάσας τὰς ἑορτὰς τοῦ θεοῦ ἀπὸ τῆς γῆς.",
+          "alexandrie": "Ils ont dit en leur cœur : « leur parenté [est] ensemble ; Allons, faisons cesser toutes les fêtes de Dieu hors de la terre. »",
           "name": "Psaumes 74:8",
           "chapter": "74"
         },
@@ -9762,6 +9798,7 @@
           "verse": "9",
           "text": "Nous ne voyons plus nos signes ; il n'est plus de prophètes, et l'on ne nous reconnaîtra pas.",
           "grec": "τὰ σημεῖα ἡμῶν οὐκ εἴδομεν οὐκ ἔστιν ἔτι προφήτης καὶ ἡμᾶς οὐ γνώσεται ἔτι.",
+          "alexandrie": "Nous n'avons pas vu nos enseignes ; Il n'y a plus de prophète, et il ne nous connaîtra plus.",
           "name": "Psaumes 74:9",
           "chapter": "74"
         },
@@ -9769,6 +9806,7 @@
           "verse": "10",
           "text": "Jusques à quand, mon Dieu, l'ennemi t'outragera-t-il ? L'ennemi provoquera-t-il toujours ton nom ?",
           "grec": "ἕως πότε ὁ θεός ὀνειδιεῖ ὁ ἐχθρός παροξυνεῖ ὁ ὑπεναντίος τὸ ὄνομά σου εἰς τέλος.",
+          "alexandrie": "Jusqu'à quand, Dieu, l'ennemi outragera-t-il, L'adversaire irritera-t-il ton nom à jamais ?",
           "name": "Psaumes 74:10",
           "chapter": "74"
         },
@@ -9776,6 +9814,7 @@
           "verse": "11",
           "text": "Pourquoi as-tu détourné ta main, ta droite du milieu de ton sein ? Est-ce pour toujours ?",
           "grec": "ἵνα τί ἀποστρέφεις τὴν χεῖρά σου καὶ τὴν δεξιάν σου ἐκ μέσου τοῦ κόλπου σου εἰς τέλος.",
+          "alexandrie": "Pourquoi détournes-tu ta main Et ta droite du milieu de ton sein à jamais ?",
           "name": "Psaumes 74:11",
           "chapter": "74"
         },
@@ -9783,6 +9822,7 @@
           "verse": "12",
           "text": "Cependant Dieu, notre roi avant les siècles, a opéré notre salut au milieu de la terre.",
           "grec": "ὁ δὲ θεὸς βασιλεὺς ἡμῶν πρὸ αἰῶνος εἰργάσατο σωτηρίαν ἐν μέσῳ τῆς γῆς.",
+          "alexandrie": "Mais Dieu [était] notre roi avant l'éternité ; Il a accompli le salut au milieu de la terre.",
           "name": "Psaumes 74:12",
           "chapter": "74"
         },
@@ -9790,6 +9830,7 @@
           "verse": "13",
           "text": "Par ta puissance tu as dompté la mer ; tu as brisé sur les eaux la tête des dragons.",
           "grec": "σὺ ἐκραταίωσας ἐν τῇ δυνάμει σου τὴν θάλασσαν σὺ συνέτριψας τὰς κεφαλὰς τῶν δρακόντων ἐπὶ τοῦ ὕδατος.",
+          "alexandrie": "Toi, tu as été vigoureux sur la mer avec ta puissance ; Toi, tu as brisé les têtes des dragons sur l'eau ;",
           "name": "Psaumes 74:13",
           "chapter": "74"
         },
@@ -9797,6 +9838,7 @@
           "verse": "14",
           "text": "Tu as brisé les têtes du dragon ; tu l'as donné pour nourriture aux peuples éthiopiens.",
           "grec": "σὺ συνέθλασας τὰς κεφαλὰς τοῦ δράκοντος ἔδωκας αὐτὸν βρῶμα λαοῖς τοῖς Αἰθίοψιν.",
+          "alexandrie": "Toi, tu as broyé les têtes du dragon ; Tu l'as donné en nourriture à des peuples, les Éthiopiens ;",
           "name": "Psaumes 74:14",
           "chapter": "74"
         },
@@ -9804,6 +9846,7 @@
           "verse": "15",
           "text": "Tu as ouvert les fontaines et les torrents ; tu as desséché les fleuves d'Etham.",
           "grec": "σὺ διέρρηξας πηγὰς καὶ χειμάρρους σὺ ἐξήρανας ποταμοὺς Ηθαμ.",
+          "alexandrie": "Toi, tu as interrompu les sources et les torrents ; Toi, tu as asséché les fleuves d'Êtham.",
           "name": "Psaumes 74:15",
           "chapter": "74"
         },
@@ -9811,6 +9854,7 @@
           "verse": "16",
           "text": "Le jour est à toi, la nuit est à toi, tu as préparé l'aurore et le soleil.",
           "grec": "σή ἐστιν ἡ ἡμέρα καὶ σή ἐστιν ἡ νύξ σὺ κατηρτίσω φαῦσιν καὶ ἥλιον.",
+          "alexandrie": "Tien est le jour et tienne est la nuit ; Toi, tu as ajusté la luminosité et le soleil ;",
           "name": "Psaumes 74:16",
           "chapter": "74"
         },
@@ -9818,6 +9862,7 @@
           "verse": "17",
           "text": "Tu as fait toutes les limites de la terre ; tu as fait l'été et le printemps.",
           "grec": "σὺ ἐποίησας πάντα τὰ ὅρια τῆς γῆς θέρος καὶ ἔαρ σὺ ἔπλασας αὐτά.",
+          "alexandrie": "Toi, tu as fait toutes les frontières de la terre ; L'été et le printemps, toi, tu les as façonnés.",
           "name": "Psaumes 74:17",
           "chapter": "74"
         },
@@ -9825,6 +9870,7 @@
           "verse": "18",
           "text": "Souviens-toi de ta création ; l'ennemi a outragé le Seigneur, et un peuple insensé a provoqué son nom.",
           "grec": "μνήσθητι ταύτης ἐχθρὸς ὠνείδισεν τὸν κύριον καὶ λαὸς ἄφρων παρώξυνεν τὸ ὄνομά σου.",
+          "alexandrie": "Souviens-toi de cette [chose] : L'ennemi a outragé le Seigneur ; Et un peuple dément a irrité ton nom.",
           "name": "Psaumes 74:18",
           "chapter": "74"
         },
@@ -9832,6 +9878,7 @@
           "verse": "19",
           "text": "Ne livre point aux bêtes fauves l'âme qui te loue, et n'oublie pas pour toujours l'âme de tes pauvres.",
           "grec": "μὴ παραδῷς τοῖς θηρίοις ψυχὴν ἐξομολογουμένην σοι τῶν ψυχῶν τῶν πενήτων σου μὴ ἐπιλάθῃ εἰς τέλος.",
+          "alexandrie": "Ne livre pas aux bêtes sauvages l'âme qui te fait la profession ; Les âmes de tes pauvres, ne les oublie pas à jamais.",
           "name": "Psaumes 74:19",
           "chapter": "74"
         },
@@ -9839,6 +9886,7 @@
           "verse": "20",
           "text": "Considère ton alliance ; car les lieux obscurs de la terre sont remplis de maisons d'iniquités.",
           "grec": "ἐπίβλεψον εἰς τὴν διαθήκην σου ὅτι ἐπληρώθησαν οἱ ἐσκοτισμένοι τῆς γῆς οἴκων ἀνομιῶν.",
+          "alexandrie": "Regarde vers ton alliance ; Car les enténébrés de la terre ont été remplis des maisons d'actions illégales.",
           "name": "Psaumes 74:20",
           "chapter": "74"
         },
@@ -9846,6 +9894,7 @@
           "verse": "21",
           "text": "Que l'affligé, que l'humble ne soient point rejetés ; le pauvre et le nécessiteux loueront ton nom.",
           "grec": "μὴ ἀποστραφήτω τεταπεινωμένος κατῃσχυμμένος πτωχὸς καὶ πένης αἰνέσουσιν τὸ ὄνομά σου.",
+          "alexandrie": "Que l'humilié ne se détourne pas, rempli de honte ; L'indigent et le pauvre loueront ton nom.",
           "name": "Psaumes 74:21",
           "chapter": "74"
         },
@@ -9853,6 +9902,7 @@
           "verse": "22",
           "text": "Lève-toi, ô Dieu, rends tes jugements ; souviens-toi des outrages que te prodigue l'insensé tout le jour.",
           "grec": "ἀνάστα ὁ θεός δίκασον τὴν δίκην σου μνήσθητι τῶν ὀνειδισμῶν σου τῶν ὑπὸ ἄφρονος ὅλην τὴν ἡμέραν.",
+          "alexandrie": "Relève-toi, Dieu, prononce ta juste sentence ; Souviens-toi des outrages contre toi par le dément tout le jour.",
           "name": "Psaumes 74:22",
           "chapter": "74"
         },
@@ -9860,6 +9910,7 @@
           "verse": "23",
           "text": "N'oublie point la voix de tes suppliants, et que l'orgueil de ceux qui te haïssent monte toujours jusqu'à toi.",
           "grec": "μὴ ἐπιλάθῃ τῆς φωνῆς τῶν ἱκετῶν σου ἡ ὑπερηφανία τῶν μισούντων σε ἀνέβη διὰ παντὸς πρὸς σέ.",
+          "alexandrie": "N'oublie pas la voix de tes suppliants. L'arrogance de ceux qui te haïssent est montée tout le temps vers toi.",
           "name": "Psaumes 74:23",
           "chapter": "74"
         }
@@ -9873,6 +9924,7 @@
           "verse": "1",
           "text": "Jusqu'à la Fin. Ne détruis pas ; psaume et cantique d'Asaph,",
           "grec": "εἰς τὸ τέλος μὴ διαφθείρῃς ψαλμὸς τῷ Ασαφ ᾠδῆς.",
+          "alexandrie": "Pour la fin. « Ne [le] détruis pas ». Psaume. À Asaph. De cantique.",
           "name": "Psaumes 75:1",
           "chapter": "75"
         },
@@ -9880,6 +9932,7 @@
           "verse": "2",
           "text": "Nous te rendrons grâces, ô Dieu, nous te rendrons grâces, et nous invoquerons ton nom.",
           "grec": "ἐξομολογησόμεθά σοι ὁ θεός ἐξομολογησόμεθα καὶ ἐπικαλεσόμεθα τὸ ὄνομά σου.",
+          "alexandrie": "Nous te ferons la profession, Dieu, Nous ferons la profession et nous invoquerons ton nom.",
           "name": "Psaumes 75:2",
           "chapter": "75"
         },
@@ -9887,6 +9940,7 @@
           "verse": "3",
           "text": "Je raconterai toutes tes merveilles, au temps que j'aurai choisi. Je jugerai avec droiture.",
           "grec": "διηγήσομαι πάντα τὰ θαυμάσιά σου ὅταν λάβω καιρόν ἐγὼ εὐθύτητας κρινῶ.",
+          "alexandrie": "Je raconterai toutes tes merveilles. « Lorsque je prendrai le moment. Moi, je jugerai les actes de droiture.",
           "name": "Psaumes 75:3",
           "chapter": "75"
         },
@@ -9894,6 +9948,7 @@
           "verse": "4",
           "text": "La terre s'est liquéfiée avec tous ceux qui l'habitent, et moi j'ai raffermi ses colonnes. Interlude.",
           "grec": "ἐτάκη ἡ γῆ καὶ πάντες οἱ κατοικοῦντες ἐν αὐτῇ ἐγὼ ἐστερέωσα τοὺς στύλους αὐτῆς διάψαλμα.",
+          "alexandrie": "La terre a fondu, et tous ceux qui y habitent. Moi, j'ai rendu solides ses colonnes. » Diapsalme.",
           "name": "Psaumes 75:4",
           "chapter": "75"
         },
@@ -9901,6 +9956,7 @@
           "verse": "5",
           "text": "J'ai dit aux pervers : Gardez-vous de faire le mal ; et aux pécheurs : Ne levez pas le front.",
           "grec": "εἶπα τοῖς παρανομοῦσιν μὴ παρανομεῖτε καὶ τοῖς ἁμαρτάνουσιν μὴ ὑψοῦτε κέρας.",
+          "alexandrie": "J'ai dit aux transgresseurs : « Ne transgressez pas » Et aux pécheurs : « N'exaltez pas la corne ;",
           "name": "Psaumes 75:5",
           "chapter": "75"
         },
@@ -9908,6 +9964,7 @@
           "verse": "6",
           "text": "Ne faites pas montre de votre force avec orgueil ; ne parlez pas injustement contre Dieu.",
           "grec": "μὴ ἐπαίρετε εἰς ὕψος τὸ κέρας ὑμῶν μὴ λαλεῖτε κατὰ τοῦ θεοῦ ἀδικίαν.",
+          "alexandrie": "N'élevez pas en haut votre corne ; Ne proférez pas contre Dieu une injustice.",
           "name": "Psaumes 75:6",
           "chapter": "75"
         },
@@ -9915,6 +9972,7 @@
           "verse": "7",
           "text": "Car cela ne viendra ni de l'Orient, ni du Couchant, ni des montagnes du désert.",
           "grec": "ὅτι οὔτε ἀπὸ ἐξόδων οὔτε ἀπὸ δυσμῶν οὔτε ἀπὸ ἐρήμων ὀρέων.",
+          "alexandrie": "Car [il n'est] ni du côté des sorties ni du côté des couchers Ni du côté des déserts des montagnes.",
           "name": "Psaumes 75:7",
           "chapter": "75"
         },
@@ -9922,6 +9980,7 @@
           "verse": "8",
           "text": "Car Dieu seul est le juge : il humilie celui-ci, il exalte celui-là.",
           "grec": "ὅτι ὁ θεὸς κριτής ἐστιν τοῦτον ταπεινοῖ καὶ τοῦτον ὑψοῖ.",
+          "alexandrie": "Car Dieu est juge ; Celui-ci, il l'humilie, et celui-là, il l'exalte.",
           "name": "Psaumes 75:8",
           "chapter": "75"
         },
@@ -9929,6 +9988,7 @@
           "verse": "9",
           "text": "Il y a dans la main du Seigneur un calice plein d'un vin pur, mêlé d'aromates. Il l'incline çà et là, mais jamais il ne l'épuise jusqu'à la lie ; tous les pécheurs de la terre en boiront.",
           "grec": "ὅτι ποτήριον ἐν χειρὶ κυρίου οἴνου ἀκράτου πλῆρες κεράσματος καὶ ἔκλινεν ἐκ τούτου εἰς τοῦτο πλὴν ὁ τρυγίας αὐτοῦ οὐκ ἐξεκενώθη πίονται πάντες οἱ ἁμαρτωλοὶ τῆς γῆς.",
+          "alexandrie": "Car une coupe [est] dans la main de Seigneur [Une coupe] de vin non mélangé, remplie d'un mélange ; Et il l'a inclinée de cela vers cela. Mais sa lie n'a pas été vidée ; Tous les pécheurs de la terre [en] boiront. »",
           "name": "Psaumes 75:9",
           "chapter": "75"
         },
@@ -9936,6 +9996,7 @@
           "verse": "10",
           "text": "Pour moi, je tressaillirai d'une allégresse perpétuelle ; je chanterai au Dieu de Jacob.",
           "grec": "ἐγὼ δὲ ἀγαλλιάσομαι εἰς τὸν αἰῶνα ψαλῶ τῷ θεῷ Ιακωβ.",
+          "alexandrie": "Mais moi j'exulterai pour l'éternité ; Je jouerai un psaume au Dieu de Jacob.",
           "name": "Psaumes 75:10",
           "chapter": "75"
         },
@@ -9943,6 +10004,7 @@
           "verse": "11",
           "text": "Et je briserai le front de tous les pécheurs, et le front des justes sera exalté.",
           "grec": "καὶ πάντα τὰ κέρατα τῶν ἁμαρτωλῶν συγκλάσω καὶ ὑψωθήσεται τὰ κέρατα τοῦ δικαίου.",
+          "alexandrie": "Et toutes les cornes des pécheurs, je les romprai ; Et les cornes du juste seront exaltées.",
           "name": "Psaumes 75:11",
           "chapter": "75"
         }
@@ -9956,6 +10018,7 @@
           "verse": "1",
           "text": "Jusqu'à la Fin. Jusqu'à la Fin avec les hymnes, psaume d'Asaph, chant concernant les Assyriens.",
           "grec": "εἰς τὸ τέλος ἐν ὕμνοις ψαλμὸς τῷ Ασαφ ᾠδὴ πρὸς τὸν Ἀσσύριον.",
+          "alexandrie": "Pour la fin. Parmi les hymnes. Psaume. À Asaph. Cantique. Contre l'Assyrien.",
           "name": "Psaumes 76:1",
           "chapter": "76"
         },
@@ -9963,6 +10026,7 @@
           "verse": "2",
           "text": "Dieu est connu en Judée ; son nom est grand en Israël.",
           "grec": "γνωστὸς ἐν τῇ Ιουδαίᾳ ὁ θεός ἐν τῷ Ισραηλ μέγα τὸ ὄνομα αὐτοῦ.",
+          "alexandrie": "Dieu est connu dans la Judée : En Israël, grand son nom.",
           "name": "Psaumes 76:2",
           "chapter": "76"
         },
@@ -9970,6 +10034,7 @@
           "verse": "3",
           "text": "Son lieu a été établi dans la paix, et sa demeure dans Sion.",
           "grec": "καὶ ἐγενήθη ἐν εἰρήνῃ ὁ τόπος αὐτοῦ καὶ τὸ κατοικητήριον αὐτοῦ ἐν Σιων.",
+          "alexandrie": "Et son lieu est devenu en Paix ; Et son habitation, dans Sion.",
           "name": "Psaumes 76:3",
           "chapter": "76"
         },
@@ -9977,6 +10042,7 @@
           "verse": "4",
           "text": "C'est là qu'il a brisé la force des arcs, et les armures, et le glaive, et la guerre. Interlude.",
           "grec": "ἐκεῖ συνέτριψεν τὰ κράτη τῶν τόξων ὅπλον καὶ ῥομφαίαν καὶ πόλεμον διάψαλμα.",
+          "alexandrie": "Là il a brisé les vigueurs des arcs, L'armement et le glaive et la guerre. Diapsalme.",
           "name": "Psaumes 76:4",
           "chapter": "76"
         },
@@ -9984,6 +10050,7 @@
           "verse": "5",
           "text": "Tu éclaires merveilleusement du haut des montagnes éternelles.",
           "grec": "φωτίζεις σὺ θαυμαστῶς ἀπὸ ὀρέων αἰωνίων.",
+          "alexandrie": "Tu illumines, toi, merveilleusement, depuis les montagnes éternelles.",
           "name": "Psaumes 76:5",
           "chapter": "76"
         },
@@ -9991,6 +10058,7 @@
           "verse": "6",
           "text": "Tous les insensés ont été troublés en leur cœur. Ils ont dormi leur sommeil, et tous les favoris de la richesse n'ont rien trouvé dans leurs mains.",
           "grec": "ἐταράχθησαν πάντες οἱ ἀσύνετοι τῇ καρδίᾳ ὕπνωσαν ὕπνον αὐτῶν καὶ οὐχ εὗρον οὐδὲν πάντες οἱ ἄνδρες τοῦ πλούτου ταῖς χερσὶν αὐτῶν.",
+          "alexandrie": "Ils ont été troublés, tous les inintelligents de cœur ; Ils ont dormi leur sommeil et ils n'ont rien trouvé, Tous les hommes de la richesse, avec leurs mains.",
           "name": "Psaumes 76:6",
           "chapter": "76"
         },
@@ -9998,6 +10066,7 @@
           "verse": "7",
           "text": "Sous ta réprobation, Dieu de Jacob, les cavaliers se sont endormis sur leurs chevaux.",
           "grec": "ἀπὸ ἐπιτιμήσεώς σου ὁ θεὸς Ιακωβ ἐνύσταξαν οἱ ἐπιβεβηκότες τοὺς ἵππους.",
+          "alexandrie": "Par ta punition, Dieu de Jacob, Ceux qui montaient les chevaux se sont assoupis.",
           "name": "Psaumes 76:7",
           "chapter": "76"
         },
@@ -10005,6 +10074,7 @@
           "verse": "8",
           "text": "Tu es redoutable, et qui donc résisterait à ta colère ?",
           "grec": "σὺ φοβερὸς εἶ καὶ τίς ἀντιστήσεταί σοι ἀπὸ τότε ἡ ὀργή σου.",
+          "alexandrie": "Toi, tu inspires la crainte et qui se dressera contre toi ? Depuis alors ta colère.",
           "name": "Psaumes 76:8",
           "chapter": "76"
         },
@@ -10012,6 +10082,7 @@
           "verse": "9",
           "text": "Du haut du ciel tu as fait entendre ton jugement ; la terre a eu peur, et s'est tenue en repos,",
           "grec": "ἐκ τοῦ οὐρανοῦ ἠκούτισας κρίσιν γῆ ἐφοβήθη καὶ ἡσύχασεν.",
+          "alexandrie": "Du ciel tu as fait entendre le jugement ; La terre a eu de la crainte et s'est tenue tranquille",
           "name": "Psaumes 76:9",
           "chapter": "76"
         },
@@ -10019,6 +10090,7 @@
           "verse": "10",
           "text": "Lorsque Dieu s'est levé pour juger et pour sauver les doux en leur cœur. Interlude.",
           "grec": "ἐν τῷ ἀναστῆναι εἰς κρίσιν τὸν θεὸν τοῦ σῶσαι πάντας τοὺς πραεῖς τῆς γῆς διάψαλμα.",
+          "alexandrie": "Quand Dieu s'est levé pour le jugement Afin de sauver tous les doux de la terre. Diapsalme.",
           "name": "Psaumes 76:10",
           "chapter": "76"
         },
@@ -10026,6 +10098,7 @@
           "verse": "11",
           "text": "La pensée de l'homme te rendra grâces, et le mémorial de cette pensée te fêtera.",
           "grec": "ὅτι ἐνθύμιον ἀνθρώπου ἐξομολογήσεταί σοι καὶ ἐγκατάλειμμα ἐνθυμίου ἑορτάσει σοι.",
+          "alexandrie": "Car le scrupule de l'homme te fera la profession Et le reste du scrupule te fera fête.",
           "name": "Psaumes 76:11",
           "chapter": "76"
         },
@@ -10033,6 +10106,7 @@
           "verse": "12",
           "text": "Faites des vœux à Dieu notre Seigneur, et accomplissez-les ; tous ceux qui se rassemblent autour de lui feront des offrandes,",
           "grec": "εὔξασθε καὶ ἀπόδοτε κυρίῳ τῷ θεῷ ὑμῶν· πάντες οἱ κύκλῳ αὐτοῦ οἴσουσιν δῶρα",
+          "alexandrie": "Priez et rendez son dû à Seigneur votre Dieu ; Tous ceux autour de lui porteront des présents",
           "name": "Psaumes 76:12",
           "chapter": "76"
         },
@@ -10040,6 +10114,7 @@
           "verse": "13",
           "text": "Au Dieu terrible qui ôte l'esprit aux princes, Dieu terrible aux rois de la terre.",
           "grec": "τῷ φοβερῷ καὶ ἀφαιρουμένῳ πνεύματα ἀρχόντων, φοβερῷ παρὰ τοῖς βασιλεῦσι τῆς γῆς.",
+          "alexandrie": "À celui qui inspire la crainte et qui enlève les souffles des chefs, À qui inspire la crainte parmi les rois de la terre.",
           "name": "Psaumes 76:13",
           "chapter": "76"
         }
@@ -10053,6 +10128,7 @@
           "verse": "1",
           "text": "Jusqu'à la Fin, sur Idithun. Psaume d'Asaph.",
           "grec": "εἰς τὸ τέλος ὑπὲρ Ιδιθουν τῷ Ασαφ ψαλμός.",
+          "alexandrie": "Pour la fin. Au sujet d'Idithoun. À Asaph. Psaume.",
           "name": "Psaumes 77:1",
           "chapter": "77"
         },
@@ -10060,6 +10136,7 @@
           "verse": "2",
           "text": "J'ai crié au Seigneur de ma voix ; et ma voix est allée au Seigneur, et il a fait attention à moi.",
           "grec": "φωνῇ μου πρὸς κύριον ἐκέκραξα φωνῇ μου πρὸς τὸν θεόν καὶ προσέσχεν μοι.",
+          "alexandrie": "De ma voix vers Seigneur j'ai crié, De ma voix vers Dieu, et il m'a prêté attention.",
           "name": "Psaumes 77:2",
           "chapter": "77"
         },
@@ -10067,6 +10144,7 @@
           "verse": "3",
           "text": "Au jour de mon affliction, j'ai cherché Dieu ; la nuit, j'ai étendu vers lui les mains, et je n'ai pas été déçu. Mon âme ne voulait pas être consolée.",
           "grec": "ἐν ἡμέρᾳ θλίψεώς μου τὸν θεὸν ἐξεζήτησα ταῖς χερσίν μου νυκτὸς ἐναντίον αὐτοῦ καὶ οὐκ ἠπατήθην ἀπηνήνατο παρακληθῆναι ἡ ψυχή μου.",
+          "alexandrie": "Au jour de mon oppression j'ai recherché Dieu, Avec mes mains, de nuit, en face de lui, et je n'ai pas été trompé ; Mon âme a refusé d'être consolée.",
           "name": "Psaumes 77:3",
           "chapter": "77"
         },
@@ -10074,6 +10152,7 @@
           "verse": "4",
           "text": "Je me suis souvenu de Dieu, et j'ai été réjoui ; j'ai lâché bride à mes pensées, et mon esprit a défailli.",
           "grec": "ἐμνήσθην τοῦ θεοῦ καὶ εὐφράνθην ἠδολέσχησα καὶ ὠλιγοψύχησεν τὸ πνεῦμά μου διάψαλμα.",
+          "alexandrie": "Je me suis souvenu de Dieu et je me suis réjoui ; J'ai soliloqué et mon esprit s'est découragé. Diapsalme.",
           "name": "Psaumes 77:4",
           "chapter": "77"
         },
@@ -10081,6 +10160,7 @@
           "verse": "5",
           "text": "Mes yeux ne se fermaient plus durant les veilles ; j'étais troublé, et ne pouvais plus parler.",
           "grec": "προκατελάβοντο φυλακὰς οἱ ὀφθαλμοί μου ἐταράχθην καὶ οὐκ ἐλάλησα.",
+          "alexandrie": "Mes yeux ont devancé les gardes ; J'ai été troublé et je n'ai pas parlé.",
           "name": "Psaumes 77:5",
           "chapter": "77"
         },
@@ -10088,6 +10168,7 @@
           "verse": "6",
           "text": "J'ai considéré les jours antiques, et je me suis souvenu des années de jadis, et j'ai médité.",
           "grec": "διελογισάμην ἡμέρας ἀρχαίας καὶ ἔτη αἰώνια ἐμνήσθην καὶ ἐμελέτησα.",
+          "alexandrie": "J'ai fait le calcul des jours anciens Et je me suis souvenu des années éternelles et j'ai médité ;",
           "name": "Psaumes 77:6",
           "chapter": "77"
         },
@@ -10095,6 +10176,7 @@
           "verse": "7",
           "text": "La nuit j'ai réfléchi en mon cœur, et mon esprit fouillait en lui-même :",
           "grec": "νυκτὸς μετὰ τῆς καρδίας μου ἠδολέσχουν καὶ ἔσκαλλεν τὸ πνεῦμά μου.",
+          "alexandrie": "De nuit avec mon cœur je soliloquais. Et mon esprit fouillait.",
           "name": "Psaumes 77:7",
           "chapter": "77"
         },
@@ -10102,6 +10184,7 @@
           "verse": "8",
           "text": "Est-ce que le Seigneur me repoussera toujours ? est-ce qu'il ne se complaira plus en moi ?",
           "grec": "μὴ εἰς τοὺς αἰῶνας ἀπώσεται κύριος καὶ οὐ προσθήσει τοῦ εὐδοκῆσαι ἔτι.",
+          "alexandrie": "Est-ce que Seigneur repoussera pour les éternités ? Et est-ce qu'il n'ajoutera plus à sa faveur ?",
           "name": "Psaumes 77:8",
           "chapter": "77"
         },
@@ -10109,6 +10192,7 @@
           "verse": "9",
           "text": "Est-ce que, jusqu'à la fin, il privera de sa miséricorde les générations des générations ?",
           "grec": "ἢ εἰς τέλος τὸ ἔλεος αὐτοῦ ἀποκόψει ἀπὸ γενεᾶς εἰς γενεάν.",
+          "alexandrie": "Retranchera-t-il sa pitié à jamais, A-t-il achevé le propos De génération en génération ?",
           "name": "Psaumes 77:9",
           "chapter": "77"
         },
@@ -10116,6 +10200,7 @@
           "verse": "10",
           "text": "Dieu oubliera-t-il de s'apitoyer ? Sa colère comprimera-t-elle toujours ses compassions ? Interlude.",
           "grec": "ἢ ἐπιλήσεται τοῦ οἰκτιρῆσαι ὁ θεὸς ἢ συνέξει ἐν τῇ ὀργῇ αὐτοῦ τοὺς οἰκτιρμοὺς αὐτοῦ διάψαλμα.",
+          "alexandrie": "Dieu oubliera-t-il d'avoir pitié ? Refermera-t-il dans sa colère ses miséricordes ? Diapsalme.",
           "name": "Psaumes 77:10",
           "chapter": "77"
         },
@@ -10123,6 +10208,7 @@
           "verse": "11",
           "text": "Et j'ai dit : Maintenant j'ai commencé ; ceci est le changement de la droite du Très-Haut.",
           "grec": "καὶ εἶπα νῦν ἠρξάμην αὕτη ἡ ἀλλοίωσις τῆς δεξιᾶς τοῦ ὑψίστου.",
+          "alexandrie": "Et j'ai dit : « Aujourd'hui, j'ai commencé ; Voici le changement de la droite du Très-Haut.",
           "name": "Psaumes 77:11",
           "chapter": "77"
         },
@@ -10130,6 +10216,7 @@
           "verse": "12",
           "text": "Je me suis souvenu des œuvres du Seigneur, et je me souviendrai de tes merveilles dès le commencement.",
           "grec": "ἐμνήσθην τῶν ἔργων κυρίου ὅτι μνησθήσομαι ἀπὸ τῆς ἀρχῆς τῶν θαυμασίων σου.",
+          "alexandrie": "Je me suis souvenu des œuvres de Seigneur ; Car je me souviendrai, depuis le commencement, de tes merveilles ;",
           "name": "Psaumes 77:12",
           "chapter": "77"
         },
@@ -10137,6 +10224,7 @@
           "verse": "13",
           "text": "Et je méditerai sur toutes tes œuvres, et je réfléchirai sur tes conseils.",
           "grec": "καὶ μελετήσω ἐν πᾶσιν τοῖς ἔργοις σου καὶ ἐν τοῖς ἐπιτηδεύμασίν σου ἀδολεσχήσω.",
+          "alexandrie": "Et je méditerai en toutes tes œuvres Et en tes agissements je soliloquerai.",
           "name": "Psaumes 77:13",
           "chapter": "77"
         },
@@ -10144,6 +10232,7 @@
           "verse": "14",
           "text": "O Dieu, ta voie est dans la sainteté ; quel Dieu est grand comme notre Dieu ?",
           "grec": "ὁ θεός, ἐν τῷ ἁγίῳ ἡ ὁδός σου· τίς θεὸς μέγας ὡς ὁ θεὸς ἡμῶν;",
+          "alexandrie": "Dieu, dans le [lieu] saint [est] ta voie. Qui est un Dieu grand comme notre Dieu ?",
           "name": "Psaumes 77:14",
           "chapter": "77"
         },
@@ -10151,6 +10240,7 @@
           "verse": "15",
           "text": "Tu es le Dieu qui fait tes merveilles ; tu as fait connaître aux peuples ta puissance.",
           "grec": "σὺ εἶ ὁ θεὸς ὁ ποιῶν θαυμάσια, ἐγνώρισας ἐν τοῖς λαοῖς τὴν δύναμίν σου·",
+          "alexandrie": "Toi, tu es le Dieu qui fait des merveilles ; Tu as fait connaître parmi les peuples ta puissance.",
           "name": "Psaumes 77:15",
           "chapter": "77"
         },
@@ -10158,6 +10248,7 @@
           "verse": "16",
           "text": "Par ton bras, tu as délivré ton peuple, les fils de Jacob et de Joseph. Interlude.",
           "grec": "ἐλυτρώσω ἐν τῷ βραχίονί σου τὸν λαόν σου, τοὺς υἱοὺς Ιακωβ καὶ Ιωσηφ. διάψαλμα.",
+          "alexandrie": "Tu as racheté par ton bras ton peuple, Les fils de Jacob et de Joseph. Diapsalme.",
           "name": "Psaumes 77:16",
           "chapter": "77"
         },
@@ -10165,6 +10256,7 @@
           "verse": "17",
           "text": "Les eaux t'ont vu, mon Dieu, les eaux t'ont vu ; et elles ont eu peur, et les abîmes ont été troublés ; le fracas des eaux a longuement retenti.",
           "grec": "εἴδοσάν σε ὕδατα, ὁ θεός, εἴδοσάν σε ὕδατα καὶ ἐφοβήθησαν, καὶ ἐταράχθησαν ἄβυσσοι, πλῆθος ἤχους ὑδάτων.",
+          "alexandrie": "Les eaux t'ont vu, Dieu, Les eaux t'ont vu et ont eu de la crainte ; Et les abîmes ont été troublés. Multiplication du bruit des eaux !",
           "name": "Psaumes 77:17",
           "chapter": "77"
         },
@@ -10172,6 +10264,7 @@
           "verse": "18",
           "text": "Les nuées ont fait entendre des voix, car tes flèches les ont traversées.",
           "grec": "φωνὴν ἔδωκαν αἱ νεφέλαι, καὶ γὰρ τὰ βέλη σου διαπορεύονται·",
+          "alexandrie": "Les nuées ont donné de la voix ; Et en effet tes traits traversent.",
           "name": "Psaumes 77:18",
           "chapter": "77"
         },
@@ -10179,6 +10272,7 @@
           "verse": "19",
           "text": "La voix de ton tonnerre a retenti dans la voûte du ciel ; tes éclairs ont brillé sur le monde ; la terre a frémi et tremblé.",
           "grec": "φωνὴ τῆς βροντῆς σου ἐν τῷ τροχῷ, ἔφαναν αἱ ἀστραπαί σου τῇ οἰκουμένῃ, ἐσαλεύθη καὶ ἔντρομος ἐγενήθη ἡ γῆ.",
+          "alexandrie": "Voix de ton tonnerre dans la roue ; Tes éclairs ont paru sur la terre habitée ; La terre a été secouée et est devenue tremblante.",
           "name": "Psaumes 77:19",
           "chapter": "77"
         },
@@ -10186,6 +10280,7 @@
           "verse": "20",
           "text": "Ta voie est au fond de la mer ; et tes sentiers sont recouverts par des amas d'eau, et l'on ne reconnaîtra pas tes traces.",
           "grec": "ἐν τῇ θαλάσσῃ ἡ ὁδός σου, καὶ αἱ τρίβοι σου ἐν ὕδασι πολλοῖς, καὶ τὰ ἴχνη σου οὐ γνωσθήσονται.",
+          "alexandrie": "Dans la mer [est] ta voie ; Et tes routes [sont] dans les eaux nombreuses ; Et tes traces ne seront pas connues.",
           "name": "Psaumes 77:20",
           "chapter": "77"
         },
@@ -10193,6 +10288,7 @@
           "verse": "21",
           "text": "Tu as conduit ton peuple comme un troupeau par les mains d'Aaron et de Moïse.",
           "grec": "ὡδήγησας ὡς πρόβατα τὸν λαόν σου ἐν χειρὶ Μωυσῆ καὶ Ααρων.",
+          "alexandrie": "Tu as conduit comme des brebis ton peuple Par la main de Moïse et d'Aaron. »",
           "name": "Psaumes 77:21",
           "chapter": "77"
         }
@@ -10206,6 +10302,7 @@
           "verse": "1",
           "text": "Psaume de méditation d'Asaph. O mon peuple, attachez-vous à ma loi ; inclinez votre oreille vers les paroles de ma bouche.",
           "grec": "συνέσεως τῷ Ασαφ προσέχετε λαός μου τὸν νόμον μου κλίνατε τὸ οὖς ὑμῶν εἰς τὰ ῥήματα τοῦ στόματός μου.",
+          "alexandrie": "D'intelligence. À Asaph. Prêtez attention, mon peuple, à ma loi ; Inclinez votre oreille vers les propos de ma bouche.",
           "name": "Psaumes 78:1",
           "chapter": "78"
         },
@@ -10213,6 +10310,7 @@
           "verse": "2",
           "text": "J'ouvrirai ma bouche en paraboles ; je dirai dirai des énigmes posées depuis le commencement,",
           "grec": "ἀνοίξω ἐν παραβολαῖς τὸ στόμα μου φθέγξομαι προβλήματα ἀπ' ἀρχῆς.",
+          "alexandrie": "J'ouvrirai en paraboles ma bouche ; J'énoncerai les problèmes depuis le commencement.",
           "name": "Psaumes 78:2",
           "chapter": "78"
         },
@@ -10220,6 +10318,7 @@
           "verse": "3",
           "text": "Telles que vous les avez ouïes et connues, et que vos pères vous les ont racontées.",
           "grec": "ὅσα ἠκούσαμεν καὶ ἔγνωμεν αὐτὰ καὶ οἱ πατέρες ἡμῶν διηγήσαντο ἡμῖν.",
+          "alexandrie": "Tout ce que nous avons entendu et que nous avons connu Et que nos pères nous ont raconté",
           "name": "Psaumes 78:3",
           "chapter": "78"
         },
@@ -10227,6 +10326,7 @@
           "verse": "4",
           "text": "Elles n'ont point été cachées à leurs enfants de la seconde génération, eux-mêmes leur ayant annoncé les louanges du Seigneur, et sa puissance et les merveilles qu'il a faites.",
           "grec": "οὐκ ἐκρύβη ἀπὸ τῶν τέκνων αὐτῶν εἰς γενεὰν ἑτέραν ἀπαγγέλλοντες τὰς αἰνέσεις τοῦ κυρίου καὶ τὰς δυναστείας αὐτοῦ καὶ τὰ θαυμάσια αὐτοῦ ἃ ἐποίησεν.",
+          "alexandrie": "N'a pas été caché à leurs enfants pour la génération suivante, Eux qui annonçaient les louanges du Seigneur Et ses actions puissantes Et ses merveilles qu'il a faites.",
           "name": "Psaumes 78:4",
           "chapter": "78"
         },
@@ -10234,6 +10334,7 @@
           "verse": "5",
           "text": "Et il a suscité un témoignage en Jacob, et il a institué en Israël une loi qu'il a confiée à nos pères, pour qu'ils l'enseignassent à leurs enfants,",
           "grec": "καὶ ἀνέστησεν μαρτύριον ἐν Ιακωβ καὶ νόμον ἔθετο ἐν Ισραηλ ὅσα ἐνετείλατο τοῖς πατράσιν ἡμῶν τοῦ γνωρίσαι αὐτὰ τοῖς υἱοῖς αὐτῶν.",
+          "alexandrie": "Et il a fait lever un témoignage en Jacob Et il a établi une loi en Israël, Qu'il a commandée à nos pères De les faire connaître à leurs fils,",
           "name": "Psaumes 78:5",
           "chapter": "78"
         },
@@ -10241,6 +10342,7 @@
           "verse": "6",
           "text": "Afin que chaque génération les transmit à la suivante ; les fils l'apprendront à ceux qui naîtront d'eux ; et ils en porteront témoignage, et ils en instruiront leurs enfants :",
           "grec": "ὅπως ἂν γνῷ γενεὰ ἑτέρα υἱοὶ οἱ τεχθησόμενοι καὶ ἀναστήσονται καὶ ἀπαγγελοῦσιν αὐτὰ τοῖς υἱοῖς αὐτῶν.",
+          "alexandrie": "Pour que connaisse la génération suivante, Les fils qui seront enfantés, Et ils se lèveront et ils les annonceront à leurs fils,",
           "name": "Psaumes 78:6",
           "chapter": "78"
         },
@@ -10248,6 +10350,7 @@
           "verse": "7",
           "text": "Afin qu'ils mettent en Dieu leur espérance, et qu'ils n'oublient point ses œuvres, et qu'ils recherchent ses commandements,",
           "grec": "ἵνα θῶνται ἐπὶ τὸν θεὸν τὴν ἐλπίδα αὐτῶν καὶ μὴ ἐπιλάθωνται τῶν ἔργων τοῦ θεοῦ καὶ τὰς ἐντολὰς αὐτοῦ ἐκζητήσουσιν.",
+          "alexandrie": "Afin qu'ils établissent en Dieu leur espoir Et qu'ils n'oublient pas les œuvres de Dieu, Et qu'ils recherchent ses commandements,",
           "name": "Psaumes 78:7",
           "chapter": "78"
         },
@@ -10255,6 +10358,7 @@
           "verse": "8",
           "text": "Et qu'ils ne soient point comme leurs pères, race perverse et provocatrice, qui n'a pas eu de droiture de cœur, et, en son esprit, n'a pas été fidèle à Dieu.",
           "grec": "ἵνα μὴ γένωνται ὡς οἱ πατέρες αὐτῶν γενεὰ σκολιὰ καὶ παραπικραίνουσα γενεά ἥτις οὐ κατηύθυνεν τὴν καρδίαν αὐτῆς καὶ οὐκ ἐπιστώθη μετὰ τοῦ θεοῦ τὸ πνεῦμα αὐτῆς.",
+          "alexandrie": "Afin qu'ils ne deviennent pas comme leurs pères, Une génération tordue et qui provoquait l'aigreur, Une génération qui ne dirigeait pas droitement son cœur Et dont l'esprit n'a pas été fidèle à l'égard de Dieu.",
           "name": "Psaumes 78:8",
           "chapter": "78"
         },
@@ -10262,6 +10366,7 @@
           "verse": "9",
           "text": "Les fils d'Éphraïm tendant l'arc, lançant des flèches, le jour du combat ont tourné le dos.",
           "grec": "υἱοὶ Εφραιμ ἐντείνοντες καὶ βάλλοντες τόξοις ἐστράφησαν ἐν ἡμέρᾳ πολέμου.",
+          "alexandrie": "Les fils d'Éphraïm qui tendaient leurs arcs et tiraient Ont fait demi-tour au jour de la guerre.",
           "name": "Psaumes 78:9",
           "chapter": "78"
         },
@@ -10269,6 +10374,7 @@
           "verse": "10",
           "text": "Ils n'ont point gardé l'alliance de Dieu, et ils ont refusé de marcher dans sa loi.",
           "grec": "οὐκ ἐφύλαξαν τὴν διαθήκην τοῦ θεοῦ καὶ ἐν τῷ νόμῳ αὐτοῦ οὐκ ἤθελον πορεύεσθαι.",
+          "alexandrie": "Ils n'avaient pas gardé l'alliance de Dieu Et dans sa loi ils ne voulaient pas cheminer.",
           "name": "Psaumes 78:10",
           "chapter": "78"
         },
@@ -10276,6 +10382,7 @@
           "verse": "11",
           "text": "Et ils ont oublié ses bienfaits, et les miracles qu'il leur a montrés,",
           "grec": "καὶ ἐπελάθοντο τῶν εὐεργεσιῶν αὐτοῦ καὶ τῶν θαυμασίων αὐτοῦ ὧν ἔδειξεν αὐτοῖς.",
+          "alexandrie": "Et ils avaient oublié ses bonnes œuvres Et ses merveilles, qu'il leur avait montrées.",
           "name": "Psaumes 78:11",
           "chapter": "78"
         },
@@ -10283,6 +10390,7 @@
           "verse": "12",
           "text": "Et les prodiges qu'il a faits devant leurs pères, en la terre d'Egypte et dans la plaine de Tanis.",
           "grec": "ἐναντίον τῶν πατέρων αὐτῶν ἃ ἐποίησεν θαυμάσια ἐν γῇ Αἰγύπτῳ ἐν πεδίῳ Τάνεως.",
+          "alexandrie": "En face de leurs pères, ce qu'il avait fait [comme] merveilles Dans la terre d'Égypte dans la plaine de Tanis.",
           "name": "Psaumes 78:12",
           "chapter": "78"
         },
@@ -10290,6 +10398,7 @@
           "verse": "13",
           "text": "Il a séparé la mer, et il les a fait passer ; il a contenu les eaux, comme dans une outre.",
           "grec": "διέρρηξεν θάλασσαν καὶ διήγαγεν αὐτούς ἔστησεν ὕδατα ὡσεὶ ἀσκὸν.",
+          "alexandrie": "Il a rompu la mer et il les a fait traverser, Il a fixé les eaux comme [dans] une outre.",
           "name": "Psaumes 78:13",
           "chapter": "78"
         },
@@ -10297,6 +10406,7 @@
           "verse": "14",
           "text": "Et il les a guidés le jour dans une nuée, et la nuit dans un luminaire de feu.",
           "grec": "καὶ ὡδήγησεν αὐτοὺς ἐν νεφέλῃ ἡμέρας καὶ ὅλην τὴν νύκτα ἐν φωτισμῷ πυρός.",
+          "alexandrie": "Et il les a conduits par la nuée, de jour, Et, toute la nuit, par l'illumination de feu.",
           "name": "Psaumes 78:14",
           "chapter": "78"
         },
@@ -10304,6 +10414,7 @@
           "verse": "15",
           "text": "Il a fendu le rocher dans le désert, et il les a abreuvés comme avec l'eau d'un grand abîme.",
           "grec": "διέρρηξεν πέτραν ἐν ἐρήμῳ καὶ ἐπότισεν αὐτοὺς ὡς ἐν ἀβύσσῳ πολλῇ.",
+          "alexandrie": "Il a rompu la roche dans le désert Et il les a fait boire comme dans un abîme profond.",
           "name": "Psaumes 78:15",
           "chapter": "78"
         },
@@ -10311,6 +10422,7 @@
           "verse": "16",
           "text": "Et de la pierre il a tiré et conduit l'eau comme un fleuve.",
           "grec": "καὶ ἐξήγαγεν ὕδωρ ἐκ πέτρας καὶ κατήγαγεν ὡς ποταμοὺς ὕδατα.",
+          "alexandrie": "Et il a fait sortir de l'eau de la roche Et il a fait descendre comme des fleuves les eaux.",
           "name": "Psaumes 78:16",
           "chapter": "78"
         },
@@ -10318,6 +10430,7 @@
           "verse": "17",
           "text": "Et ils ont continué de pécher contre lui ; ils ont provoqué le Très-Haut dans une terre sans eau ;",
           "grec": "καὶ προσέθεντο ἔτι τοῦ ἁμαρτάνειν αὐτῷ παρεπίκραναν τὸν ὕψιστον ἐν ἀνύδρῳ.",
+          "alexandrie": "Et de nouveau encore ils ont péché contre lui ; Ils ont provoqué l'aigreur du Très-Haut dans le [lieu] aride.",
           "name": "Psaumes 78:17",
           "chapter": "78"
         },
@@ -10325,6 +10438,7 @@
           "verse": "18",
           "text": "Et ils ont tenté Dieu en leurs cœurs, en lui demandant des aliments pour leurs âmes.",
           "grec": "καὶ ἐξεπείρασαν τὸν θεὸν ἐν ταῖς καρδίαις αὐτῶν τοῦ αἰτῆσαι βρώματα ταῖς ψυχαῖς αὐτῶν.",
+          "alexandrie": "Et ils ont mis à l'épreuve Dieu dans leurs cœurs En requérant des nourritures pour leurs âmes.",
           "name": "Psaumes 78:18",
           "chapter": "78"
         },
@@ -10332,6 +10446,7 @@
           "verse": "19",
           "text": "Et ils ont parlé contre Dieu, et ils ont dit : Est-ce que Dieu pourra nous préparer une table dans le désert ?",
           "grec": "καὶ κατελάλησαν τοῦ θεοῦ καὶ εἶπαν μὴ δυνήσεται ὁ θεὸς ἑτοιμάσαι τράπεζαν ἐν ἐρήμῳ.",
+          "alexandrie": "Et ils ont vitupéré contre Dieu et ils ont dit : « Dieu pourra-t-il préparer une table dans le désert ?",
           "name": "Psaumes 78:19",
           "chapter": "78"
         },
@@ -10339,6 +10454,7 @@
           "verse": "20",
           "text": "Il a frappé le rocher : l'eau a jailli ; un torrent a coulé avec abondance. Mais Dieu pourra-t-il nous donner aussi du pain, ou préparer dans le désert une table à son peuple ?",
           "grec": "ἐπεὶ ἐπάταξεν πέτραν καὶ ἐρρύησαν ὕδατα καὶ χείμαρροι κατεκλύσθησαν μὴ καὶ ἄρτον δύναται δοῦναι ἢ ἑτοιμάσαι τράπεζαν τῷ λαῷ αὐτοῦ.",
+          "alexandrie": "Alors qu'il a frappé la roche et que les eaux ont coulé Et que les torrents ont été inondés, Peut-il donner aussi du pain Et préparer une table pour son peuple ? »",
           "name": "Psaumes 78:20",
           "chapter": "78"
         },
@@ -10346,6 +10462,7 @@
           "verse": "21",
           "text": "C'est pourquoi le Seigneur, les ayant entendus, fut outré, et un feu fut allumé contre Jacob, et sa colère monta contre Israël ;",
           "grec": "διὰ τοῦτο ἤκουσεν κύριος καὶ ἀνεβάλετο καὶ πῦρ ἀνήφθη ἐν Ιακωβ καὶ ὀργὴ ἀνέβη ἐπὶ τὸν Ισραηλ.",
+          "alexandrie": "Voilà pourquoi Seigneur a écouté et a rejeté ; Et le feu s'est embrasé en Jacob Et la colère est montée contre Israël,",
           "name": "Psaumes 78:21",
           "chapter": "78"
         },
@@ -10353,6 +10470,7 @@
           "verse": "22",
           "text": "Parce qu'ils n'avaient pas eu foi en Dieu, et qu'ils n'avaient point espéré en sa protection.",
           "grec": "ὅτι οὐκ ἐπίστευσαν ἐν τῷ θεῷ οὐδὲ ἤλπισαν ἐπὶ τὸ σωτήριον αὐτοῦ.",
+          "alexandrie": "Car ils n'avaient pas eu foi en Dieu Et n'avaient pas mis leur espoir dans son salut.",
           "name": "Psaumes 78:22",
           "chapter": "78"
         },
@@ -10360,6 +10478,7 @@
           "verse": "23",
           "text": "Et d'en haut il donna ses ordres aux nues, et il ouvrit les portes du ciel.",
           "grec": "καὶ ἐνετείλατο νεφέλαις ὑπεράνωθεν καὶ θύρας οὐρανοῦ ἀνέῳξεν",
+          "alexandrie": "Et il a commandé aux nuées d'au-dessus Et les portes du ciel, il les a ouvertes",
           "name": "Psaumes 78:23",
           "chapter": "78"
         },
@@ -10367,6 +10486,7 @@
           "verse": "24",
           "text": "Et il fit pleuvoir sur eux la manne pour les nourrir, et il leur donna le pain du ciel.",
           "grec": "καὶ ἔβρεξεν αὐτοῖς μαννα φαγεῖν καὶ ἄρτον οὐρανοῦ ἔδωκεν αὐτοῖς·",
+          "alexandrie": "Et il a fait pleuvoir pour eux la manne à manger Et le pain du ciel, il le leur a donné.",
           "name": "Psaumes 78:24",
           "chapter": "78"
         },
@@ -10374,6 +10494,7 @@
           "verse": "25",
           "text": "L'homme mangea le pain des anges ; Dieu leur envoya des aliments en abondance.",
           "grec": "ἄρτον ἀγγέλων ἔφαγεν ἄνθρωπος, ἐπισιτισμὸν ἀπέστειλεν αὐτοῖς εἰς πλησμονήν.",
+          "alexandrie": "Le pain des anges, l'homme l'a mangé ; De l'approvisionnement, il leur en a envoyé à satiété.",
           "name": "Psaumes 78:25",
           "chapter": "78"
         },
@@ -10381,6 +10502,7 @@
           "verse": "26",
           "text": "Il chassa le vent du midi, et par sa puissance il amena le vent de l'occident.",
           "grec": "ἀπῆρεν νότον ἐξ οὐρανοῦ καὶ ἐπήγαγεν ἐν τῇ δυναστείᾳ αὐτοῦ λίβα",
+          "alexandrie": "Il a fait lever le vent du sud depuis le ciel ; Et il a mis en branle par sa puissance le vent d'ouest.",
           "name": "Psaumes 78:26",
           "chapter": "78"
         },
@@ -10388,6 +10510,7 @@
           "verse": "27",
           "text": "Et il fit pleuvoir pour eux de la chair comme des nuées de poussière, et des oiseaux emplumés comme le sable des mers.",
           "grec": "καὶ ἔβρεξεν ἐπ αὐτοὺς ὡσεὶ χοῦν σάρκας καὶ ὡσεὶ ἄμμον θαλασσῶν πετεινὰ πτερωτά,",
+          "alexandrie": "Et il a fait pleuvoir sur eux, comme de la poussière, des chairs Et, comme du sable des mers, des volatiles ailés.",
           "name": "Psaumes 78:27",
           "chapter": "78"
         },
@@ -10395,6 +10518,7 @@
           "verse": "28",
           "text": "Et ces oiseaux tombèrent au milieu de leur camp, autour de leurs tentes.",
           "grec": "καὶ ἐπέπεσον εἰς μέσον τῆς παρεμβολῆς αὐτῶν κύκλῳ τῶν σκηνωμάτων αὐτῶν,",
+          "alexandrie": "Et ils tombèrent au milieu de leur campement, Autour de leurs demeures.",
           "name": "Psaumes 78:28",
           "chapter": "78"
         },
@@ -10402,6 +10526,7 @@
           "verse": "29",
           "text": "Et ils mangèrent, et ils furent rassasiés ; et il satisfit leur désir.",
           "grec": "καὶ ἐφάγοσαν καὶ ἐνεπλήσθησαν σφόδρα, καὶ τὴν ἐπιθυμίαν αὐτῶν ἤνεγκεν αὐτοῖς,",
+          "alexandrie": "Et ils mangèrent et ils furent comblés complètement Et l'objet de leur désir, il le leur apporta.",
           "name": "Psaumes 78:29",
           "chapter": "78"
         },
@@ -10409,6 +10534,7 @@
           "verse": "30",
           "text": "Rien ne leur manqua de ce qu'ils désiraient, et ils en avaient encore la bouche pleine.",
           "grec": "οὐκ ἐστερήθησαν ἀπὸ τῆς ἐπιθυμίας αὐτῶν. ἔτι τῆς βρώσεως αὐτῶν οὔσης ἐν τῷ στόματι αὐτῶν",
+          "alexandrie": "Ils ne furent pas privés de l'objet de leur désir, Tandis que leur nourriture se trouvait encore dans leur bouche.",
           "name": "Psaumes 78:30",
           "chapter": "78"
         },
@@ -10416,6 +10542,7 @@
           "verse": "31",
           "text": "Et la colère du Seigneur s'éleva contre eux, et il mit à mort leurs riches, et il saisit les élus d'Israël.",
           "grec": "καὶ ὀργὴ τοῦ θεοῦ ἀνέβη ἐπ αὐτοὺς καὶ ἀπέκτεινεν ἐν τοῖς πίοσιν αὐτῶν καὶ τοὺς ἐκλεκτοὺς τοῦ Ισραηλ συνεπόδισεν.",
+          "alexandrie": "Et la colère de Dieu monta contre eux Et elle tua parmi ceux d'entre eux qui étaient gras Et les élus d'Israël, il les entrava.",
           "name": "Psaumes 78:31",
           "chapter": "78"
         },
@@ -10423,6 +10550,7 @@
           "verse": "32",
           "text": "Et malgré tout cela ils péchèrent encore, et ne crurent point à ses prodiges.",
           "grec": "ἐν πᾶσιν τούτοις ἥμαρτον ἔτι καὶ οὐκ ἐπίστευσαν ἐν τοῖς θαυμασίοις αὐτοῦ,",
+          "alexandrie": "En [dépit de] tout cela ils péchèrent encore Et ils n'eurent pas foi en ses merveilles.",
           "name": "Psaumes 78:32",
           "chapter": "78"
         },
@@ -10430,6 +10558,7 @@
           "verse": "33",
           "text": "Et leurs jours défaillirent en vanité, et leurs années se précipitèrent.",
           "grec": "καὶ ἐξέλιπον ἐν ματαιότητι αἱ ἡμέραι αὐτῶν καὶ τὰ ἔτη αὐτῶν μετὰ σπουδῆς.",
+          "alexandrie": "Et dans la vanité leurs jours firent défaut, Et leurs années avec hâte.",
           "name": "Psaumes 78:33",
           "chapter": "78"
         },
@@ -10437,6 +10566,7 @@
           "verse": "34",
           "text": "Quand il eut répandu parmi eux la mort, ils cherchèrent le Seigneur, et ils se convertirent à lui, et ils vinrent dès le matin vers Dieu.",
           "grec": "ὅταν ἀπέκτεννεν αὐτούς, ἐξεζήτουν αὐτὸν καὶ ἐπέστρεφον καὶ ὤρθριζον πρὸς τὸν θεὸν",
+          "alexandrie": "Quand il les tuait, ils le recherchaient Et ils retournaient et ils se levaient au point du jour vers Dieu.",
           "name": "Psaumes 78:34",
           "chapter": "78"
         },
@@ -10444,6 +10574,7 @@
           "verse": "35",
           "text": "Et ils se souvinrent que Dieu est leur champion, et que Dieu le Très-Haut est leur rédempteur.",
           "grec": "καὶ ἐμνήσθησαν ὅτι ὁ θεὸς βοηθὸς αὐτῶν ἐστιν καὶ ὁ θεὸς ὁ ὕψιστος λυτρωτὴς αὐτῶν ἐστιν.",
+          "alexandrie": "Et ils se souvinrent que Dieu leur était secourable Et que Dieu le Très-Haut était leur racheteur.",
           "name": "Psaumes 78:35",
           "chapter": "78"
         },
@@ -10451,6 +10582,7 @@
           "verse": "36",
           "text": "Et ils le trompèrent de la bouche ; leur langue lui mentait.",
           "grec": "καὶ ἠπάτησαν αὐτὸν ἐν τῷ στόματι αὐτῶν καὶ τῇ γλώσσῃ αὐτῶν ἐψεύσαντο αὐτῷ,",
+          "alexandrie": "Et ils l'aimèrent de leur bouche Et par leur langue ils lui mentirent.",
           "name": "Psaumes 78:36",
           "chapter": "78"
         },
@@ -10458,6 +10590,7 @@
           "verse": "37",
           "text": "Car leur cœur ne fut point droit envers lui, et ils ne furent point fidèles en son alliance.",
           "grec": "ἡ δὲ καρδία αὐτῶν οὐκ εὐθεῖα μετ αὐτοῦ, οὐδὲ ἐπιστώθησαν ἐν τῇ διαθήκῃ αὐτοῦ.",
+          "alexandrie": "Mais leur cœur ne [fut] pas droit avec lui Et ils ne furent pas fidèles dans son alliance.",
           "name": "Psaumes 78:37",
           "chapter": "78"
         },
@@ -10465,6 +10598,7 @@
           "verse": "38",
           "text": "Et cependant il est miséricordieux, et il leur remettra leurs péchés ; et il ne les détruira point. Il détournera souvent sa colère, et son courroux ne s'enflammera pas tout entier.",
           "grec": "αὐτὸς δέ ἐστιν οἰκτίρμων καὶ ἱλάσεται ταῖς ἁμαρτίαις αὐτῶν καὶ οὐ διαφθερεῖ καὶ πληθυνεῖ τοῦ ἀποστρέψαι τὸν θυμὸν αὐτοῦ καὶ οὐχὶ ἐκκαύσει πᾶσαν τὴν ὀργὴν αὐτοῦ·",
+          "alexandrie": "Mais lui est miséricordieux ; Et il sera clément pour leurs péchés et il ne détruira pas ; Et à de multiples reprises il détournera son emportement Et il n'enflammera pas toute sa colère.",
           "name": "Psaumes 78:38",
           "chapter": "78"
         },
@@ -10472,6 +10606,7 @@
           "verse": "39",
           "text": "Et il se souvint qu'ils étaient chair, un souffle qui passe et ne revient plus.",
           "grec": "καὶ ἐμνήσθη ὅτι σάρξ εἰσιν, πνεῦμα πορευόμενον καὶ οὐκ ἐπιστρέφον.",
+          "alexandrie": "Et il se souvint qu'ils étaient chair, Un souffle qui chemine et qui ne retourne pas.",
           "name": "Psaumes 78:39",
           "chapter": "78"
         },
@@ -10479,6 +10614,7 @@
           "verse": "40",
           "text": "Combien de fois l'ont-ils provoqué dans le désert, et l'ont-ils irrité dans la terre sans eau !",
           "grec": "ποσάκις παρεπίκραναν αὐτὸν ἐν τῇ ἐρήμῳ, παρώργισαν αὐτὸν ἐν γῇ ἀνύδρῳ;",
+          "alexandrie": "Que de fois ils provoquèrent son aigreur dans le désert, Ils le mirent en colère dans la terre aride !",
           "name": "Psaumes 78:40",
           "chapter": "78"
         },
@@ -10486,6 +10622,7 @@
           "verse": "41",
           "text": "Et ils se convertissaient, et ils recommençaient à tenter Dieu, et ils aigrissaient encore le Saint d'Israël.",
           "grec": "καὶ ἐπέστρεψαν καὶ ἐπείρασαν τὸν θεὸν καὶ τὸν ἅγιον τοῦ Ισραηλ παρώξυναν.",
+          "alexandrie": "Et ils s'y remirent et ils mirent Dieu à l'épreuve ; Et le saint d'Israël, ils l'irritèrent.",
           "name": "Psaumes 78:41",
           "chapter": "78"
         },
@@ -10493,6 +10630,7 @@
           "verse": "42",
           "text": "Ils avaient oublié sa main, et le jour où elle les avait tirés des mains de l'oppresseur ;",
           "grec": "οὐκ ἐμνήσθησαν τῆς χειρὸς αὐτοῦ, ἡμέρας, ἧς ἐλυτρώσατο αὐτοὺς ἐκ χειρὸς θλίβοντος,",
+          "alexandrie": "Ils ne se souvinrent pas de sa main, Du jour où il les racheta de la main de l'oppresseur,",
           "name": "Psaumes 78:42",
           "chapter": "78"
         },
@@ -10500,6 +10638,7 @@
           "verse": "43",
           "text": "Et comment il avait fait ses miracles en Egypte, et ses prodiges dans la plaine de Tanis ;",
           "grec": "ὡς ἔθετο ἐν Αἰγύπτῳ τὰ σημεῖα αὐτοῦ καὶ τὰ τέρατα αὐτοῦ ἐν πεδίῳ Τάνεως·",
+          "alexandrie": "Quand il établit en Égypte ses signes Et ses prodiges dans la plaine de Tanis.",
           "name": "Psaumes 78:43",
           "chapter": "78"
         },
@@ -10507,6 +10646,7 @@
           "verse": "44",
           "text": "Et comment il avait changé en sang leurs fleuves et leurs pluies, afin qu'ils ne pussent boire ;",
           "grec": "καὶ μετέστρεψεν εἰς αἷμα τοὺς ποταμοὺς αὐτῶν καὶ τὰ ὀμβρήματα αὐτῶν, ὅπως μὴ πίωσιν·",
+          "alexandrie": "Et il transforma en sang leurs fleuves. Et leurs pluies, pour qu'ils ne boivent pas.",
           "name": "Psaumes 78:44",
           "chapter": "78"
         },
@@ -10514,6 +10654,7 @@
           "verse": "45",
           "text": "Et comment il avait envoyé des mouches de chien qui les dévoraient, et des grenouilles qui les détruisaient.",
           "grec": "ἐξαπέστειλεν εἰς αὐτοὺς κυνόμυιαν, καὶ κατέφαγεν αὐτούς, καὶ βάτραχον, καὶ διέφθειρεν αὐτούς·",
+          "alexandrie": "Il envoya vers eux la mouche-chien ; et elle les dévora. Et la grenouille, et elle les détruisit.",
           "name": "Psaumes 78:45",
           "chapter": "78"
         },
@@ -10521,6 +10662,7 @@
           "verse": "46",
           "text": "Ils avaient oublié la nielle attachée à leurs fruits, et les sauterelles dont ils avaient souffert,",
           "grec": "καὶ ἔδωκεν τῇ ἐρυσίβῃ τὸν καρπὸν αὐτῶν καὶ τοὺς πόνους αὐτῶν τῇ ἀκρίδι·",
+          "alexandrie": "Et il donna à la nielle leur fruit Et [le produit de] leurs peines à la sauterelle.",
           "name": "Psaumes 78:46",
           "chapter": "78"
         },
@@ -10528,6 +10670,7 @@
           "verse": "47",
           "text": "Et la grêle détruisant leurs vignes, et la gelée faisant périr leurs mûriers,",
           "grec": "ἀπέκτεινεν ἐν χαλάζῃ τὴν ἄμπελον αὐτῶν καὶ τὰς συκαμίνους αὐτῶν ἐν τῇ πάχνῃ·",
+          "alexandrie": "Il tua par la grêle leur vigne Et leurs mûriers par le givre.",
           "name": "Psaumes 78:47",
           "chapter": "78"
         },
@@ -10535,6 +10678,7 @@
           "verse": "48",
           "text": "Et les grêlons exterminant leur bétail, et le feu consumant leurs richesses,",
           "grec": "καὶ παρέδωκεν εἰς χάλαζαν τὰ κτήνη αὐτῶν καὶ τὴν ὕπαρξιν αὐτῶν τῷ πυρί·",
+          "alexandrie": "Et il livra à la grêle leurs troupeaux Et leur propriété au feu.",
           "name": "Psaumes 78:48",
           "chapter": "78"
         },
@@ -10542,6 +10686,7 @@
           "verse": "49",
           "text": "Et sa colère et son indignation tombant sur eux ; colère, fureur, afflictions, envois d'anges exterminateurs ;",
           "grec": "ἐξαπέστειλεν εἰς αὐτοὺς ὀργὴν θυμοῦ αὐτοῦ, θυμὸν καὶ ὀργὴν καὶ θλῖψιν, ἀποστολὴν δι ἀγγέλων πονηρῶν·",
+          "alexandrie": "Il envoya vers eux la colère de son emportement, L'emportement et la colère et l'oppression, L'envoi par les anges mauvais.",
           "name": "Psaumes 78:49",
           "chapter": "78"
         },
@@ -10549,6 +10694,7 @@
           "verse": "50",
           "text": "Et la voie ouverte à son courroux, et son dessein de ne point épargner leur vie, et d'enclore leurs troupeaux, dans la mort ;",
           "grec": "ὡδοποίησεν τρίβον τῇ ὀργῇ αὐτοῦ, οὐκ ἐφείσατο ἀπὸ θανάτου τῶν ψυχῶν αὐτῶν καὶ τὰ κτήνη αὐτῶν εἰς θάνατον συνέκλεισεν",
+          "alexandrie": "Il fraya une route à sa colère ; Il n'épargna pas la mort à leurs âmes ; Et leurs têtes de bétail, il les enferma dans la mort.",
           "name": "Psaumes 78:50",
           "chapter": "78"
         },
@@ -10556,6 +10702,7 @@
           "verse": "51",
           "text": "Et le coup dont fut frappé tout premier-né en la terre d'Egypte, prémices de leurs peines sous leurs tentes de Cham ;",
           "grec": "καὶ ἐπάταξεν πᾶν πρωτότοκον ἐν Αἰγύπτῳ, ἀπαρχὴν τῶν πόνων αὐτῶν ἐν τοῖς σκηνώμασι Χαμ.",
+          "alexandrie": "Et il frappa tout premier-né en Égypte, Les prémices de leurs peines dans les demeures de Cham.",
           "name": "Psaumes 78:51",
           "chapter": "78"
         },
@@ -10563,6 +10710,7 @@
           "verse": "52",
           "text": "Et le soin qu'il prit d'enlever son peuple comme des brebis, et de les conduire dans le désert, comme un troupeau ;",
           "grec": "καὶ ἀπῆρεν ὡς πρόβατα τὸν λαὸν αὐτοῦ καὶ ἀνήγαγεν αὐτοὺς ὡς ποίμνιον ἐν ἐρήμῳ",
+          "alexandrie": "Et il enleva comme des brebis son peuple ; Et il les fit monter comme un troupeau dans le désert.",
           "name": "Psaumes 78:52",
           "chapter": "78"
         },
@@ -10570,6 +10718,7 @@
           "verse": "53",
           "text": "Et les espérances qu'il leur donna, et les craintes dont il les délivra, et la mer qui couvrit leurs ennemis.",
           "grec": "καὶ ὡδήγησεν αὐτοὺς ἐν ἐλπίδι, καὶ οὐκ ἐδειλίασαν, καὶ τοὺς ἐχθροὺς αὐτῶν ἐκάλυψεν θάλασσα.",
+          "alexandrie": "Et il les fit cheminer dans l'espoir, et ils ne furent pas lâches ; Et leurs ennemis, la mer les couvrit.",
           "name": "Psaumes 78:53",
           "chapter": "78"
         },
@@ -10577,6 +10726,7 @@
           "verse": "54",
           "text": "Et il les mena sur la montagne qu'il s'était consacrée, cette montagne que sa droite avait acquise.",
           "grec": "καὶ εἰσήγαγεν αὐτοὺς εἰς ὅριον ἁγιάσματος αὐτοῦ, ὄρος τοῦτο, ὃ ἐκτήσατο ἡ δεξιὰ αὐτοῦ,",
+          "alexandrie": "Et il les amena vers la montagne de son sanctuaire, La montagne, celle que sa droite a acquise.",
           "name": "Psaumes 78:54",
           "chapter": "78"
         },
@@ -10584,6 +10734,7 @@
           "verse": "55",
           "text": "Et il chassa les nations devant leur face, et il leur distribua, à grandes mesures, la terre de leur héritage. Et il établit les tribus d'Israël dans les demeures des vaincus.",
           "grec": "καὶ ἐξέβαλεν ἀπὸ προσώπου αὐτῶν ἔθνη καὶ ἐκληροδότησεν αὐτοὺς ἐν σχοινίῳ κληροδοσίας καὶ κατεσκήνωσεν ἐν τοῖς σκηνώμασιν αὐτῶν τὰς φυλὰς τοῦ Ισραηλ.",
+          "alexandrie": "Et il chassa loin de leur face les nations ; Et il leur donna un lot d'héritage avec le cordeau du lot d'héritage Et il fit demeurer dans leurs demeures les tribus d'Israël.",
           "name": "Psaumes 78:55",
           "chapter": "78"
         },
@@ -10591,6 +10742,7 @@
           "verse": "56",
           "text": "Mais elles tentèrent et provoquèrent Dieu le Très-Haut ; elles ne gardèrent point ses témoignages.",
           "grec": "καὶ ἐπείρασαν καὶ παρεπίκραναν τὸν θεὸν τὸν ὕψιστον καὶ τὰ μαρτύρια αὐτοῦ οὐκ ἐφυλάξαντο",
+          "alexandrie": "Et ils mirent à l'épreuve et provoquèrent l'aigreur du Dieu Très-Haut Et ses témoignages, ils ne les gardèrent pas.",
           "name": "Psaumes 78:56",
           "chapter": "78"
         },
@@ -10598,6 +10750,7 @@
           "verse": "57",
           "text": "Et son peuple, se détournant de lui, s'endurcit comme ses pères ; il devint comme un arc tortu.",
           "grec": "καὶ ἀπέστρεψαν καὶ ἠσυνθέτησαν καθὼς καὶ οἱ πατέρες αὐτῶν καὶ μετεστράφησαν εἰς τόξον στρεβλὸν",
+          "alexandrie": "Et ils se détournèrent et ils trahirent comme aussi leurs pères Et ils se transformèrent en arc tordu.",
           "name": "Psaumes 78:57",
           "chapter": "78"
         },
@@ -10605,6 +10758,7 @@
           "verse": "58",
           "text": "Et ils provoquèrent la colère de Dieu sur leurs hauts lieux ; et ils le rendirent jaloux par leurs images sculptées.",
           "grec": "καὶ παρώργισαν αὐτὸν ἐν τοῖς βουνοῖς αὐτῶν καὶ ἐν τοῖς γλυπτοῖς αὐτῶν παρεζήλωσαν αὐτόν.",
+          "alexandrie": "Et ils le mirent en colère par leurs collines Et par leurs [objets] sculptés ils le rendirent jaloux.",
           "name": "Psaumes 78:58",
           "chapter": "78"
         },
@@ -10612,6 +10766,7 @@
           "verse": "59",
           "text": "Dieu les entendit et les méprisa, et réduisit à néant Israël.",
           "grec": "ἤκουσεν ὁ θεὸς καὶ ὑπερεῖδεν καὶ ἐξουδένωσεν σφόδρα τὸν Ισραηλ",
+          "alexandrie": "Dieu entendit et regarda de haut Et tint complètement pour rien Israël.",
           "name": "Psaumes 78:59",
           "chapter": "78"
         },
@@ -10619,6 +10774,7 @@
           "verse": "60",
           "text": "Et il répudia le tabernacle de Silo, son tabernacle où il résidait parmi les hommes.",
           "grec": "καὶ ἀπώσατο τὴν σκηνὴν Σηλωμ, σκήνωμα αὐτοῦ, οὗ κατεσκήνωσεν ἐν ἀνθρώποις.",
+          "alexandrie": "Et il repoussa la tente de Sêlô, Sa demeure qu'il avait érigée parmi les hommes.",
           "name": "Psaumes 78:60",
           "chapter": "78"
         },
@@ -10626,6 +10782,7 @@
           "verse": "61",
           "text": "Et il livra à la captivité leur force, et leur beauté aux mains de l'ennemi.",
           "grec": "καὶ παρέδωκεν εἰς αἰχμαλωσίαν τὴν ἰσχὺν αὐτῶν καὶ τὴν καλλονὴν αὐτῶν εἰς χεῖρας ἐχθροῦ",
+          "alexandrie": "Et il livra à la captivité leur force Et leur beauté aux mains de l'ennemi.",
           "name": "Psaumes 78:61",
           "chapter": "78"
         },
@@ -10640,6 +10797,7 @@
           "verse": "63",
           "text": "La flamme dévora leurs jeunes hommes, et leurs vierges ne furent point pleurées.",
           "grec": "τοὺς νεανίσκους αὐτῶν κατέφαγεν πῦρ, καὶ αἱ παρθένοι αὐτῶν οὐκ ἐπενθήθησαν·",
+          "alexandrie": "Et il soumit à l'enfermement du glaive son peuple Et son lot d'héritage, il le regarda de haut.",
           "name": "Psaumes 78:63",
           "chapter": "78"
         },
@@ -10647,6 +10805,7 @@
           "verse": "64",
           "text": "Leurs prêtres tombèrent sous le glaive, et leurs veuves ne furent point pleurées.",
           "grec": "οἱ ἱερεῖς αὐτῶν ἐν ῥομφαίᾳ ἔπεσαν, καὶ αἱ χῆραι αὐτῶν οὐ κλαυσθήσονται.",
+          "alexandrie": "Leurs prêtres tombèrent sous le glaive, Et leurs veuves ne seront pas pleurées.",
           "name": "Psaumes 78:64",
           "chapter": "78"
         },
@@ -10654,6 +10813,7 @@
           "verse": "65",
           "text": "Et le Seigneur s'éveilla comme un homme endormi, ou comme un puissant guerrier terrassé par le vin.",
           "grec": "καὶ ἐξηγέρθη ὡς ὁ ὑπνῶν κύριος, ὡς δυνατὸς κεκραιπαληκὼς ἐξ οἴνου,",
+          "alexandrie": "Et Seigneur se réveilla comme le dormeur, Comme un puissant enivré de vin,",
           "name": "Psaumes 78:65",
           "chapter": "78"
         },
@@ -10661,6 +10821,7 @@
           "verse": "66",
           "text": "Et il frappa ses ennemis comme ils tournaient le dos, et il les couvrit d'un opprobre éternel.",
           "grec": "καὶ ἐπάταξεν τοὺς ἐχθροὺς αὐτοῦ εἰς τὰ ὀπίσω ὄνειδος αἰώνιον ἔδωκεν αὐτοῖς.",
+          "alexandrie": "Et il frappa ses ennemis par derrière ; Il leur donna un opprobre éternel ;",
           "name": "Psaumes 78:66",
           "chapter": "78"
         },
@@ -10668,6 +10829,7 @@
           "verse": "67",
           "text": "Et il répudia le tabernacle de Joseph, et il ne choisit point la tribu d'Éphraïm.",
           "grec": "καὶ ἀπώσατο τὸ σκήνωμα Ιωσηφ καὶ τὴν φυλὴν Εφραιμ οὐκ ἐξελέξατο·",
+          "alexandrie": "Et il repoussa la demeure de Joseph Et la tribu d'Éphraïm, il ne l'élut pas ;",
           "name": "Psaumes 78:67",
           "chapter": "78"
         },
@@ -10675,6 +10837,7 @@
           "verse": "68",
           "text": "Et il choisit la tribu de Juda, et la montagne de Sion, qu'il a aimée.",
           "grec": "καὶ ἐξελέξατο τὴν φυλὴν Ιουδα, τὸ ὄρος τὸ Σιων, ὃ ἠγάπησεν,",
+          "alexandrie": "Et il élut la tribu de Juda, La montagne de Sion, qu'il a aimée ;",
           "name": "Psaumes 78:68",
           "chapter": "78"
         },
@@ -10682,6 +10845,7 @@
           "verse": "69",
           "text": "Et il bâtit son sanctuaire, fort comme la corne des licornes, en la terre qu'il a fondée pour les siècles des siècles.",
           "grec": "καὶ ᾠκοδόμησεν ὡς μονοκερώτων τὸ ἁγίασμα αὐτοῦ, ἐν τῇ γῇ ἐθεμελίωσεν αὐτὴν εἰς τὸν αἰῶνα.",
+          "alexandrie": "Et il construisit, comme [la construction] des unicornes, son sanctuaire ; Dans la terre il la fonda pour l'éternité.",
           "name": "Psaumes 78:69",
           "chapter": "78"
         },
@@ -10716,6 +10880,7 @@
           "verse": "1",
           "text": "Psaume d'Asaph. O Dieu, les Gentils sont entrés en ton héritage ; ils ont pollué ton temple saint. Ils ont fait de Jérusalem une cabane de jardinier.",
           "grec": "ψαλμὸς τῷ Ασαφ ὁ θεός ἤλθοσαν ἔθνη εἰς τὴν κληρονομίαν σου ἐμίαναν τὸν ναὸν τὸν ἅγιόν σου ἔθεντο Ιερουσαλημ εἰς ὀπωροφυλάκιον.",
+          "alexandrie": "Psaume. À Asaph. Dieu, les nations sont venues dans ton lot d'héritage ; Elles ont souillé ton temple saint ; Elles ont fait de Jérusalem une hutte de gardien de verger.",
           "name": "Psaumes 79:1",
           "chapter": "79"
         },
@@ -10723,6 +10888,7 @@
           "verse": "2",
           "text": "Ils ont donné les cadavres de tes serviteurs en pâture aux oiseaux du ciel, et les chairs de tes saints aux bêtes fauves de la terre.",
           "grec": "ἔθεντο τὰ θνησιμαῖα τῶν δούλων σου βρώματα τοῖς πετεινοῖς τοῦ οὐρανοῦ τὰς σάρκας τῶν ὁσίων σου τοῖς θηρίοις τῆς γῆς.",
+          "alexandrie": "Elles ont fait des dépouilles de tes serviteurs Des nourritures pour les volatiles du ciel, Des chairs de tes observants [des nourritures] pour les bêtes sauvages de la terre.",
           "name": "Psaumes 79:2",
           "chapter": "79"
         },
@@ -10730,6 +10896,7 @@
           "verse": "3",
           "text": "Ils ont versé comme de l'eau le sang de ton peuple autour de Jérusalem, et nul n'était là pour ensevelir les morts.",
           "grec": "ἐξέχεαν τὸ αἷμα αὐτῶν ὡς ὕδωρ κύκλῳ Ιερουσαλημ καὶ οὐκ ἦν ὁ θάπτων.",
+          "alexandrie": "Elles ont versé leur sang comme de l'eau Autour de Jérusalem, et il n'y avait personne qui ensevelisse.",
           "name": "Psaumes 79:3",
           "chapter": "79"
         },
@@ -10737,6 +10904,7 @@
           "verse": "4",
           "text": "Nous sommes devenus un opprobre pour nos voisins, la dérision et le jouet de ceux qui nous entourent.",
           "grec": "ἐγενήθημεν ὄνειδος τοῖς γείτοσιν ἡμῶν μυκτηρισμὸς καὶ χλευασμὸς τοῖς κύκλῳ ἡμῶν.",
+          "alexandrie": "Nous sommes devenus un opprobre pour nos voisins, Une raillerie et une dérision pour ceux qui sont autour de nous.",
           "name": "Psaumes 79:4",
           "chapter": "79"
         },
@@ -10744,6 +10912,7 @@
           "verse": "5",
           "text": "Jusques à quand, Seigneur, seras-tu sans cesse en courroux ? Ta jalousie brûlera-t-elle toujours comme le feu ?",
           "grec": "ἕως πότε κύριε ὀργισθήσῃ εἰς τέλος ἐκκαυθήσεται ὡς πῦρ ὁ ζῆλός σου.",
+          "alexandrie": "Jusques à quand, Seigneur, te mettras-tu en colère à jamais, Ta jalousie brûlera-t-elle comme un feu ?",
           "name": "Psaumes 79:5",
           "chapter": "79"
         },
@@ -10751,6 +10920,7 @@
           "verse": "6",
           "text": "Épanche ta colère sur les nations qui ne te connaissent point, et sur les royaumes qui n'invoquent pas ton nom.",
           "grec": "ἔκχεον τὴν ὀργήν σου ἐπὶ ἔθνη τὰ μὴ γινώσκοντά σε καὶ ἐπὶ βασιλείας αἳ τὸ ὄνομά σου οὐκ ἐπεκαλέσαντο.",
+          "alexandrie": "Verse ta colère sur les nations qui ne te connaissent pas Et sur les royaumes qui n'ont pas invoqué ton nom.",
           "name": "Psaumes 79:6",
           "chapter": "79"
         },
@@ -10758,6 +10928,7 @@
           "verse": "7",
           "text": "Car ils ont dévoré Jacob et désolé sa terre.",
           "grec": "ὅτι κατέφαγον τὸν Ιακωβ καὶ τὸν τόπον αὐτοῦ ἠρήμωσαν.",
+          "alexandrie": "Car elles ont dévoré Jacob et son lieu, elles en ont fait un désert.",
           "name": "Psaumes 79:7",
           "chapter": "79"
         },
@@ -10765,6 +10936,7 @@
           "verse": "8",
           "text": "N'aie point le souvenir de nos iniquités d'autrefois ; que tes miséricordes nous devancent promptement, car nous sommes grandement appauvris.",
           "grec": "μὴ μνησθῇς ἡμῶν ἀνομιῶν ἀρχαίων ταχὺ προκαταλαβέτωσαν ἡμᾶς οἱ οἰκτιρμοί σου ὅτι ἐπτωχεύσαμεν σφόδρα.",
+          "alexandrie": "N'aie pas souvenir de nos actions illégales anciennes ; Vite, que tes miséricordes soient devant nous, Car nous avons été indigents, complètement.",
           "name": "Psaumes 79:8",
           "chapter": "79"
         },
@@ -10772,6 +10944,7 @@
           "verse": "9",
           "text": "Secours-nous, Dieu notre Sauveur, pour la gloire de ton nom ; Seigneur, protège-nous ; remets-nous nos péchés, à cause de ton nom.",
           "grec": "βοήθησον ἡμῖν ὁ θεὸς ὁ σωτὴρ ἡμῶν ἕνεκα τῆς δόξης τοῦ ὀνόματός σου κύριε ῥῦσαι ἡμᾶς καὶ ἱλάσθητι ταῖς ἁμαρτίαις ἡμῶν ἕνεκα τοῦ ὀνόματός σου.",
+          "alexandrie": "Secours-nous, Dieu notre sauveur ; À cause de la gloire de ton nom, Seigneur, libère-nous ; Et sois clément pour nos péchés à cause de ton nom,",
           "name": "Psaumes 79:9",
           "chapter": "79"
         },
@@ -10779,6 +10952,7 @@
           "verse": "10",
           "text": "Que l'on ne dise point chez les nations : Où est leur Dieu ? Que devant nos yeux les Gentils voient la vengeance du sang de tes serviteurs, qui a été répandu.",
           "grec": "μήποτε εἴπωσιν τὰ ἔθνη ποῦ ἐστιν ὁ θεὸς αὐτῶν καὶ γνωσθήτω ἐν τοῖς ἔθνεσιν ἐνώπιον τῶν ὀφθαλμῶν ἡμῶν ἡ ἐκδίκησις τοῦ αἵματος τῶν δούλων σου τοῦ ἐκκεχυμένου.",
+          "alexandrie": "Pour que dans les nations on ne dise pas : « Où est leur Dieu ? » ; Et qu'elle soit connue dans les nations, devant nos yeux, La vengeance du sang de tes serviteurs, qui a été versé.",
           "name": "Psaumes 79:10",
           "chapter": "79"
         },
@@ -10786,6 +10960,7 @@
           "verse": "11",
           "text": "Que les gémissements des captifs pénètrent jusqu'à toi ; protège les fils de ceux qu'on a mis à mort, selon la grandeur de ton bras.",
           "grec": "εἰσελθάτω ἐνώπιόν σου ὁ στεναγμὸς τῶν πεπεδημένων κατὰ τὴν μεγαλωσύνην τοῦ βραχίονός σου περιποίησαι τοὺς υἱοὺς τῶν τεθανατωμένων.",
+          "alexandrie": "Que parvienne devant toi le gémissement des entravés ; Selon la grandeur de ton bras, Fais survivre les fils de ceux qu'on a mis à mort.",
           "name": "Psaumes 79:11",
           "chapter": "79"
         },
@@ -10793,6 +10968,7 @@
           "verse": "12",
           "text": "Rends à nos voisins, mets au septuple dans leur sein les outrages dont ils t'ont déshonoré, ô Seigneur.",
           "grec": "ἀπόδος τοῖς γείτοσιν ἡμῶν ἑπταπλασίονα εἰς τὸν κόλπον αὐτῶν τὸν ὀνειδισμὸν αὐτῶν ὃν ὠνείδισάν σε κύριε.",
+          "alexandrie": "Rends à nos voisins, au septuple, dans leur sein, Leur outrage, dont ils t'ont outragé, Seigneur.",
           "name": "Psaumes 79:12",
           "chapter": "79"
         },
@@ -10800,6 +10976,7 @@
           "verse": "13",
           "text": "Car nous sommes ton peuple et les brebis de ton pâturage ; nous te rendons grâces dans tous les siècles ; nous publierons tes louanges, de génération en génération.",
           "grec": "ἡμεῖς δὲ λαός σου καὶ πρόβατα τῆς νομῆς σου ἀνθομολογησόμεθά σοι εἰς τὸν αἰῶνα εἰς γενεὰν καὶ γενεὰν ἐξαγγελοῦμεν τὴν αἴνεσίν σου.",
+          "alexandrie": "Mais nous, ton peuple et les brebis de ton pâturage, En retour nous te professerons pour l'éternité ; Pour une génération et une génération, nous énoncerons ta louange.",
           "name": "Psaumes 79:13",
           "chapter": "79"
         }
@@ -10813,6 +10990,7 @@
           "verse": "1",
           "text": "Jusqu'à la Fin, chant en répons ; témoignage d'Asaph, Psaume au sujet de l'Assyrien.",
           "grec": "εἰς τὸ τέλος ὑπὲρ τῶν ἀλλοιωθησομένων μαρτύριον τῷ Ασαφ ψαλμὸς ὑπὲρ τοῦ Ἀσσυρίου.",
+          "alexandrie": "Pour la fin. Au sujet de ceux qui seront faits autres. Témoignage. À Asaph. Psaume. Au sujet de l'Assyrien.",
           "name": "Psaumes 80:1",
           "chapter": "80"
         },
@@ -10820,6 +10998,7 @@
           "verse": "2",
           "text": "O pasteur d'Israël sois attentif, toi qui conduis Joseph comme un troupeau de brebis. O toi qui es assis sur les chérubins, apparais.",
           "grec": "ὁ ποιμαίνων τὸν Ισραηλ πρόσχες ὁ ὁδηγῶν ὡσεὶ πρόβατα τὸν Ιωσηφ ὁ καθήμενος ἐπὶ τῶν χερουβιν ἐμφάνηθι.",
+          "alexandrie": "[Toi] qui fais paître Israël, prête attention, [Toi] qui conduis comme des brebis Joseph, [Toi] qui es assis sur les Chérubins, apparais.",
           "name": "Psaumes 80:2",
           "chapter": "80"
         },
@@ -10827,6 +11006,7 @@
           "verse": "3",
           "text": "Devant Ephraïm, et Benjamin et Manassé ; réveille ta puissance, et viens pour nous secourir.",
           "grec": "ἐναντίον Εφραιμ καὶ Βενιαμιν καὶ Μανασση ἐξέγειρον τὴν δυναστείαν σου καὶ ἐλθὲ εἰς τὸ σῶσαι ἡμᾶς.",
+          "alexandrie": "En face d'Éphraïm et Benjamin et Manassé, Réveille ta puissance et viens pour nous sauver.",
           "name": "Psaumes 80:3",
           "chapter": "80"
         },
@@ -10834,6 +11014,7 @@
           "verse": "4",
           "text": "Dieu, fais-nous revenir et montre-nous ta face et nous serons sauvés.",
           "grec": "ὁ θεός ἐπίστρεψον ἡμᾶς καὶ ἐπίφανον τὸ πρόσωπόν σου καὶ σωθησόμεθα.",
+          "alexandrie": "Dieu, fais-nous retourner Et manifeste ta face, et nous serons sauvés.",
           "name": "Psaumes 80:4",
           "chapter": "80"
         },
@@ -10841,6 +11022,7 @@
           "verse": "5",
           "text": "Seigneur, Dieu des armées, jusques à quand seras-tu courroucé de la prière de ton serviteur ?",
           "grec": "κύριε ὁ θεὸς τῶν δυνάμεων ἕως πότε ὀργίζῃ ἐπὶ τὴν προσευχὴν τοῦ δούλου σου.",
+          "alexandrie": "Seigneur, Dieu des puissances [armées], Jusques à quand te mets-tu en colère contre la prière de ton serviteur ?",
           "name": "Psaumes 80:5",
           "chapter": "80"
         },
@@ -10848,6 +11030,7 @@
           "verse": "6",
           "text": "Nous donneras-tu à manger un pain de larmes, et nous feras-tu boire des larmes à pleine mesure ?",
           "grec": "ψωμιεῖς ἡμᾶς ἄρτον δακρύων καὶ ποτιεῖς ἡμᾶς ἐν δάκρυσιν ἐν μέτρῳ.",
+          "alexandrie": "Tu nous donneras des bouchées du pain des larmes Et tu nous feras boire dans les larmes avec [bonne] mesure.",
           "name": "Psaumes 80:6",
           "chapter": "80"
         },
@@ -10855,6 +11038,7 @@
           "verse": "7",
           "text": "Tu nous as mis en contradiction avec nos voisins, et nos ennemis se sont moqués de nous.",
           "grec": "ἔθου ἡμᾶς εἰς ἀντιλογίαν τοῖς γείτοσιν ἡμῶν καὶ οἱ ἐχθροὶ ἡμῶν ἐμυκτήρισαν ἡμᾶς.",
+          "alexandrie": "Tu nous as établis en contestation avec nos voisins Et nos ennemis nous ont raillés.",
           "name": "Psaumes 80:7",
           "chapter": "80"
         },
@@ -10862,6 +11046,7 @@
           "verse": "8",
           "text": "Seigneur, Dieu des armées, fais-nous revenir et montre-nous ta face, et nous serons sauvés.",
           "grec": "κύριε ὁ θεὸς τῶν δυνάμεων ἐπίστρεψον ἡμᾶς καὶ ἐπίφανον τὸ πρόσωπόν σου καὶ σωθησόμεθα διάψαλμα.",
+          "alexandrie": "Dieu des puissances [armées], fais-nous retourner Et manifeste ta face, et nous serons sauvés. Diapsalme.",
           "name": "Psaumes 80:8",
           "chapter": "80"
         },
@@ -10869,6 +11054,7 @@
           "verse": "9",
           "text": "Tu as transplanté une vigne de l'Égypte ; tu as chassé les Gentils, et tu l'as plantée sur leur terre.",
           "grec": "ἄμπελον ἐξ Αἰγύπτου μετῆρας ἐξέβαλες ἔθνη καὶ κατεφύτευσας αὐτήν.",
+          "alexandrie": "La vigne, tu l'as transportée depuis l'Égypte ; Tu as chassé les nations et tu l'as plantée.",
           "name": "Psaumes 80:9",
           "chapter": "80"
         },
@@ -10876,6 +11062,7 @@
           "verse": "10",
           "text": "Tu as fait un chemin devant elle ; tu as fait germer ses racines, et la terre en a été remplie.",
           "grec": "ὡδοποίησας ἔμπροσθεν αὐτῆς καὶ κατεφύτευσας τὰς ῥίζας αὐτῆς καὶ ἐπλήσθη ἡ γῆ.",
+          "alexandrie": "Tu as frayé la voie devant elle, Et tu as planté ses racines, et la terre a été remplie.",
           "name": "Psaumes 80:10",
           "chapter": "80"
         },
@@ -10883,6 +11070,7 @@
           "verse": "11",
           "text": "Son ombre a couvert les montagnes, et ses pampres ont surpassé les cèdres de Dieu.",
           "grec": "ἐκάλυψεν ὄρη ἡ σκιὰ αὐτῆς καὶ αἱ ἀναδενδράδες αὐτῆς τὰς κέδρους τοῦ θεοῦ.",
+          "alexandrie": "Son ombre a couvert les montagnes, Et ses vrilles, les cèdres de Dieu.",
           "name": "Psaumes 80:11",
           "chapter": "80"
         },
@@ -10890,6 +11078,7 @@
           "verse": "12",
           "text": "Elle a étendu ses sarments jusqu'à la mer et ses surgeons jusqu'au fleuve.",
           "grec": "ἐξέτεινεν τὰ κλήματα αὐτῆς ἕως θαλάσσης καὶ ἕως ποταμοῦ τὰς παραφυάδας αὐτῆς.",
+          "alexandrie": "Elle a étendu ses sarments jusqu'à la mer Et jusqu'au fleuve ses ramifications.",
           "name": "Psaumes 80:12",
           "chapter": "80"
         },
@@ -10897,6 +11086,7 @@
           "verse": "13",
           "text": "Pourquoi donc as-tu détruit sa clôture, si bien que tous ceux qui passent sur la voie la vendangent ?",
           "grec": "ἵνα τί καθεῖλες τὸν φραγμὸν αὐτῆς καὶ τρυγῶσιν αὐτὴν πάντες οἱ παραπορευόμενοι τὴν ὁδόν.",
+          "alexandrie": "Pourquoi as-tu détruit sa clôture ? Et tous ceux qui passent le long de la voie la vendangeront.",
           "name": "Psaumes 80:13",
           "chapter": "80"
         },
@@ -10904,6 +11094,7 @@
           "verse": "14",
           "text": "Le sanglier de la forêt l'a dévastée, et une bête solitaire y est venue paître.",
           "grec": "ἐλυμήνατο αὐτὴν σῦς ἐκ δρυμοῦ, καὶ μονιὸς ἄγριος κατενεμήσατο αὐτήν.",
+          "alexandrie": "Le sanglier au sortir de la forêt l'a fouie, Et le solitaire de la campagne l'a ravagée.",
           "name": "Psaumes 80:14",
           "chapter": "80"
         },
@@ -10911,6 +11102,7 @@
           "verse": "15",
           "text": "Dieu des armées, reviens s'il te plaît ; regarde du ciel ; et vois ; et visite cette vigne.",
           "grec": "ὁ θεὸς τῶν δυνάμεων, ἐπίστρεψον δή, ἐπίβλεψον ἐξ οὐρανοῦ καὶ ἰδὲ καὶ ἐπίσκεψαι τὴν ἄμπελον ταύτην",
+          "alexandrie": "Dieu des puissances [armées], fais donc retourner, Regarde du ciel et vois Et passe en revue cette vigne",
           "name": "Psaumes 80:15",
           "chapter": "80"
         },
@@ -10918,6 +11110,7 @@
           "verse": "16",
           "text": "Et restaure-la, elle que ta droite a plantée ; aie la main sur le fils de l'homme, que pour toi-même tu as confirmé.",
           "grec": "καὶ κατάρτισαι αὐτήν, ἣν ἐφύτευσεν ἡ δεξιά σου, καὶ ἐπὶ υἱὸν ἀνθρώπου, ὃν ἐκραταίωσας σεαυτῷ.",
+          "alexandrie": "Et réajuste-la, [elle] qu'a plantée ta droite, Et [qu'elle advienne] sur le fils d'homme, que tu as rendu vigoureux pour toi.",
           "name": "Psaumes 80:16",
           "chapter": "80"
         },
@@ -10925,6 +11118,7 @@
           "verse": "17",
           "text": "Elle a été brûlée par le feu et arrachée ; et à cause du blâme de ta face, ton peuple périra.",
           "grec": "ἐμπεπυρισμένη πυρὶ καὶ ἀνεσκαμμένη· ἀπὸ ἐπιτιμήσεως τοῦ προσώπου σου ἀπολοῦνται.",
+          "alexandrie": "[Vigne] mise en feu par le feu et extirpée ! Par la punition de ta face ils périront.",
           "name": "Psaumes 80:17",
           "chapter": "80"
         },
@@ -10932,6 +11126,7 @@
           "verse": "18",
           "text": "Que ta main soit sur l'homme de ta droite et sur le fils de l'homme, que toi-même tu as confirmé.",
           "grec": "γενηθήτω ἡ χείρ σου ἐπ ἄνδρα δεξιᾶς σου καὶ ἐπὶ υἱὸν ἀνθρώπου, ὃν ἐκραταίωσας σεαυτῷ·",
+          "alexandrie": "Qu'advienne ta main sur l'homme de ta droite Et sur le fils d'homme, que tu as rendu vigoureux pour toi.",
           "name": "Psaumes 80:18",
           "chapter": "80"
         },
@@ -10939,6 +11134,7 @@
           "verse": "19",
           "text": "Et nous ne nous éloignerons point de toi ; tu nous vivifieras ; et nous invoquerons ton nom.",
           "grec": "καὶ οὐ μὴ ἀποστῶμεν ἀπὸ σοῦ, ζωώσεις ἡμᾶς, καὶ τὸ ὄνομά σου ἐπικαλεσόμεθα.",
+          "alexandrie": "Et nous ne nous éloignerons point de toi, Tu nous feras vivre, et ton nom, nous l'invoquerons.",
           "name": "Psaumes 80:19",
           "chapter": "80"
         },
@@ -10946,6 +11142,7 @@
           "verse": "20",
           "text": "Seigneur, Dieu des armées, convertis-nous et montre-nous ta face, et nous serons sauvés.",
           "grec": "κύριε ὁ θεὸς τῶν δυνάμεων, ἐπίστρεψον ἡμᾶς καὶ ἐπίφανον τὸ πρόσωπόν σου, καὶ σωθησόμεθα.",
+          "alexandrie": "Seigneur, Dieu des puissances [armées], fais-nous retourner Et manifeste ta face, et nous serons sauvés.",
           "name": "Psaumes 80:20",
           "chapter": "80"
         }
@@ -10959,6 +11156,7 @@
           "verse": "1",
           "text": "Jusqu'à la Fin, psaume d'Asaph, sur les pressoirs.",
           "grec": "εἰς τὸ τέλος ὑπὲρ τῶν ληνῶν τῷ Ασαφ ψαλμός.",
+          "alexandrie": "Pour la fin. Au sujet des pressoirs. À Asaph. Psaume. Pour le cinquième [jour] du sabbat.",
           "name": "Psaumes 81:1",
           "chapter": "81"
         },
@@ -10966,6 +11164,7 @@
           "verse": "2",
           "text": "Réjouissez-vous en Dieu notre champion ; criez joyeusement vers le Dieu de Jacob.",
           "grec": "ἀγαλλιᾶσθε τῷ θεῷ τῷ βοηθῷ ἡμῶν ἀλαλάξατε τῷ θεῷ Ιακωβ.",
+          "alexandrie": "Exultez pour Dieu [qui] nous [est] secourable, Faites l'acclamation au Dieu de Jacob.",
           "name": "Psaumes 81:2",
           "chapter": "81"
         },
@@ -10973,6 +11172,7 @@
           "verse": "3",
           "text": "Prenez un psaume, et faites résonner le tambour, la harpe mélodieuse et la cithare.",
           "grec": "λάβετε ψαλμὸν καὶ δότε τύμπανον ψαλτήριον τερπνὸν μετὰ κιθάρας.",
+          "alexandrie": "Prenez un psaume et donnez du tambourin, Du psaltérion ravissant avec la cithare.",
           "name": "Psaumes 81:3",
           "chapter": "81"
         },
@@ -10980,6 +11180,7 @@
           "verse": "4",
           "text": "Sonnez de la trompette à la nouvelle lune, au jour glorieux de notre fête.",
           "grec": "σαλπίσατε ἐν νεομηνίᾳ σάλπιγγι ἐν εὐσήμῳ ἡμέρᾳ ἑορτῆς ἡμῶν.",
+          "alexandrie": "Sonnez, à la néoménie, de la trompette, Au jour de bon signe de notre fête.",
           "name": "Psaumes 81:4",
           "chapter": "81"
         },
@@ -10987,6 +11188,7 @@
           "verse": "5",
           "text": "Car tel est le précepte en Israël, tel est le commandement du Dieu de Jacob.",
           "grec": "ὅτι πρόσταγμα τῷ Ισραηλ ἐστὶν καὶ κρίμα τῷ θεῷ Ιακωβ.",
+          "alexandrie": "Car [c'] est une ordonnance pour Israël Et une décision pour le Dieu de Jacob.",
           "name": "Psaumes 81:5",
           "chapter": "81"
         },
@@ -10994,6 +11196,7 @@
           "verse": "6",
           "text": "Il a mis ce témoignage en Joseph, quand celui-ci sortit de la terre d'Egypte ; il entendit une langue qu'il ne connaissait pas.",
           "grec": "μαρτύριον ἐν τῷ Ιωσηφ ἔθετο αὐτὸν ἐν τῷ ἐξελθεῖν αὐτὸν ἐκ γῆς Αἰγύπτου γλῶσσαν ἣν οὐκ ἔγνω ἤκουσεν.",
+          "alexandrie": "Un témoignage en Joseph, il l'établit : Quand il sortit de la terre d'Égypte. Il entendit une langue qu'il n'avait pas connue.",
           "name": "Psaumes 81:6",
           "chapter": "81"
         },
@@ -11001,6 +11204,7 @@
           "verse": "7",
           "text": "Il a ôté le fardeau des épaules de son peuple, quand ses mains tressaient des corbeilles, disant :",
           "grec": "ἀπέστησεν ἀπὸ ἄρσεων τὸν νῶτον αὐτοῦ αἱ χεῖρες αὐτοῦ ἐν τῷ κοφίνῳ ἐδούλευσαν.",
+          "alexandrie": "Il éloigna des enlèvements son dos ; Ses mains furent au service avec la corbeille.",
           "name": "Psaumes 81:7",
           "chapter": "81"
         },
@@ -11008,6 +11212,7 @@
           "verse": "8",
           "text": "Tu m'as invoqué en ton affliction, et je t'ai délivré ; je t'ai entendu dans l'obscurité d'une tempête ; je t'ai éprouvé dans l'eau de la contradiction. Interlude.",
           "grec": "ἐν θλίψει ἐπεκαλέσω με καὶ ἐρρυσάμην σε ἐπήκουσά σου ἐν ἀποκρύφῳ καταιγίδος ἐδοκίμασά σε ἐπὶ ὕδατος ἀντιλογίας διάψαλμα.",
+          "alexandrie": "« Dans l'oppression tu m'as invoqué et je t'ai libéré ; J'ai été à ton écoute dans la cachette de la tempête ; Je t'ai testé sur l'eau de la contestation. » Diapsalme.",
           "name": "Psaumes 81:8",
           "chapter": "81"
         },
@@ -11015,6 +11220,7 @@
           "verse": "9",
           "text": "Ecoute, mon peuple ; et je te parlerai, Israël, et je te prendrai à témoin. Si tu m'écoutes,",
           "grec": "ἄκουσον λαός μου καὶ διαμαρτύρομαί σοι Ισραηλ ἐὰν ἀκούσῃς μου.",
+          "alexandrie": "« Entends, mon peuple, et je témoigne pour toi. Israël, si tu m'entends,",
           "name": "Psaumes 81:9",
           "chapter": "81"
         },
@@ -11022,6 +11228,7 @@
           "verse": "10",
           "text": "Il n'y aura point chez toi de Dieu nouveau, et tu n'adoreras point de Dieu étranger.",
           "grec": "οὐκ ἔσται ἐν σοὶ θεὸς πρόσφατος οὐδὲ προσκυνήσεις θεῷ ἀλλοτρίῳ.",
+          "alexandrie": "Il n'y aura pas chez toi de dieu nouveau Et tu ne te prosterneras pas devant un dieu étranger.",
           "name": "Psaumes 81:10",
           "chapter": "81"
         },
@@ -11029,6 +11236,7 @@
           "verse": "11",
           "text": "Car je suis le Seigneur ton Dieu, qui t'ai tiré de la terre d'Egypte ; ouvre la bouche, et je la remplirai.",
           "grec": "ἐγὼ γάρ εἰμι κύριος ὁ θεός σου ὁ ἀναγαγών σε ἐκ γῆς Αἰγύπτου πλάτυνον τὸ στόμα σου καὶ πληρώσω αὐτό.",
+          "alexandrie": "Car moi je suis Seigneur ton Dieu, Celui qui t'a fait monter depuis la terre d'Égypte. Ouvre large ta bouche et je la remplirai.",
           "name": "Psaumes 81:11",
           "chapter": "81"
         },
@@ -11036,6 +11244,7 @@
           "verse": "12",
           "text": "Et mon peuple n'a point écouté ma voix, et Israël n'a point fait attention à moi.",
           "grec": "καὶ οὐκ ἤκουσεν ὁ λαός μου τῆς φωνῆς μου καὶ Ισραηλ οὐ προσέσχεν μοι.",
+          "alexandrie": "Et mon peuple n'a pas entendu ma voix, Et Israël ne m'a pas prêté attention.",
           "name": "Psaumes 81:12",
           "chapter": "81"
         },
@@ -11043,6 +11252,7 @@
           "verse": "13",
           "text": "Et je les ai fait partir, selon les désirs de leurs cœurs ; ils chemineront en leurs désirs.",
           "grec": "καὶ ἐξαπέστειλα αὐτοὺς κατὰ τὰ ἐπιτηδεύματα τῶν καρδιῶν αὐτῶν πορεύσονται ἐν τοῖς ἐπιτηδεύμασιν αὐτῶν.",
+          "alexandrie": "Et je les ai envoyés selon les agissements de leurs cœurs ; Ils chemineront dans leurs agissements.",
           "name": "Psaumes 81:13",
           "chapter": "81"
         },
@@ -11050,6 +11260,7 @@
           "verse": "14",
           "text": "Si mon peuple m'avait écouté, si Israël avait marché dans mes voies,",
           "grec": "εἰ ὁ λαός μου ἤκουσέν μου Ισραηλ ταῖς ὁδοῖς μου εἰ ἐπορεύθη.",
+          "alexandrie": "Si mon peuple m'avait entendu, Si Israël sur mes voies avait cheminé,",
           "name": "Psaumes 81:14",
           "chapter": "81"
         },
@@ -11057,6 +11268,7 @@
           "verse": "15",
           "text": "Certes j'eusse humilié jusqu'au néant leurs ennemis ; j'eusse mis la main sur leurs oppresseurs.",
           "grec": "ἐν τῷ μηδενὶ ἂν τοὺς ἐχθροὺς αὐτῶν ἐταπείνωσα καὶ ἐπὶ τοὺς θλίβοντας αὐτοὺς ἐπέβαλον τὴν χεῖρά μου.",
+          "alexandrie": "En un rien [de temps], j'aurais humilié leurs ennemis Et contre ceux qui les opprimaient j'aurais jeté ma main. »",
           "name": "Psaumes 81:15",
           "chapter": "81"
         },
@@ -11064,6 +11276,7 @@
           "verse": "16",
           "text": "Les ennemis du Seigneur lui ont menti, et il y aura temps pour eux dans l'éternité.",
           "grec": "οἱ ἐχθροὶ κυρίου ἐψεύσαντο αὐτῷ καὶ ἔσται ὁ καιρὸς αὐτῶν εἰς τὸν αἰῶνα.",
+          "alexandrie": "Les ennemis de Seigneur lui ont menti Et leur moment sera pour l'éternité.",
           "name": "Psaumes 81:16",
           "chapter": "81"
         },
@@ -11071,6 +11284,7 @@
           "verse": "17",
           "text": "Et il les avait nourris de la fleur du froment, et les avait rassasiés du miel des rochers.",
           "grec": "καὶ ἐψώμισεν αὐτοὺς ἐκ στέατος πυροῦ καὶ ἐκ πέτρας μέλι ἐχόρτασεν αὐτούς.",
+          "alexandrie": "Et il leur a donné des bouchées de pâte de froment Et il les a rassasiés du miel sorti de la roche.",
           "name": "Psaumes 81:17",
           "chapter": "81"
         }
@@ -11084,6 +11298,7 @@
           "verse": "1",
           "text": "Psaume d'Asaph. Dieu s'est tenu debout dans l'assemblée des dieux, et Dieu jugera au milieu.",
           "grec": "ψαλμὸς τῷ Ασαφ ὁ θεὸς ἔστη ἐν συναγωγῇ θεῶν ἐν μέσῳ δὲ θεοὺς διακρίνει.",
+          "alexandrie": "Psaume. À Asaph. Dieu s'est fixé dans le rassemblement des dieux ; Mais au milieu il juge les dieux :",
           "name": "Psaumes 82:1",
           "chapter": "82"
         },
@@ -11091,6 +11306,7 @@
           "verse": "2",
           "text": "Jusques à quand jugerez-vous selon l'iniquité, et aurez-vous égard à la face des pécheurs ?",
           "grec": "ἕως πότε κρίνετε ἀδικίαν καὶ πρόσωπα ἁμαρτωλῶν λαμβάνετε διάψαλμα.",
+          "alexandrie": "« Jusques à quand jugez-vous [d'un jugement d'] injustice Et prenez-vous les faces des pécheurs ? Diapsalme.",
           "name": "Psaumes 82:2",
           "chapter": "82"
         },
@@ -11098,6 +11314,7 @@
           "verse": "3",
           "text": "Jugez l'orphelin et le pauvre ; justifiez l'humble et l'indigent.",
           "grec": "κρίνατε ὀρφανὸν καὶ πτωχόν ταπεινὸν καὶ πένητα δικαιώσατε.",
+          "alexandrie": "Jugez l'orphelin et l'indigent ; L'humble et le pauvre, justifiez-les.",
           "name": "Psaumes 82:3",
           "chapter": "82"
         },
@@ -11105,6 +11322,7 @@
           "verse": "4",
           "text": "Délivrez l'indigent, et retirez le pauvre de la main du pécheur.",
           "grec": "ἐξέλεσθε πένητα καὶ πτωχόν ἐκ χειρὸς ἁμαρτωλοῦ ῥύσασθε.",
+          "alexandrie": "Délivrez le pauvre et l'indigent ; De la main du pécheur, libérez-les. »",
           "name": "Psaumes 82:4",
           "chapter": "82"
         },
@@ -11112,6 +11330,7 @@
           "verse": "5",
           "text": "Ils ne savent pas, ils n'ont point compris ; ils cheminent dans les ténèbres ; tous les fondements de la terre seront ébranlés.",
           "grec": "οὐκ ἔγνωσαν οὐδὲ συνῆκαν ἐν σκότει διαπορεύονται σαλευθήσονται πάντα τὰ θεμέλια τῆς γῆς.",
+          "alexandrie": "Ils n'ont pas su et ils n'ont pas compris ; Dans l'obscurité ils tracent leur chemin. Tous les fondements de la terre seront ébranlés.",
           "name": "Psaumes 82:5",
           "chapter": "82"
         },
@@ -11119,6 +11338,7 @@
           "verse": "6",
           "text": "Et moi j'ai dit : vous êtes des dieux, et tous fils du Très-Haut.",
           "grec": "ἐγὼ εἶπα θεοί ἐστε καὶ υἱοὶ ὑψίστου πάντες.",
+          "alexandrie": "Moi j'ai dit : « Vous êtes des dieux et des fils du Très-Haut, tous ;",
           "name": "Psaumes 82:6",
           "chapter": "82"
         },
@@ -11126,6 +11346,7 @@
           "verse": "7",
           "text": "Cependant vous mourrez comme des hommes et vous tomberez comme l'un des princes.",
           "grec": "ὑμεῖς δὲ ὡς ἄνθρωποι ἀποθνῄσκετε καὶ ὡς εἷς τῶν ἀρχόντων πίπτετε.",
+          "alexandrie": "Mais vous comme des hommes vous mourez Et comme un des chefs vous tombez. »",
           "name": "Psaumes 82:7",
           "chapter": "82"
         },
@@ -11133,6 +11354,7 @@
           "verse": "8",
           "text": "Lève-toi, ô Dieu, juge la terre ; car toutes les nations seront ton héritage.",
           "grec": "ἀνάστα ὁ θεός κρῖνον τὴν γῆν ὅτι σὺ κατακληρονομήσεις ἐν πᾶσιν τοῖς ἔθνεσιν.",
+          "alexandrie": "Lève-toi, Dieu, juge la terre ; Car toi tu auras ton héritage dans toutes les nations.",
           "name": "Psaumes 82:8",
           "chapter": "82"
         }
@@ -11146,6 +11368,7 @@
           "verse": "1",
           "text": "Cantique et Psaume d'Asaph.",
           "grec": "ᾠδὴ ψαλμοῦ τῷ Ασαφ.",
+          "alexandrie": "Cantique de psaume. À Asaph.",
           "name": "Psaumes 83:1",
           "chapter": "83"
         },
@@ -11153,6 +11376,7 @@
           "verse": "2",
           "text": "O Dieu, qui sera semblable à toi ? Ne garde point le silence, ô Dieu, ne te tiens pas en repos.",
           "grec": "ὁ θεός τίς ὁμοιωθήσεταί σοι μὴ σιγήσῃς μηδὲ καταπραΰνῃς ὁ θεός.",
+          "alexandrie": "Dieu, qui sera semblable à toi ? Ne te tais pas et ne t'adoucis pas, Dieu.",
           "name": "Psaumes 83:2",
           "chapter": "83"
         },
@@ -11160,6 +11384,7 @@
           "verse": "3",
           "text": "Car voilà que tes ennemis ont crié, et que ceux qui te haïssent ont levé la tête.",
           "grec": "ὅτι ἰδοὺ οἱ ἐχθροί σου ἤχησαν καὶ οἱ μισοῦντές σε ἦραν κεφαλήν.",
+          "alexandrie": "Car, voici, tes ennemis ont sonné, Et ceux qui te haïssent ont relevé la tête.",
           "name": "Psaumes 83:3",
           "chapter": "83"
         },
@@ -11167,6 +11392,7 @@
           "verse": "4",
           "text": "Ils ont formé de perfides conseils, ils ont conspiré contre tes saints ;",
           "grec": "ἐπὶ τὸν λαόν σου κατεπανουργεύσαντο γνώμην καὶ ἐβουλεύσαντο κατὰ τῶν ἁγίων σου.",
+          "alexandrie": "Envers ton peuple ils ont ourdi un méchant dessein Et ils se sont concertés contre tes saints.",
           "name": "Psaumes 83:4",
           "chapter": "83"
         },
@@ -11174,6 +11400,7 @@
           "verse": "5",
           "text": "Ils ont dit : Venez, et détruisons-les du nombre des nations, et que l'on ne se souvienne plus du nom d'Israël.",
           "grec": "εἶπαν δεῦτε καὶ ἐξολεθρεύσωμεν αὐτοὺς ἐξ ἔθνους καὶ οὐ μὴ μνησθῇ τὸ ὄνομα Ισραηλ ἔτι.",
+          "alexandrie": "Ils ont dit : « Allons, et exterminons-les de la nation Et il ne sera plus fait mention du nom d'Israël. »",
           "name": "Psaumes 83:5",
           "chapter": "83"
         },
@@ -11181,6 +11408,7 @@
           "verse": "6",
           "text": "Ils ont délibéré unanimement ; ils ont fait ensemble alliance contre toi :",
           "grec": "ὅτι ἐβουλεύσαντο ἐν ὁμονοίᾳ ἐπὶ τὸ αὐτό κατὰ σοῦ διαθήκην διέθεντο.",
+          "alexandrie": "Car ils se sont concertés d'un même cœur ensemble ; Contre toi ils ont établi une alliance,",
           "name": "Psaumes 83:6",
           "chapter": "83"
         },
@@ -11188,6 +11416,7 @@
           "verse": "7",
           "text": "Les tentes des Iduméens, et les Ismaélites, et Moab, et les Agaréniens,",
           "grec": "τὰ σκηνώματα τῶν Ιδουμαίων καὶ οἱ Ισμαηλῖται Μωαβ καὶ οἱ Αγαρηνοί.",
+          "alexandrie": "Les demeures des Iduméens et les Ismaélites, Môab et les Agarêniens,",
           "name": "Psaumes 83:7",
           "chapter": "83"
         },
@@ -11195,6 +11424,7 @@
           "verse": "8",
           "text": "Et Gébal, et Ammon, et Amalec, et les étrangers avec les habitants de Tyr ;",
           "grec": "Γεβαλ καὶ Αμμων καὶ Αμαληκ καὶ ἀλλόφυλοι μετὰ τῶν κατοικούντων Τύρον.",
+          "alexandrie": "Gebal et Ammôn et Amalêk, Et les Étrangers avec ceux qui habitent Tyr.",
           "name": "Psaumes 83:8",
           "chapter": "83"
         },
@@ -11202,6 +11432,7 @@
           "verse": "9",
           "text": "Assur aussi est venu avec eux ; ils sont devenus les champions des fils de Lot. Interlude.",
           "grec": "καὶ γὰρ καὶ Ασσουρ συμπαρεγένετο μετ αὐτῶν, ἐγενήθησαν εἰς ἀντίλημψιν τοῖς υἱοῖς Λωτ. διάψαλμα.",
+          "alexandrie": "Et en effet Assour aussi s'est tenu à leurs côtés ; Ils sont advenus en protection pour les fils de Lôt. Diapsalme.",
           "name": "Psaumes 83:9",
           "chapter": "83"
         },
@@ -11209,6 +11440,7 @@
           "verse": "10",
           "text": "Fais-leur comme à Madian et Sisara, et comme à Jabin au torrent de Cison.",
           "grec": "ποίησον αὐτοῖς ὡς τῇ Μαδιαμ καὶ τῷ Σισαρα, ὡς ὁ Ιαβιν ἐν τῷ χειμάρρῳ Κισων·",
+          "alexandrie": "Fais-leur comme à Madian et à Sisara, Comme [a subi] Jabin au torrent de Kisôn.",
           "name": "Psaumes 83:10",
           "chapter": "83"
         },
@@ -11216,6 +11448,7 @@
           "verse": "11",
           "text": "Ils furent détruits à Endor ; ils devinrent comme le fumier de la terre.",
           "grec": "ἐξωλεθρεύθησαν ἐν Αενδωρ, ἐγενήθησαν ὡσεὶ κόπρος τῇ γῇ.",
+          "alexandrie": "Ils ont été exterminés à Aendôr ; Ils sont devenus comme du fumier pour la terre.",
           "name": "Psaumes 83:11",
           "chapter": "83"
         },
@@ -11223,6 +11456,7 @@
           "verse": "12",
           "text": "Traite leurs princes comme Oreb et Zeb, et Zébée et Salmana, tous leurs princes,",
           "grec": "θοῦ τοὺς ἄρχοντας αὐτῶν ὡς τὸν Ωρηβ καὶ Ζηβ καὶ Ζεβεε καὶ Σαλμανα πάντας τοὺς ἄρχοντας αὐτῶν,",
+          "alexandrie": "Rends leurs chefs pareils à Orêb et à Zêb Et à Zebee et à Salmana, tous leurs chefs,",
           "name": "Psaumes 83:12",
           "chapter": "83"
         },
@@ -11230,6 +11464,7 @@
           "verse": "13",
           "text": "Qui ont dit : Possédons en héritage le sanctuaire de Dieu.",
           "grec": "οἵτινες εἶπαν Κληρονομήσωμεν ἑαυτοῖς τὸ ἁγιαστήριον τοῦ θεοῦ.",
+          "alexandrie": "Eux qui avaient dit : « Prenons pour notre héritage le sanctuaire de Dieu. »",
           "name": "Psaumes 83:13",
           "chapter": "83"
         },
@@ -11237,6 +11472,7 @@
           "verse": "14",
           "text": "Mon Dieu, fais-les tourbillonner comme la paille devant la face du vent.",
           "grec": "ὁ θεός μου, θοῦ αὐτοὺς ὡς τροχόν, ὡς καλάμην κατὰ πρόσωπον ἀνέμου·",
+          "alexandrie": "Mon Dieu, rends-les pareils à la roue, À la paille en face du vent.",
           "name": "Psaumes 83:14",
           "chapter": "83"
         },
@@ -11244,6 +11480,7 @@
           "verse": "15",
           "text": "Tel un feu brûle la forêt ; telle une flamme incendie les montagnes :",
           "grec": "ὡσεὶ πῦρ, ὃ διαφλέξει δρυμόν, ὡς εἰ φλὸξ κατακαύσαι ὄρη,",
+          "alexandrie": "Comme le feu qui enflammera la forêt, Comme lorsque la flamme brûle les montagnes,",
           "name": "Psaumes 83:15",
           "chapter": "83"
         },
@@ -11251,6 +11488,7 @@
           "verse": "16",
           "text": "Ainsi tu les poursuis de ta tempête, et tu les trouble en ta colère.",
           "grec": "οὕτως καταδιώξεις αὐτοὺς ἐν τῇ καταιγίδι σου καὶ ἐν τῇ ὀργῇ σου ταράξεις αὐτούς.",
+          "alexandrie": "Ainsi tu les poursuivras dans ta tempête Et dans ta colère tu les troubleras.",
           "name": "Psaumes 83:16",
           "chapter": "83"
         },
@@ -11258,6 +11496,7 @@
           "verse": "17",
           "text": "Remplis leur face d'ignominie, afin qu'ils cherchent ton nom, Seigneur.",
           "grec": "πλήρωσον τὰ πρόσωπα αὐτῶν ἀτιμίας, καὶ ζητήσουσιν τὸ ὄνομά σου, κύριε.",
+          "alexandrie": "Emplis leurs faces de déshonneur Et ils chercheront ton nom, Seigneur.",
           "name": "Psaumes 83:17",
           "chapter": "83"
         },
@@ -11265,6 +11504,7 @@
           "verse": "18",
           "text": "Qu'ils rougissent de honte et soient remplis de trouble dans les siècles des siècles ; qu'ils soient confondus, et qu'ils périssent.",
           "grec": "αἰσχυνθήτωσαν καὶ ταραχθήτωσαν εἰς τὸν αἰῶνα τοῦ αἰῶνος καὶ ἐντραπήτωσαν καὶ ἀπολέσθωσαν",
+          "alexandrie": "Qu'ils soient dans la honte et qu'ils soient troublés pour l'éternité de l'éternité Et qu'ils soient dans la confusion et qu'ils périssent.",
           "name": "Psaumes 83:18",
           "chapter": "83"
         },
@@ -11272,6 +11512,7 @@
           "verse": "19",
           "text": "Et qu'ils connaissent que ton nom est le Seigneur, et que seul tu es le Très-Haut sur toute la terre.",
           "grec": "καὶ γνώτωσαν ὅτι ὄνομά σοι κύριος, σὺ μόνος ὕψιστος ἐπὶ πᾶσαν τὴν γῆν.",
+          "alexandrie": "Et qu'ils connaissent que ton nom [est] Seigneur, Toi seul [le] Très-Haut sur toute la terre.",
           "name": "Psaumes 83:19",
           "chapter": "83"
         }
@@ -11285,6 +11526,7 @@
           "verse": "1",
           "text": "Jusqu'à la Fin, sur les pressoirs, psaume des fils de Koré.",
           "grec": "εἰς τὸ τέλος ὑπὲρ τῶν ληνῶν τοῖς υἱοῖς Κορε ψαλμός.",
+          "alexandrie": "Pour la fin. Au sujet des pressoirs. Aux fils de Koré. Psaume.",
           "name": "Psaumes 84:1",
           "chapter": "84"
         },
@@ -11292,6 +11534,7 @@
           "verse": "2",
           "text": "Que tes tabernacles sont aimables. Seigneur, Dieu des armées !",
           "grec": "ὡς ἀγαπητὰ τὰ σκηνώματά σου κύριε τῶν δυνάμεων.",
+          "alexandrie": "Comme [sont] bien-aimées tes demeures, Seigneur des puissances [armées].",
           "name": "Psaumes 84:2",
           "chapter": "84"
         },
@@ -11299,6 +11542,7 @@
           "verse": "3",
           "text": "Mon âme succombe à désirer les parvis du Seigneur ; mon cœur et ma chair ont tressailli dans le Dieu vivant.",
           "grec": "ἐπιποθεῖ καὶ ἐκλείπει ἡ ψυχή μου εἰς τὰς αὐλὰς τοῦ κυρίου ἡ καρδία μου καὶ ἡ σάρξ μου ἠγαλλιάσαντο ἐπὶ θεὸν ζῶντα.",
+          "alexandrie": "Mon âme éprouve de l'envie et défaille pour les cours du Seigneur. Mon cœur et ma chair ont exulté pour le Dieu vivant.",
           "name": "Psaumes 84:3",
           "chapter": "84"
         },
@@ -11306,6 +11550,7 @@
           "verse": "4",
           "text": "Car le passereau a trouvé pour lui une demeure, et la tourterelle un nid où elle dépose sa couvée. Tes autels, Seigneur, Dieu des armées, ô mon roi, ô mon Dieu !",
           "grec": "καὶ γὰρ στρουθίον εὗρεν ἑαυτῷ οἰκίαν καὶ τρυγὼν νοσσιὰν ἑαυτῇ οὗ θήσει τὰ νοσσία αὐτῆς τὰ θυσιαστήριά σου κύριε τῶν δυνάμεων ὁ βασιλεύς μου καὶ ὁ θεός μου.",
+          "alexandrie": "Et en effet le moineau s'est trouvé une maison Et la tourterelle un nid, où elle posera ses nichées : Tes autels à offrandes, Seigneur des puissances [armées], Mon roi et mon Dieu.",
           "name": "Psaumes 84:4",
           "chapter": "84"
         },
@@ -11313,6 +11558,7 @@
           "verse": "5",
           "text": "Heureux ceux qui demeurent en ta maison ; ils te loueront dans tous les siècles des siècles. Interlude.",
           "grec": "μακάριοι οἱ κατοικοῦντες ἐν τῷ οἴκῳ σου εἰς τοὺς αἰῶνας τῶν αἰώνων αἰνέσουσίν σε διάψαλμα.",
+          "alexandrie": "Heureux ceux qui habitent dans ta maison ; Pour les éternités des éternités ils te loueront. Diapsalme.",
           "name": "Psaumes 84:5",
           "chapter": "84"
         },
@@ -11320,6 +11566,7 @@
           "verse": "6",
           "text": "Heureux l'homme dont l'aide vient de toi, Seigneur ; il a disposé en son cœur des degrés pour monter",
           "grec": "μακάριος ἀνήρ οὗ ἐστιν ἡ ἀντίλημψις αὐτοῦ παρὰ σοῦ κύριε ἀναβάσεις ἐν τῇ καρδίᾳ αὐτοῦ διέθετο.",
+          "alexandrie": "Heureux l'homme dont la protection est chez toi, Seigneur. Les montées dans son cœur, il les a placées",
           "name": "Psaumes 84:6",
           "chapter": "84"
         },
@@ -11327,6 +11574,7 @@
           "verse": "7",
           "text": "En la vallée des pleurs, au lieu que le Seigneur a établi. Car le législateur leur donnera des bénédictions ;",
           "grec": "ἐν τῇ κοιλάδι τοῦ κλαυθμῶνος εἰς τόπον ὃν ἔθετο καὶ γὰρ εὐλογίας δώσει ὁ νομοθετῶν.",
+          "alexandrie": "Dans la vallée de la déploration, vers le lieu qu'il a établi. Et en effet celui qui légifère donnera [ses] bénédictions.",
           "name": "Psaumes 84:7",
           "chapter": "84"
         },
@@ -11334,6 +11582,7 @@
           "verse": "8",
           "text": "Ils iront de vertus en vertus, et le Dieu des dieux leur apparaîtra en Sion.",
           "grec": "πορεύσονται ἐκ δυνάμεως εἰς δύναμιν ὀφθήσεται ὁ θεὸς τῶν θεῶν ἐν Σιων.",
+          "alexandrie": "Ils chemineront de puissance en puissance ; Le Dieu des dieux sera vu dans Sion.",
           "name": "Psaumes 84:8",
           "chapter": "84"
         },
@@ -11341,6 +11590,7 @@
           "verse": "9",
           "text": "Seigneur, Dieu des armées, écoute ma prière ; prête-moi l'oreille, Dieu de Jacob ! Interlude.",
           "grec": "κύριε ὁ θεὸς τῶν δυνάμεων εἰσάκουσον τῆς προσευχῆς μου ἐνώτισαι ὁ θεὸς Ιακωβ διάψαλμα.",
+          "alexandrie": "Seigneur Dieu des puissances [armées], écoute ma prière, Tends l'oreille, Dieu de Jacob. Diapsalme.",
           "name": "Psaumes 84:9",
           "chapter": "84"
         },
@@ -11348,6 +11598,7 @@
           "verse": "10",
           "text": "Notre protecteur, ô mon Dieu, vois et regarde la face de ton Christ.",
           "grec": "ὑπερασπιστὰ ἡμῶν ἰδέ ὁ θεός καὶ ἐπίβλεψον ἐπὶ τὸ πρόσωπον τοῦ χριστοῦ σου.",
+          "alexandrie": "Notre bouclier, vois, Dieu, Et regarde vers la face de ton oint.",
           "name": "Psaumes 84:10",
           "chapter": "84"
         },
@@ -11355,6 +11606,7 @@
           "verse": "11",
           "text": "Car un seul jour dans tes parvis est meilleur qu'un millier de jours ; j'ai préféré la dernière place dans la maison de Dieu, que d'habiter sous les tentes des pécheurs ;",
           "grec": "ὅτι κρείσσων ἡμέρα μία ἐν ταῖς αὐλαῖς σου ὑπὲρ χιλιάδας ἐξελεξάμην παραρριπτεῖσθαι ἐν τῷ οἴκῳ τοῦ θεοῦ μᾶλλον ἢ οἰκεῖν ἐν σκηνώμασιν ἁμαρτωλῶν.",
+          "alexandrie": "Car un seul jour dans tes cours [est] meilleur que des meurs... \"milliers. J'ai choisi d'être rejeté dans la maison de Dieu Plutôt que d'habiter dans les demeures des pécheurs.\"",
           "name": "Psaumes 84:11",
           "chapter": "84"
         },
@@ -11362,6 +11614,7 @@
           "verse": "12",
           "text": "Parce que le Seigneur aime la miséricorde et la vérité ; Dieu est le dispensateur de la grâce et de la gloire. Dieu ne fera pas attendre ses biens à ceux qui marchent dans l'innocence ;",
           "grec": "ὅτι ἔλεον καὶ ἀλήθειαν ἀγαπᾷ κύριος ὁ θεός χάριν καὶ δόξαν δώσει κύριος οὐ στερήσει τὰ ἀγαθὰ τοὺς πορευομένους ἐν ἀκακίᾳ.",
+          "alexandrie": "Car la pitié et la vérité, Seigneur Dieu les aime. Il donnera grâce et gloire. Seigneur ne privera pas de bienfaits ceux qui cheminent dans l'innocence.",
           "name": "Psaumes 84:12",
           "chapter": "84"
         },
@@ -11369,6 +11622,7 @@
           "verse": "13",
           "text": "Seigneur, Dieu des armées, heureux l'homme qui espère en toi !",
           "grec": "κύριε τῶν δυνάμεων μακάριος ἄνθρωπος ὁ ἐλπίζων ἐπὶ σέ.",
+          "alexandrie": "Seigneur des puissances [armées], heureux homme, celui qui espère en toi.",
           "name": "Psaumes 84:13",
           "chapter": "84"
         }
@@ -11382,6 +11636,7 @@
           "verse": "1",
           "text": "Jusqu'à la Fin ; psaume des fils de Koré.",
           "grec": "εἰς τὸ τέλος τοῖς υἱοῖς Κορε ψαλμός.",
+          "alexandrie": "Pour la fin. Aux fils de Koré. Psaume.",
           "name": "Psaumes 85:1",
           "chapter": "85"
         },
@@ -11389,6 +11644,7 @@
           "verse": "2",
           "text": "Seigneur, tu as béni ta terre ; tu as ramené Jacob de la captivité.",
           "grec": "εὐδόκησας κύριε τὴν γῆν σου ἀπέστρεψας τὴν αἰχμαλωσίαν Ιακωβ.",
+          "alexandrie": "Tu as placé ta faveur, Seigneur, dans ta terre ; Tu as détourné la captivité de Jacob.",
           "name": "Psaumes 85:2",
           "chapter": "85"
         },
@@ -11396,6 +11652,7 @@
           "verse": "3",
           "text": "Tu as remis ses iniquités à ton peuple ; tu as couvert tous ses péchés. Interlude.",
           "grec": "ἀφῆκας τὰς ἀνομίας τῷ λαῷ σου ἐκάλυψας πάσας τὰς ἁμαρτίας αὐτῶν διάψαλμα.",
+          "alexandrie": "Tu as remis les actions illégales à ton peuple ; Tu as couvert tous leurs péchés. Diapsalme.",
           "name": "Psaumes 85:3",
           "chapter": "85"
         },
@@ -11403,6 +11660,7 @@
           "verse": "4",
           "text": "Tu as apaisé ta colère ; tu as détourné la force de ton courroux.",
           "grec": "κατέπαυσας πᾶσαν τὴν ὀργήν σου ἀπέστρεψας ἀπὸ ὀργῆς θυμοῦ σου.",
+          "alexandrie": "Tu as fait cesser toute ta colère ; Tu [t'] es détourné de la colère de ton emportement.",
           "name": "Psaumes 85:4",
           "chapter": "85"
         },
@@ -11410,6 +11668,7 @@
           "verse": "5",
           "text": "Fais-nous revenir, ô Dieu de nos délivrances ; détourne de nous ta colère.",
           "grec": "ἐπίστρεψον ἡμᾶς ὁ θεὸς τῶν σωτηρίων ἡμῶν καὶ ἀπόστρεψον τὸν θυμόν σου ἀφ' ἡμῶν.",
+          "alexandrie": "Fais-nous retourner, Dieu de nos saluts, Et détourne ton emportement de nous.",
           "name": "Psaumes 85:5",
           "chapter": "85"
         },
@@ -11417,6 +11676,7 @@
           "verse": "6",
           "text": "Seras-tu à jamais irrité contre nous ; étendras-tu ta colère sur les générations des générations ?",
           "grec": "μὴ εἰς τὸν αἰῶνα ὀργισθήσῃ ἡμῖν ἢ διατενεῖς τὴν ὀργήν σου ἀπὸ γενεᾶς εἰς γενεάν.",
+          "alexandrie": "Pour l'éternité seras-tu en colère contre nous ? Étendras-tu ta colère d'une génération à l'autre ?",
           "name": "Psaumes 85:6",
           "chapter": "85"
         },
@@ -11424,6 +11684,7 @@
           "verse": "7",
           "text": "O mon Dieu, en te tournant vers nous, tu nous vivifieras, et ton peuple se réjouira en toi.",
           "grec": "ὁ θεός σὺ ἐπιστρέψας ζωώσεις ἡμᾶς καὶ ὁ λαός σου εὐφρανθήσεται ἐπὶ σοί.",
+          "alexandrie": "Dieu, toi, en nous faisant retourner, tu nous feras vivre Et ton peuple se réjouira pour toi.",
           "name": "Psaumes 85:7",
           "chapter": "85"
         },
@@ -11431,6 +11692,7 @@
           "verse": "8",
           "text": "Seigneur, montre-nous ta miséricorde, et accorde-nous ton salut.",
           "grec": "δεῖξον ἡμῖν κύριε τὸ ἔλεός σου καὶ τὸ σωτήριόν σου δῴης ἡμῖν.",
+          "alexandrie": "Montre-nous, Seigneur, ta pitié ; Et ton salut, puisses-tu nous le donner.",
           "name": "Psaumes 85:8",
           "chapter": "85"
         },
@@ -11438,6 +11700,7 @@
           "verse": "9",
           "text": "J'écouterai ce que dira en moi le Seigneur Dieu ; car il parlera de la paix à son peuple et à ses saints, et à ceux qui tournent leur cœur vers lui.",
           "grec": "ἀκούσομαι τί λαλήσει ἐν ἐμοὶ κύριος ὁ θεός ὅτι λαλήσει εἰρήνην ἐπὶ τὸν λαὸν αὐτοῦ καὶ ἐπὶ τοὺς ὁσίους αὐτοῦ καὶ ἐπὶ τοὺς ἐπιστρέφοντας πρὸς αὐτὸν καρδίαν.",
+          "alexandrie": "J'écouterai ce que proférera en moi Seigneur Dieu, Car il parlera de paix à son peuple Et à ses observants Et à ceux qui retournent vers lui [leur] cœur.",
           "name": "Psaumes 85:9",
           "chapter": "85"
         },
@@ -11445,6 +11708,7 @@
           "verse": "10",
           "text": "Vraiment, son salut est près de ceux qui le craignent, et sur notre terre habite sa gloire.",
           "grec": "πλὴν ἐγγὺς τῶν φοβουμένων αὐτὸν τὸ σωτήριον αὐτοῦ τοῦ κατασκηνῶσαι δόξαν ἐν τῇ γῇ ἡμῶν.",
+          "alexandrie": "Mais proche de ceux qui le craignent [est] son salut Qui est que la gloire érige sa demeure dans notre terre.",
           "name": "Psaumes 85:10",
           "chapter": "85"
         },
@@ -11452,6 +11716,7 @@
           "verse": "11",
           "text": "La miséricorde et la vérité se sont rencontrées ; la justice et la paix se sont embrassées.",
           "grec": "ἔλεος καὶ ἀλήθεια συνήντησαν δικαιοσύνη καὶ εἰρήνη κατεφίλησαν.",
+          "alexandrie": "Pitié et vérité se sont rencontrées, Justice et paix se sont embrassées.",
           "name": "Psaumes 85:11",
           "chapter": "85"
         },
@@ -11459,6 +11724,7 @@
           "verse": "12",
           "text": "La vérité est montée de la terre, et la justice s'est penchée du haut du ciel.",
           "grec": "ἀλήθεια ἐκ τῆς γῆς ἀνέτειλεν καὶ δικαιοσύνη ἐκ τοῦ οὐρανοῦ διέκυψεν.",
+          "alexandrie": "Vérité depuis la terre s'est levée Et justice depuis le ciel s'est penchée.",
           "name": "Psaumes 85:12",
           "chapter": "85"
         },
@@ -11466,6 +11732,7 @@
           "verse": "13",
           "text": "Car le Seigneur nous donnera sa bienveillance, et notre terre donnera son fruit.",
           "grec": "καὶ γὰρ ὁ κύριος δώσει χρηστότητα καὶ ἡ γῆ ἡμῶν δώσει τὸν καρπὸν αὐτῆς.",
+          "alexandrie": "Et en effet le Seigneur donnera [sa] bienfaisance, Et notre terre donnera son fruit.",
           "name": "Psaumes 85:13",
           "chapter": "85"
         },
@@ -11473,6 +11740,7 @@
           "verse": "14",
           "text": "La justice marchera devant le Seigneur, et sur la route posera ses pas dans les siens.",
           "grec": "δικαιοσύνη ἐναντίον αὐτοῦ προπορεύσεται καὶ θήσει εἰς ὁδὸν τὰ διαβήματα αὐτοῦ.",
+          "alexandrie": "Justice en face de lui s'avancera Et établira pour voie ses pas.",
           "name": "Psaumes 85:14",
           "chapter": "85"
         }
@@ -11486,6 +11754,7 @@
           "verse": "1",
           "text": "Prière de David. Incline ton oreille. Seigneur, et exauce-moi ; car je suis pauvre et nécessiteux.",
           "grec": "προσευχὴ τῷ Δαυιδ κλῖνον κύριε τὸ οὖς σου καὶ ἐπάκουσόν μου ὅτι πτωχὸς καὶ πένης εἰμὶ ἐγώ.",
+          "alexandrie": "Prière. À David. Incline, Seigneur, ton oreille et sois à mon écoute, Car je suis indigent et pauvre, moi.",
           "name": "Psaumes 86:1",
           "chapter": "86"
         },
@@ -11493,6 +11762,7 @@
           "verse": "2",
           "text": "Veille sur mon âme, car je suis saint ; sauve, ô Dieu, ton serviteur qui espère en toi.",
           "grec": "φύλαξον τὴν ψυχήν μου ὅτι ὅσιός εἰμι σῶσον τὸν δοῦλόν σου ὁ θεός μου τὸν ἐλπίζοντα ἐπὶ σέ.",
+          "alexandrie": "Garde mon âme, car je suis observant, Sauve ton serviteur, mon Dieu, qui a espéré en toi.",
           "name": "Psaumes 86:2",
           "chapter": "86"
         },
@@ -11500,6 +11770,7 @@
           "verse": "3",
           "text": "Aie pitié de moi, Seigneur ; car tout le jour j'ai crié vers toi.",
           "grec": "ἐλέησόν με κύριε ὅτι πρὸς σὲ κεκράξομαι ὅλην τὴν ἡμέραν.",
+          "alexandrie": "Aie pitié de moi, Seigneur, car vers toi je crierai tout le jour.",
           "name": "Psaumes 86:3",
           "chapter": "86"
         },
@@ -11507,6 +11778,7 @@
           "verse": "4",
           "text": "Réjouis l'âme de ton serviteur ; car j'ai élevé, Seigneur, mon âme vers toi.",
           "grec": "εὔφρανον τὴν ψυχὴν τοῦ δούλου σου ὅτι πρὸς σέ κύριε ἦρα τὴν ψυχήν μου.",
+          "alexandrie": "Réjouis l'âme de ton serviteur, Car vers toi, Seigneur, j'ai levé mon âme.",
           "name": "Psaumes 86:4",
           "chapter": "86"
         },
@@ -11514,6 +11786,7 @@
           "verse": "5",
           "text": "Seigneur, tu es bienveillant et doux, et tes miséricordes sont abondantes envers ceux qui t'invoquent.",
           "grec": "ὅτι σύ κύριε χρηστὸς καὶ ἐπιεικὴς καὶ πολυέλεος πᾶσι τοῖς ἐπικαλουμένοις σε.",
+          "alexandrie": "Car toi, Seigneur, [tu es] bienfaisant et indulgent Et d'une grande pitié pour tous ceux qui t'invoquent.",
           "name": "Psaumes 86:5",
           "chapter": "86"
         },
@@ -11521,6 +11794,7 @@
           "verse": "6",
           "text": "Seigneur, prête l'oreille à ma prière, et sois attentif à la voix de ma supplication.",
           "grec": "ἐνώτισαι κύριε τὴν προσευχήν μου καὶ πρόσχες τῇ φωνῇ τῆς δεήσεώς μου.",
+          "alexandrie": "Tends l'oreille, Seigneur, vers ma prière Et prête attention à la voix de ma demande.",
           "name": "Psaumes 86:6",
           "chapter": "86"
         },
@@ -11528,6 +11802,7 @@
           "verse": "7",
           "text": "Au jour de mon affliction, j'ai crié vers toi, parce que tu m'as exaucé.",
           "grec": "ἐν ἡμέρᾳ θλίψεώς μου ἐκέκραξα πρὸς σέ ὅτι εἰσήκουσάς μου.",
+          "alexandrie": "Au jour de mon oppression j'ai crié vers toi, car tu as été à mon écoute.",
           "name": "Psaumes 86:7",
           "chapter": "86"
         },
@@ -11535,6 +11810,7 @@
           "verse": "8",
           "text": "Nul n'est semblable à toi parmi les dieux, Seigneur, et nul n'a fait d'œuvres comme les tiennes.",
           "grec": "οὐκ ἔστιν ὅμοιός σοι ἐν θεοῖς κύριε καὶ οὐκ ἔστιν κατὰ τὰ ἔργα σου.",
+          "alexandrie": "Il n'y a pas semblable à toi parmi les dieux, Seigneur, Et il n'y [en] a pas selon tes œuvres.",
           "name": "Psaumes 86:8",
           "chapter": "86"
         },
@@ -11542,6 +11818,7 @@
           "verse": "9",
           "text": "Toutes les nations que tu as faites viendront, et se prosterneront devant toi, Seigneur ; et elles glorifieront ton nom,",
           "grec": "πάντα τὰ ἔθνη ὅσα ἐποίησας ἥξουσιν καὶ προσκυνήσουσιν ἐνώπιόν σου κύριε καὶ δοξάσουσιν τὸ ὄνομά σου.",
+          "alexandrie": "Toutes les nations que tu as faites arriveront Et elles se prosterneront devant toi, Seigneur, Et elles glorifieront ton nom.",
           "name": "Psaumes 86:9",
           "chapter": "86"
         },
@@ -11549,6 +11826,7 @@
           "verse": "10",
           "text": "Parce que tu es grand, et que tu fais des merveilles ; tu es le seul grand Dieu.",
           "grec": "ὅτι μέγας εἶ σὺ καὶ ποιῶν θαυμάσια σὺ εἶ ὁ θεὸς μόνος ὁ μέγας.",
+          "alexandrie": "Car tu es grand, toi, et tu fais des merveilles ; Toi, tu es le Dieu unique, le [Dieu] grand.",
           "name": "Psaumes 86:10",
           "chapter": "86"
         },
@@ -11556,6 +11834,7 @@
           "verse": "11",
           "text": "Guide-moi. Seigneur, en ta voie, et je cheminerai en ta vérité ; que mon cœur se réjouisse d'avoir craint ton nom.",
           "grec": "ὁδήγησόν με κύριε τῇ ὁδῷ σου καὶ πορεύσομαι ἐν τῇ ἀληθείᾳ σου εὐφρανθήτω ἡ καρδία μου τοῦ φοβεῖσθαι τὸ ὄνομά σου.",
+          "alexandrie": "Conduis-moi, Seigneur, sur ta voie, Et je cheminerai dans ta vérité ; Que se réjouisse mon cœur d'avoir crainte de ton nom.",
           "name": "Psaumes 86:11",
           "chapter": "86"
         },
@@ -11563,6 +11842,7 @@
           "verse": "12",
           "text": "Je te rends grâces, ô mon Dieu, de tout mon cœur, et je glorifierai ton nom éternellement.",
           "grec": "ἐξομολογήσομαί σοι κύριε ὁ θεός μου ἐν ὅλῃ καρδίᾳ μου καὶ δοξάσω τὸ ὄνομά σου εἰς τὸν αἰῶνα.",
+          "alexandrie": "Je te ferai la profession, Seigneur mon Dieu, de tout mon cœur, Et je glorifierai ton nom pour l'éternité,",
           "name": "Psaumes 86:12",
           "chapter": "86"
         },
@@ -11570,6 +11850,7 @@
           "verse": "13",
           "text": "Car ta miséricorde est grande envers moi, et tu as retiré mon âme du plus profond des enfers.",
           "grec": "ὅτι τὸ ἔλεός σου μέγα ἐπ' ἐμὲ καὶ ἐρρύσω τὴν ψυχήν μου ἐξ ᾅδου κατωτάτου.",
+          "alexandrie": "Car ta pitié est grande envers moi Et tu as libéré mon âme du tréfonds de l'Hadès.",
           "name": "Psaumes 86:13",
           "chapter": "86"
         },
@@ -11577,6 +11858,7 @@
           "verse": "14",
           "text": "Dieu, les méchants se sont insurgés contre moi, et l'assemblée des puissants a cherché ma vie ; et ils ne t'ont pas mis devant leurs yeux.",
           "grec": "ὁ θεός παράνομοι ἐπανέστησαν ἐπ' ἐμέ καὶ συναγωγὴ κραταιῶν ἐζήτησαν τὴν ψυχήν μου καὶ οὐ προέθεντό σε ἐνώπιον αὐτῶν.",
+          "alexandrie": "Dieu, les transgresseurs se sont dressés contre moi Et le rassemblement des vigoureux ont cherché mon âme Et ils ne t'ont pas établi devant eux.",
           "name": "Psaumes 86:14",
           "chapter": "86"
         },
@@ -11584,6 +11866,7 @@
           "verse": "15",
           "text": "Et toi, Seigneur, tu as été compatissant et miséricordieux, longanime, abondant en miséricorde et en vérité.",
           "grec": "καὶ σύ, κύριε ὁ θεός, οἰκτίρμων καὶ ἐλεήμων, μακρόθυμος καὶ πολυέλεος καὶ ἀληθινός.",
+          "alexandrie": "Et toi, Seigneur Dieu, [tu es] miséricordieux et rempli de pitié, Longanime et d'une grande pitié et véridique.",
           "name": "Psaumes 86:15",
           "chapter": "86"
         },
@@ -11591,6 +11874,7 @@
           "verse": "16",
           "text": "Jette un regard sur moi, et aie pitié de moi ; donne ta force à ton serviteur, et sauve le fils de ta servante.",
           "grec": "ἐπίβλεψον ἐπ ἐμὲ καὶ ἐλέησόν με, δὸς τὸ κράτος σου τῷ παιδί σου καὶ σῶσον τὸν υἱὸν τῆς παιδίσκης σου.",
+          "alexandrie": "Regarde vers moi et aie pitié de moi, Donne ta vigueur à ton serviteur Et sauve le fils de ta servante.",
           "name": "Psaumes 86:16",
           "chapter": "86"
         },
@@ -11598,6 +11882,7 @@
           "verse": "17",
           "text": "Fais sur moi un signe favorable, et que ceux qui me haïssent le voient, et qu'ils soient confondus ; car, Seigneur, tu es venu à mon secours, et tu m'as consolé.",
           "grec": "ποίησον μετ ἐμοῦ σημεῖον εἰς ἀγαθόν, καὶ ἰδέτωσαν οἱ μισοῦντές με καὶ αἰσχυνθήτωσαν, ὅτι σύ, κύριε, ἐβοήθησάς μοι καὶ παρεκάλεσάς με.",
+          "alexandrie": "Fais avec moi un signe en bienfait, Et que ceux qui me haïssent voient et aient de la honte, Car toi, Seigneur, tu m'as porté secours et tu m'as consolé.",
           "name": "Psaumes 86:17",
           "chapter": "86"
         }
@@ -11611,6 +11896,7 @@
           "verse": "1",
           "text": "Psaume et cantique des fils de Koré. Les fondements de Sion sont sur les montagnes saintes.",
           "grec": "τοῖς υἱοῖς Κορε ψαλμὸς ᾠδῆς οἱ θεμέλιοι αὐτοῦ ἐν τοῖς ὄρεσιν τοῖς ἁγίοις.",
+          "alexandrie": "Aux fils de Koré. Psaume de cantique. Ses fondations [sont] sur les montagnes saintes.",
           "name": "Psaumes 87:1",
           "chapter": "87"
         },
@@ -11618,6 +11904,7 @@
           "verse": "2",
           "text": "Le Seigneur aime les portes de Sion plus que toutes les tentes de Jacob.",
           "grec": "ἀγαπᾷ κύριος τὰς πύλας Σιων ὑπὲρ πάντα τὰ σκηνώματα Ιακωβ.",
+          "alexandrie": "Seigneur aime les portes de Sion Plus que toutes les demeures de Jacob.",
           "name": "Psaumes 87:2",
           "chapter": "87"
         },
@@ -11625,6 +11912,7 @@
           "verse": "3",
           "text": "On a dit de toi des choses glorieuses, ô cité de Dieu !",
           "grec": "δεδοξασμένα ἐλαλήθη περὶ σοῦ ἡ πόλις τοῦ θεοῦ διάψαλμα.",
+          "alexandrie": "Des choses glorieuses ont été proférées sur toi, la cité de Dieu. Diapsalme.",
           "name": "Psaumes 87:3",
           "chapter": "87"
         },
@@ -11632,6 +11920,7 @@
           "verse": "4",
           "text": "Je rappellerai Raab et Babylone à ceux qui me connaissent. Et voilà que les étrangers et Tyr, et le peuple des Éthiopiens, tous ceux-là y sont nés.",
           "grec": "μνησθήσομαι Ρααβ καὶ Βαβυλῶνος τοῖς γινώσκουσίν με καὶ ἰδοὺ ἀλλόφυλοι καὶ Τύρος καὶ λαὸς Αἰθιόπων οὗτοι ἐγενήθησαν ἐκεῖ.",
+          "alexandrie": "Je ferai mention de Raab et de Babylone à ceux qui me connaissent : Et voici les Étrangers et Tyr et le peuple des Éthiopiens ; Ceux-là sont advenus là-bas.",
           "name": "Psaumes 87:4",
           "chapter": "87"
         },
@@ -11639,6 +11928,7 @@
           "verse": "5",
           "text": "Un homme dira : Ma mère est Sion ; et cet homme y est né, et le Très-Haut lui-même en a été le fondateur.",
           "grec": "μήτηρ Σιων ἐρεῖ ἄνθρωπος καὶ ἄνθρωπος ἐγενήθη ἐν αὐτῇ καὶ αὐτὸς ἐθεμελίωσεν αὐτὴν ὁ ὕψιστος.",
+          "alexandrie": "« Mère Sion », dira l'homme, Et l'homme est advenu en elle. Et lui, il l'a fondée, le Très-Haut.",
           "name": "Psaumes 87:5",
           "chapter": "87"
         },
@@ -11646,6 +11936,7 @@
           "verse": "6",
           "text": "Le Seigneur racontera cela dans l'écrit des peuples et des princes qui sont nés dans Sion. Interlude.",
           "grec": "κύριος διηγήσεται ἐν γραφῇ λαῶν καὶ ἀρχόντων τούτων τῶν γεγενημένων ἐν αὐτῇ διάψαλμα.",
+          "alexandrie": "Seigneur [le] racontera dans l'écriture des peuples Et des chefs de ceux qui sont advenus en elle, Diapsalme.",
           "name": "Psaumes 87:6",
           "chapter": "87"
         },
@@ -11653,6 +11944,7 @@
           "verse": "7",
           "text": "Pour tous, habiter en toi, c'est habiter dans la joie.",
           "grec": "ὡς εὐφραινομένων πάντων ἡ κατοικία ἐν σοί.",
+          "alexandrie": "Comme de ceux qui se réjouissent, l'habitation de tous [sera] en toi.",
           "name": "Psaumes 87:7",
           "chapter": "87"
         }
@@ -11666,6 +11958,7 @@
           "verse": "1",
           "text": "Psaume des fils de Koré. Jusqu'à la Fin, sur Maeleth, afin qu'il lui soit répondu. Méditation d'Eman l'Israélite.",
           "grec": "ᾠδὴ ψαλμοῦ τοῖς υἱοῖς Κορε εἰς τὸ τέλος ὑπὲρ μαελεθ τοῦ ἀποκριθῆναι συνέσεως Αιμαν τῷ Ισραηλίτῃ.",
+          "alexandrie": "Cantique de psaume. Aux fils de Koré. Pour la fin. Au sujet de Maeleth pour répondre. D'intelligence. À Aiman l'Israélite.",
           "name": "Psaumes 88:1",
           "chapter": "88"
         },
@@ -11673,6 +11966,7 @@
           "verse": "2",
           "text": "Seigneur, Dieu de mon salut, j'ai crié devant toi, le jour et la nuit.",
           "grec": "κύριε ὁ θεὸς τῆς σωτηρίας μου ἡμέρας ἐκέκραξα καὶ ἐν νυκτὶ ἐναντίον σου.",
+          "alexandrie": "Seigneur Dieu de mon salut, De jour j'ai crié et dans la nuit en face de toi.",
           "name": "Psaumes 88:2",
           "chapter": "88"
         },
@@ -11680,6 +11974,7 @@
           "verse": "3",
           "text": "Que mon oraison pénètre en ta présence ; incline ton oreille vers ma prière. Seigneur.",
           "grec": "εἰσελθάτω ἐνώπιόν σου ἡ προσευχή μου κλῖνον τὸ οὖς σου εἰς τὴν δέησίν μου κύριε.",
+          "alexandrie": "Qu'arrive devant toi ma prière ; Incline ton oreille vers ma demande, Seigneur.",
           "name": "Psaumes 88:3",
           "chapter": "88"
         },
@@ -11687,6 +11982,7 @@
           "verse": "4",
           "text": "Car mon âme a été remplie de maux, et ma vie s'est approchée de l'enfer.",
           "grec": "ὅτι ἐπλήσθη κακῶν ἡ ψυχή μου καὶ ἡ ζωή μου τῷ ᾅδῃ ἤγγισεν.",
+          "alexandrie": "Car mon âme a été remplie de maux Et ma vie s'est approchée de l'Hadès.",
           "name": "Psaumes 88:4",
           "chapter": "88"
         },
@@ -11694,6 +11990,7 @@
           "verse": "5",
           "text": "J'ai été compté parmi ceux qui descendent dans la fosse ; je suis devenu comme un homme sans secours, libre parmi les morts,",
           "grec": "προσελογίσθην μετὰ τῶν καταβαινόντων εἰς λάκκον ἐγενήθην ὡς ἄνθρωπος ἀβοήθητος ἐν νεκροῖς ἐλεύθερος.",
+          "alexandrie": "J'ai été compté avec ceux qui descendent dans la fosse ; Je suis advenu comme un homme sans secours, libre au milieu des cadavres,",
           "name": "Psaumes 88:5",
           "chapter": "88"
         },
@@ -11701,6 +11998,7 @@
           "verse": "6",
           "text": "Comme ceux qui tombent mortellement blessés, qui dorment dans le sépulcre, et dont tu ne te souviens plus ; ceux-là aussi ont été repoussés par ta main.",
           "grec": "ὡσεὶ τραυματίαι ἐρριμμένοι καθεύδοντες ἐν τάφῳ ὧν οὐκ ἐμνήσθης ἔτι καὶ αὐτοὶ ἐκ τῆς χειρός σου ἀπώσθησαν.",
+          "alexandrie": "Comme les blessés à mort jetés [à terre] couchés dans le tombeau, Dont tu ne t'es plus souvenu Et qui de ta main ont été repoussés.",
           "name": "Psaumes 88:6",
           "chapter": "88"
         },
@@ -11708,6 +12006,7 @@
           "verse": "7",
           "text": "On m'a mis au plus profond de la fosse, dans les ténèbres et dans l'ombre de la mort.",
           "grec": "ἔθεντό με ἐν λάκκῳ κατωτάτῳ ἐν σκοτεινοῖς καὶ ἐν σκιᾷ θανάτου.",
+          "alexandrie": "Ils m'ont établi dans le tréfonds de la fosse, Dans les ténèbres et dans l'ombre de la mort.",
           "name": "Psaumes 88:7",
           "chapter": "88"
         },
@@ -11715,6 +12014,7 @@
           "verse": "8",
           "text": "Ta colère s'est appesantie sur moi, et tu as fait passer sur moi tous tes flots. Interlude.",
           "grec": "ἐπ ἐμὲ ἐπεστηρίχθη ὁ θυμός σου, καὶ πάντας τοὺς μετεωρισμούς σου ἐπ ἐμὲ ἐπήγαγες. διάψαλμα.",
+          "alexandrie": "Contre moi a pris appui ton emportement Et toutes tes houles, tu les as mises en branle contre moi. Diapsalme.",
           "name": "Psaumes 88:8",
           "chapter": "88"
         },
@@ -11722,6 +12022,7 @@
           "verse": "9",
           "text": "Tu as éloigné de moi mes proches ; ils m'ont en abomination. J'ai été livré, et je n'ai pu sortir.",
           "grec": "ἐμάκρυνας τοὺς γνωστούς μου ἀπ ἐμοῦ, ἔθεντό με βδέλυγμα ἑαυτοῖς, παρεδόθην καὶ οὐκ ἐξεπορευόμην.",
+          "alexandrie": "Tu as éloigné mes familiers loin de moi ; Ils m'ont pris en dégoût pour eux-mêmes ; J'ai été livré et je ne m'en allais pas.",
           "name": "Psaumes 88:9",
           "chapter": "88"
         },
@@ -11729,6 +12030,7 @@
           "verse": "10",
           "text": "Mes yeux ont été affaiblis par la misère. Et j'ai crié vers toi tout le jour. Seigneur ; j'ai étendu vers toi les mains.",
           "grec": "οἱ ὀφθαλμοί μου ἠσθένησαν ἀπὸ πτωχείας· ἐκέκραξα πρὸς σέ, κύριε, ὅλην τὴν ἡμέραν, διεπέτασα πρὸς σὲ τὰς χεῖράς μου",
+          "alexandrie": "Mes yeux se sont affaiblis sous l'effet de l'indigence ; J'ai crié vers toi, Seigneur, tout le jour ; J'ai étendu vers toi mes mains.",
           "name": "Psaumes 88:10",
           "chapter": "88"
         },
@@ -11736,6 +12038,7 @@
           "verse": "11",
           "text": "Feras-tu des prodiges pour les morts ? ou des médecins les ressusciteront-ils, afin qu'ils te louent ?",
           "grec": "Μὴ τοῖς νεκροῖς ποιήσεις θαυμάσια; ἢ ἰατροὶ ἀναστήσουσιν, καὶ ἐξομολογήσονταί σοι;",
+          "alexandrie": "Feras-tu des merveilles pour les cadavres ? Les médecins feront-ils se relever et te feront-ils la profession ? Diapsalme.",
           "name": "Psaumes 88:11",
           "chapter": "88"
         },
@@ -11743,6 +12046,7 @@
           "verse": "12",
           "text": "Quelqu'un dans le sépulcre publiera-t-il ta miséricorde, ou ta vérité dans la perdition ?",
           "grec": "μὴ διηγήσεταί τις ἐν τάφῳ τὸ ἔλεός σου καὶ τὴν ἀλήθειάν σου ἐν τῇ ἀπωλείᾳ;",
+          "alexandrie": "Racontera-t-on dans le tombeau ta pitié Et ta vérité dans le trépas ?",
           "name": "Psaumes 88:12",
           "chapter": "88"
         },
@@ -11750,6 +12054,7 @@
           "verse": "13",
           "text": "Dans les ténèbres, connaîtra-t-on tes merveilles, et ta justice dans une terre oubliée ?",
           "grec": "μὴ γνωσθήσεται ἐν τῷ σκότει τὰ θαυμάσιά σου καὶ ἡ δικαιοσύνη σου ἐν γῇ ἐπιλελησμένῃ;",
+          "alexandrie": "Tes merveilles seront-elles connues dans l'obscurité Et ta justice dans la terre oubliée ?",
           "name": "Psaumes 88:13",
           "chapter": "88"
         },
@@ -11757,6 +12062,7 @@
           "verse": "14",
           "text": "Et moi, Seigneur, j'ai crié vers toi ; et dès l'aurore ma prière te parviendra.",
           "grec": "κἀγὼ πρὸς σέ, κύριε, ἐκέκραξα, καὶ τὸ πρωὶ ἡ προσευχή μου προφθάσει σε.",
+          "alexandrie": "Et moi vers toi, Seigneur, j'ai crié, Et le matin ma prière te devancera.",
           "name": "Psaumes 88:14",
           "chapter": "88"
         },
@@ -11764,6 +12070,7 @@
           "verse": "15",
           "text": "Pourquoi, Seigneur, rejette-tu ma prière et détournes-tu de moi ta face ?",
           "grec": "ἵνα τί, κύριε, ἀπωθεῖς τὴν ψυχήν μου, ἀποστρέφεις τὸ πρόσωπόν σου ἀπ ἐμοῦ;",
+          "alexandrie": "Pourquoi, Seigneur, repousses-tu mon âme, Détournes-tu ta face loin de moi ?",
           "name": "Psaumes 88:15",
           "chapter": "88"
         },
@@ -11771,6 +12078,7 @@
           "verse": "16",
           "text": "Je suis pauvre, et dans les labeurs depuis ma jeunesse ; mais après avoir été exalté, j'ai été humilié et confondu.",
           "grec": "πτωχός εἰμι ἐγὼ καὶ ἐν κόποις ἐκ νεότητός μου, ὑψωθεὶς δὲ ἐταπεινώθην καὶ ἐξηπορήθην.",
+          "alexandrie": "Moi je suis indigent et en butte aux coups depuis ma jeunesse ; Mais une fois exalté j'ai été humilié et j'ai été plongé dans l'embarras.",
           "name": "Psaumes 88:16",
           "chapter": "88"
         },
@@ -11778,6 +12086,7 @@
           "verse": "17",
           "text": "Sur moi ont passé tes colères, et tes épouvantements m'ont troublé.",
           "grec": "ἐπ ἐμὲ διῆλθον αἱ ὀργαί σου, καὶ οἱ φοβερισμοί σου ἐξετάραξάν με,",
+          "alexandrie": "Tes colères ont traversé contre moi, Les craintes que tu inspires ont jeté le trouble en moi.",
           "name": "Psaumes 88:17",
           "chapter": "88"
         },
@@ -11785,6 +12094,7 @@
           "verse": "18",
           "text": "Ils m'ont entouré comme des flots ; durant tout le jour, ils m'ont assiégé tous à la fois.",
           "grec": "ἐκύκλωσάν με ὡς ὕδωρ ὅλην τὴν ἡμέραν, περιέσχον με ἅμα.",
+          "alexandrie": "Elles m'ont encerclé comme l'eau tout le jour, Elles m'ont entouré en même temps.",
           "name": "Psaumes 88:18",
           "chapter": "88"
         },
@@ -11792,6 +12102,7 @@
           "verse": "19",
           "text": "Tu as écarté de moi tout ami et mes proches de ma misère.",
           "grec": "ἐμάκρυνας ἀπ ἐμοῦ φίλον καὶ πλησίον καὶ τοὺς γνωστούς μου ἀπὸ ταλαιπωρίας.",
+          "alexandrie": "Tu as éloigné de moi ami et voisin Et mes familiers à cause de la misère.",
           "name": "Psaumes 88:19",
           "chapter": "88"
         }
@@ -11805,6 +12116,7 @@
           "verse": "1",
           "text": "Un psaume de méditation d'Étham, l'Israélite.",
           "grec": "συνέσεως Αιθαν τῷ Ισραηλίτῃ.",
+          "alexandrie": "D'intelligence. À Aithan l'Israélite.",
           "name": "Psaumes 89:1",
           "chapter": "89"
         },
@@ -11812,6 +12124,7 @@
           "verse": "2",
           "text": "Je chanterai éternellement tes miséricordes, ô Seigneur ; de génération en génération ma bouche annoncera ta vérité.",
           "grec": "τὰ ἐλέη σου κύριε εἰς τὸν αἰῶνα ᾄσομαι εἰς γενεὰν καὶ γενεὰν ἀπαγγελῶ τὴν ἀλήθειάν σου ἐν τῷ στόματί μου.",
+          "alexandrie": "Les pitiés du Seigneur, pour l'éternité je les chanterai ; Pour une génération et une génération j'annoncerai ta vérité dans ma bouche.",
           "name": "Psaumes 89:2",
           "chapter": "89"
         },
@@ -11819,6 +12132,7 @@
           "verse": "3",
           "text": "Car tu as dit : La miséricorde sera édifiée pour tous les siècles ; ta vérité sera établie dans les cieux.",
           "grec": "ὅτι εἶπας εἰς τὸν αἰῶνα ἔλεος οἰκοδομηθήσεται ἐν τοῖς οὐρανοῖς ἑτοιμασθήσεται ἡ ἀλήθειά σου.",
+          "alexandrie": "Car tu as dit : « Pour l'éternité la pitié sera construite ». Dans les cieux sera préparée ta vérité.",
           "name": "Psaumes 89:3",
           "chapter": "89"
         },
@@ -11826,6 +12140,7 @@
           "verse": "4",
           "text": "J'ai fait alliance avec mes élus ; j'ai juré à David mon serviteur :",
           "grec": "διεθέμην διαθήκην τοῖς ἐκλεκτοῖς μου ὤμοσα Δαυιδ τῷ δούλῳ μου.",
+          "alexandrie": "« J'ai établi une alliance pour mes élus ; J'ai fait un serment à David mon serviteur :",
           "name": "Psaumes 89:4",
           "chapter": "89"
         },
@@ -11833,6 +12148,7 @@
           "verse": "5",
           "text": "Durant tous les siècles, j'établirai ta race, et j'édifierai ton trône pour les générations des générations. Interlude.",
           "grec": "ἕως τοῦ αἰῶνος ἑτοιμάσω τὸ σπέρμα σου καὶ οἰκοδομήσω εἰς γενεὰν καὶ γενεὰν τὸν θρόνον σου διάψαλμα.",
+          "alexandrie": "“Jusqu'à l'éternité je préparerai ta semence Et je construirai pour une génération et une génération ton trône”. » Diapsalme.",
           "name": "Psaumes 89:5",
           "chapter": "89"
         },
@@ -11840,6 +12156,7 @@
           "verse": "6",
           "text": "Les cieux témoignent de tes merveilles, Seigneur, et de ta vérité dans l'assemblée des saints.",
           "grec": "ἐξομολογήσονται οἱ οὐρανοὶ τὰ θαυμάσιά σου κύριε καὶ τὴν ἀλήθειάν σου ἐν ἐκκλησίᾳ ἁγίων.",
+          "alexandrie": "Les cieux feront la profession de tes merveilles, Seigneur, Et de ta vérité dans l'assemblée des saints.",
           "name": "Psaumes 89:6",
           "chapter": "89"
         },
@@ -11847,6 +12164,7 @@
           "verse": "7",
           "text": "Qui, dans les nuées, sera l'égal du Seigneur ? Qui sera semblable au Seigneur parmi les fils de Dieu ?",
           "grec": "ὅτι τίς ἐν νεφέλαις ἰσωθήσεται τῷ κυρίῳ καὶ τίς ὁμοιωθήσεται τῷ κυρίῳ ἐν υἱοῖς θεοῦ.",
+          "alexandrie": "Car qui dans les nuées sera égal au Seigneur Et qui sera semblable au Seigneur parmi les fils de Dieu ?",
           "name": "Psaumes 89:7",
           "chapter": "89"
         },
@@ -11854,6 +12172,7 @@
           "verse": "8",
           "text": "Dieu est glorifié dans le conseil des saints ; il est grand et redoutable pour tous ceux qui l'entourent.",
           "grec": "ὁ θεὸς ἐνδοξαζόμενος ἐν βουλῇ ἁγίων μέγας καὶ φοβερὸς ἐπὶ πάντας τοὺς περικύκλῳ αὐτοῦ.",
+          "alexandrie": "Dieu glorifié au conseil des saints ! Grand et inspirant la crainte à tous ceux qui l'entourent !",
           "name": "Psaumes 89:8",
           "chapter": "89"
         },
@@ -11861,6 +12180,7 @@
           "verse": "9",
           "text": "Seigneur, Dieu des années, qui te ressemble ? tu es puissant, Seigneur, et ta vérité t'entoure.",
           "grec": "κύριε ὁ θεὸς τῶν δυνάμεων τίς ὅμοιός σοι δυνατὸς εἶ κύριε καὶ ἡ ἀλήθειά σου κύκλῳ σου.",
+          "alexandrie": "Seigneur des puissances [armées], qui [est] semblable à toi ? Tu es puissant, Seigneur, et ta vérité autour de toi.",
           "name": "Psaumes 89:9",
           "chapter": "89"
         },
@@ -11868,6 +12188,7 @@
           "verse": "10",
           "text": "Tu domines la puissance de la mer, et tu apaises la fureur de ses flots.",
           "grec": "σὺ δεσπόζεις τοῦ κράτους τῆς θαλάσσης τὸν δὲ σάλον τῶν κυμάτων αὐτῆς σὺ καταπραΰνεις.",
+          "alexandrie": "Toi tu es le souverain de la vigueur de la mer ; Mais la secousse de ses flots, toi, tu l'adoucis.",
           "name": "Psaumes 89:10",
           "chapter": "89"
         },
@@ -11875,6 +12196,7 @@
           "verse": "11",
           "text": "Tu as humilié le superbe, comme un homme blessé, et par le bras de ta force tu as dispersé tes ennemis.",
           "grec": "σὺ ἐταπείνωσας ὡς τραυματίαν ὑπερήφανον καὶ ἐν τῷ βραχίονι τῆς δυνάμεώς σου διεσκόρπισας τοὺς ἐχθρούς σου.",
+          "alexandrie": "Toi, tu as humilié, tel le blessé à mort, l'arrogant ; Et par le bras de ta puissance tu as dispersé tes ennemis.",
           "name": "Psaumes 89:11",
           "chapter": "89"
         },
@@ -11882,6 +12204,7 @@
           "verse": "12",
           "text": "A toi sont les cieux, à toi la terre ; tu as fondé l'univers et les êtres qu'il contient.",
           "grec": "σοί εἰσιν οἱ οὐρανοί καὶ σή ἐστιν ἡ γῆ τὴν οἰκουμένην καὶ τὸ πλήρωμα αὐτῆς σὺ ἐθεμελίωσας.",
+          "alexandrie": "À toi sont les cieux, et tienne est la terre ; La terre habitée et ce dont elle est remplie, toi, tu les as fondés.",
           "name": "Psaumes 89:12",
           "chapter": "89"
         },
@@ -11889,6 +12212,7 @@
           "verse": "13",
           "text": "Tu as créé l'aquilon et la mer ; Hermon et Thabor, à ton nom, tressailliront d'allégresse.",
           "grec": "τὸν βορρᾶν καὶ θαλάσσας σὺ ἔκτισας Θαβωρ καὶ Ερμων ἐν τῷ ὀνόματί σου ἀγαλλιάσονται.",
+          "alexandrie": "Le borée et les mers, tu les as créés. Le Thabôr et l'Ermôn à ton nom exulteront.",
           "name": "Psaumes 89:13",
           "chapter": "89"
         },
@@ -11896,6 +12220,7 @@
           "verse": "14",
           "text": "Ton bras est inséparable de la puissance ; que ta main s'affermisse ; que ta droite soit exaltée.",
           "grec": "σὸς ὁ βραχίων μετὰ δυναστείας κραταιωθήτω ἡ χείρ σου ὑψωθήτω ἡ δεξιά σου.",
+          "alexandrie": "Tien [est] le bras avec la puissance. Que soit vigoureuse ta main, que soit exaltée ta droite.",
           "name": "Psaumes 89:14",
           "chapter": "89"
         },
@@ -11903,6 +12228,7 @@
           "verse": "15",
           "text": "La justice et le jugement sont les bases de ton trône ; la miséricorde et la vérité marcheront devant ta face.",
           "grec": "δικαιοσύνη καὶ κρίμα ἑτοιμασία τοῦ θρόνου σου ἔλεος καὶ ἀλήθεια προπορεύσεται πρὸ προσώπου σου.",
+          "alexandrie": "Justice et [juste] décision : préparation de ton trône, Pitié et vérité s'avanceront devant ta face.",
           "name": "Psaumes 89:15",
           "chapter": "89"
         },
@@ -11910,6 +12236,7 @@
           "verse": "16",
           "text": "Heureux le peuple qui connaît les cris de joie ; Seigneur, il cheminera en la lumière de ton visage.",
           "grec": "μακάριος ὁ λαὸς ὁ γινώσκων ἀλαλαγμόν κύριε ἐν τῷ φωτὶ τοῦ προσώπου σου πορεύσονται.",
+          "alexandrie": "Heureux le peuple qui connaît l'acclamation. Seigneur, dans la lumière de ta face ils chemineront",
           "name": "Psaumes 89:16",
           "chapter": "89"
         },
@@ -11917,6 +12244,7 @@
           "verse": "17",
           "text": "Et tout le jour il tressaillira d'allégresse à ton nom ; et il sera exalté dans ta justice.",
           "grec": "καὶ ἐν τῷ ὀνόματί σου ἀγαλλιάσονται ὅλην τὴν ἡμέραν καὶ ἐν τῇ δικαιοσύνῃ σου ὑψωθήσονται.",
+          "alexandrie": "Et à ton nom ils exulteront tout le jour Et dans ta justice ils seront exaltés.",
           "name": "Psaumes 89:17",
           "chapter": "89"
         },
@@ -11924,6 +12252,7 @@
           "verse": "18",
           "text": "Car tu es la gloire de leur force ; et, en ton bon plaisir, notre front sera exalté.",
           "grec": "ὅτι τὸ καύχημα τῆς δυνάμεως αὐτῶν εἶ σύ καὶ ἐν τῇ εὐδοκίᾳ σου ὑψωθήσεται τὸ κέρας ἡμῶν.",
+          "alexandrie": "Car la fierté de leur puissance [armée], tu l'es, toi ; Et dans ta faveur sera exaltée notre corne.",
           "name": "Psaumes 89:18",
           "chapter": "89"
         },
@@ -11931,6 +12260,7 @@
           "verse": "19",
           "text": "Notre aide vient du Seigneur, du Saint d'Israël, notre Roi.",
           "grec": "ὅτι τοῦ κυρίου ἡ ἀντίλημψις καὶ τοῦ ἁγίου Ισραηλ βασιλέως ἡμῶν.",
+          "alexandrie": "Car au Seigneur [est] la protection Et au saint d'Israël, notre roi.",
           "name": "Psaumes 89:19",
           "chapter": "89"
         },
@@ -11938,6 +12268,7 @@
           "verse": "20",
           "text": "Autrefois tu as parlé à tes fils en une vision ; et tu as dit : J'ai mis mon aide sur le puissant ; j'ai exalté l'élu de mon peuple.",
           "grec": "τότε ἐλάλησας ἐν ὁράσει τοῖς ὁσίοις σου καὶ εἶπας Ἐθέμην βοήθειαν ἐπὶ δυνατόν, ὕψωσα ἐκλεκτὸν ἐκ τοῦ λαοῦ μου·",
+          "alexandrie": "Alors tu as parlé en vision à tes observants Et tu as dit : « J'ai établi un secours pour le puissant ; J'ai exalté l'élu issu de mon peuple ;",
           "name": "Psaumes 89:20",
           "chapter": "89"
         },
@@ -11945,6 +12276,7 @@
           "verse": "21",
           "text": "J'ai trouvé David, mon serviteur ; je l'ai oint de ma sainte onction.",
           "grec": "εὗρον Δαυιδ τὸν δοῦλόν μου, ἐν ἐλαίῳ ἁγίῳ μου ἔχρισα αὐτόν.",
+          "alexandrie": "J'ai trouvé David mon serviteur ; Avec mon huile sainte je l'ai oint ;",
           "name": "Psaumes 89:21",
           "chapter": "89"
         },
@@ -11952,6 +12284,7 @@
           "verse": "22",
           "text": "Car ma main le secourra, et mon bras le fortifiera.",
           "grec": "ἡ γὰρ χείρ μου συναντιλήμψεται αὐτῷ, καὶ ὁ βραχίων μου κατισχύσει αὐτόν·",
+          "alexandrie": "Car ma main lui prêtera protection Et mon bras le fortifiera.",
           "name": "Psaumes 89:22",
           "chapter": "89"
         },
@@ -11959,6 +12292,7 @@
           "verse": "23",
           "text": "Nul ennemi ne réussira contre lui, et le fils de l'iniquité ne se présentera point pour l'affliger.",
           "grec": "οὐκ ὠφελήσει ἐχθρὸς ἐν αὐτῷ, καὶ υἱὸς ἀνομίας οὐ προσθήσει τοῦ κακῶσαι αὐτόν·",
+          "alexandrie": "L'ennemi sera inutile en lui Et le fils de l'action illégale ne le maltraitera pas de nouveau.",
           "name": "Psaumes 89:23",
           "chapter": "89"
         },
@@ -11966,6 +12300,7 @@
           "verse": "24",
           "text": "Et je frapperai ses ennemis devant sa face, et je mettrai en fuite ceux qui le haïssent.",
           "grec": "καὶ συγκόψω τοὺς ἐχθροὺς αὐτοῦ ἀπὸ προσώπου αὐτοῦ καὶ τοὺς μισοῦντας αὐτὸν τροπώσομαι.",
+          "alexandrie": "Et je rouerai de coups ses ennemis loin de sa face. Et ceux qui le haïssent, je les mettrai en déroute.",
           "name": "Psaumes 89:24",
           "chapter": "89"
         },
@@ -11973,6 +12308,7 @@
           "verse": "25",
           "text": "Et ma vérité et ma miséricorde sont avec lui ; et en mon nom, sa puissance sera exaltée.",
           "grec": "καὶ ἡ ἀλήθειά μου καὶ τὸ ἔλεός μου μετ αὐτοῦ, καὶ ἐν τῷ ὀνόματί μου ὑψωθήσεται τὸ κέρας αὐτοῦ·",
+          "alexandrie": "Et ma vérité et ma pitié [sont] avec lui, Et en mon nom sa corne sera exaltée.",
           "name": "Psaumes 89:25",
           "chapter": "89"
         },
@@ -11980,6 +12316,7 @@
           "verse": "26",
           "text": "Et je poserai sa main gauche sur la mer, et sa droite sur les fleuves.",
           "grec": "καὶ θήσομαι ἐν θαλάσσῃ χεῖρα αὐτοῦ καὶ ἐν ποταμοῖς δεξιὰν αὐτοῦ.",
+          "alexandrie": "Et j'établirai sur la mer sa main Et sur les fleuves sa droite.",
           "name": "Psaumes 89:26",
           "chapter": "89"
         },
@@ -11987,6 +12324,7 @@
           "verse": "27",
           "text": "Il m'invoquera, disant : tu es mon père, ô mon Dieu, et le défenseur de mon salut.",
           "grec": "αὐτὸς ἐπικαλέσεταί με Πατήρ μου εἶ σύ, θεός μου καὶ ἀντιλήμπτωρ τῆς σωτηρίας μου·",
+          "alexandrie": "Lui m'invoquera : “Tu es mon père, toi, Mon Dieu et le protecteur de mon salut.”",
           "name": "Psaumes 89:27",
           "chapter": "89"
         },
@@ -11994,6 +12332,7 @@
           "verse": "28",
           "text": "Et moi je le tiendrai pour mon premier-né ; je l'élèverai au-dessus des rois de la terre.",
           "grec": "κἀγὼ πρωτότοκον θήσομαι αὐτόν, ὑψηλὸν παρὰ τοῖς βασιλεῦσιν τῆς γῆς.",
+          "alexandrie": "Et moi je l'établirai comme premier-né, Élevé parmi les rois de la terre.",
           "name": "Psaumes 89:28",
           "chapter": "89"
         },
@@ -12001,6 +12340,7 @@
           "verse": "29",
           "text": "Dans tous les siècles, je lui garderai ma miséricorde, et mon alliance lui sera fidèle.",
           "grec": "εἰς τὸν αἰῶνα φυλάξω αὐτῷ τὸ ἔλεός μου, καὶ ἡ διαθήκη μου πιστὴ αὐτῷ·",
+          "alexandrie": "Pour l'éternité je lui garderai ma pitié Et mon alliance [sera] fidèle à son égard.",
           "name": "Psaumes 89:29",
           "chapter": "89"
         },
@@ -12008,6 +12348,7 @@
           "verse": "30",
           "text": "Et j'affermirai sa race dans les siècles des siècles, et son trône comme les jours du ciel.",
           "grec": "καὶ θήσομαι εἰς τὸν αἰῶνα τοῦ αἰῶνος τὸ σπέρμα αὐτοῦ καὶ τὸν θρόνον αὐτοῦ ὡς τὰς ἡμέρας τοῦ οὐρανοῦ.",
+          "alexandrie": "Et j'établirai pour l'éternité de l'éternité sa semence Et son trône comme les jours du ciel.",
           "name": "Psaumes 89:30",
           "chapter": "89"
         },
@@ -12015,6 +12356,7 @@
           "verse": "31",
           "text": "Si ses fils abandonnent ma loi, s'ils ne marchent point selon mes commandements,",
           "grec": "ἐὰν ἐγκαταλίπωσιν οἱ υἱοὶ αὐτοῦ τὸν νόμον μου καὶ τοῖς κρίμασίν μου μὴ πορευθῶσιν,",
+          "alexandrie": "Si ses fils abandonnent ma loi Et par mes décisions ne cheminent pas,",
           "name": "Psaumes 89:31",
           "chapter": "89"
         },
@@ -12022,6 +12364,7 @@
           "verse": "32",
           "text": "S'ils profanent mes préceptes, s'ils ne gardent pas mes ordonnances,",
           "grec": "ἐὰν τὰ δικαιώματά μου βεβηλώσουσιν καὶ τὰς ἐντολάς μου μὴ φυλάξωσιν,",
+          "alexandrie": "S'ils profanent mes justes arrêts Et ne gardent pas mes commandements,",
           "name": "Psaumes 89:32",
           "chapter": "89"
         },
@@ -12029,6 +12372,7 @@
           "verse": "33",
           "text": "Je visiterai leurs iniquités avec ma verge, et leurs péchés avec mon fouet.",
           "grec": "ἐπισκέψομαι ἐν ῥάβδῳ τὰς ἀνομίας αὐτῶν καὶ ἐν μάστιξιν τὰς ἁμαρτίας αὐτῶν,",
+          "alexandrie": "Je passerai en revue à coups de bâton leurs actions illégales Et à coups de fouet leurs péchés.",
           "name": "Psaumes 89:33",
           "chapter": "89"
         },
@@ -12036,6 +12380,7 @@
           "verse": "34",
           "text": "Mais je n'éloignerai pas entièrement de lui ma miséricorde, et je ne ferai point tort à ma vérité.",
           "grec": "τὸ δὲ ἔλεός μου οὐ μὴ διασκεδάσω ἀπ αὐτοῦ οὐδὲ μὴ ἀδικήσω ἐν τῇ ἀληθείᾳ μου",
+          "alexandrie": "Mais ma pitié, je ne la mettrai point en pièces loin de lui Et je ne ferai point d'injustice dans ma vérité",
           "name": "Psaumes 89:34",
           "chapter": "89"
         },
@@ -12043,6 +12388,7 @@
           "verse": "35",
           "text": "Je ne violerai point mon alliance, et ce qui est sorti de mes lèvres, je ne le révoquerai pas.",
           "grec": "οὐδὲ μὴ βεβηλώσω τὴν διαθήκην μου καὶ τὰ ἐκπορευόμενα διὰ τῶν χειλέων μου οὐ μὴ ἀθετήσω.",
+          "alexandrie": "Et je ne profanerai point mon alliance Et ce qui s'en va de mes lèvres, je ne l'invaliderai point.",
           "name": "Psaumes 89:35",
           "chapter": "89"
         },
@@ -12050,6 +12396,7 @@
           "verse": "36",
           "text": "J'ai juré une fois par ma sainteté que je ne mentirais pas à David.",
           "grec": "ἅπαξ ὤμοσα ἐν τῷ ἁγίῳ μου, εἰ τῷ Δαυιδ ψεύσομαι",
+          "alexandrie": "Une fois [pour toutes] j'ai juré dans mon sanctuaire : Non, je ne mentirai pas à David.",
           "name": "Psaumes 89:36",
           "chapter": "89"
         },
@@ -12057,6 +12404,7 @@
           "verse": "37",
           "text": "Sa postérité durera dans tous les siècles, et son trône sera devant moi comme le soleil,",
           "grec": "Τὸ σπέρμα αὐτοῦ εἰς τὸν αἰῶνα μενεῖ καὶ ὁ θρόνος αὐτοῦ ὡς ὁ ἥλιος ἐναντίον μου",
+          "alexandrie": "Sa semence pour l'éternité restera Et son trône comme le soleil en face de moi",
           "name": "Psaumes 89:37",
           "chapter": "89"
         },
@@ -12064,6 +12412,7 @@
           "verse": "38",
           "text": "Comme la lune, et il y en a un témoin fidèle dans les cieux. Interlude.",
           "grec": "καὶ ὡς ἡ σελήνη κατηρτισμένη εἰς τὸν αἰῶνα· καὶ ὁ μάρτυς ἐν οὐρανῷ πιστός. διάψαλμα.",
+          "alexandrie": "Et comme la lune ajustée pour l'éternité, Et le témoin dans le ciel [sera] fidèle. » Diapsalme.",
           "name": "Psaumes 89:38",
           "chapter": "89"
         },
@@ -12071,6 +12420,7 @@
           "verse": "39",
           "text": "Cependant, Seigneur, tu as repoussé et méprisé, tu as rejeté ton Christ.",
           "grec": "σὺ δὲ ἀπώσω καὶ ἐξουδένωσας, ἀνεβάλου τὸν χριστόν σου·",
+          "alexandrie": "Mais toi tu as repoussé et tu as réduit à rien, Tu as rejeté ton oint ;",
           "name": "Psaumes 89:39",
           "chapter": "89"
         },
@@ -12078,6 +12428,7 @@
           "verse": "40",
           "text": "Tu as aboli l'alliance faite avec ton serviteur ; tu as profané sa sainteté sur la terre.",
           "grec": "κατέστρεψας τὴν διαθήκην τοῦ δούλου σου, ἐβεβήλωσας εἰς τὴν γῆν τὸ ἁγίασμα αὐτοῦ.",
+          "alexandrie": "Tu as renversé l'alliance de ton serviteur, Tu as profané jusqu'à la terre son sanctuaire ;",
           "name": "Psaumes 89:40",
           "chapter": "89"
         },
@@ -12085,6 +12436,7 @@
           "verse": "41",
           "text": "Tu as abattu toutes ses clôtures, et rempli de peur ses forteresses.",
           "grec": "καθεῖλες πάντας τοὺς φραγμοὺς αὐτοῦ, ἔθου τὰ ὀχυρώματα αὐτοῦ δειλίαν·",
+          "alexandrie": "Tu as détruit toutes ses clôtures, Tu as changé ses fortifications en lâcheté ;",
           "name": "Psaumes 89:41",
           "chapter": "89"
         },
@@ -12092,6 +12444,7 @@
           "verse": "42",
           "text": "Tous ceux qui ont passé par le chemin l'ont pillé ; il est devenu un opprobre pour ses voisins.",
           "grec": "διήρπασαν αὐτὸν πάντες οἱ διοδεύοντες ὁδόν, ἐγενήθη ὄνειδος τοῖς γείτοσιν αὐτοῦ.",
+          "alexandrie": "Ils l'ont pillé, tous ceux qui font route par là ; Il est devenu un opprobre pour ses voisins ;",
           "name": "Psaumes 89:42",
           "chapter": "89"
         },
@@ -12099,6 +12452,7 @@
           "verse": "43",
           "text": "Tu as exalté la droite de ses ennemis ; tu les as tous réjouis.",
           "grec": "ὕψωσας τὴν δεξιὰν τῶν ἐχθρῶν αὐτοῦ, εὔφρανας πάντας τοὺς ἐχθροὺς αὐτοῦ·",
+          "alexandrie": "Tu as exalté la droite de ses ennemis, Tu as réjoui tous ses ennemis ;",
           "name": "Psaumes 89:43",
           "chapter": "89"
         },
@@ -12106,6 +12460,7 @@
           "verse": "44",
           "text": "Tu as ôté la force à son glaive, et dans la guerre tu ne l'as point secouru.",
           "grec": "ἀπέστρεψας τὴν βοήθειαν τῆς ῥομφαίας αὐτοῦ καὶ οὐκ ἀντελάβου αὐτοῦ ἐν τῷ πολέμῳ.",
+          "alexandrie": "Tu as détourné le secours de son glaive Et tu ne l'as pas protégé dans la guerre.",
           "name": "Psaumes 89:44",
           "chapter": "89"
         },
@@ -12113,6 +12468,7 @@
           "verse": "45",
           "text": "Tu as terni sa pureté ; tu as brisé son trône contre terre.",
           "grec": "κατέλυσας ἀπὸ καθαρισμοῦ αὐτόν, τὸν θρόνον αὐτοῦ εἰς τὴν γῆν κατέρραξας·",
+          "alexandrie": "Tu l'as détruit loin de la purification ; Son trône jusqu'à la terre tu l'as abattu.",
           "name": "Psaumes 89:45",
           "chapter": "89"
         },
@@ -12120,6 +12476,7 @@
           "verse": "46",
           "text": "Tu as abrégé les jours de son règne ; tu as versé sur lui la honte. Interlude.",
           "grec": "ἐσμίκρυνας τὰς ἡμέρας τοῦ χρόνου αὐτοῦ, κατέχεας αὐτοῦ αἰσχύνην. διάψαλμα.",
+          "alexandrie": "Tu as amoindri les jours de son temps ; Tu as déversé sur lui la honte. Diapsalme.",
           "name": "Psaumes 89:46",
           "chapter": "89"
         },
@@ -12127,6 +12484,7 @@
           "verse": "47",
           "text": "Jusques à quand, Seigneur, te détourneras-tu pour notre perte ? Jusques à quand ta colère brûlera-t-elle comme un feu ?",
           "grec": "ἕως πότε, κύριε, ἀποστρέψεις εἰς τέλος, ἐκκαυθήσεται ὡς πῦρ ἡ ὀργή σου;",
+          "alexandrie": "Jusques à quand, Seigneur, [te] détourneras-tu à jamais, Ta colère brûlera-t-elle comme le feu ?",
           "name": "Psaumes 89:47",
           "chapter": "89"
         },
@@ -12134,6 +12492,7 @@
           "verse": "48",
           "text": "Souviens-toi de ma substance ; est-ce donc en vain que tu as créé tous les enfants des hommes ?",
           "grec": "μνήσθητι τίς μου ἡ ὑπόστασις· μὴ γὰρ ματαίως ἔκτισας πάντας τοὺς υἱοὺς τῶν ἀνθρώπων;",
+          "alexandrie": "Rappelle-toi quelle est ma substance. Est-ce donc pour de vaines raisons que tu as créé tous les fils des hommes ?",
           "name": "Psaumes 89:48",
           "chapter": "89"
         },
@@ -12141,6 +12500,7 @@
           "verse": "49",
           "text": "Quel est l'homme qui vivra et ne verra point la mort, qui retirera son âme de la main de l'enfer ? Interlude.",
           "grec": "τίς ἐστιν ἄνθρωπος, ὃς ζήσεται καὶ οὐκ ὄψεται θάνατον, ῥύσεται τὴν ψυχὴν αὐτοῦ ἐκ χειρὸς ᾅδου; διάψαλμα.",
+          "alexandrie": "Qui est l'homme qui vivra et ne verra pas la mort ? [Qui] libérera son âme de la main de l'Hadès ? Diapsalme.",
           "name": "Psaumes 89:49",
           "chapter": "89"
         },
@@ -12148,6 +12508,7 @@
           "verse": "50",
           "text": "Où sont, Seigneur, tes antiques miséricordes que tu avais promises à David, en ta vérité ?",
           "grec": "ποῦ εἰσιν τὰ ἐλέη σου τὰ ἀρχαῖα, κύριε, ἃ ὤμοσας τῷ Δαυιδ ἐν τῇ ἀληθείᾳ σου;",
+          "alexandrie": "Où sont tes pitiés anciennes, Seigneur, Que tu avais jurées à David dans ta vérité ?",
           "name": "Psaumes 89:50",
           "chapter": "89"
         },
@@ -12155,6 +12516,7 @@
           "verse": "51",
           "text": "Souviens-toi, Seigneur, de l'opprobre que j'ai renfermé en mon sein, et que tes serviteurs ont souffert de la part de maintes nations.",
           "grec": "μνήσθητι, κύριε, τοῦ ὀνειδισμοῦ τῶν δούλων σου, οὗ ὑπέσχον ἐν τῷ κόλπῳ μου, πολλῶν ἐθνῶν,",
+          "alexandrie": "Rappelle-toi, Seigneur, l'outrage de tes serviteurs, Que j'ai subi dans mon sein [de la part] de nombreuses nations,",
           "name": "Psaumes 89:51",
           "chapter": "89"
         },
@@ -12162,6 +12524,7 @@
           "verse": "52",
           "text": "Cet opprobre, ô Seigneur, est venu de tes ennemis ; ils nous imputent à opprobre la récompense de ton Christ.",
           "grec": "οὗ ὠνείδισαν οἱ ἐχθροί σου, κύριε, οὗ ὠνείδισαν τὸ ἀντάλλαγμα τοῦ χριστοῦ σου.",
+          "alexandrie": "Dont ont outragé tes ennemis, Seigneur, Dont ils ont outragé le changement de ton oint.",
           "name": "Psaumes 89:52",
           "chapter": "89"
         },
@@ -12169,6 +12532,7 @@
           "verse": "53",
           "text": "Béni soit le Seigneur dans l'éternité. Ainsi soit-il ! Ainsi soit-il !",
           "grec": "Εὐλογητὸς κύριος εἰς τὸν αἰῶνα. γένοιτο γένοιτο.",
+          "alexandrie": "Béni Seigneur pour l'éternité. Qu'il [en] soit [ainsi] ! Qu'il [en] soit [ainsi] !",
           "name": "Psaumes 89:53",
           "chapter": "89"
         }
@@ -13088,7 +13452,7 @@
       "verses": [
         {
           "verse": "1",
-          "text": "Psaume de Seigneur a régné, que les peuples exhalent leur colère ; il est assis sur les chérubins, que la terre tremble !",
+          "text": "Psaume de David. Le Seigneur a régné, que les peuples exhalent leur colère ; il est assis sur les chérubins, que la terre tremble !",
           "grec": "ψαλμὸς τῷ Δαυιδ ὁ κύριος ἐβασίλευσεν ὀργιζέσθωσαν λαοί ὁ καθήμενος ἐπὶ τῶν χερουβιν σαλευθήτω ἡ γῆ.",
           "name": "Psaumes 99:1",
           "chapter": "99"
